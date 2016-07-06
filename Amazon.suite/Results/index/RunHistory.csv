@@ -1,0 +1,78 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-10 13:34:03.962 -0600,"Failure",0:00:00,1,0,1,"20160510_133403.962/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Browsers Icon\\Chrome",0
+2016-05-10 13:34:30.798 -0600,"Failure",0:00:00,1,0,1,"20160510_133430.798/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Browsers Icon\\Chrome",0
+2016-05-10 13:34:51.689 -0600,"Failure",0:00:00,1,0,1,"20160510_133451.689/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Browsers Icon\\Chrome",0
+2016-05-10 13:35:21.329 -0600,"Failure",0:00:00,1,0,1,"20160510_133521.329/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Browsers Icon\\Chrome",0
+2016-05-10 13:36:39.790 -0600,"Success",0:00:00,0,0,0,"20160510_133639.790/LogFile.txt","","",1
+2016-05-10 13:36:50.552 -0600,"Failure",0:00:00,1,0,0,"20160510_133650.552/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 11: Syntax Error - can't understand [end of line] at or near character 127",0
+2016-05-10 13:36:58.930 -0600,"Success",0:00:00,0,0,0,"20160510_133658.930/LogFile.txt","","",1
+2016-05-10 13:38:40.690 -0600,"Success",0:00:04,0,0,0,"20160510_133840.690/LogFile.txt","","",1
+2016-05-10 14:08:12.993 -0600,"Failure",0:00:04,1,0,1,"20160510_140812.993/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome/Refresh""",0
+2016-05-10 14:10:28.784 -0600,"Failure",0:00:00,1,0,1,"20160510_141028.784/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Chrome/Find Icon",0
+2016-05-10 14:10:47.301 -0600,"Success",0:00:04,0,0,0,"20160510_141047.301/LogFile.txt","","",1
+2016-05-10 14:25:06.112 -0600,"Success",0:00:33,0,0,0,"20160510_142506.112/LogFile.txt","","",1
+2016-05-10 14:25:49.582 -0600,"Success",0:00:31,0,0,0,"20160510_142549.582/LogFile.txt","","",1
+2016-05-10 14:26:41.782 -0600,"Failure",0:00:30,1,0,0,"20160510_142641.782/LogFile.txt","","Invalid Parameters -- Invalid Parameter, please use wait <duration>",0
+2016-05-10 14:29:29.054 -0600,"Failure",0:01:02,1,0,1,"20160510_142929.054/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: 268",0
+2016-05-10 14:34:12.244 -0600,"Failure",0:00:19,1,0,0,"20160510_143412.244/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '(-70,10)' and '((338,619))'",0
+2016-05-10 14:37:20.781 -0600,"Failure",0:00:39,1,0,1,"20160510_143720.781/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: 268",0
+2016-05-10 14:39:49.081 -0600,"Failure",0:00:42,1,0,1,"20160510_143949.081/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: 268",0
+2016-05-10 14:41:29.427 -0600,"Failure",0:00:41,1,0,1,"20160510_144129.427/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: 258",0
+2016-05-10 14:43:12.394 -0600,"Success",0:00:43,0,0,0,"20160510_144312.394/LogFile.txt","","",1
+2016-05-10 14:45:00.159 -0600,"Failure",0:00:19,1,0,1,"20160510_144500.159/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: 0",0
+2016-05-10 14:45:36.661 -0600,"Failure",0:00:04,1,0,1,"20160510_144536.661/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Chrome""",0
+2016-05-10 14:46:24.307 -0600,"Success",0:00:44,0,0,0,"20160510_144624.307/LogFile.txt","","",1
+2016-05-10 14:54:39.642 -0600,"Success",0:00:43,0,0,0,"20160510_145439.642/LogFile.txt","","",1
+2016-05-11 10:44:19.650 -0600,"Success",0:00:40,0,0,0,"20160511_104419.650/LogFile.txt","","",1
+2016-05-11 10:45:13.004 -0600,"Success",0:00:42,0,0,0,"20160511_104513.004/LogFile.txt","","",1
+2016-05-11 10:51:04.952 -0600,"Success",0:00:41,0,0,0,"20160511_105104.952/LogFile.txt","","",1
+2016-05-12 13:24:27.375 -0600,"Success",0:00:43,0,0,0,"20160512_132427.375/LogFile.txt","","",1
+2016-05-12 13:25:13.676 -0600,"Success",0:00:43,0,0,0,"20160512_132513.676/LogFile.txt","","",1
+2016-05-12 13:39:56.336 -0600,"Success",0:00:44,0,0,0,"20160512_133956.336/LogFile.txt","","",1
+2016-05-13 10:11:16.142 -0600,"Success",0:00:45,0,0,0,"20160513_101116.142/LogFile.txt","","",1
+2016-05-17 12:26:53.534 -0600,"Success",0:00:45,0,0,0,"20160517_122653.534/LogFile.txt","","",1
+2016-05-18 08:08:47.101 -0600,"Success",0:00:45,0,0,0,"20160518_080847.101/LogFile.txt","","",1
+2016-05-19 10:12:35.308 -0600,"Success",0:00:47,0,0,0,"20160519_101235.308/LogFile.txt","","",1
+2016-05-19 11:02:36.653 -0600,"Success",0:00:44,0,0,0,"20160519_110236.653/LogFile.txt","","",1
+2016-05-20 15:39:00.559 -0600,"Failure",0:00:14,1,0,1,"20160520_153900.559/LogFile.txt","","Error Running Script Command -- imagelocation Error - Too Few Parameters, please use imagelocation(image1[, ...])",0
+2016-05-20 15:39:33.123 -0600,"Success",0:00:43,0,0,0,"20160520_153933.123/LogFile.txt","","",1
+2016-05-20 15:41:27.990 -0600,"Running",0:00:00,0,0,0,"20160520_154127.990/LogFile.txt","","",0
+2016-05-20 15:42:40.285 -0600,"Running",0:00:00,0,0,0,"20160520_154240.285/LogFile.txt","","",0
+2016-05-20 15:43:39.261 -0600,"Failure",0:00:23,1,0,1,"20160520_154339.261/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Internet Explorer""",0
+2016-05-20 15:44:10.408 -0600,"Success",0:00:43,0,0,0,"20160520_154410.408/LogFile.txt","","",1
+2016-05-20 15:45:46.251 -0600,"Success",0:00:43,0,0,0,"20160520_154546.251/LogFile.txt","","",1
+2016-05-23 08:13:45.597 -0600,"Running",0:00:00,0,0,0,"20160523_081345.597/LogFile.txt","","",0
+2016-05-23 08:14:10.900 -0600,"Failure",0:00:04,1,0,1,"20160523_081410.900/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Chrome""",0
+2016-05-23 08:22:02.305 -0600,"Success",0:00:42,0,0,0,"20160523_082202.305/LogFile.txt","","",1
+2016-05-24 14:21:31.638 -0600,"Failure",0:00:05,1,0,1,"20160524_142131.638/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Chrome""",0
+2016-05-24 14:21:58.517 -0600,"Failure",0:00:14,1,0,1,"20160524_142158.517/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""indicators""",0
+2016-05-24 14:23:03.419 -0600,"Running",0:00:00,0,0,0,"20160524_142303.419/LogFile.txt","","",0
+2016-05-24 14:23:50.928 -0600,"Running",0:00:00,0,0,0,"20160524_142350.928/LogFile.txt","","",0
+2016-05-24 14:25:08.376 -0600,"Failure",0:00:26,1,0,1,"20160524_142508.376/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Deal"")""  Restricted Search Rectangle ((0,133),(375,266))\n",0
+2016-05-24 14:26:09.989 -0600,"Running",0:00:00,0,0,0,"20160524_142609.989/LogFile.txt","","",0
+2016-05-24 14:26:18.554 -0600,"Failure",0:00:07,1,0,1,"20160524_142618.554/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Chrome""",0
+2016-05-24 14:26:35.158 -0600,"Failure",0:00:07,1,0,1,"20160524_142635.158/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Chrome""",0
+2016-05-24 14:26:56.055 -0600,"Success",0:00:45,0,0,0,"20160524_142656.055/LogFile.txt","","",1
+2016-05-26 14:05:59.151 -0600,"Failure",0:00:04,1,0,1,"20160526_140559.151/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Chrome""",0
+2016-05-26 14:07:50.792 -0600,"Failure",0:00:27,1,0,1,"20160526_140750.792/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browser Close""  Restricted Search Rectangle ((1080,0),(1440,90))\n",0
+2016-05-26 14:08:52.853 -0600,"Failure",0:00:32,1,0,1,"20160526_140852.853/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Internet Explorer""",0
+2016-05-26 14:13:22.636 -0600,"Success",0:00:47,0,0,0,"20160526_141322.636/LogFile.txt","","",1
+2016-05-26 14:16:14.605 -0600,"Failure",0:00:26,1,0,1,"20160526_141614.605/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Browsers Icon/Micosoft Edge",0
+2016-05-26 14:17:16.380 -0600,"Failure",0:00:11,1,0,1,"20160526_141716.380/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""indicators""",0
+2016-05-26 14:18:51.837 -0600,"Running",0:00:00,0,0,0,"20160526_141851.837/LogFile.txt","","",0
+2016-05-26 14:19:37.485 -0600,"Failure",0:00:24,1,0,1,"20160526_141937.485/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browser Close""  Restricted Search Rectangle ((1080,0),(1440,90))\n",0
+2016-05-26 14:22:23.139 -0600,"Failure",0:00:51,1,0,1,"20160526_142223.139/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Deal"")""  Restricted Search Rectangle ((0,90),(720,180))\n",0
+2016-05-26 14:23:29.297 -0600,"Success",0:00:48,0,0,0,"20160526_142329.297/LogFile.txt","","",1
+2016-05-26 14:24:28.844 -0600,"Success",0:00:48,0,0,0,"20160526_142428.844/LogFile.txt","","",1
+2016-06-02 08:57:34.687 -0600,"Failure",0:00:06,1,0,1,"20160602_085734.687/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Browsers Icon/Chrome""",0
+2016-06-02 08:58:31.868 -0600,"Success",0:00:48,0,0,0,"20160602_085831.868/LogFile.txt","","",1
+2016-06-08 10:32:41.856 -0600,"Success",0:00:50,0,0,0,"20160608_103241.856/LogFile.txt","","",1
+2016-06-22 10:34:44.712 -0600,"Success",0:00:46,0,0,0,"20160622_103444.712/LogFile.txt","","",1
+2016-06-22 14:04:07.841 -0600,"Success",0:00:50,0,0,0,"20160622_140407.841/LogFile.txt","","",1
+2016-06-23 12:47:19.444 -0600,"Success",0:00:47,0,0,0,"20160623_124719.444/LogFile.txt","","",1
+2016-06-28 10:41:00.627 -0600,"Success",0:00:46,0,0,0,"20160628_104100.627/LogFile.txt","","",1
+2016-06-28 11:48:30.793 -0600,"Success",0:00:47,0,0,0,"20160628_114830.793/LogFile.txt","","",1
+2016-06-29 12:45:21.999 -0600,"Success",0:00:51,0,0,0,"20160629_124521.999/LogFile.txt","","",1
+2016-06-30 11:44:38.232 -0600,"Failure",0:00:24,1,0,1,"20160630_114438.232/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Deal"")""  Restricted Search Rectangle ((0,90),(720,180))\n",0
+2016-06-30 11:46:01.429 -0600,"Success",0:00:47,0,0,0,"20160630_114601.429/LogFile.txt","","",1
+2016-06-30 13:44:01.975 -0600,"Success",0:00:50,0,0,0,"20160630_134401.975/LogFile.txt","","",1

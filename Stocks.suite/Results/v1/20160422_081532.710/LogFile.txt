@@ -1,0 +1,3 @@
+﻿2016-04-22 08:15:32.711 -0600	START		Running Untitled.script
+2016-04-22 08:15:33.178 -0600	EndTestCase		(Duration:"0.463682", Errors:"1", Exceptions:"0", StartTime:"2016-04-22 08:15:32 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-04-22 08:15:33.690 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'readtext' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 Untitled.script

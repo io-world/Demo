@@ -1,0 +1,18 @@
+﻿2016-05-18 11:41:44.586 -0600	START		Running index.script
+2016-05-18 11:41:45.549 -0600	rightclick	Desktop Area	at (471, 174)	3	on_index	index.script
+2016-05-18 11:41:49.017 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(0,0,1440,900), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	7	on_index	index.script
+2016-05-18 11:41:57.632 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	8	on_index	index.script
+2016-05-18 11:41:57.756 -0600	click		at (741, 440)	9	on_index	index.script
+2016-05-18 11:41:58.623 -0600	typetext		Random File[enter][enter]	10	on_index	index.script
+2016-05-18 11:41:59.948 -0600	typetext		Random Information that we will Upload to DropBox.	11	on_index	index.script
+2016-05-18 11:42:01.166 -0600	click	Close	at (1249, 13)	12	on_index	index.script
+2016-05-18 11:42:06.142 -0600	everyimagelocation	(TEXT:"save")	found 3 images	13	on_index	index.script
+2016-05-18 11:42:06.262 -0600	click		at (674, 461)	14	on_index	index.script
+2016-05-18 11:42:07.849 -0600	rightclick	Note File Icon	at (485, 245)	2	on_menu	RightC.script
+2016-05-18 11:42:09.654 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,476), ImageRectangle:(520,470,547,482), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 476)	6	on_menu	RightC.script
+2016-05-18 11:42:11.293 -0600	doubleclick	DropBox Icon	at (36, 348)	24	on_index	index.script
+2016-05-18 11:42:14.409 -0600	waitfor	DropBox Item	found at (704, 249)	25	on_index	index.script
+2016-05-18 11:42:15.361 -0600	rightclick	Note File Icon	at (485, 245)	2	on_menu	RightC.script
+2016-05-18 11:42:24.860 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(485,245,885,645), Text:"Paste", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"Paste")"	6	on_menu	RightC.script
+2016-05-18 11:42:25.149 -0600	EndTestCase		(Duration:"40.560992", Errors:"1", Exceptions:"1", StartTime:"2016-05-18 11:41:44 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 11:42:25.223 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "(TEXT:"Paste")"  Restricted Search Rectangle ((485,245),(885,645))\n -- Execution Time 0:00:40 index.script

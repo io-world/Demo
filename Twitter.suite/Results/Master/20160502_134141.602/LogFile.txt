@@ -1,0 +1,9 @@
+﻿2016-05-02 13:41:41.603 -0600	START		Running Index.script
+2016-05-02 13:41:42.536 -0600	imagefound	Windows/Start	found at (26, 881)	2	on_index	Index.script
+2016-05-02 13:41:42.568 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-02 13:41:42.570 -0600	Log		Windws 2012 R2 1440 X 900	5	on_index	Index.script
+2016-05-02 13:41:45.104 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-05-02 13:41:45.193 -0600	LogSuccess		Chrome has Been Launched	14	on_index	Index.script
+2016-05-02 13:42:00.630 -0600	Exception	Chrome Search Icons	Unable To Find Any Image On Screen "Chrome Search Icons" within 2.00 seconds	2	on_search	ChromeLib.script
+2016-05-02 13:42:00.868 -0600	EndTestCase		(Duration:"19.263331", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 13:41:41 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-02 13:42:00.868 -0600	ABORTED		Execution Time 0:00:19 Index.script

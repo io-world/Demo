@@ -1,0 +1,35 @@
+﻿2016-04-22 09:17:15.037 -0600	START		Running index.script
+2016-04-22 09:17:15.143 -0600	typetext		goog	13	on_index	index.script
+2016-04-22 09:17:15.858 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-22 09:17:17.111 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(484,656,535,675), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (509, 665)	18	on_index	index.script
+2016-04-22 09:17:17.139 -0600	readtext		(259,615,479,675)
+2016-04-22 09:17:17.139 -0600	Log		716.54	24	on_index	index.script
+2016-04-22 09:17:17.165 -0600	typetext		[controlKey]c	30	on_index	index.script
+2016-04-22 09:17:18.989 -0600	Log		HSX-30	35	on_index	index.script
+2016-04-22 09:17:19.044 -0600	typetext		[backspace][backspace][backspace][backspace]	38	on_index	index.script
+2016-04-22 09:17:19.800 -0600	typetext		Appl	13	on_index	index.script
+2016-04-22 09:17:20.518 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-22 09:17:23.369 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(484,656,535,675), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (509, 665)	18	on_index	index.script
+2016-04-22 09:17:23.396 -0600	readtext		(259,615,479,675)
+2016-04-22 09:17:23.396 -0600	Log		104.99	24	on_index	index.script
+2016-04-22 09:17:23.421 -0600	typetext		[controlKey]c	30	on_index	index.script
+2016-04-22 09:17:25.238 -0600	Log		HSX-30	35	on_index	index.script
+2016-04-22 09:17:25.292 -0600	typetext		[backspace][backspace][backspace][backspace]	38	on_index	index.script
+2016-04-22 09:17:26.038 -0600	typetext		Wmt	13	on_index	index.script
+2016-04-22 09:17:26.755 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-22 09:17:28.387 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(476,664), ImageRectangle:(451,655,502,674), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (476, 664)	18	on_index	index.script
+2016-04-22 09:17:28.414 -0600	readtext		(226,614,446,674)
+2016-04-22 09:17:28.415 -0600	Log		68.57	24	on_index	index.script
+2016-04-22 09:17:28.440 -0600	typetext		[controlKey]c	30	on_index	index.script
+2016-04-22 09:17:30.253 -0600	Log		HSX-30	35	on_index	index.script
+2016-04-22 09:17:30.307 -0600	typetext		[backspace][backspace][backspace][backspace]	38	on_index	index.script
+2016-04-22 09:17:31.051 -0600	typetext		Xom	13	on_index	index.script
+2016-04-22 09:17:31.768 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-22 09:17:34.337 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(477,665), ImageRectangle:(452,656,503,675), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (477, 665)	18	on_index	index.script
+2016-04-22 09:17:34.364 -0600	readtext		(227,615,447,675)
+2016-04-22 09:17:34.365 -0600	Log		86.84	24	on_index	index.script
+2016-04-22 09:17:34.390 -0600	typetext		[controlKey]c	30	on_index	index.script
+2016-04-22 09:17:36.208 -0600	Log		HSX-30	35	on_index	index.script
+2016-04-22 09:17:36.260 -0600	typetext		[backspace][backspace][backspace][backspace]	38	on_index	index.script
+2016-04-22 09:17:36.529 -0600	EndTestCase		(Duration:"21.491046", Errors:"0", Exceptions:"0", StartTime:"2016-04-22 09:17:15 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-04-22 09:17:36.534 -0600	SUCCESS		Execution Time 0:00:21 index.script

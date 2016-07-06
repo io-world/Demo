@@ -1,0 +1,16 @@
+﻿2016-05-13 11:17:24.286 -0600	START		Running index.script
+2016-05-13 11:17:24.370 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-13 11:17:24.379 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-13 11:17:24.387 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-13 11:17:26.328 -0600	click	Google Maps/Google Image	at (638, 645)	11	on_index	index.script
+2016-05-13 11:17:33.541 -0600	imagefound	Google Maps/Google Maps Clear Search	Unable to Find Image Google Maps/Google Maps Clear Search	13	on_index	index.script
+2016-05-13 11:17:35.825 -0600	click	Google Maps/Microphone	at (518, 101)	17	on_index	index.script
+2016-05-13 11:17:39.172 -0600	typetext		NYC 	18	on_index	index.script
+2016-05-13 11:17:43.543 -0600	click	Google Maps/Grey Image 	at (70, 209)	20	on_index	index.script
+2016-05-13 11:17:49.721 -0600	click	Google Maps/Route Blue	at (659, 1158)	21	on_index	index.script
+2016-05-13 11:17:53.915 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(418,389), ImageRectangle:(237,370,600,409), Language:"English", Text:"Search History is off", TextPlatform:"Generic OCR")	found at (418, 389)	24	on_index	index.script
+2016-05-13 11:17:57.894 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,93), ImageRectangle:(145,82,237,104), Language:"English", Text:"Choose", TextPlatform:"Generic OCR")	at (191, 93)	25	on_index	index.script
+2016-05-13 11:18:02.474 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(273,209), ImageRectangle:(219,197,328,221), Language:"English", Text:"Location", TextPlatform:"Generic OCR")	at (273, 209)	27	on_index	index.script
+2016-05-13 11:18:10.757 -0600	Exception	Google Maps/Navigate Icon	No Image Found On Screen: "Google Maps/Navigate Icon"	31	on_index	index.script
+2016-05-13 11:18:11.332 -0600	EndTestCase		(Duration:"47.045147", Errors:"1", Exceptions:"1", StartTime:"2016-05-13 11:17:24 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-13 11:18:11.427 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Google Maps/Navigate Icon" -- Execution Time 0:00:47 index.script

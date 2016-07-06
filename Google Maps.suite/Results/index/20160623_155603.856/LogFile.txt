@@ -1,0 +1,4 @@
+﻿2016-06-23 15:56:03.859 -0600	START		Running index.script
+2016-06-23 15:56:34.078 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-06-23 15:56:34.463 -0600	EndTestCase		(Duration:"30.601891", Errors:"1", Exceptions:"0", StartTime:"2016-06-23 15:56:03 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-23 15:56:34.464 -0600	ABORTED		Execution Time 0:00:30 index.script

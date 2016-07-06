@@ -1,0 +1,31 @@
+﻿2016-06-03 08:51:56.223 -0600	START		Running EPMIndex.script
+2016-06-03 08:52:03.340 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	1	on_epmindex	EPMIndex.script
+2016-06-03 08:52:07.814 -0600	imagefound	Apple/Blank	Unable to Find Image Apple/Blank	4	on_epmindex	EPMIndex.script
+2016-06-03 08:52:07.992 -0600	imagefound	Apple/Phone Icon	found at (113, 1228)	7	on_epmindex	EPMIndex.script
+2016-06-03 08:52:08.009 -0600	Log		apple iPhone is already on	8	on_epmindex	EPMIndex.script
+2016-06-03 08:52:08.534 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-06-03 08:52:08.537 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-06-03 08:52:10.211 -0600	waitfor	Chrome Search Icons	found at (76, 528)	2	on_search	ChromeLib.script
+2016-06-03 08:52:11.268 -0600	imagefound	Chrome Search Icons/apple Search Icon	found at (76, 528)	4	on_search	ChromeLib.script
+2016-06-03 08:52:12.434 -0600	click	Chrome Search Icons	at (584, 489)	5	on_search	ChromeLib.script
+2016-06-03 08:52:13.655 -0600	typetext		mobile.twitter.com	10	on_search	ChromeLib.script
+2016-06-03 08:52:14.768 -0600	click	Chrome Enter	at (678, 1285)	11	on_search	ChromeLib.script
+2016-06-03 08:52:29.308 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"https://twitter.com", TextPlatform:"Generic OCR", waitfor:"3")	Unable to Find Image (TEXT:"https://twitter.com")	13	on_search	ChromeLib.script
+2016-06-03 08:52:30.541 -0600	click	Twitter/Log In/Logo	at (548, 319)	3	on_twitterlogin	TwitterLib.script
+2016-06-03 08:52:33.428 -0600	waitfor	Twitter/Log In/Wait	found at (61, 192)	4	on_twitterlogin	TwitterLib.script
+2016-06-03 08:52:34.619 -0600	click	Twitter/Log In/Click Username	at (179, 386)	5	on_twitterlogin	TwitterLib.script
+2016-06-03 08:52:35.462 -0600	typetext		iotestplant	7	on_twitterlogin	TwitterLib.script
+2016-06-03 08:52:36.461 -0600	click	Twitter/Log In/Click Password	at (119, 469)	8	on_twitterlogin	TwitterLib.script
+2016-06-03 08:52:37.289 -0600	typetext		twittergo4	9	on_twitterlogin	TwitterLib.script
+2016-06-03 08:52:38.281 -0600	click	Twitter/Log In/Click Log In	at (372, 578)	10	on_twitterlogin	TwitterLib.script
+2016-06-03 08:52:38.285 -0600	LogSuccess		Successfully Logged into Twitter	12	on_twitterlogin	TwitterLib.script
+2016-06-03 08:52:41.696 -0600	click	Twitter/Log Out/Profile	at (691, 279)	3	on_logout	TwitterLib.script
+2016-06-03 08:52:58.425 -0600	imagefound	Twitter/Log Out/Settings/	Unable to Find Image Twitter/Log Out/Settings/	5	on_logout	TwitterLib.script
+2016-06-03 08:52:59.612 -0600	click	Twitter/Log Out/Log Out Button	at (86, 952)	9	on_logout	TwitterLib.script
+2016-06-03 08:53:17.078 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	27	on_epmindex	EPMIndex.script
+2016-06-03 08:53:18.265 -0600	click	Apple/Chrome Tab	at (617, 98)	3	on_resetchrome	AppleLib.script
+2016-06-03 08:53:19.478 -0600	click	Apple/Close Tab	at (668, 227)	4	on_resetchrome	AppleLib.script
+2016-06-03 08:53:20.483 -0600	click	Apple/New Tab	at (56, 98)	5	on_resetchrome	AppleLib.script
+2016-06-03 08:53:21.190 -0600	presshomebutton			6	on_resetchrome	AppleLib.script
+2016-06-03 08:53:21.561 -0600	EndTestCase		(Duration:"85.335997", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 08:51:56 -0600", Successes:"2", TestCase:"EPMIndex.script", Warnings:"0")
+2016-06-03 08:53:21.567 -0600	SUCCESS		Execution Time 0:01:25 EPMIndex.script

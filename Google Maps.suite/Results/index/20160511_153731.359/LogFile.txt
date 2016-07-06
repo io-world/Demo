@@ -1,0 +1,14 @@
+﻿2016-05-11 15:37:31.360 -0600	START		Running index.script
+2016-05-11 15:37:31.476 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-11 15:37:31.487 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-11 15:37:31.504 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-11 15:37:31.899 -0600	click	Google Maps/Google Image	at (636, 645)	6	on_index	index.script
+2016-05-11 15:37:35.191 -0600	imagefound	Google Maps/Google Maps Clear Search	found at (683, 101)	8	on_index	index.script
+2016-05-11 15:37:36.792 -0600	click	Google Maps/Google Maps Clear Search	at (683, 101)	9	on_index	index.script
+2016-05-11 15:37:48.936 -0600	click	Google Maps/Google Maps Menu	at (237, 102)	12	on_index	index.script
+2016-05-11 15:37:53.027 -0600	click	Google Maps/Microphone	at (518, 101)	13	on_index	index.script
+2016-05-11 15:37:58.827 -0600	typetext		12 Parker Ave, Maplewood NJ 07040	14	on_index	index.script
+2016-05-11 15:38:03.417 -0600	click	Google Maps/Grey Image 	at (70, 209)	16	on_index	index.script
+2016-05-11 15:38:09.959 -0600	click	Google Maps/Route Blue	at (659, 1158)	17	on_index	index.script
+2016-05-11 15:38:10.329 -0600	EndTestCase		(Duration:"38.967635", Errors:"1", Exceptions:"0", StartTime:"2016-05-11 15:37:31 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:38:10.330 -0600	ABORTED		Execution Time 0:00:38 index.script

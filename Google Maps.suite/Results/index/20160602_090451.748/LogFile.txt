@@ -1,0 +1,22 @@
+﻿2016-06-02 09:04:51.749 -0600	START		Running index.script
+2016-06-02 09:04:51.907 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-06-02 09:04:52.951 -0600	imagefound	Apple/Sleep Screen	found at (138, 147)	4	on_unlock	AppleLib.script
+2016-06-02 09:04:52.957 -0600	presshomebutton			5	on_unlock	AppleLib.script
+2016-06-02 09:04:53.868 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	6	on_unlock	AppleLib.script
+2016-06-02 09:04:58.045 -0600	click		at (160, 845)	8	on_unlock	AppleLib.script
+2016-06-02 09:04:58.856 -0600	click		at (370, 1035)	9	on_unlock	AppleLib.script
+2016-06-02 09:04:59.665 -0600	click		at (580, 685)	10	on_unlock	AppleLib.script
+2016-06-02 09:05:00.476 -0600	click		at (370, 1035)	11	on_unlock	AppleLib.script
+2016-06-02 09:05:02.488 -0600	presshomebutton			13	on_unlock	AppleLib.script
+2016-06-02 09:05:03.193 -0600	presshomebutton			14	on_unlock	AppleLib.script
+2016-06-02 09:05:03.216 -0600	Log		Apple iPhone 6s	16	on_unlock	AppleLib.script
+2016-06-02 09:05:03.238 -0600	setoption		MouseMoveSpeed = 5	2	on_index	index.script
+2016-06-02 09:05:03.259 -0600	setoption		NextKeyDelay = 0.08	3	on_index	index.script
+2016-06-02 09:05:03.281 -0600	setoption		RemoteWorkInterval = 3	4	on_index	index.script
+2016-06-02 09:05:07.913 -0600	click	Google Maps/Google Image	at (636, 645)	13	on_index	index.script
+2016-06-02 09:05:18.527 -0600	imagefound	Google Maps/Google Maps Clear Search	Unable to Find Image Google Maps/Google Maps Clear Search	15	on_index	index.script
+2016-06-02 09:05:20.652 -0600	click	Google Maps/Microphone	at (518, 101)	19	on_index	index.script
+2016-06-02 09:05:25.768 -0600	typetext		1Underwriters Labratories	20	on_index	index.script
+2016-06-02 09:05:38.866 -0600	Exception	Google Maps/Grey Image	No Image Found On Screen: "Google Maps/Grey Image"	21	on_index	index.script
+2016-06-02 09:05:39.172 -0600	EndTestCase		(Duration:"47.422014", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 09:04:51 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-02 09:05:39.235 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Google Maps/Grey Image" -- Execution Time 0:00:47 index.script

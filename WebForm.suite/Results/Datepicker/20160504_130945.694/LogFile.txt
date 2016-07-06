@@ -1,0 +1,8 @@
+﻿2016-05-04 13:09:45.695 -0600	START		Running Datepicker.script
+2016-05-04 13:09:45.783 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
+2016-05-04 13:09:46.481 -0600	click	YearPicker	at (1052, 138)	16	on_datepicker	Datepicker.script
+2016-05-04 13:09:47.260 -0600	readtext		(1007,153,1067,616)
+2016-05-04 13:09:47.261 -0600	Log		e\nTh\n4\n5\n11\n12\n18\n19\n25\n26	19	on_datepicker	Datepicker.script
+2016-05-04 13:09:53.672 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	21	on_datepicker	Datepicker.script
+2016-05-04 13:09:53.920 -0600	EndTestCase		(Duration:"8.223581", Errors:"1", Exceptions:"1", StartTime:"2016-05-04 13:09:45 -0600", Successes:"0", TestCase:"Datepicker.script", Warnings:"0")
+2016-05-04 13:09:53.920 -0600	ABORTED		Execution Time 0:00:08 Datepicker.script

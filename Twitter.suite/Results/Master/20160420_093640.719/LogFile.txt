@@ -1,0 +1,38 @@
+﻿2016-04-20 09:36:40.721 -0600	START		Running Index.script
+2016-04-20 09:36:44.298 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	3	on_index	Index.script
+2016-04-20 09:36:44.302 -0600	presshomebutton			2	on_unlock	AppleLib.script
+2016-04-20 09:36:45.223 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	4	on_unlock	AppleLib.script
+2016-04-20 09:36:46.035 -0600	click		at (160, 845)	5	on_unlock	AppleLib.script
+2016-04-20 09:36:46.845 -0600	click		at (370, 1035)	6	on_unlock	AppleLib.script
+2016-04-20 09:36:47.657 -0600	click		at (580, 685)	7	on_unlock	AppleLib.script
+2016-04-20 09:36:48.471 -0600	click		at (370, 1035)	8	on_unlock	AppleLib.script
+2016-04-20 09:36:50.476 -0600	presshomebutton			10	on_unlock	AppleLib.script
+2016-04-20 09:36:51.181 -0600	presshomebutton			11	on_unlock	AppleLib.script
+2016-04-20 09:36:53.332 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-04-20 09:36:55.165 -0600	click	Chrome Search Icons	at (76, 528)	2	on_search	ChromeLib.script
+2016-04-20 09:36:56.098 -0600	typetext		mobile.twitter.com	3	on_search	ChromeLib.script
+2016-04-20 09:36:57.213 -0600	click	Chrome Enter	at (678, 1285)	4	on_search	ChromeLib.script
+2016-04-20 09:37:01.362 -0600	imagefound	Twitter/Link/Windows Twittter Link	Unable to Find Image Twitter/Link/Windows Twittter Link	6	on_search	ChromeLib.script
+2016-04-20 09:37:02.373 -0600	click	Twitter/Log In/Logo	at (548, 319)	3	on_twitterlogin	TwitterLib.script
+2016-04-20 09:37:02.984 -0600	waitfor	Twitter/Log In/Wait	found at (61, 192)	4	on_twitterlogin	TwitterLib.script
+2016-04-20 09:37:03.974 -0600	click	Twitter/Log In/Click Username	at (179, 386)	5	on_twitterlogin	TwitterLib.script
+2016-04-20 09:37:04.821 -0600	typetext		iotestplant	6	on_twitterlogin	TwitterLib.script
+2016-04-20 09:37:06.132 -0600	click	Twitter/Log In/Click Password	at (119, 469)	7	on_twitterlogin	TwitterLib.script
+2016-04-20 09:37:06.964 -0600	typetext		twittergo4	8	on_twitterlogin	TwitterLib.script
+2016-04-20 09:37:08.158 -0600	click	Twitter/Log In/Click Log In	at (372, 578)	9	on_twitterlogin	TwitterLib.script
+2016-04-20 09:37:10.177 -0600	click	Twitter/Tweet/Logo	at (698, 186)	3	on_tweet	TwitterLib.script
+2016-04-20 09:37:11.604 -0600	click	Twitter/Tweet/ClickWhat	at (138, 270)	4	on_tweet	TwitterLib.script
+2016-04-20 09:37:12.872 -0600	typetext		I think i have too many tweets today already	5	on_tweet	TwitterLib.script
+2016-04-20 09:37:13.835 -0600	click	Twitter/Tweet/Post	at (684, 195)	6	on_tweet	TwitterLib.script
+2016-04-20 09:37:27.631 -0600	imagefound	Twitter/Tweet/Tweet Error/Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error	8	on_tweet	TwitterLib.script
+2016-04-20 09:37:28.641 -0600	click	Twitter/Log Out/Profile	at (657, 265)	2	on_logout	TwitterLib.script
+2016-04-20 09:37:30.233 -0600	imagefound	Twitter/Log Out/Settings/	found at (57, 784)	4	on_logout	TwitterLib.script
+2016-04-20 09:37:31.277 -0600	click	Twitter/Log Out/Settings/	at (57, 784)	5	on_logout	TwitterLib.script
+2016-04-20 09:37:32.974 -0600	click	Twitter/Log Out/Log Out Button	at (362, 879)	8	on_logout	TwitterLib.script
+2016-04-20 09:37:43.259 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	19	on_index	Index.script
+2016-04-20 09:38:00.393 -0600	click	Apple/Chrome Tab	at (617, 98)	2	on_resetchrome	AppleLib.script
+2016-04-20 09:38:05.430 -0600	click	Apple/Close Tab	at (668, 227)	3	on_resetchrome	AppleLib.script
+2016-04-20 09:38:07.068 -0600	click	Apple/New Tab	at (56, 98)	4	on_resetchrome	AppleLib.script
+2016-04-20 09:38:07.770 -0600	presshomebutton			5	on_resetchrome	AppleLib.script
+2016-04-20 09:38:08.154 -0600	EndTestCase		(Duration:"87.432186", Errors:"0", Exceptions:"0", StartTime:"2016-04-20 09:36:40 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-04-20 09:38:08.159 -0600	SUCCESS		Execution Time 0:01:27 Index.script

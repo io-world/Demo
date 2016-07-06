@@ -1,0 +1,29 @@
+﻿2016-05-26 13:32:33.134 -0600	START		Running Index.script
+2016-05-26 13:32:34.048 -0600	click	Run Icon	at (269, 880)	5	on_index	Index.script
+2016-05-26 13:32:34.814 -0600	typetext		calc[enter]	7	on_index	Index.script
+2016-05-26 13:32:35.468 -0600	imagefound	Calculator/Calculator Icon	found at (126, 81)	2	on_verify	Calculator.script
+2016-05-26 13:32:35.472 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2016-05-26 13:32:35.899 -0600	imagelocation	Calculator/MC Icon	at (112, 252)	2	on_math	Calculator.script
+2016-05-26 13:32:36.228 -0600	imagelocation	Operators/Equals Sign	at (323, 550)	3	on_math	Calculator.script
+2016-05-26 13:32:36.386 -0600	readtext		(94,302,268,580)
+2016-05-26 13:32:36.386 -0600	Log		CE\nc\n<3\n7\n8\n9\n4\n5\n6\n1\n2\n3\n+\n0\n•	8	on_math	Calculator.script
+2016-05-26 13:32:36.489 -0600	Log		1 was Clicked	17	on_math	Calculator.script
+2016-05-26 13:32:37.079 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(121,499), ImageRectangle:(118,491,125,508), Language:"English", searchrectangle:(94,302,268,580), Text:"1", TextPlatform:"Generic OCR")	at (121, 499)	30	on_math	Calculator.script
+2016-05-26 13:32:37.120 -0600	Log		+ was Clicked	17	on_math	Calculator.script
+2016-05-26 13:32:38.213 -0600	click	Operators/Add	at (324, 498)	19	on_math	Calculator.script
+2016-05-26 13:32:38.261 -0600	Log		2 was Clicked	17	on_math	Calculator.script
+2016-05-26 13:32:39.436 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(190,499), ImageRectangle:(185,491,195,507), Language:"English", searchrectangle:(94,302,268,580), Text:"2", TextPlatform:"Generic OCR")	at (190, 499)	30	on_math	Calculator.script
+2016-05-26 13:32:39.473 -0600	Log		+ was Clicked	17	on_math	Calculator.script
+2016-05-26 13:32:40.573 -0600	click	Operators/Add	at (324, 498)	19	on_math	Calculator.script
+2016-05-26 13:32:40.605 -0600	Log		3 was Clicked	17	on_math	Calculator.script
+2016-05-26 13:32:41.800 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(259,343), ImageRectangle:(255,337,264,350), Language:"English", searchrectangle:(94,302,268,580), Text:"3", TextPlatform:"Generic OCR")	at (259, 343)	30	on_math	Calculator.script
+2016-05-26 13:32:41.837 -0600	Log		= was Clicked	17	on_math	Calculator.script
+2016-05-26 13:32:42.923 -0600	click	Operators/Equals Sign	at (323, 550)	27	on_math	Calculator.script
+2016-05-26 13:32:43.933 -0600	moveto	Calculator/Calculator Icon	at (126, 81)	34	on_math	Calculator.script
+2016-05-26 13:32:44.946 -0600	imagelocation	Calculator/Calculator Icon	at (126, 81)	3	on_answer	Calculator.script
+2016-05-26 13:32:45.046 -0600	readtext		(126,131,326,181)
+2016-05-26 13:32:45.047 -0600	Log			8	on_answer	Calculator.script
+2016-05-26 13:32:45.383 -0600	capturescreen	Results.png	(126,131,516,181)	11	on_answer	Calculator.script
+2016-05-26 13:32:45.865 -0600	click	Calculator/Close Icon	at (335, 78)	2	on_close	Calculator.script
+2016-05-26 13:32:46.560 -0600	EndTestCase		(Duration:"13.42393", Errors:"0", Exceptions:"0", StartTime:"2016-05-26 13:32:33 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-26 13:32:46.564 -0600	SUCCESS		Execution Time 0:00:13 Index.script

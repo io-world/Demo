@@ -1,0 +1,20 @@
+﻿2016-05-10 14:29:29.056 -0600	START		Running index.script
+2016-05-10 14:29:29.178 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-10 14:29:29.192 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-10 14:29:29.200 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-10 14:29:32.909 -0600	click	Browsers Icon/Chrome	at (390, 880)	18	on_index	index.script
+2016-05-10 14:29:37.298 -0600	click	indicators	at (173, 43)	19	on_index	index.script
+2016-05-10 14:29:40.569 -0600	typetext		www.amazon.com[return]	20	on_index	index.script
+2016-05-10 14:29:43.564 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(378,141), ImageRectangle:(366,136,391,146), Language:"English", searchRectangle:(0,90,720,450), Text:"Deal", TextPlatform:"Generic OCR")	at (378, 141)	21	on_index	index.script
+2016-05-10 14:29:56.050 -0600	everyimagelocation	(TEXT:"DEAL OF THE DAY")	found 5 images	22	on_index	index.script
+2016-05-10 14:29:56.195 -0600	readtext		(268,629,388,649)
+2016-05-10 14:29:56.196 -0600	Log		S8.62 - S89.99	27	on_index	index.script
+2016-05-10 14:29:59.119 -0600	click	Browser Close	at (1415, 8)	28	on_index	index.script
+2016-05-10 14:30:04.669 -0600	click	Browsers Icon/Internet Explorer	at (455, 879)	18	on_index	index.script
+2016-05-10 14:30:08.946 -0600	click	indicators	at (182, 41)	19	on_index	index.script
+2016-05-10 14:30:12.221 -0600	typetext		www.amazon.com[return]	20	on_index	index.script
+2016-05-10 14:30:15.495 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(388,135), ImageRectangle:(376,130,401,140), Language:"English", searchRectangle:(0,90,720,450), Text:"Deal", TextPlatform:"Generic OCR")	at (388, 135)	21	on_index	index.script
+2016-05-10 14:30:30.750 -0600	everyimagelocation	(TEXT:"DEAL OF THE DAY")	found 5 images	22	on_index	index.script
+2016-05-10 14:30:30.842 -0600	Exception	268	Could Not Open Image: 268	27	on_index	index.script
+2016-05-10 14:30:31.225 -0600	EndTestCase		(Duration:"62.16783", Errors:"1", Exceptions:"1", StartTime:"2016-05-10 14:29:29 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-10 14:30:31.748 -0600	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: 268 -- Execution Time 0:01:02 index.script

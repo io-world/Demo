@@ -1,0 +1,64 @@
+﻿on verify
+	if ImageFound(4, "Calculator/Calculator Icon")
+		log "Open Calculator"
+	else
+		log "Unable to Open Calculator"
+	end if
+end verify
+
+on math buttons
+	put ImageLocation("Calculator/MC Icon") into TL
+	put ImageLocation("Operators/Equals Sign") into BR
+	put TL + (-18,50) into TL
+	put BR + (-55,30) into BR
+	insert TL into boxsearch
+	insert BR into boxsearch
+	log readtext (boxsearch)
+	
+	split buttons using " " 
+	delete " " in buttons
+	put each character of buttons into clicky
+	put number of items of buttons into Max
+	
+	repeat Max Times
+		put item repeatindex() of buttons into clicky
+		log Clicky & " was Clicked"
+		if clicky = "+" then
+			click "Operators/Add"
+		else if clicky = "-" then
+			click "Operators/Minus"
+		else if clicky = "*" then
+			click "Operators/Multiple"
+		else if clicky = "/" then
+			click "Operators/Division"
+		else if clicky = "=" then
+			click ("Operators/Equals Sign")
+		else
+			click (Text: clicky , searchrectangle: boxsearch)
+		end if
+	end repeat
+	
+	MoveTo ("Calculator/Calculator Icon")
+end math
+
+
+on answer
+
+	put imagelocation ("Calculator/Calculator Icon") into XY
+	put XY + (0,50) into TL
+	put XY + (200,100) into BR
+	insert TL into boxsearch
+	insert BR into boxsearch
+	log readtext (boxsearch)
+	
+	put boxsearch + (0,0,190,0) into CapSR
+	CaptureScreen (Name: "Results", Rectangle: (CapSR))
+	
+end answer
+
+
+
+on close
+	click "Calculator/Close Icon"
+end close
+

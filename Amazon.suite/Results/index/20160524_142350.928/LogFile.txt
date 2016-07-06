@@ -1,0 +1,10 @@
+﻿2016-05-24 14:23:50.929 -0600	START		Running index.script
+2016-05-24 14:23:51.009 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-24 14:23:51.020 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-24 14:23:51.031 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-24 14:23:51.537 -0600	click	Browsers Icon/Safari	at (288, 1231)	13	on_index	index.script
+2016-05-24 14:23:56.724 -0600	click	indicators	at (700, 77)	14	on_index	index.script
+2016-05-24 14:24:01.005 -0600	typetext		www.amazon.com[returnKey]	16	on_index	index.script
+2016-05-24 14:24:12.108 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	17	on_index	index.script
+2016-05-24 14:24:12.404 -0600	EndTestCase		(Duration:"21.473663", Errors:"1", Exceptions:"1", StartTime:"2016-05-24 14:23:50 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-24 14:24:12.404 -0600	ABORTED		Execution Time 0:00:21 index.script

@@ -1,0 +1,39 @@
+﻿AppleLib.unlock
+
+put RemoteScreenSize() into RSS
+click "Apple/Message Icon"
+wait 3
+
+if imagefound(text: "Messages", searchrectangle:(RSS*(0,0),RSS*(0.5,0.2)))
+	Click FoundImageLocation()
+end if
+
+
+Click (Image:"Apple/Write Message Icon", WaitFor:10)
+waitFor 5,(text: "New Message", searchrectangle:(RSS*(0.2,0),RSS*(0.8,0.1)))
+--------------------------------------------------------------------------------------------------------------
+
+
+TypeText "9734327060"
+click "Apple/Camera Icon"
+TypeText "Test Plant says Hello" , the date 
+--------Angel 
+--------Glasses
+--------No
+--------Smile
+--------Upside down
+emoji.select "Upside down"
+emoji.select "Glasses"
+
+
+
+
+--------------------------------------------------------------------------------------------------------------
+click "Apple/Send Icon"
+wait 3
+if imagefound(text: "Messages", searchrectangle:(RSS*(0,0),RSS*(0.5,0.2)))
+	Click FoundImageLocation()
+end if
+PressHomeButton
+
+

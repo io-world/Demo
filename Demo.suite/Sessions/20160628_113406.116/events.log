@@ -1,0 +1,42 @@
+1	0.00029701	start	
+2	1.91275	mouseDown	{button:1, clickCount:1, hotSpot:[388.534485, 880.503235]}
+3	2.06467	mouseUp	{button:1, clickCount:1, hotSpot:[388.534485, 880.503235]}
+4	5.26865	mouseDown	{button:1, clickCount:1, hotSpot:[248.831711, 43.277649]}
+5	5.38616	mouseUp	{button:1, clickCount:1, hotSpot:[248.831711, 43.277649]}
+6	13.1366	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+7	13.2422	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+8	13.3041	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+9	13.3658	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+10	13.44	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+11	13.54	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+12	13.6212	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+13	13.7211	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+14	14.168	keyDown	{modifiers:256, string:@".", theKey:@"."}
+15	14.305	keyUp	{modifiers:256, string:@".", theKey:@"."}
+16	14.64	keyDown	{modifiers:256, string:@"a", theKey:@"a"}
+17	14.7599	keyUp	{modifiers:256, string:@"a", theKey:@"a"}
+18	14.776	keyDown	{modifiers:256, string:@"u", theKey:@"u"}
+19	14.9081	keyUp	{modifiers:256, string:@"u", theKey:@"u"}
+20	14.9094	keyDown	{modifiers:256, string:@"t", theKey:@"t"}
+21	15.0208	keyUp	{modifiers:256, string:@"t", theKey:@"t"}
+22	15.0319	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+23	15.144	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+24	17.0041	keyDown	{modifiers:256, string:@"s", theKey:@"s"}
+25	17.1359	keyUp	{modifiers:256, string:@"s", theKey:@"s"}
+26	19.3359	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+27	19.4347	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+28	19.5439	keyDown	{modifiers:256, string:@"l", theKey:@"l"}
+29	19.6397	keyUp	{modifiers:256, string:@"l", theKey:@"l"}
+30	19.8189	keyDown	{modifiers:256, string:@"n", theKey:@"n"}
+31	19.8637	keyUp	{modifiers:256, string:@"n", theKey:@"n"}
+32	20.1369	keyDown	{modifiers:256, string:@".", theKey:@"."}
+33	20.2302	keyUp	{modifiers:256, string:@".", theKey:@"."}
+34	20.3439	keyDown	{modifiers:256, string:@"c", theKey:@"c"}
+35	20.4557	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+36	20.5192	keyUp	{modifiers:256, string:@"c", theKey:@"c"}
+37	20.5277	keyDown	{modifiers:256, string:@"m", theKey:@"m"}
+38	20.6191	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+39	20.6477	keyUp	{modifiers:256, string:@"m", theKey:@"m"}
+40	21.2238	keyDown	{modifiers:256, string:@"\r", theKey:@"\r"}
+41	21.3358	keyUp	{modifiers:256, string:@"\r", theKey:@"\r"}
+42	26.1612	end	

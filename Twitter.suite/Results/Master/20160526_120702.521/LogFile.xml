@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Index.script" package="Twitter.suite" timestamp="2016-05-26 12:07:02.521 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-05-26 12:07:02.521 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="Index.script" assertions="2" successes="1" errors="1" time="14.932487">
+  </testcase>
+ </testsuite>
+</testsuites>

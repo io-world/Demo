@@ -1,0 +1,12 @@
+﻿2016-04-22 10:57:17.143 -0600	START		Running index.script
+2016-04-22 10:57:17.234 -0600	typetext		[windowsKey]	6	on_index	index.script
+2016-04-22 10:57:18.841 -0600	click	Chrome	at (244, 876)	7	on_index	index.script
+2016-04-22 10:57:19.015 -0600	waitfor	Chrome Mic	found at (1387, 178)	9	on_index	index.script
+2016-04-22 10:57:19.607 -0600	typetext		goog[enter]	15	on_index	index.script
+2016-04-22 10:57:21.403 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(484,656,535,675), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (509, 665)	16	on_index	index.script
+2016-04-22 10:57:21.430 -0600	readtext		(259,615,479,675)
+2016-04-22 10:57:21.430 -0600	Log		715.21	20	on_index	index.script
+2016-04-22 10:57:22.473 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(306,183), ImageRectangle:(273,172,340,195), Language:"English", searchRectangle:(3,125,1545,250), text:"goog", TextPlatform:"Generic OCR")	at (306, 183)	21	on_index	index.script
+2016-04-22 10:57:23.185 -0600	typetext		[backspace]	22	on_index	index.script
+2016-04-22 10:57:23.526 -0600	EndTestCase		(Duration:"6.381915", Errors:"1", Exceptions:"0", StartTime:"2016-04-22 10:57:17 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-04-22 10:57:23.963 -0600	FAILURE	Screen_Error.png	STFileException Attempt to access unopened file: /Users/randyhesse/Documents/Test SUTs/Stocks.suite/Resources/output.csv -- Execution Time 0:00:06 index.script

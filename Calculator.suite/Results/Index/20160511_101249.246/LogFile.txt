@@ -1,0 +1,4 @@
+﻿2016-05-11 10:12:49.247 -0600	START		Running Index.script
+2016-05-11 10:12:55.056 -0600	Exception	Run Icon	No Image Found On Screen: "Run Icon"	5	on_index	Index.script
+2016-05-11 10:12:55.382 -0600	EndTestCase		(Duration:"6.132475", Errors:"1", Exceptions:"1", StartTime:"2016-05-11 10:12:49 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-11 10:12:55.533 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Run Icon" -- Execution Time 0:00:06 Index.script

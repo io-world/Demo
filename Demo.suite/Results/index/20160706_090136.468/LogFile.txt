@@ -1,0 +1,4 @@
+﻿2016-07-06 09:01:36.469 -0600	START		Running index.script
+2016-07-06 09:01:36.547 -0600	Log		MonthNames	1	on_index	index.script
+2016-07-06 09:01:36.796 -0600	EndTestCase		(Duration:"0.324835", Errors:"0", Exceptions:"0", StartTime:"2016-07-06 09:01:36 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-07-06 09:01:36.800 -0600	SUCCESS		Execution Time 0:00:00 index.script

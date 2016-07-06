@@ -1,0 +1,39 @@
+﻿2016-05-12 10:53:43.994 -0600	START		Running close.script
+2016-05-12 10:53:44.149 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 10:53:46.225 -0600	readtext		(248,67,570,167)
+2016-05-12 10:53:46.225 -0600	Log		Music	7	on_close	close.script
+2016-05-12 10:53:54.234 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(247.5,66.699997,570,166.75), Text:"Google Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Google Maps")	8	on_close	close.script
+2016-05-12 10:53:54.322 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:54:00.526 -0600	imagefound	SpringBoard	Unable to Find Image SpringBoard	17	on_close	close.script
+2016-05-12 10:54:00.611 -0600	readtext		(248,67,570,167)
+2016-05-12 10:54:00.611 -0600	Log		Phone	7	on_close	close.script
+2016-05-12 10:54:07.857 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(247.5,66.699997,570,166.75), Text:"Google Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Google Maps")	8	on_close	close.script
+2016-05-12 10:54:07.952 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:54:12.295 -0600	imagefound	SpringBoard	Unable to Find Image SpringBoard	17	on_close	close.script
+2016-05-12 10:54:12.371 -0600	readtext		(248,67,570,167)
+2016-05-12 10:54:12.372 -0600	Log		Skype	7	on_close	close.script
+2016-05-12 10:54:16.586 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(247.5,66.699997,570,166.75), Text:"Google Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Google Maps")	8	on_close	close.script
+2016-05-12 10:54:16.671 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:54:21.415 -0600	imagefound	SpringBoard	Unable to Find Image SpringBoard	17	on_close	close.script
+2016-05-12 10:54:21.496 -0600	readtext		(248,67,570,167)
+2016-05-12 10:54:21.497 -0600	Log		Google	7	on_close	close.script
+2016-05-12 10:54:25.750 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(247.5,66.699997,570,166.75), Text:"Google Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Google Maps")	8	on_close	close.script
+2016-05-12 10:54:25.848 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:54:30.143 -0600	imagefound	SpringBoard	Unable to Find Image SpringBoard	17	on_close	close.script
+2016-05-12 10:54:30.250 -0600	readtext		(248,67,570,167)
+2016-05-12 10:54:30.250 -0600	Log		Certify Mobile	7	on_close	close.script
+2016-05-12 10:54:34.279 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(247.5,66.699997,570,166.75), Text:"Google Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Google Maps")	8	on_close	close.script
+2016-05-12 10:54:34.364 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:54:40.591 -0600	imagefound	SpringBoard	Unable to Find Image SpringBoard	17	on_close	close.script
+2016-05-12 10:54:40.683 -0600	readtext		(248,67,570,167)
+2016-05-12 10:54:40.683 -0600	Log		Notes	7	on_close	close.script
+2016-05-12 10:54:48.659 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(247.5,66.699997,570,166.75), Text:"Google Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Google Maps")	8	on_close	close.script
+2016-05-12 10:54:48.754 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:54:50.893 -0600	imagefound	SpringBoard	found at (90, 144)	17	on_close	close.script
+2016-05-12 10:54:50.916 -0600	Log		Enbale to find Application	18	on_close	close.script
+2016-05-12 10:54:50.977 -0600	set		REMOTEWORKINTERVAL = 0	29	on_close	close.script
+2016-05-12 10:54:51.169 -0600	swipeup		Swiped up from (375, 934) to (375, 400)	30	on_close	close.script
+2016-05-12 10:54:51.201 -0600	set		REMOTEWORKINTERVAL = 0.7	31	on_close	close.script
+2016-05-12 10:54:51.873 -0600	presshomebutton			34	on_close	close.script
+2016-05-12 10:54:52.109 -0600	EndTestCase		(Duration:"68.112991", Errors:"0", Exceptions:"0", StartTime:"2016-05-12 10:53:43 -0600", Successes:"1", TestCase:"close.script", Warnings:"0")
+2016-05-12 10:54:52.112 -0600	SUCCESS		Execution Time 0:01:08 close.script

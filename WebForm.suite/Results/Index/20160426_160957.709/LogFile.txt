@@ -1,0 +1,29 @@
+﻿2016-04-26 16:09:57.709 -0600	START		Running Untitled.script
+2016-04-26 16:09:59.320 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,204), ImageRectangle:(600,194,735,217), Language:"English", searchRectangle:(487,149,2069,920), text:"First Name", TextPlatform:"Generic OCR")	at (850, 204)	14	on_untitled	Untitled.script
+2016-04-26 16:10:00.087 -0600	typetext		Bruce	16	on_untitled	Untitled.script
+2016-04-26 16:10:02.054 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,309), ImageRectangle:(600,299,731,321), Language:"English", searchRectangle:(487,149,2069,920), text:"Last Name", TextPlatform:"Generic OCR")	at (850, 309)	14	on_untitled	Untitled.script
+2016-04-26 16:10:02.825 -0600	typetext		Wayne	16	on_untitled	Untitled.script
+2016-04-26 16:10:04.632 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,433), ImageRectangle:(600,423,704,445), Language:"English", searchRectangle:(487,149,2069,920), text:"Address", TextPlatform:"Generic OCR")	at (850, 433)	14	on_untitled	Untitled.script
+2016-04-26 16:10:05.427 -0600	typetext		3/13/06	16	on_untitled	Untitled.script
+2016-04-26 16:10:07.708 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(1466,205), ImageRectangle:(1216,195,1281,217), Language:"English", searchRectangle:(487,149,2069,920), text:"DOB", TextPlatform:"Generic OCR")	at (1466, 205)	14	on_untitled	Untitled.script
+2016-04-26 16:10:08.563 -0600	typetext		113-83-3798	16	on_untitled	Untitled.script
+2016-04-26 16:10:11.206 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(1467,309), ImageRectangle:(1217,299,1523,327), Language:"English", searchRectangle:(487,149,2069,920), text:"Social Security Number", TextPlatform:"Generic OCR")	at (1467, 309)	14	on_untitled	Untitled.script
+2016-04-26 16:10:12.112 -0600	typetext		14 Maiden Lane 	16	on_untitled	Untitled.script
+2016-04-26 16:10:14.144 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,433), ImageRectangle:(600,423,704,445), Language:"English", searchRectangle:(487,149,2069,920), text:"Address", TextPlatform:"Generic OCR")	at (850, 433)	14	on_untitled	Untitled.script
+2016-04-26 16:10:14.930 -0600	typetext		Gotham	16	on_untitled	Untitled.script
+2016-04-26 16:10:17.032 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,555), ImageRectangle:(600,545,655,573), Language:"English", searchRectangle:(487,149,2069,920), text:"City", TextPlatform:"Generic OCR")	at (850, 555)	14	on_untitled	Untitled.script
+2016-04-26 16:10:17.762 -0600	typetext		NY	16	on_untitled	Untitled.script
+2016-04-26 16:10:19.797 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(851,699), ImageRectangle:(601,689,663,711), Language:"English", searchRectangle:(487,149,2069,920), text:"State", TextPlatform:"Generic OCR")	at (851, 699)	14	on_untitled	Untitled.script
+2016-04-26 16:10:20.566 -0600	typetext		39485	16	on_untitled	Untitled.script
+2016-04-26 16:10:22.630 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,841), ImageRectangle:(600,831,704,860), Language:"English", searchRectangle:(487,149,2069,920), text:"Zipcode", TextPlatform:"Generic OCR")	at (850, 841)	14	on_untitled	Untitled.script
+2016-04-26 16:10:23.494 -0600	typetext		111-123-4030	16	on_untitled	Untitled.script
+2016-04-26 16:10:25.953 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(1466,433), ImageRectangle:(1216,423,1347,452), Language:"English", searchRectangle:(487,149,2069,920), text:"Telephone", TextPlatform:"Generic OCR")	at (1466, 433)	14	on_untitled	Untitled.script
+2016-04-26 16:10:26.741 -0600	typetext		Single	16	on_untitled	Untitled.script
+2016-04-26 16:10:29.775 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(1466,555), ImageRectangle:(1216,545,1395,567), Language:"English", searchRectangle:(487,149,2069,920), text:"Marital Status", TextPlatform:"Generic OCR")	at (1466, 555)	14	on_untitled	Untitled.script
+2016-04-26 16:10:30.535 -0600	typetext		Male	16	on_untitled	Untitled.script
+2016-04-26 16:10:33.615 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(1467,699), ImageRectangle:(1217,689,1263,711), Language:"English", searchRectangle:(487,149,2069,920), text:"Sex", TextPlatform:"Generic OCR")	at (1467, 699)	14	on_untitled	Untitled.script
+2016-04-26 16:10:34.316 -0600	typetext			16	on_untitled	Untitled.script
+2016-04-26 16:10:37.423 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(1467,841), ImageRectangle:(1217,831,1308,853), Language:"English", searchRectangle:(487,149,2069,920), text:"Submit", TextPlatform:"Generic OCR")	at (1467, 841)	14	on_untitled	Untitled.script
+2016-04-26 16:10:38.126 -0600	typetext			16	on_untitled	Untitled.script
+2016-04-26 16:10:38.628 -0600	EndTestCase		(Duration:"40.917213", Errors:"0", Exceptions:"0", StartTime:"2016-04-26 16:09:57 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-04-26 16:10:38.633 -0600	SUCCESS		Execution Time 0:00:40 Untitled.script

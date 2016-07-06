@@ -1,0 +1,5 @@
+﻿2016-05-23 13:40:33.945 -0600	START		Running Index.script
+2016-05-23 13:40:35.186 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(131,86), ImageRectangle:(57,71,206,102), Language:"English", searchrectangle:(0,0,375,266.799988), text:"Messages", TextPlatform:"Generic OCR")	found at (131, 86)	8	on_index	Index.script
+2016-05-23 13:40:35.202 -0600	Exception		Too Few Parameters, please use imagefound([TIME], image1[, ...])	9	on_index	Index.script
+2016-05-23 13:40:35.603 -0600	EndTestCase		(Duration:"1.656176", Errors:"1", Exceptions:"1", StartTime:"2016-05-23 13:40:33 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-23 13:40:36.678 -0600	FAILURE	Screen_Error.png	Error Running Script Command imagefound Error - Too Few Parameters, please use imagefound([TIME], image1[, ...]) -- Execution Time 0:00:01 Index.script

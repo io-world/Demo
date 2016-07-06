@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="close.script" package="Google Maps.suite" timestamp="2016-05-18 13:36:16.851 -0600"
+ tests="1" successes="1" errors="0" time="8.329597">
+  <properties>
+   <property name="RunDate" value="2016-05-18 13:36:16.851 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="close.script" assertions="1" successes="1" errors="0" time="8.327256">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,11 @@
+﻿2016-05-12 09:58:52.636 -0600	START		Running close.script
+2016-05-12 09:58:52.778 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 09:58:59.385 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 09:58:59.584 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	8	on_close	close.script
+2016-05-12 09:59:01.204 -0600	imagefound	Google Maps/Google Image	found at (623, 124)	5	on_close	close.script
+2016-05-12 09:59:01.252 -0600	set		REMOTEWORKINTERVAL = 0	15	on_close	close.script
+2016-05-12 09:59:01.424 -0600	swipeup		Swiped up from (375, 934) to (375, 400)	16	on_close	close.script
+2016-05-12 09:59:01.443 -0600	set		REMOTEWORKINTERVAL = 0.7	17	on_close	close.script
+2016-05-12 09:59:01.465 -0600	Exception	PressHomeButton	Could Not Open Image: PressHomeButton	20	on_close	close.script
+2016-05-12 09:59:01.709 -0600	EndTestCase		(Duration:"9.072305", Errors:"1", Exceptions:"1", StartTime:"2016-05-12 09:58:52 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 09:59:02.074 -0600	FAILURE	Screen_Error.png	File Not Found doubleclick Error - Could Not Open Image: PressHomeButton -- Execution Time 0:00:09 close.script

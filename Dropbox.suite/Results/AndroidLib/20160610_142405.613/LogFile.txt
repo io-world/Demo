@@ -1,0 +1,4 @@
+﻿2016-06-10 14:24:05.614 -0600	START		Running AndroidLib.script
+2016-06-10 14:24:08.316 -0600	click	Android/DropBox Icon	at (73, 737)	1	on_androidlib	AndroidLib.script
+2016-06-10 14:24:08.751 -0600	EndTestCase		(Duration:"3.136312", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 14:24:05 -0600", Successes:"1", TestCase:"AndroidLib.script", Warnings:"0")
+2016-06-10 14:24:08.758 -0600	SUCCESS		Execution Time 0:00:03 AndroidLib.script

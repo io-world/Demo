@@ -1,0 +1,8 @@
+﻿2016-05-11 15:36:45.440 -0600	START		Running index.script
+2016-05-11 15:36:45.588 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-11 15:36:45.599 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-11 15:36:45.660 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-11 15:36:45.997 -0600	click	Google Maps/Google Image	at (636, 645)	6	on_index	index.script
+2016-05-11 15:36:49.329 -0600	imagefound	Google Maps/Google Maps Clear Search	found at (683, 101)	8	on_index	index.script
+2016-05-11 15:36:49.716 -0600	EndTestCase		(Duration:"4.2731", Errors:"1", Exceptions:"0", StartTime:"2016-05-11 15:36:45 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:36:50.178 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'clicklocation' -- Execution Time 0:00:04 index.script

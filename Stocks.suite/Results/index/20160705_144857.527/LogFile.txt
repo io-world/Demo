@@ -1,0 +1,9 @@
+﻿2016-07-05 14:48:57.528 -0600	START		Running index.script
+2016-07-05 14:48:57.742 -0600	typetext		[windowsKey]	10	on_index	index.script
+2016-07-05 14:48:58.844 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
+2016-07-05 14:49:01.430 -0600	waitfor	Chrome Mic	found at (1016, 486)	13	on_index	index.script
+2016-07-05 14:49:01.570 -0600	typetext		goog[enter]	19	on_index	index.script
+2016-07-05 14:49:03.233 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(484,414), ImageRectangle:(471,409,497,420), Language:"English", searchRectangle:(353,318,671,447), Text:"USD", TextPlatform:"Generic OCR")	found at (484, 414)	20	on_index	index.script
+2016-07-05 14:49:12.415 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(144,90,576,360), Text:"USD", TextPlatform:"Generic OCR")	Unable To Find Image "(TEXT:"USD")"	21	on_index	index.script
+2016-07-05 14:49:12.717 -0600	EndTestCase		(Duration:"15.186325", Errors:"1", Exceptions:"1", StartTime:"2016-07-05 14:48:57 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-07-05 14:49:12.801 -0600	FAILURE	Screen_Error.png	Image Not Found imagelocation Error - Unable To Find Image "(TEXT:"USD")"  Restricted Search Rectangle ((144,90),(576,360))\n -- Execution Time 0:00:15 index.script

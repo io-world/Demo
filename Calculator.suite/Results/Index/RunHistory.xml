@@ -1,0 +1,815 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2016-05-06 12:41:50.815 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.733450</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_124150.815/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 12:43:01.076 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.720319</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_124301.076/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 12:47:30.585 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.751745</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_124730.585/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 12:48:20.725 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.512688</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_124820.725/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 12:58:15.776 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.534843</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_125815.776/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 12:58:27.148 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.284834</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_125827.148/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 12:59:16.016 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.303779</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_125916.016/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- imagelocation Error - Too Few Parameters, please use imagelocation(image1[, ...])</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 12:59:32.005 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.626450</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_125932.005/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:01:58.664 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.575315</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_130158.664/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:05:48.729 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.407487</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_130548.729/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- click Error - Error Computing Rectangle: (755,294),(928,553)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:10:50.117 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.377937</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_131050.117/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;(TEXT:&quot;2&quot;)&quot;  Restricted Search Rectangle ((781,320),(954,579))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:11:27.587 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160506_131127.587/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:20:35.771 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.324909</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_132035.771/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in click:
+Syntax Error at line 14: Syntax Error - can&#x27;t understand &quot;Click&quot; at or near character 317</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:21:27.906 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.296460</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_132127.906/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in press:
+Syntax Error at line 14: Syntax Error - can&#x27;t understand &quot;Press&quot; at or near character 317</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:22:25.716 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.293546</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_132225.716/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;enterv&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:30:24.762 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.991996</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_133024.762/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 13:34:34.984 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.306643</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_133434.984/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in math:
+Warning at line 17: Warning - Non-matching handler name: c</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 15:39:40.944 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.430946</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_153940.944/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 15:46:33.138 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.430148</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_154633.138/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidParameters -- Command answer was called with invalid parameters</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 15:53:38.691 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.855683</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_155338.691/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 15:54:36.232 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.121436</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_155436.232/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;(TEXT:&quot;+9&quot;)&quot;  Restricted Search Rectangle ((1067,253),(1260,422))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 15:59:27.446 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>24.663013</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_155927.446/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;(TEXT:&quot;-0&quot;)&quot;  Restricted Search Rectangle ((1067,288),(1190,407))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 16:00:12.087 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>24.762164</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160506_160012.087/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;(TEXT:&quot;-0&quot;)&quot;  Restricted Search Rectangle ((1067,288),(1190,409))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 16:00:48.223 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>23.805293</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_160048.223/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 16:02:57.445 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>23.293961</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_160257.445/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 16:05:58.810 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>23.747628</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_160558.810/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-06 16:06:33.350 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>23.731890</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160506_160633.350/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 08:44:38.085 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>37.838088</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_084438.085/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 09:03:03.414 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>37.810822</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_090303.414/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 09:09:28.454 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>38.037197</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_090928.454/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 09:10:52.311 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.849478</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_091052.311/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 09:11:17.610 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.871187</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_091117.610/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 09:12:16.191 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.846364</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_091216.191/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:21:40.347 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.307350</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_152140.347/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:22:40.143 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.530857</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_152240.143/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 09:44:13.519 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.512013</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_094413.519/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 09:44:43.450 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.247530</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_094443.450/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 09:45:09.857 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.048918</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_094509.857/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 15:04:38.567 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>15.162303</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_150438.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 15:05:07.734 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>15.050896</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_150507.734/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 15:05:33.989 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.979395</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_150533.989/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 15:05:59.965 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.940710</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_150559.965/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 15:06:25.308 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.957617</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_150625.308/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-11 10:12:49.246 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.134955</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160511_101249.246/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Run Icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-13 10:18:44.363 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>18.579666</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160513_101844.363/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-13 10:19:14.128 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>18.984144</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160513_101914.128/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-19 10:14:47.239 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>16.267276</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160519_101447.239/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 12:38:30.388 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.826513</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160526_123830.388/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Run Icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 12:39:16.296 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.102065</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160526_123916.296/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;Calculator/MC Icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 12:45:12.102 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>7.612088</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160526_124512.102/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;Operators/Equals Sign&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 12:50:01.779 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.602531</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160526_125001.779/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Operators/Multiple&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 12:51:20.824 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>17.506194</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160526_125120.824/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Calculator/Close Icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 12:52:42.260 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.135149</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160526_125242.260/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 12:56:40.295 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>32.121150</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160526_125640.295/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 13:29:13.088 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>36.336895</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160526_132913.088/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 13:29:54.116 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>39.834145</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160526_132954.116/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 13:30:58.852 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.010225</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160526_133058.852/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- click Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 13:31:25.247 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.929998</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160526_133125.247/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- click Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 13:32:02.976 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>7.006899</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160526_133202.976/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- click Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-26 13:32:33.133 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.426181</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160526_133233.133/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 10:35:21.261 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>9.174361</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160608_103521.261/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 10:35:37.845 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>26.876131</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160608_103537.845/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-14 12:24:33.451 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.486051</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160614_122433.451/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;(TEXT:&quot;/0&quot;)&quot;  Restricted Search Rectangle ((176,266),(294,390))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-14 12:25:05.799 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>28.582591</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160614_122505.799/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-15 14:35:43.333 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>14.362210</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160615_143543.333/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Run Icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-15 14:36:11.872 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>13.652772</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160615_143611.872/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Run Icon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-15 14:36:50.287 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>18.219578</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160615_143650.287/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

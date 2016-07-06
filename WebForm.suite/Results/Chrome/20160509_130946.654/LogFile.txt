@@ -1,0 +1,8 @@
+﻿2016-05-09 13:09:46.655 -0600	START		Running Open.script
+2016-05-09 13:09:47.178 -0600	click	Chrome	at (391, 879)	2	on_open	Open.script
+2016-05-09 13:09:50.279 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(231,43), ImageRectangle:(171,35,292,51), Language:"English", searchRectangle:(0,0,360,225), text:"www.google.com", TextPlatform:"Generic OCR")	at (231, 43)	4	on_open	Open.script
+2016-05-09 13:09:50.996 -0600	typetext		[backspace]	6	on_open	Open.script
+2016-05-09 13:09:52.477 -0600	typetext		file:///C:/Users/Administrator/Desktop/TestPlantWebForm.html	7	on_open	Open.script
+2016-05-09 13:09:53.194 -0600	typetext		[enter]	8	on_open	Open.script
+2016-05-09 13:09:53.607 -0600	EndTestCase		(Duration:"6.949823", Errors:"0", Exceptions:"0", StartTime:"2016-05-09 13:09:46 -0600", Successes:"1", TestCase:"Open.script", Warnings:"0")
+2016-05-09 13:09:53.612 -0600	SUCCESS		Execution Time 0:00:06 Open.script

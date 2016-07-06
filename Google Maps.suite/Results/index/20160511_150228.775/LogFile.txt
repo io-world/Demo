@@ -1,0 +1,6 @@
+﻿2016-05-11 15:02:28.776 -0600	START		Running index.script
+2016-05-11 15:02:29.244 -0600	click	Google Maps/Google Image	at (636, 645)	5	on_index	index.script
+2016-05-11 15:02:32.465 -0600	click	Google Maps/Google Maps Menu	at (237, 102)	6	on_index	index.script
+2016-05-11 15:02:37.483 -0600	Exception	Google Maps/Microphone	No Image Found On Screen: "Google Maps/Microphone"	10	on_index	index.script
+2016-05-11 15:02:37.870 -0600	EndTestCase		(Duration:"9.093029", Errors:"1", Exceptions:"1", StartTime:"2016-05-11 15:02:28 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:02:37.940 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Google Maps/Microphone" -- Execution Time 0:00:09 index.script

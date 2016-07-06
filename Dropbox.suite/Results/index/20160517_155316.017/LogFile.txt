@@ -1,0 +1,7 @@
+﻿2016-05-17 15:53:16.018 -0600	START		Running index.script
+2016-05-17 15:53:16.577 -0600	rightclick	Desktop Area	at (471, 174)	1	on_index	index.script
+2016-05-17 15:53:17.874 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	7	on_index	index.script
+2016-05-17 15:53:19.738 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	8	on_index	index.script
+2016-05-17 15:53:19.739 -0600	Log		((767,418),(740,440))	8	on_index	index.script
+2016-05-17 15:53:19.926 -0600	EndTestCase		(Duration:"3.906918", Errors:"0", Exceptions:"0", StartTime:"2016-05-17 15:53:16 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-17 15:53:19.930 -0600	SUCCESS		Execution Time 0:00:03 index.script

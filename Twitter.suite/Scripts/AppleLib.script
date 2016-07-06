@@ -1,0 +1,29 @@
+﻿on Constructor
+end Constructor
+
+
+on unlock
+	PressHomeButton
+	SwipeRight (00,600)
+	Click (160,845)
+	Click (370,1035)
+	Click (580,685)
+	Click (370,1035)
+	wait 2
+	PressHomeButton
+	PressHomeButton
+	
+	Log "Apple iPhone 6s"
+	
+end unlock
+
+
+
+on resetChrome
+	
+	Click "Apple/Chrome Tab"
+	Click "Apple/Close Tab"
+	Click "Apple/New Tab"
+	PressHomeButton
+	
+end resetChrome

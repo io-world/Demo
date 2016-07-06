@@ -1,0 +1,6 @@
+﻿2016-05-12 16:14:17.454 -0600	START		Running Untitled.script
+2016-05-12 16:14:17.586 -0600	typetext		[homeKey][homeKey]	1	on_untitled	Untitled.script
+2016-05-12 16:14:19.687 -0600	swipeup		Swiped up from (675, 667) to (675, 400)	3	on_untitled	Untitled.script
+2016-05-12 16:14:21.832 -0600	tap		at (675, 667)	5	on_untitled	Untitled.script
+2016-05-12 16:14:22.166 -0600	EndTestCase		(Duration:"4.710388", Errors:"0", Exceptions:"0", StartTime:"2016-05-12 16:14:17 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-05-12 16:14:22.172 -0600	SUCCESS		Execution Time 0:00:04 Untitled.script

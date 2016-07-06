@@ -1,0 +1,19 @@
+﻿2016-05-02 13:51:06.254 -0600	START		Running Index.script
+2016-05-02 13:51:12.285 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	2	on_index	Index.script
+2016-05-02 13:51:18.239 -0600	imagefound	Apple/Phone Icon	Unable to Find Image Apple/Phone Icon	7	on_index	Index.script
+2016-05-02 13:51:18.264 -0600	presshomebutton			2	on_unlock	AppleLib.script
+2016-05-02 13:51:19.176 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	3	on_unlock	AppleLib.script
+2016-05-02 13:51:19.983 -0600	click		at (160, 845)	4	on_unlock	AppleLib.script
+2016-05-02 13:51:20.790 -0600	click		at (370, 1035)	5	on_unlock	AppleLib.script
+2016-05-02 13:51:21.599 -0600	click		at (580, 685)	6	on_unlock	AppleLib.script
+2016-05-02 13:51:22.411 -0600	click		at (370, 1035)	7	on_unlock	AppleLib.script
+2016-05-02 13:51:24.414 -0600	presshomebutton			9	on_unlock	AppleLib.script
+2016-05-02 13:51:25.120 -0600	presshomebutton			10	on_unlock	AppleLib.script
+2016-05-02 13:51:25.123 -0600	Log		Apple iPhone 6s	10	on_index	Index.script
+2016-05-02 13:51:26.188 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-05-02 13:51:26.193 -0600	LogSuccess		Chrome has Been Launched	14	on_index	Index.script
+2016-05-02 13:51:27.276 -0600	waitfor	Chrome Search Icons	found at (76, 528)	2	on_search	ChromeLib.script
+2016-05-02 13:51:27.496 -0600	typetext		mobile.twitter.com	3	on_search	ChromeLib.script
+2016-05-02 13:51:42.870 -0600	Exception	Chrome Enter	No Image Found On Screen: "Chrome Enter"	4	on_search	ChromeLib.script
+2016-05-02 13:51:43.178 -0600	EndTestCase		(Duration:"36.921775", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 13:51:06 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-02 13:51:43.178 -0600	ABORTED		Execution Time 0:00:36 Index.script

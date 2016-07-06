@@ -1,0 +1,6 @@
+﻿2016-05-12 09:56:46.798 -0600	START		Running close.script
+2016-05-12 09:56:46.941 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 09:56:53.445 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 09:56:53.519 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	8	on_close	close.script
+2016-05-12 09:56:57.341 -0600	EndTestCase		(Duration:"10.54231", Errors:"1", Exceptions:"0", StartTime:"2016-05-12 09:56:46 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 09:56:57.342 -0600	ABORTED		Execution Time 0:00:10 close.script

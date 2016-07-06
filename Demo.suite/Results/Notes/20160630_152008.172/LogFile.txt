@@ -1,0 +1,4 @@
+﻿2016-06-30 15:20:08.173 -0600	START		Running Notes.script
+2016-06-30 15:20:08.519 -0600	click	Chrome Icon 2	at (288, 817)	1	on_notes	Notes.script
+2016-06-30 15:20:08.918 -0600	EndTestCase		(Duration:"0.74394", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 15:20:08 -0600", Successes:"1", TestCase:"Notes.script", Warnings:"0")
+2016-06-30 15:20:08.922 -0600	SUCCESS		Execution Time 0:00:00 Notes.script

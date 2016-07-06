@@ -1,0 +1,6 @@
+﻿2016-04-21 15:59:40.448 -0600	START		Running index.script
+2016-04-21 15:59:40.568 -0600	typetext		goog	15	on_index	index.script
+2016-04-21 15:59:41.284 -0600	typetext		[enter]	16	on_index	index.script
+2016-04-21 15:59:43.287 -0600	Exception		Too Many Parameters, please use searchrectangle() with no parameters\n	21	on_index	index.script
+2016-04-21 15:59:43.768 -0600	EndTestCase		(Duration:"3.31897", Errors:"1", Exceptions:"1", StartTime:"2016-04-21 15:59:40 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-04-21 15:59:45.167 -0600	FAILURE	Screen_Error.png	Error Running Script Command searchrectangle Error - Too Many Parameters, please use searchrectangle() with no parameters\n -- Execution Time 0:00:03 index.script

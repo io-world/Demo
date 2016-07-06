@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="EPMIndex.script" package="Twitter.suite" timestamp="2016-06-03 08:16:36.629 -0600"
+ tests="1" successes="1" errors="1" time="102.748095">
+  <properties>
+   <property name="RunDate" value="2016-06-03 08:16:36.629 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="EPMIndex.script" assertions="2" successes="1" errors="1" time="102.746229">
+  </testcase>
+ </testsuite>
+</testsuites>

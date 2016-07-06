@@ -1,0 +1,5 @@
+﻿2016-05-18 14:57:49.818 -0600	START		Running index.script
+2016-05-18 14:57:50.045 -0600	typetext		[windowsKey]	10	on_index	index.script
+2016-05-18 14:57:58.510 -0600	Exception	Chrome	No Image Found On Screen: "Chrome"	11	on_index	index.script
+2016-05-18 14:57:58.907 -0600	EndTestCase		(Duration:"9.087556", Errors:"1", Exceptions:"1", StartTime:"2016-05-18 14:57:49 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 14:57:58.965 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Chrome" -- Execution Time 0:00:09 index.script

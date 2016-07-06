@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="AndroidLib">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-10 14:24:05 -0600</FirstRun>
+  <LastRun>2016-06-10 14:24:05 -0600</LastRun>
+  <TotalTimeOnSuccess>3.137595</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>68</NumberOfRuns>
+  <NumberOfFails>36</NumberOfFails>
+  <FirstRun>2016-05-17 15:44:03 -0600</FirstRun>
+  <LastRun>2016-06-30 15:25:01 -0600</LastRun>
+  <TotalTimeOnSuccess>1557.399856</TotalTimeOnSuccess>
+ </script>
+</statistics>

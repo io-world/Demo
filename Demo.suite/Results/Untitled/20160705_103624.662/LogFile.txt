@@ -1,0 +1,3 @@
+﻿2016-07-05 10:36:24.664 -0600	START		Running Untitled.script
+2016-07-05 10:36:25.076 -0600	EndTestCase		(Duration:"0.409518", Errors:"1", Exceptions:"0", StartTime:"2016-07-05 10:36:24 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-07-05 10:36:25.253 -0600	FAILURE	Screen_Error.png	STDatabaseConnectionError Failed to connect to ODBC database odbc:3 Reason: [iODBC][Driver Manager]Data source name not found and no default driver specified. Driver could not be loaded, SQLSTATE=IM002 -- Execution Time 0:00:00 Untitled.script

@@ -1,0 +1,29 @@
+﻿2016-04-19 16:50:46.255 -0600	START		Running Index.script
+2016-04-19 16:50:47.145 -0600	imagefound	Windows/Start	found at (31, 1415)	3	on_index	Index.script
+2016-04-19 16:50:47.192 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-04-19 16:50:49.670 -0600	click	Chrome Icons	at (244, 869)	2	on_launch	ChromeLib.script
+2016-04-19 16:50:53.417 -0600	click	Chrome Search Icons	at (751, 802)	2	on_search	ChromeLib.script
+2016-04-19 16:50:54.353 -0600	typetext		mobile.twitter.com	3	on_search	ChromeLib.script
+2016-04-19 16:50:55.539 -0600	click	Chrome Enter	at (1470, 181)	4	on_search	ChromeLib.script
+2016-04-19 16:50:57.027 -0600	imagefound	Twitter/Link/Windows Twittter Link	found at (327, 486)	6	on_search	ChromeLib.script
+2016-04-19 16:50:57.987 -0600	click	Twitter/Link/Windows Twittter Link	at (327, 486)	7	on_search	ChromeLib.script
+2016-04-19 16:50:59.835 -0600	click	Twitter/Log In/Logo	at (2338, 202)	3	on_twitterlogin	TwitterLib.script
+2016-04-19 16:51:00.619 -0600	waitfor	Twitter/Log In/Wait	found at (1278, 546)	4	on_twitterlogin	TwitterLib.script
+2016-04-19 16:51:02.217 -0600	click	Twitter/Log In/Click Username	at (1201, 629)	5	on_twitterlogin	TwitterLib.script
+2016-04-19 16:51:03.060 -0600	typetext		iotestplant	6	on_twitterlogin	TwitterLib.script
+2016-04-19 16:51:05.476 -0600	click	Twitter/Log In/Click Password	at (1098, 710)	7	on_twitterlogin	TwitterLib.script
+2016-04-19 16:51:06.308 -0600	typetext		twittergo4	8	on_twitterlogin	TwitterLib.script
+2016-04-19 16:51:08.666 -0600	click	Twitter/Log In/Click Log In	at (1273, 852)	9	on_twitterlogin	TwitterLib.script
+2016-04-19 16:51:11.830 -0600	click	Twitter/Tweet/Logo	at (2324, 170)	3	on_tweet	TwitterLib.script
+2016-04-19 16:51:13.485 -0600	click	Twitter/Tweet/ClickWhat	at (833, 521)	4	on_tweet	TwitterLib.script
+2016-04-19 16:51:14.755 -0600	typetext		I think i have too many tweets today already	5	on_tweet	TwitterLib.script
+2016-04-19 16:51:16.621 -0600	click	Twitter/Tweet/Post	at (1747, 698)	6	on_tweet	TwitterLib.script
+2016-04-19 16:51:17.651 -0600	imagefound	Twitter/Tweet/Tweet Error/Error	found at (1266, 172)	8	on_tweet	TwitterLib.script
+2016-04-19 16:51:19.435 -0600	click	Twitter/Tweet/Tweet Error/Close	at (1829, 412)	9	on_tweet	TwitterLib.script
+2016-04-19 16:51:20.745 -0600	click	Twitter/Log Out/Profile	at (2212, 174)	2	on_logout	TwitterLib.script
+2016-04-19 16:51:33.741 -0600	imagefound	Twitter/Log Out/Settings/	Unable to Find Image Twitter/Log Out/Settings/	4	on_logout	TwitterLib.script
+2016-04-19 16:51:36.521 -0600	click	Twitter/Log Out/Log Out Button	at (2093, 656)	8	on_logout	TwitterLib.script
+2016-04-19 16:51:39.847 -0600	imagefound	Windows/Start	found at (31, 1415)	19	on_index	Index.script
+2016-04-19 16:51:40.443 -0600	click	Windows/Close	at (2511, 21)	3	on_closeapplication	WindowsLib.script
+2016-04-19 16:51:41.071 -0600	EndTestCase		(Duration:"54.813468", Errors:"0", Exceptions:"0", StartTime:"2016-04-19 16:50:46 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-04-19 16:51:41.075 -0600	SUCCESS		Execution Time 0:00:54 Index.script

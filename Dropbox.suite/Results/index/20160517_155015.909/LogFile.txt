@@ -1,0 +1,5 @@
+﻿2016-05-17 15:50:15.909 -0600	START		Running index.script
+2016-05-17 15:50:16.543 -0600	rightclick	Desktop Area	at (832, 174)	1	on_index	index.script
+2016-05-17 15:50:16.717 -0600	Log		(832,174,982,474)	6	on_index	index.script
+2016-05-17 15:50:16.902 -0600	EndTestCase		(Duration:"0.991274", Errors:"1", Exceptions:"0", StartTime:"2016-05-17 15:50:15 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-17 15:50:17.251 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'rmenu' -- Execution Time 0:00:00 index.script

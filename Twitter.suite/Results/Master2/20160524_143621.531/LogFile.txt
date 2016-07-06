@@ -1,0 +1,17 @@
+﻿2016-05-24 14:36:21.532 -0600	START		Running Index2.script
+2016-05-24 14:36:21.663 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-24 14:36:21.665 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-05-24 14:36:23.307 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-05-24 14:36:23.310 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-24 14:36:25.863 -0600	click	Chrome Refresh	at (167, 42)	3	on_brower	ChromeLib.script
+2016-05-24 14:36:26.579 -0600	typetext		[backspace]	4	on_brower	ChromeLib.script
+2016-05-24 14:36:27.617 -0600	typetext		www.twitter.com/iotestplant	5	on_brower	ChromeLib.script
+2016-05-24 14:36:28.335 -0600	typetext		[enter]	6	on_brower	ChromeLib.script
+2016-05-24 14:36:32.283 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(454,300), ImageRectangle:(431,296,477,304), Language:"English", text:"Tweets", TextPlatform:"Generic OCR")	found at (454, 300)	9	on_index2	Index2.script
+2016-05-24 14:36:32.762 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(460,375), ImageRectangle:(432,369,488,382), Language:"English", searchRectangle:(360,315,720,450), text:"Tweets", TextPlatform:"Generic OCR")	at (460, 375)	10	on_index2	Index2.script
+2016-05-24 14:36:32.838 -0600	set		SEARCHRECTANGLE = (480,427,1000,475)	16	on_index2	Index2.script
+2016-05-24 14:36:36.929 -0600	readtext		(480,427,1000,475)
+2016-05-24 14:36:36.929 -0600	Log		Its very CLoudy today	19	on_index2	Index2.script
+2016-05-24 14:36:37.448 -0600	click	Windows/Close	at (1414, 10)	3	on_closeapplication	WindowsLib.script
+2016-05-24 14:36:37.842 -0600	EndTestCase		(Duration:"16.3091", Errors:"0", Exceptions:"0", StartTime:"2016-05-24 14:36:21 -0600", Successes:"1", TestCase:"Index2.script", Warnings:"0")
+2016-05-24 14:36:37.848 -0600	SUCCESS		Execution Time 0:00:16 Index2.script

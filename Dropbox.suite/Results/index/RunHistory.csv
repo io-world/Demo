@@ -1,0 +1,79 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-17 15:44:03.020 -0600,"Success",0:00:00,0,0,0,"20160517_154403.020/LogFile.txt","","",1
+2016-05-17 15:45:48.313 -0600,"Success",0:00:00,0,0,0,"20160517_154548.313/LogFile.txt","","",1
+2016-05-17 15:47:17.924 -0600,"Failure",0:00:00,1,0,0,"20160517_154717.924/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 8: Syntax Error - can't understand [end of script] at or near character 185",0
+2016-05-17 15:47:25.399 -0600,"Failure",0:00:00,1,0,0,"20160517_154725.399/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 8: Syntax Error - can't understand [end of script] at or near character 185",0
+2016-05-17 15:47:44.738 -0600,"Success",0:00:00,0,0,0,"20160517_154744.738/LogFile.txt","","",1
+2016-05-17 15:49:51.737 -0600,"Failure",0:00:00,1,0,0,"20160517_154951.737/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 8: Syntax Error - can't understand [end of script] at or near character 185",0
+2016-05-17 15:50:01.408 -0600,"Success",0:00:00,0,0,0,"20160517_155001.408/LogFile.txt","","",1
+2016-05-17 15:50:15.909 -0600,"Failure",0:00:00,1,0,0,"20160517_155015.909/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'rmenu'",0
+2016-05-17 15:50:31.982 -0600,"Success",0:00:02,0,0,0,"20160517_155031.982/LogFile.txt","","",1
+2016-05-17 15:51:09.449 -0600,"Failure",0:00:07,1,0,1,"20160517_155109.449/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Text Document"")""  Restricted Search Rectangle ((489,174),(639,674))\n",0
+2016-05-17 15:51:24.735 -0600,"Failure",0:00:10,1,0,1,"20160517_155124.735/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Text Document"")""  Restricted Search Rectangle ((489,174),(989,374))\n",0
+2016-05-17 15:51:40.328 -0600,"Success",0:00:03,0,0,0,"20160517_155140.328/LogFile.txt","","",1
+2016-05-17 15:52:41.916 -0600,"Success",0:00:02,0,0,0,"20160517_155241.916/LogFile.txt","","",1
+2016-05-17 15:53:16.017 -0600,"Success",0:00:03,0,0,0,"20160517_155316.017/LogFile.txt","","",1
+2016-05-17 15:53:46.338 -0600,"Success",0:00:03,0,0,0,"20160517_155346.338/LogFile.txt","","",1
+2016-05-17 16:00:28.318 -0600,"Running",0:00:00,0,0,0,"20160517_160028.318/LogFile.txt","","",0
+2016-05-18 08:14:57.436 -0600,"Failure",0:00:13,1,0,1,"20160518_081457.436/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: ￼",0
+2016-05-18 09:03:01.103 -0600,"Success",0:00:14,0,0,0,"20160518_090301.103/LogFile.txt","","",1
+2016-05-18 09:05:41.993 -0600,"Failure",0:00:14,1,0,0,"20160518_090541.993/LogFile.txt","","STUnknownMessage -- ERROR: 'imagefound' was called as a Command, but is only available as a Function",0
+2016-05-18 09:13:11.159 -0600,"Running",0:00:00,0,0,0,"20160518_091311.159/LogFile.txt","","",0
+2016-05-18 09:17:46.623 -0600,"Failure",0:00:15,1,0,0,"20160518_091746.623/LogFile.txt","","Error Running Script Command -- click Error - Error Computing Rectangle: (\n    672,\n    360,\n    1072,\n    760,\n    485,\n    245,\n    885,\n    645\n)",0
+2016-05-18 09:18:40.252 -0600,"Failure",0:00:15,1,0,0,"20160518_091840.252/LogFile.txt","","Error Running Script Command -- click Error - Error Computing Rectangle: (\n    672,\n    360,\n    1072,\n    760,\n    485,\n    245,\n    885,\n    645\n)",0
+2016-05-18 09:19:35.692 -0600,"Failure",0:00:15,1,0,0,"20160518_091935.692/LogFile.txt","","Error Running Script Command -- click Error - Error Computing Rectangle: (\n    672,\n    360,\n    1072,\n    760,\n    485,\n    245,\n    885,\n    645\n)",0
+2016-05-18 09:22:06.348 -0600,"Failure",0:00:16,1,0,0,"20160518_092206.348/LogFile.txt","","Error Running Script Command -- click Error - Error Computing Rectangle: (\n    672,\n    360,\n    1072,\n    760,\n    485,\n    245,\n    885,\n    645\n)",0
+2016-05-18 09:24:08.413 -0600,"Failure",0:00:16,1,0,0,"20160518_092408.413/LogFile.txt","","Error Running Script Command -- click Error - Error Computing Rectangle: (\n    471,\n    174,\n    871,\n    574,\n    485,\n    245,\n    885,\n    645\n)",0
+2016-05-18 09:24:40.540 -0600,"Running",0:00:00,0,0,0,"20160518_092440.540/LogFile.txt","","",0
+2016-05-18 09:24:56.981 -0600,"Running",0:00:00,0,0,0,"20160518_092456.981/LogFile.txt","","",0
+2016-05-18 11:23:24.637 -0600,"Failure",0:00:01,1,0,0,"20160518_112324.637/LogFile.txt","","Error Running Script Command -- click Error - Error Computing Rectangle: rmenu",0
+2016-05-18 11:26:07.070 -0600,"Failure",0:00:20,1,0,1,"20160518_112607.070/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""DropBox Item"" within 2.00 seconds",0
+2016-05-18 11:41:44.585 -0600,"Failure",0:00:40,1,0,1,"20160518_114144.585/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Paste"")""  Restricted Search Rectangle ((485,245),(885,645))\n",0
+2016-05-18 11:52:23.038 -0600,"Failure",0:00:03,1,0,0,"20160518_115223.038/LogFile.txt","","Error Running Script Command -- everyimagelocation Error - Error Computing Rectangle: rmenu",0
+2016-05-18 12:58:07.234 -0600,"Failure",0:00:00,1,0,0,"20160518_125807.234/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 2: Syntax Error - can't understand ""int"" at or near character 89",0
+2016-05-18 12:58:16.457 -0600,"Failure",0:00:00,1,0,0,"20160518_125816.457/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 2: Syntax Error - can't understand ""int"" at or near character 89",0
+2016-05-18 12:58:26.984 -0600,"Failure",0:00:00,1,0,0,"20160518_125826.984/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 2: Syntax Error - can't understand ""int"" at or near character 89",0
+2016-05-18 12:58:42.981 -0600,"Failure",0:00:00,1,0,0,"20160518_125842.981/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 2: Syntax Error - can't understand ""int"" at or near character 89",0
+2016-05-18 12:59:18.271 -0600,"Failure",0:00:00,1,0,0,"20160518_125918.271/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 2: Syntax Error - can't understand ""int"" at or near character 89",0
+2016-05-18 13:16:10.932 -0600,"Success",0:00:29,0,0,0,"20160518_131610.932/LogFile.txt","","",1
+2016-05-18 13:54:55.567 -0600,"Success",0:00:24,0,0,0,"20160518_135455.567/LogFile.txt","","",1
+2016-05-18 13:59:10.504 -0600,"Success",0:00:28,0,0,0,"20160518_135910.504/LogFile.txt","","",1
+2016-05-18 14:04:40.195 -0600,"Failure",0:00:04,1,0,1,"20160518_140440.195/LogFile.txt","","Image Not Found -- rightclick Error - No Image Found On Screen: ""Desktop Area""",0
+2016-05-18 14:05:02.581 -0600,"Failure",0:00:43,1,0,1,"20160518_140502.581/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/DropBox Double Delete""",0
+2016-05-18 14:08:50.516 -0600,"Success",0:00:52,0,0,0,"20160518_140850.516/LogFile.txt","","",1
+2016-05-18 14:09:48.319 -0600,"Success",0:00:58,0,0,0,"20160518_140948.319/LogFile.txt","","",1
+2016-05-18 14:27:50.302 -0600,"Success",0:00:52,0,0,0,"20160518_142750.302/LogFile.txt","","",1
+2016-05-18 14:33:02.542 -0600,"Success",0:00:57,0,0,0,"20160518_143302.542/LogFile.txt","","",1
+2016-05-19 09:11:10.483 -0600,"Success",0:00:24,0,0,0,"20160519_091110.483/LogFile.txt","","",1
+2016-05-23 09:04:39.734 -0600,"Success",0:00:24,0,0,0,"20160523_090439.734/LogFile.txt","","",1
+2016-05-23 13:02:37.051 -0600,"Failure",0:00:39,1,0,1,"20160523_130237.051/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/DropBox Icon""",0
+2016-05-23 13:06:09.205 -0600,"Success",0:00:56,0,0,0,"20160523_130609.205/LogFile.txt","","",1
+2016-06-02 08:54:27.914 -0600,"Success",0:01:03,0,0,0,"20160602_085427.914/LogFile.txt","","",1
+2016-06-08 10:47:18.261 -0600,"Failure",0:01:02,1,0,1,"20160608_104718.261/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/DropBox Double Delete""",0
+2016-06-10 13:54:08.904 -0600,"Failure",0:00:27,1,0,0,"20160610_135408.904/LogFile.txt","","SenseTalk Compiler Exception -- in dropboxread:\nWarning at line 8: Warning - Non-matching handler name: DropBox",0
+2016-06-10 14:53:13.730 -0600,"Failure",0:00:30,1,0,1,"20160610_145313.730/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Android/Drop Box Icon""",0
+2016-06-10 14:56:58.235 -0600,"Success",0:01:26,0,0,0,"20160610_145658.235/LogFile.txt","","",1
+2016-06-10 15:01:24.039 -0600,"Success",0:01:33,0,0,0,"20160610_150124.039/LogFile.txt","","",1
+2016-06-10 15:06:43.218 -0600,"Success",0:01:29,0,0,0,"20160610_150643.218/LogFile.txt","","",1
+2016-06-13 08:06:32.214 -0600,"Failure",0:01:16,1,0,1,"20160613_080632.214/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Another File"")""",0
+2016-06-13 08:09:47.471 -0600,"Running",0:00:00,0,0,0,"20160613_080947.471/LogFile.txt","","",0
+2016-06-13 08:10:47.114 -0600,"Success",0:01:30,0,0,0,"20160613_081047.114/LogFile.txt","","",1
+2016-06-13 08:30:22.758 -0600,"Success",0:01:32,0,0,0,"20160613_083022.758/LogFile.txt","","",1
+2016-06-13 08:32:14.088 -0600,"Failure",0:00:51,1,0,1,"20160613_083214.088/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""OHIO FIle"")""",0
+2016-06-13 08:35:20.476 -0600,"Failure",0:01:24,1,0,1,"20160613_083520.476/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""OHIO FIle"")""",0
+2016-06-13 08:40:37.002 -0600,"Running",0:00:00,0,0,0,"20160613_084037.002/LogFile.txt","","",0
+2016-06-13 08:41:34.411 -0600,"Running",0:00:00,0,0,0,"20160613_084134.411/LogFile.txt","","",0
+2016-06-13 08:42:45.679 -0600,"Running",0:00:00,0,0,0,"20160613_084245.679/LogFile.txt","","",0
+2016-06-13 08:43:02.105 -0600,"Failure",0:01:26,1,0,1,"20160613_084302.105/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Android/Drop Box Menu Icon""",0
+2016-06-13 08:55:42.619 -0600,"Running",0:00:00,0,0,0,"20160613_085542.619/LogFile.txt","","",0
+2016-06-13 08:56:27.902 -0600,"Success",0:01:40,0,0,0,"20160613_085627.902/LogFile.txt","","",1
+2016-06-13 09:03:46.114 -0600,"Success",0:01:40,0,0,0,"20160613_090346.114/LogFile.txt","","",1
+2016-06-13 10:18:50.068 -0600,"Failure",0:01:30,1,0,1,"20160613_101850.068/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Dish File"")""",0
+2016-06-13 10:32:49.493 -0600,"Success",0:01:39,0,0,0,"20160613_103249.493/LogFile.txt","","",1
+2016-06-13 11:08:10.766 -0600,"Success",0:01:43,0,0,0,"20160613_110810.766/LogFile.txt","","",1
+2016-06-13 12:26:17.868 -0600,"Success",0:01:42,0,0,0,"20160613_122617.868/LogFile.txt","","",1
+2016-06-14 12:38:57.780 -0600,"Running",0:00:00,0,0,0,"20160614_123857.780/LogFile.txt","","",0
+2016-06-15 14:10:23.500 -0600,"Failure",0:00:48,1,0,1,"20160615_141023.500/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Dish File"")""",0
+2016-06-15 14:22:25.752 -0600,"Failure",0:01:18,1,0,1,"20160615_142225.752/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Recents"")""",0
+2016-06-30 15:22:30.115 -0600,"Failure",0:01:08,1,0,1,"20160630_152230.115/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/DropBox Menu Icon""",0
+2016-06-30 15:25:01.373 -0600,"Success",0:01:31,0,0,0,"20160630_152501.373/LogFile.txt","","",1

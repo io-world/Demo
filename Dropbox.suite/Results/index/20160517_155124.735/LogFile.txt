@@ -1,0 +1,7 @@
+﻿2016-05-17 15:51:24.736 -0600	START		Running index.script
+2016-05-17 15:51:25.267 -0600	rightclick	Desktop Area	at (489, 174)	1	on_index	index.script
+2016-05-17 15:51:25.298 -0600	Log		(489,174,989,374)	6	on_index	index.script
+2016-05-17 15:51:26.535 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(535,304), ImageRectangle:(524,300,547,309), Language:"English", searchRectangle:(489,174,989,374), Text:"New", TextPlatform:"Generic OCR")	at (535, 304)	8	on_index	index.script
+2016-05-17 15:51:34.718 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(489,174,989,374), Text:"Text Document", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"Text Document")"	9	on_index	index.script
+2016-05-17 15:51:34.901 -0600	EndTestCase		(Duration:"10.162973", Errors:"1", Exceptions:"1", StartTime:"2016-05-17 15:51:24 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-17 15:51:34.975 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "(TEXT:"Text Document")"  Restricted Search Rectangle ((489,174),(989,374))\n -- Execution Time 0:00:10 index.script

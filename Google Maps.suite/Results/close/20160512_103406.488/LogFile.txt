@@ -1,0 +1,32 @@
+﻿2016-05-12 10:34:06.489 -0600	START		Running close.script
+2016-05-12 10:34:06.646 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 10:34:07.405 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:07.405 -0600	Log		Certify Mobile	6	on_close	close.script
+2016-05-12 10:34:09.472 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:09.528 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	13	on_close	close.script
+2016-05-12 10:34:10.299 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:10.300 -0600	Log		Certify Mobile	6	on_close	close.script
+2016-05-12 10:34:12.355 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:12.418 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	13	on_close	close.script
+2016-05-12 10:34:13.168 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:13.169 -0600	Log		Notes	6	on_close	close.script
+2016-05-12 10:34:15.234 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:15.297 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	13	on_close	close.script
+2016-05-12 10:34:16.074 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:16.075 -0600	Log		i i Google Maps	6	on_close	close.script
+2016-05-12 10:34:18.132 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:18.195 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	13	on_close	close.script
+2016-05-12 10:34:18.945 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:18.946 -0600	Log		Clock	6	on_close	close.script
+2016-05-12 10:34:21.004 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:21.067 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	13	on_close	close.script
+2016-05-12 10:34:21.846 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:21.846 -0600	Log		Q Wallet	6	on_close	close.script
+2016-05-12 10:34:23.910 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:23.969 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	13	on_close	close.script
+2016-05-12 10:34:24.781 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:24.781 -0600	Log		ol Chrome	6	on_close	close.script
+2016-05-12 10:34:26.870 -0600	readtext		(240,0,562,200)
+2016-05-12 10:34:26.928 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	13	on_close	close.script
+2016-05-12 10:34:27.911 -0600	EndTestCase		(Duration:"21.420064", Errors:"1", Exceptions:"0", StartTime:"2016-05-12 10:34:06 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 10:34:27.912 -0600	ABORTED		Execution Time 0:00:21 close.script

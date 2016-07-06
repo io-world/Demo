@@ -1,0 +1,14 @@
+﻿2016-05-11 14:13:25.267 -0600	START		Running index.script
+2016-05-11 14:13:26.251 -0600	imagefound	Apple Blank.png	found at (28, 31)	1	on_index	index.script
+2016-05-11 14:13:26.438 -0600	presshomebutton			2	on_unlock	AppleLib.script
+2016-05-11 14:13:27.351 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	3	on_unlock	AppleLib.script
+2016-05-11 14:13:28.161 -0600	click		at (160, 845)	4	on_unlock	AppleLib.script
+2016-05-11 14:13:28.974 -0600	click		at (370, 1035)	5	on_unlock	AppleLib.script
+2016-05-11 14:13:29.782 -0600	click		at (580, 685)	6	on_unlock	AppleLib.script
+2016-05-11 14:13:30.597 -0600	click		at (370, 1035)	7	on_unlock	AppleLib.script
+2016-05-11 14:13:32.655 -0600	presshomebutton			9	on_unlock	AppleLib.script
+2016-05-11 14:13:33.360 -0600	presshomebutton			10	on_unlock	AppleLib.script
+2016-05-11 14:13:33.362 -0600	Log		Apple iPhone 6s	12	on_unlock	AppleLib.script
+2016-05-11 14:13:33.380 -0600	Log		apple iPhone is in Sleep Mode	3	on_index	index.script
+2016-05-11 14:13:33.760 -0600	EndTestCase		(Duration:"8.491588", Errors:"0", Exceptions:"0", StartTime:"2016-05-11 14:13:25 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-11 14:13:33.764 -0600	SUCCESS		Execution Time 0:00:08 index.script

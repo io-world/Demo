@@ -1,0 +1,18 @@
+﻿WindowsLib.start
+
+
+
+ChromeLib.launch
+ChromeLib.Brower "www.twitter.com/iotestplant"
+waitfor 4, (text: "Tweets")
+put imagelocation (text: "Tweets", searchRectangle: (RemoteScreensize()*(0.25,0.35),RemoteScreenSize()*(0.5,0.5))) into Image_L
+put Image_L + (20,52) into TL
+put Image_L + (540,100) into BR
+insert TL into boxsearch
+insert BR into boxsearch
+set the searchRectangle to boxsearch
+wait 4 
+log Line 1 of readtext(boxsearch)
+
+
+WindowsLib.closeApplication

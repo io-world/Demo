@@ -1,0 +1,35 @@
+﻿2016-05-17 12:25:46.511 -0600	START		Running index.script
+2016-05-17 12:25:46.783 -0600	typetext		[windowsKey]	10	on_index	index.script
+2016-05-17 12:25:48.129 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
+2016-05-17 12:25:50.376 -0600	waitfor	Chrome Mic	found at (999, 402)	13	on_index	index.script
+2016-05-17 12:25:50.522 -0600	typetext		goog[enter]	19	on_index	index.script
+2016-05-17 12:25:52.395 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,331), ImageRectangle:(241,326,267,337), Language:"English", searchRectangle:(144,180,576,360), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 331)	20	on_index	index.script
+2016-05-17 12:25:53.103 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,331), ImageRectangle:(241,326,267,337), Language:"English", searchRectangle:(144,90,576,360), Text:"USD", TextPlatform:"Generic OCR")	at (254, 331)	22	on_index	index.script
+2016-05-17 12:25:53.203 -0600	readtext		(104,301,239,341)
+2016-05-17 12:25:53.963 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(153,90), ImageRectangle:(136,84,170,96), Language:"English", searchRectangle:(72,45,432,135), text:"goog", TextPlatform:"Generic OCR")	at (153, 90)	26	on_index	index.script
+2016-05-17 12:25:54.680 -0600	typetext		[backspace]	27	on_index	index.script
+2016-05-17 12:25:54.690 -0600	Log		705.81	28	on_index	index.script
+2016-05-17 12:25:55.449 -0600	typetext		Appl[enter]	19	on_index	index.script
+2016-05-17 12:25:57.297 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(144,180,576,360), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 331)	20	on_index	index.script
+2016-05-17 12:25:57.982 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(144,90,576,360), Text:"USD", TextPlatform:"Generic OCR")	at (238, 331)	22	on_index	index.script
+2016-05-17 12:25:58.088 -0600	readtext		(88,301,223,341)
+2016-05-17 12:25:58.826 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(151,88), ImageRectangle:(136,81,167,96), Language:"English", searchRectangle:(72,45,432,135), text:"Appl", TextPlatform:"Generic OCR")	at (151, 88)	26	on_index	index.script
+2016-05-17 12:25:59.540 -0600	typetext		[backspace]	27	on_index	index.script
+2016-05-17 12:25:59.548 -0600	Log		93.29	28	on_index	index.script
+2016-05-17 12:26:00.299 -0600	typetext		Wmt[enter]	19	on_index	index.script
+2016-05-17 12:26:01.425 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(144,180,576,360), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 331)	20	on_index	index.script
+2016-05-17 12:26:02.122 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(144,90,576,360), Text:"USD", TextPlatform:"Generic OCR")	at (238, 331)	22	on_index	index.script
+2016-05-17 12:26:02.223 -0600	readtext		(88,301,223,341)
+2016-05-17 12:26:02.977 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(152,87), ImageRectangle:(136,81,168,93), Language:"English", searchRectangle:(72,45,432,135), text:"Wmt", TextPlatform:"Generic OCR")	at (152, 87)	26	on_index	index.script
+2016-05-17 12:26:03.692 -0600	typetext		[backspace]	27	on_index	index.script
+2016-05-17 12:26:03.700 -0600	Log		65.04	28	on_index	index.script
+2016-05-17 12:26:04.449 -0600	typetext		Xom[enter]	19	on_index	index.script
+2016-05-17 12:26:06.325 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(144,180,576,360), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 331)	20	on_index	index.script
+2016-05-17 12:26:07.073 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(144,90,576,360), Text:"USD", TextPlatform:"Generic OCR")	at (238, 331)	22	on_index	index.script
+2016-05-17 12:26:07.167 -0600	readtext		(88,301,223,341)
+2016-05-17 12:26:07.921 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(151,87), ImageRectangle:(136,81,167,93), Language:"English", searchRectangle:(72,45,432,135), text:"Xom", TextPlatform:"Generic OCR")	at (151, 87)	26	on_index	index.script
+2016-05-17 12:26:08.640 -0600	typetext		[backspace]	27	on_index	index.script
+2016-05-17 12:26:08.649 -0600	Log		89.24	28	on_index	index.script
+2016-05-17 12:26:09.907 -0600	click	Close Chrome	at (1413, 9)	33	on_index	index.script
+2016-05-17 12:26:10.633 -0600	EndTestCase		(Duration:"24.120316", Errors:"0", Exceptions:"0", StartTime:"2016-05-17 12:25:46 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-17 12:26:10.636 -0600	SUCCESS		Execution Time 0:00:24 index.script

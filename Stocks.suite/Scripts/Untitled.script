@@ -1,0 +1,10 @@
+﻿
+
+put ("1","Hello", "7") into var
+
+
+log  item 2 of var
+
+
+
+click (text: "Gmail")

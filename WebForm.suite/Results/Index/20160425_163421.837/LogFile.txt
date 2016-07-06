@@ -1,0 +1,3 @@
+﻿2016-04-25 16:34:21.838 -0600	START		Running Untitled.script
+2016-04-25 16:34:22.273 -0600	EndTestCase		(Duration:"0.433291", Errors:"1", Exceptions:"0", StartTime:"2016-04-25 16:34:21 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-04-25 16:34:23.379 -0600	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: '' -- Execution Time 0:00:00 Untitled.script

@@ -1,0 +1,29 @@
+﻿2016-04-22 13:22:58.182 -0600	START		Running index.script
+2016-04-22 13:22:58.255 -0600	typetext		[windowsKey]	6	on_index	index.script
+2016-04-22 13:22:59.872 -0600	click	Chrome	at (244, 876)	7	on_index	index.script
+2016-04-22 13:23:02.788 -0600	waitfor	Chrome Mic	found at (1837, 800)	9	on_index	index.script
+2016-04-22 13:23:02.853 -0600	typetext		goog[enter]	15	on_index	index.script
+2016-04-22 13:23:04.574 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(484,656,535,675), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (509, 665)	16	on_index	index.script
+2016-04-22 13:23:04.601 -0600	readtext		(259,615,479,675)
+2016-04-22 13:23:04.602 -0600	Log		720.74	20	on_index	index.script
+2016-04-22 13:23:05.637 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(306,183), ImageRectangle:(273,172,340,195), Language:"English", searchRectangle:(3,125,1545,250), text:"goog", TextPlatform:"Generic OCR")	at (306, 183)	21	on_index	index.script
+2016-04-22 13:23:06.353 -0600	typetext		[backspace]	22	on_index	index.script
+2016-04-22 13:23:07.125 -0600	typetext		Appl[enter]	15	on_index	index.script
+2016-04-22 13:23:08.947 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,947), ImageRectangle:(484,938,535,957), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (509, 947)	16	on_index	index.script
+2016-04-22 13:23:08.977 -0600	readtext		(259,897,479,957)
+2016-04-22 13:23:08.977 -0600	Log		105.46	20	on_index	index.script
+2016-04-22 13:23:10.005 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(303,180), ImageRectangle:(272,166,334,195), Language:"English", searchRectangle:(3,125,1545,250), text:"Appl", TextPlatform:"Generic OCR")	at (303, 180)	21	on_index	index.script
+2016-04-22 13:23:10.719 -0600	typetext		[backspace]	22	on_index	index.script
+2016-04-22 13:23:11.477 -0600	typetext		Wmt[enter]	15	on_index	index.script
+2016-04-22 13:23:14.048 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(476,664), ImageRectangle:(451,655,502,674), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (476, 664)	16	on_index	index.script
+2016-04-22 13:23:14.075 -0600	readtext		(226,614,446,674)
+2016-04-22 13:23:14.075 -0600	Log		68.48	20	on_index	index.script
+2016-04-22 13:23:27.060 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(305,177), ImageRectangle:(273,166,337,189), Language:"English", searchRectangle:(3,125,1545,250), text:"Wmt", TextPlatform:"Generic OCR")	at (305, 177)	21	on_index	index.script
+2016-04-22 13:23:27.775 -0600	typetext		[backspace]	22	on_index	index.script
+2016-04-22 13:23:28.536 -0600	typetext		Xom[enter]	15	on_index	index.script
+2016-04-22 13:23:42.366 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(476,664), ImageRectangle:(451,655,502,674), Language:"English", searchRectangle:(250,370,1363,1041), Text:"USD", TextPlatform:"Generic OCR")	at (476, 664)	16	on_index	index.script
+2016-04-22 13:23:42.395 -0600	readtext		(226,614,446,674)
+2016-04-22 13:23:42.396 -0600	Log		68.48	20	on_index	index.script
+2016-04-22 13:24:08.422 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	21	on_index	index.script
+2016-04-22 13:24:08.750 -0600	EndTestCase		(Duration:"70.565725", Errors:"1", Exceptions:"1", StartTime:"2016-04-22 13:22:58 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-04-22 13:24:08.751 -0600	ABORTED		Execution Time 0:01:10 index.script

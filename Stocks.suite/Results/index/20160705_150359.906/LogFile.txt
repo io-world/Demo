@@ -1,0 +1,39 @@
+﻿2016-07-05 15:03:59.907 -0600	START		Running index.script
+2016-07-05 15:04:00.120 -0600	typetext		[windowsKey]	10	on_index	index.script
+2016-07-05 15:04:02.060 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
+2016-07-05 15:04:04.623 -0600	waitfor	Chrome Mic	found at (999, 402)	13	on_index	index.script
+2016-07-05 15:04:04.768 -0600	typetext		goog[enter]	19	on_index	index.script
+2016-07-05 15:04:05.920 -0600	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	20	on_index	index.script
+2016-07-05 15:04:06.491 -0600	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	20	on_index	index.script
+2016-07-05 15:04:07.444 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,331), ImageRectangle:(241,326,267,337), Language:"English", searchRectangle:(44,32,724,412), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 331)	20	on_index	index.script
+2016-07-05 15:04:07.539 -0600	readtext		(104,301,239,341)
+2016-07-05 15:04:08.225 -0600	doubleclick	Chrome/Search Icon	at (247, 89)	27	on_index	index.script
+2016-07-05 15:04:08.940 -0600	typetext		[backspace]	29	on_index	index.script
+2016-07-05 15:04:08.946 -0600	Log		694.95	30	on_index	index.script
+2016-07-05 15:04:09.701 -0600	typetext		Appl[enter]	19	on_index	index.script
+2016-07-05 15:04:10.721 -0600	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	20	on_index	index.script
+2016-07-05 15:04:11.305 -0600	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	20	on_index	index.script
+2016-07-05 15:04:12.326 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(44,32,724,412), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 331)	20	on_index	index.script
+2016-07-05 15:04:12.441 -0600	readtext		(88,301,223,341)
+2016-07-05 15:04:13.153 -0600	doubleclick	Chrome/Search Icon	at (247, 89)	27	on_index	index.script
+2016-07-05 15:04:13.866 -0600	typetext		[backspace]	29	on_index	index.script
+2016-07-05 15:04:13.871 -0600	Log		95.04	30	on_index	index.script
+2016-07-05 15:04:14.617 -0600	typetext		Wmt[enter]	19	on_index	index.script
+2016-07-05 15:04:15.598 -0600	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	20	on_index	index.script
+2016-07-05 15:04:15.709 -0600	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	20	on_index	index.script
+2016-07-05 15:04:16.751 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(44,32,724,412), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 331)	20	on_index	index.script
+2016-07-05 15:04:16.861 -0600	readtext		(88,301,223,341)
+2016-07-05 15:04:17.575 -0600	doubleclick	Chrome/Search Icon	at (247, 89)	27	on_index	index.script
+2016-07-05 15:04:18.286 -0600	typetext		[backspace]	29	on_index	index.script
+2016-07-05 15:04:18.292 -0600	Log		73.14	30	on_index	index.script
+2016-07-05 15:04:19.040 -0600	typetext		Xom[enter]	19	on_index	index.script
+2016-07-05 15:04:20.007 -0600	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	20	on_index	index.script
+2016-07-05 15:04:20.597 -0600	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	20	on_index	index.script
+2016-07-05 15:04:21.616 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(44,32,724,412), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 331)	20	on_index	index.script
+2016-07-05 15:04:21.725 -0600	readtext		(88,301,223,341)
+2016-07-05 15:04:22.455 -0600	doubleclick	Chrome/Search Icon	at (247, 89)	27	on_index	index.script
+2016-07-05 15:04:23.170 -0600	typetext		[backspace]	29	on_index	index.script
+2016-07-05 15:04:23.176 -0600	Log		93.02	30	on_index	index.script
+2016-07-05 15:04:24.435 -0600	click	Close Chrome	at (1413, 9)	35	on_index	index.script
+2016-07-05 15:04:24.759 -0600	EndTestCase		(Duration:"24.85019", Errors:"0", Exceptions:"0", StartTime:"2016-07-05 15:03:59 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-07-05 15:04:24.762 -0600	SUCCESS		Execution Time 0:00:24 index.script

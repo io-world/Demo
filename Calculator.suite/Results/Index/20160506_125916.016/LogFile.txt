@@ -1,0 +1,7 @@
+﻿2016-05-06 12:59:16.017 -0600	START		Running Untitled.script
+2016-05-06 12:59:16.563 -0600	click	Run Icon	at (266, 880)	5	on_untitled	Untitled.script
+2016-05-06 12:59:17.334 -0600	typetext		calc[enter]	7	on_untitled	Untitled.script
+2016-05-06 12:59:18.056 -0600	imagefound	Calculator Icon	found at (755, 294)	10	on_untitled	Untitled.script
+2016-05-06 12:59:18.085 -0600	Exception		Too Few Parameters, please use imagelocation(image1[, ...])	12	on_untitled	Untitled.script
+2016-05-06 12:59:18.321 -0600	EndTestCase		(Duration:"2.302473", Errors:"1", Exceptions:"1", StartTime:"2016-05-06 12:59:16 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-05-06 12:59:18.718 -0600	FAILURE	Screen_Error.png	Error Running Script Command imagelocation Error - Too Few Parameters, please use imagelocation(image1[, ...]) -- Execution Time 0:00:02 Untitled.script

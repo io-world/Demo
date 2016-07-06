@@ -1,0 +1,18 @@
+﻿
+
+on DropBoxDelete FileName
+	Click "Android/Drop Box Icon"
+	wait 3
+	SwipeDown 
+	wait 5
+	Click (Text: FileName, waitfor: 10)
+	wait 7
+	click (image:"Android/Drop Box Menu Icon", searchrectnagle:(700,40,800,100 ))
+	click "Android/Drop Box Quit"
+	click "Android/Drop Box Drop Down"
+	SwipeUp 
+	click "Android/Drop Box Delete"
+	click "Android/Drop Box Confirm Delete "
+	wait 7
+	presshomebutton
+end DropBoxDelete

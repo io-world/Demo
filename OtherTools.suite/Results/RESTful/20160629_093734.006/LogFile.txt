@@ -1,0 +1,7 @@
+﻿2016-06-29 09:37:34.007 -0600	START		Running RESTful.script
+2016-06-29 09:37:34.256 -0600	Log		<to>Tove</to>	10	on_restful	RESTful.script
+2016-06-29 09:37:34.289 -0600	Log		<from>Jani</from>	10	on_restful	RESTful.script
+2016-06-29 09:37:34.323 -0600	Log		<heading>Reminder</heading>	10	on_restful	RESTful.script
+2016-06-29 09:37:34.355 -0600	Log		<body>Don't forget me this weekend!</body>	10	on_restful	RESTful.script
+2016-06-29 09:37:34.948 -0600	EndTestCase		(Duration:"0.940096", Errors:"0", Exceptions:"0", StartTime:"2016-06-29 09:37:34 -0600", Successes:"1", TestCase:"RESTful.script", Warnings:"0")
+2016-06-29 09:37:34.952 -0600	SUCCESS		Execution Time 0:00:00 RESTful.script

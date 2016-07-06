@@ -1,0 +1,7 @@
+﻿2016-05-06 13:22:25.717 -0600	START		Running Index.script
+2016-05-06 13:22:26.231 -0600	click	Run Icon	at (266, 880)	5	on_index	Index.script
+2016-05-06 13:22:26.998 -0600	typetext		calc[enter]	7	on_index	Index.script
+2016-05-06 13:22:27.704 -0600	imagefound	Calculator Icon	found at (807, 346)	2	on_verify	Calculator.script
+2016-05-06 13:22:27.730 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2016-05-06 13:22:28.011 -0600	EndTestCase		(Duration:"2.292244", Errors:"1", Exceptions:"0", StartTime:"2016-05-06 13:22:25 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-06 13:22:28.370 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'enterv' -- Execution Time 0:00:02 Index.script

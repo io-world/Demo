@@ -1,0 +1,52 @@
+﻿AppleLib.unlock
+SetOption MouseMoveSpeed, 5
+SetOption NextKeyDelay, .08
+SetOption RemoteWorkInterval, 3
+
+
+--------------------------------------------------------
+put "six flags, NJ" into G_location
+--------------------------------------------------------
+--------------------------------------------------------
+--------------------------------------------------------
+
+click "Google Maps/Google Image"
+
+if imagefound ("Google Maps/Google Maps Clear Search") then
+	click("Google Maps/Google Maps Clear Search")
+end if
+
+Click "Google Maps/Microphone"
+typetext G_location 
+Click (image: "Google Maps/Grey Image", waitfor: 10)
+Click (image: "Google Maps/Route Blue", waitfor: 10)
+
+if imagefound(1, Text:"Search History is off") then
+	click (Text: "Choose")
+	wait 2
+	click (Text:"Location")
+end if
+
+
+if imagefound( 20,(Image:"Google Maps/Navigate Icon"))
+	Click (Image:"Google Maps/Navigate Icon")
+	wait 4
+	PinchIn (Duration:1)
+	wait 2
+	SwipeUp (100,700)
+	wait 2
+	SwipeRight (100,700)
+	Click (Image:"Google Maps/RE-Center", WaitFor:2.7)
+	put ReadText((99,1207,549,1320)) into Information
+	put line 1 of information into time
+	log time
+	click (430,1250)
+	wait 2
+	click (430,20)
+	click "Google Maps/Clear Directions"
+end if
+
+click "Google Maps/Back Arrow"
+click "Google Maps/Google Maps Clear Search"
+
+PressHomeButton

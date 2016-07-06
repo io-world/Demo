@@ -1,0 +1,56 @@
+﻿2016-05-06 16:05:58.811 -0600	START		Running Index.script
+2016-05-06 16:05:59.363 -0600	click	Run Icon	at (266, 880)	5	on_index	Index.script
+2016-05-06 16:06:00.131 -0600	typetext		calc[enter]	7	on_index	Index.script
+2016-05-06 16:06:00.821 -0600	imagefound	Calculator/Calculator Icon	found at (1067, 123)	2	on_verify	Calculator.script
+2016-05-06 16:06:00.847 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2016-05-06 16:06:01.193 -0600	imagelocation	Calculator/Calculator Icon	at (1067, 123)	2	on_math	Calculator.script
+2016-05-06 16:06:01.531 -0600	imagelocation	Operators/Equals Sign	at (1240, 382)	3	on_math	Calculator.script
+2016-05-06 16:06:01.698 -0600	readtext		(1067,288,1190,409)
+2016-05-06 16:06:01.699 -0600	Log		7\n\n8\n\n9\n4\n\n5\n\n6\n1\n\n2\n\n3\n0	8	on_math	Calculator.script
+2016-05-06 16:06:01.731 -0600	Log		(1,+,2,+,3,-,4,*,5,*,6,/,7,-,8,+,9,-,0,=)	13	on_math	Calculator.script
+2016-05-06 16:06:01.820 -0600	Log		1	20	on_math	Calculator.script
+2016-05-06 16:06:02.347 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1082,366), ImageRectangle:(1080,361,1084,372), Language:"English", searchrectangle:(1067,288,1190,409), Text:"1", TextPlatform:"Generic OCR")	at (1082, 366)	33	on_math	Calculator.script
+2016-05-06 16:06:02.408 -0600	Log		+	20	on_math	Calculator.script
+2016-05-06 16:06:03.065 -0600	typetext		+	22	on_math	Calculator.script
+2016-05-06 16:06:03.107 -0600	Log		2	20	on_math	Calculator.script
+2016-05-06 16:06:04.259 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1121,366), ImageRectangle:(1118,361,1125,372), Language:"English", searchrectangle:(1067,288,1190,409), Text:"2", TextPlatform:"Generic OCR")	at (1121, 366)	33	on_math	Calculator.script
+2016-05-06 16:06:04.317 -0600	Log		+	20	on_math	Calculator.script
+2016-05-06 16:06:04.975 -0600	typetext		+	22	on_math	Calculator.script
+2016-05-06 16:06:05.015 -0600	Log		3	20	on_math	Calculator.script
+2016-05-06 16:06:06.149 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1160,366), ImageRectangle:(1157,361,1164,372), Language:"English", searchrectangle:(1067,288,1190,409), Text:"3", TextPlatform:"Generic OCR")	at (1160, 366)	33	on_math	Calculator.script
+2016-05-06 16:06:06.195 -0600	Log		-	20	on_math	Calculator.script
+2016-05-06 16:06:06.867 -0600	typetext		-	24	on_math	Calculator.script
+2016-05-06 16:06:06.902 -0600	Log		4	20	on_math	Calculator.script
+2016-05-06 16:06:08.086 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1082,334), ImageRectangle:(1078,329,1086,340), Language:"English", searchrectangle:(1067,288,1190,409), Text:"4", TextPlatform:"Generic OCR")	at (1082, 334)	33	on_math	Calculator.script
+2016-05-06 16:06:08.144 -0600	Log		*	20	on_math	Calculator.script
+2016-05-06 16:06:08.806 -0600	typetext		*	26	on_math	Calculator.script
+2016-05-06 16:06:08.845 -0600	Log		5	20	on_math	Calculator.script
+2016-05-06 16:06:09.986 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1121,334), ImageRectangle:(1118,329,1125,340), Language:"English", searchrectangle:(1067,288,1190,409), Text:"5", TextPlatform:"Generic OCR")	at (1121, 334)	33	on_math	Calculator.script
+2016-05-06 16:06:10.042 -0600	Log		*	20	on_math	Calculator.script
+2016-05-06 16:06:10.704 -0600	typetext		*	26	on_math	Calculator.script
+2016-05-06 16:06:10.738 -0600	Log		6	20	on_math	Calculator.script
+2016-05-06 16:06:11.885 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1161,334), ImageRectangle:(1157,329,1165,340), Language:"English", searchrectangle:(1067,288,1190,409), Text:"6", TextPlatform:"Generic OCR")	at (1161, 334)	33	on_math	Calculator.script
+2016-05-06 16:06:11.930 -0600	Log		/	20	on_math	Calculator.script
+2016-05-06 16:06:12.604 -0600	typetext		/	28	on_math	Calculator.script
+2016-05-06 16:06:12.640 -0600	Log		7	20	on_math	Calculator.script
+2016-05-06 16:06:13.794 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1082,302), ImageRectangle:(1079,297,1086,308), Language:"English", searchrectangle:(1067,288,1190,409), Text:"7", TextPlatform:"Generic OCR")	at (1082, 302)	33	on_math	Calculator.script
+2016-05-06 16:06:13.858 -0600	Log		-	20	on_math	Calculator.script
+2016-05-06 16:06:14.509 -0600	typetext		-	24	on_math	Calculator.script
+2016-05-06 16:06:14.536 -0600	Log		8	20	on_math	Calculator.script
+2016-05-06 16:06:15.696 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1121,302), ImageRectangle:(1118,297,1125,308), Language:"English", searchrectangle:(1067,288,1190,409), Text:"8", TextPlatform:"Generic OCR")	at (1121, 302)	33	on_math	Calculator.script
+2016-05-06 16:06:15.746 -0600	Log		+	20	on_math	Calculator.script
+2016-05-06 16:06:16.413 -0600	typetext		+	22	on_math	Calculator.script
+2016-05-06 16:06:16.445 -0600	Log		9	20	on_math	Calculator.script
+2016-05-06 16:06:17.609 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1160,302), ImageRectangle:(1157,297,1164,308), Language:"English", searchrectangle:(1067,288,1190,409), Text:"9", TextPlatform:"Generic OCR")	at (1160, 302)	33	on_math	Calculator.script
+2016-05-06 16:06:17.650 -0600	Log		-	20	on_math	Calculator.script
+2016-05-06 16:06:18.327 -0600	typetext		-	24	on_math	Calculator.script
+2016-05-06 16:06:18.362 -0600	Log		0	20	on_math	Calculator.script
+2016-05-06 16:06:19.501 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1103,398), ImageRectangle:(1099,393,1107,404), Language:"English", searchrectangle:(1067,288,1190,409), Text:"0", TextPlatform:"Generic OCR")	at (1103, 398)	33	on_math	Calculator.script
+2016-05-06 16:06:19.559 -0600	Log		=	20	on_math	Calculator.script
+2016-05-06 16:06:20.597 -0600	click	Operators/Equals Sign	at (1240, 382)	30	on_math	Calculator.script
+2016-05-06 16:06:21.606 -0600	imagelocation	Calculator/Calculator Icon	at (1067, 123)	3	on_answer	Calculator.script
+2016-05-06 16:06:21.695 -0600	readtext		(1067,173,1267,223)
+2016-05-06 16:06:21.695 -0600	Log		9.571428571428571	9	on_answer	Calculator.script
+2016-05-06 16:06:22.147 -0600	click	Calculator/Close Icon	at (1244, 120)	2	on_close	Calculator.script
+2016-05-06 16:06:22.558 -0600	EndTestCase		(Duration:"23.746404", Errors:"0", Exceptions:"0", StartTime:"2016-05-06 16:05:58 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-06 16:06:22.563 -0600	SUCCESS		Execution Time 0:00:23 Index.script

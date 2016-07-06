@@ -1,0 +1,12 @@
+﻿2016-05-02 14:08:01.701 -0600	START		Running Index.script
+2016-05-02 14:08:02.589 -0600	imagefound	Windows/Start	found at (26, 881)	2	on_index	Index.script
+2016-05-02 14:08:02.623 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-02 14:08:02.626 -0600	Log		Windws 2012 R2 1440 X 900	5	on_index	Index.script
+2016-05-02 14:08:05.121 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-05-02 14:08:05.209 -0600	LogSuccess		Chrome has Been Launched	14	on_index	Index.script
+2016-05-02 14:08:07.430 -0600	waitfor	Chrome Search Icons	found at (1000, 400)	2	on_search	ChromeLib.script
+2016-05-02 14:08:08.416 -0600	click	Chrome Search Icons	at (1000, 400)	3	on_search	ChromeLib.script
+2016-05-02 14:08:09.354 -0600	typetext		mobile.twitter.com	4	on_search	ChromeLib.script
+2016-05-02 14:08:31.569 -0600	Exception	Chrome Enter	No Image Found On Screen: "Chrome Enter"	5	on_search	ChromeLib.script
+2016-05-02 14:08:31.930 -0600	EndTestCase		(Duration:"30.228216", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 14:08:01 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-02 14:08:31.931 -0600	ABORTED		Execution Time 0:00:30 Index.script

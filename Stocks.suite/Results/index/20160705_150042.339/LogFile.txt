@@ -1,0 +1,18 @@
+﻿2016-07-05 15:00:42.341 -0600	START		Running index.script
+2016-07-05 15:00:42.532 -0600	typetext		[windowsKey]	10	on_index	index.script
+2016-07-05 15:00:44.479 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
+2016-07-05 15:00:46.790 -0600	waitfor	Chrome Mic	found at (1016, 484)	13	on_index	index.script
+2016-07-05 15:00:46.930 -0600	typetext		goog[enter]	19	on_index	index.script
+2016-07-05 15:00:48.096 -0600	imagelocation	Chrome/Chrome Icon Logo	at (254, 95)	20	on_index	index.script
+2016-07-05 15:00:48.660 -0600	imagelocation	Chrome/Chrome Icon Logo	at (254, 95)	20	on_index	index.script
+2016-07-05 15:00:49.617 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(484,414), ImageRectangle:(471,409,497,420), Language:"English", searchRectangle:(274,115,954,495), Text:"USD", TextPlatform:"Generic OCR")	found at (484, 414)	20	on_index	index.script
+2016-07-05 15:00:49.721 -0600	readtext		(334,384,469,424)
+2016-07-05 15:00:50.565 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(282,97), ImageRectangle:(269,93,296,102), Language:"English", searchRectangle:(72,45,432,135), text:"goog", TextPlatform:"Generic OCR")	at (282, 97)	27	on_index	index.script
+2016-07-05 15:00:51.278 -0600	typetext		[backspace]	28	on_index	index.script
+2016-07-05 15:00:51.284 -0600	Log		694.95	29	on_index	index.script
+2016-07-05 15:00:52.038 -0600	typetext		Appl[enter]	19	on_index	index.script
+2016-07-05 15:00:53.006 -0600	imagelocation	Chrome/Chrome Icon Logo	at (254, 95)	20	on_index	index.script
+2016-07-05 15:00:53.221 -0600	imagelocation	Chrome/Chrome Icon Logo	at (254, 95)	20	on_index	index.script
+2016-07-05 15:00:58.978 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	20	on_index	index.script
+2016-07-05 15:00:59.281 -0600	EndTestCase		(Duration:"16.93816", Errors:"1", Exceptions:"1", StartTime:"2016-07-05 15:00:42 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-07-05 15:00:59.281 -0600	ABORTED		Execution Time 0:00:16 index.script

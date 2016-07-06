@@ -1,0 +1,5 @@
+﻿2016-04-22 09:05:36.273 -0600	START		Running index.script
+2016-04-22 09:05:36.379 -0600	typetext		goog	13	on_index	index.script
+2016-04-22 09:05:37.095 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-22 09:05:37.377 -0600	EndTestCase		(Duration:"1.10292", Errors:"1", Exceptions:"0", StartTime:"2016-04-22 09:05:36 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-04-22 09:05:38.220 -0600	FAILURE	Screen_Error.png	NSInvalidArgumentException -[TestOCRText hotSpot]: unrecognized selector sent to instance 0x7fb3beb0 -- Execution Time 0:00:01 index.script

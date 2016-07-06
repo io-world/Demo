@@ -1,0 +1,32 @@
+﻿
+On RightC ImageN, ActionN
+	rightClick ImageN
+	put () into Rmenu
+	insert foundimagelocation() into Rmenu
+	insert foundimagelocation()+ (400,400) into Rmenu
+	click Text: ActionN,searchRectangle: rmenu
+end RIghtC
+
+
+On CreateNotepad FileName, FileInfo
+	RightC "WIndows/Desktop Area","New"
+	insert foundimagelocation() into Rmenu
+	insert foundimagelocation()+ (400,400) into Rmenu
+	put everyimagelocation(Text: "Text Document",searchRectangle: rmenu) into FAll
+	click item 2 of FAll
+	typetext FileName , enterKey ,enterKey
+	typetext FileInfo
+	wait 2
+	click "Windows/Close"
+	put everyimagelocation(Text: "save") into FAll
+	click item 2 of FAll
+end CreateNotepad
+
+
+on MovetoDropBox
+	doubleclick "WIndows/Drop Box Icon"
+	waitfor 10, (image:"Windows/Drop Box Item")
+	put (0,200) +foundimagelocation() into DropClick
+	Windows.RIghtC  "Windows/Drop Box Item","Paste"
+	click "windows/Close"
+end MovetoDropBox

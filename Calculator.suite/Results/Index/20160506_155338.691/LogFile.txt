@@ -1,0 +1,24 @@
+﻿2016-05-06 15:53:38.692 -0600	START		Running Index.script
+2016-05-06 15:53:39.203 -0600	click	Run Icon	at (266, 880)	5	on_index	Index.script
+2016-05-06 15:53:39.967 -0600	typetext		calc[enter]	7	on_index	Index.script
+2016-05-06 15:53:40.657 -0600	imagefound	Calculator/Calculator Icon	found at (1093, 149)	2	on_verify	Calculator.script
+2016-05-06 15:53:40.686 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2016-05-06 15:53:41.041 -0600	imagelocation	Calculator/Calculator Icon	at (1093, 149)	2	on_math	Calculator.script
+2016-05-06 15:53:41.388 -0600	imagelocation	Operators/Equals Sign	at (1266, 408)	3	on_math	Calculator.script
+2016-05-06 15:53:41.463 -0600	Log		(2,*,1,/,8,=)	10	on_math	Calculator.script
+2016-05-06 15:53:41.538 -0600	Log		2	17	on_math	Calculator.script
+2016-05-06 15:53:42.368 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1147,392), ImageRectangle:(1144,387,1151,398), Language:"English", searchrectangle:(1093,279,1286,448), Text:"2", TextPlatform:"Generic OCR")	at (1147, 392)	30	on_math	Calculator.script
+2016-05-06 15:53:42.432 -0600	Log		*	17	on_math	Calculator.script
+2016-05-06 15:53:43.088 -0600	typetext		*	23	on_math	Calculator.script
+2016-05-06 15:53:43.115 -0600	Log		1	17	on_math	Calculator.script
+2016-05-06 15:53:44.413 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1108,392), ImageRectangle:(1106,387,1110,398), Language:"English", searchrectangle:(1093,279,1286,448), Text:"1", TextPlatform:"Generic OCR")	at (1108, 392)	30	on_math	Calculator.script
+2016-05-06 15:53:44.468 -0600	Log		/	17	on_math	Calculator.script
+2016-05-06 15:53:45.128 -0600	typetext		/	25	on_math	Calculator.script
+2016-05-06 15:53:45.161 -0600	Log		8	17	on_math	Calculator.script
+2016-05-06 15:53:46.443 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1147,328), ImageRectangle:(1144,323,1151,334), Language:"English", searchrectangle:(1093,279,1286,448), Text:"8", TextPlatform:"Generic OCR")	at (1147, 328)	30	on_math	Calculator.script
+2016-05-06 15:53:46.499 -0600	Log		=	17	on_math	Calculator.script
+2016-05-06 15:53:47.593 -0600	click	Operators/Equals Sign	at (1266, 408)	27	on_math	Calculator.script
+2016-05-06 15:53:48.599 -0600	imagelocation	Calculator/Calculator Icon	at (1093, 149)	3	on_answer	Calculator.script
+2016-05-06 15:53:49.129 -0600	click	Calculator/Close Icon	at (1270, 146)	2	on_close	Calculator.script
+2016-05-06 15:53:49.547 -0600	EndTestCase		(Duration:"10.854384", Errors:"0", Exceptions:"0", StartTime:"2016-05-06 15:53:38 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-06 15:53:49.552 -0600	SUCCESS		Execution Time 0:00:10 Index.script

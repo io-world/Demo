@@ -1,0 +1,10 @@
+﻿2016-05-23 14:13:32.933 -0600	START		Running Index.script
+2016-05-23 14:13:33.069 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-05-23 14:13:37.716 -0600	imagefound	Apple/Sleep Screen	Unable to Find Image Apple/Sleep Screen	4	on_unlock	AppleLib.script
+2016-05-23 14:13:37.730 -0600	Log		Apple iPhone 6s	16	on_unlock	AppleLib.script
+2016-05-23 14:13:38.194 -0600	click	Apple/Message Icon	at (114, 113)	6	on_index	Index.script
+2016-05-23 14:13:39.378 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(128,241), ImageRectangle:(57,227,200,255), Language:"English", searchrectangle:(0,0,375,266.799988), text:"Messages", TextPlatform:"Generic OCR")	found at (128, 241)	8	on_index	Index.script
+2016-05-23 14:13:39.501 -0600	click		at (128, 241)	9	on_index	Index.script
+2016-05-23 14:13:50.813 -0600	Exception	Apple/Write Message Icon	No Image Found On Screen: "Apple/Write Message Icon"	13	on_index	Index.script
+2016-05-23 14:13:51.264 -0600	EndTestCase		(Duration:"18.328302", Errors:"1", Exceptions:"1", StartTime:"2016-05-23 14:13:32 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-23 14:13:51.327 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Apple/Write Message Icon" -- Execution Time 0:00:18 Index.script

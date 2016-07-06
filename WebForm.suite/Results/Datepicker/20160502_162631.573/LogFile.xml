@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Datepicker.script" package="WebForm.suite" timestamp="2016-05-02 16:26:31.573 -0600"
+ tests="1" successes="0" errors="1" time="9.231899">
+  <properties>
+   <property name="RunDate" value="2016-05-02 16:26:31.573 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Datepicker.script" assertions="1" successes="0" errors="1" time="9.230701">
+  </testcase>
+ </testsuite>
+</testsuites>

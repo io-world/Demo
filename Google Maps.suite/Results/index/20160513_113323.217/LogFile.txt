@@ -1,0 +1,29 @@
+﻿2016-05-13 11:33:23.218 -0600	START		Running index.script
+2016-05-13 11:33:23.310 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-13 11:33:23.319 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-13 11:33:23.328 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-13 11:33:25.070 -0600	click	Google Maps/Google Image	at (636, 645)	11	on_index	index.script
+2016-05-13 11:33:34.546 -0600	imagefound	Google Maps/Google Maps Clear Search	Unable to Find Image Google Maps/Google Maps Clear Search	13	on_index	index.script
+2016-05-13 11:33:36.785 -0600	click	Google Maps/Microphone	at (518, 101)	17	on_index	index.script
+2016-05-13 11:33:42.281 -0600	typetext		20 Elberta Road Maplewood NJ 	18	on_index	index.script
+2016-05-13 11:33:46.933 -0600	click	Google Maps/Grey Image 	at (70, 209)	20	on_index	index.script
+2016-05-13 11:33:53.161 -0600	click	Google Maps/Route Blue	at (659, 1158)	21	on_index	index.script
+2016-05-13 11:34:01.768 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(418,389), ImageRectangle:(237,370,600,409), Language:"English", Text:"Search History is off", TextPlatform:"Generic OCR")	found at (418, 389)	24	on_index	index.script
+2016-05-13 11:34:05.557 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,93), ImageRectangle:(145,82,237,104), Language:"English", Text:"Choose", TextPlatform:"Generic OCR")	at (191, 93)	25	on_index	index.script
+2016-05-13 11:34:10.004 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(273,209), ImageRectangle:(219,197,328,221), Language:"English", Text:"Location", TextPlatform:"Generic OCR")	at (273, 209)	27	on_index	index.script
+2016-05-13 11:34:16.822 -0600	waitfor	Google Maps/Navigate Icon	found at (661, 1157)	31	on_index	index.script
+2016-05-13 11:34:19.552 -0600	click	Google Maps/Navigate Icon	at (661, 1157)	32	on_index	index.script
+2016-05-13 11:34:23.568 -0600	pinchin		at:(375, 667) duration:1	34	on_index	index.script
+2016-05-13 11:34:29.381 -0600	swipeup		Swiped up from (100, 700) to (100, 400)	36	on_index	index.script
+2016-05-13 11:34:33.284 -0600	swiperight		Swiped right from (100, 700) to (675, 700)	38	on_index	index.script
+2016-05-13 11:34:38.952 -0600	click	Google Maps/RE-Center	at (179, 1254)	39	on_index	index.script
+2016-05-13 11:34:42.059 -0600	readtext		(99,1207,549,1320)
+2016-05-13 11:34:42.076 -0600	Log		1 d 1 hr	42	on_index	index.script
+2016-05-13 11:34:42.799 -0600	click		at (430, 1250)	43	on_index	index.script
+2016-05-13 11:34:48.844 -0600	click		at (430, 20)	45	on_index	index.script
+2016-05-13 11:34:55.813 -0600	click	Google Maps/Clear Directions	at (51, 1265)	46	on_index	index.script
+2016-05-13 11:35:02.524 -0600	click	Google Maps/Back Arrow	at (53, 94)	47	on_index	index.script
+2016-05-13 11:35:07.698 -0600	click	Google Maps/Google Maps Clear Search	at (587, 101)	48	on_index	index.script
+2016-05-13 11:35:10.702 -0600	presshomebutton			50	on_index	index.script
+2016-05-13 11:35:11.487 -0600	EndTestCase		(Duration:"108.267276", Errors:"0", Exceptions:"0", StartTime:"2016-05-13 11:33:23 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-13 11:35:11.491 -0600	SUCCESS		Execution Time 0:01:48 index.script

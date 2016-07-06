@@ -1,0 +1,38 @@
+﻿SetOption MouseMoveSpeed, 5
+SetOption NextKeyDelay, .08
+SetOption RemoteWorkInterval, 2
+
+put ("Chrome","Internet Explorer") into browsers
+--put ("Microsoft Edge","Chrome") into browsers
+
+
+put the number of items in browsers into Max
+put RemoteScreensize() into RSS
+
+repeat Max Times
+	
+	put item repeatindex() of browsers into sBrowse
+	click ("Browsers Icon/" & sBrowse)
+	Click "indicators"
+	wait 3
+	typetext "www.amazon.com" , ReturnKey
+	click (Text:"Deal", searchRectangle: (RSS*(0,0.1),RSS*(0.5,0.4)), waitfor: 10)
+	wait 3
+	--------------------------
+	Try
+		put imagelocation(text: "DEAL OF THE DAY",searchRectangle: (RSS*(0.15,0.4),RSS*(0.35,1)), waitfor: 10) into HS
+		Log "Deal of the Day is Located Here:" & HS
+		put HS + (-80,8) into UL
+		put HS + (90,40) into BR
+		insert UL &&& BR into boxsearch
+		put ReadText(boxsearch, contrast: on) into Price_Range
+		Log Price_Range
+	Catch exception
+		Log " No Deal of the Day"
+	End try
+	---------------------------
+	click (image: "Browser Close", searchRectangle: (RSS*(0.75,0),RSS*(1,0.1)))
+	put empty list into boxsearch
+	
+	
+end repeat

@@ -1,0 +1,8 @@
+﻿2016-04-22 09:31:55.720 -0600	START		Running index.script
+2016-04-22 09:31:55.791 -0600	typetext		[windowsKey]	5	on_index	index.script
+2016-04-22 09:31:57.412 -0600	click	Chrome	at (244, 876)	6	on_index	index.script
+2016-04-22 09:31:58.161 -0600	typetext		goog	12	on_index	index.script
+2016-04-22 09:31:58.879 -0600	typetext		[enter]	13	on_index	index.script
+2016-04-22 09:32:14.722 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	14	on_index	index.script
+2016-04-22 09:32:15.039 -0600	EndTestCase		(Duration:"19.317877", Errors:"1", Exceptions:"1", StartTime:"2016-04-22 09:31:55 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-04-22 09:32:15.040 -0600	ABORTED		Execution Time 0:00:19 index.script

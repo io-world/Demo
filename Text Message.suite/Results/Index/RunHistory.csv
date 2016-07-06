@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-23 13:33:10.422 -0600,"Failure",0:00:00,1,0,1,"20160523_133310.422/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: Apple/Sleep Screen",0
+2016-05-23 13:33:23.917 -0600,"Failure",0:00:00,1,0,1,"20160523_133323.917/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: Apple/Sleep Screen",0
+2016-05-23 13:34:01.447 -0600,"Success",0:00:08,0,0,0,"20160523_133401.447/LogFile.txt","","",1
+2016-05-23 13:40:33.944 -0600,"Failure",0:00:01,1,0,1,"20160523_134033.944/LogFile.txt","","Error Running Script Command -- imagefound Error - Too Few Parameters, please use imagefound([TIME], image1[, ...])",0
+2016-05-23 13:41:02.913 -0600,"Failure",0:00:01,1,0,0,"20160523_134102.913/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'imagefoundlocation'",0
+2016-05-23 13:41:33.385 -0600,"Success",0:00:01,0,0,0,"20160523_134133.385/LogFile.txt","","",1
+2016-05-23 14:13:32.931 -0600,"Failure",0:00:18,1,0,1,"20160523_141332.931/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/Write Message Icon""",0
+2016-05-23 14:14:36.647 -0600,"Success",0:00:35,0,0,0,"20160523_141436.647/LogFile.txt","","",1
+2016-05-23 14:17:25.707 -0600,"Success",0:00:41,0,0,0,"20160523_141725.707/LogFile.txt","","",1
+2016-05-23 14:18:49.521 -0600,"Success",0:00:23,0,0,0,"20160523_141849.521/LogFile.txt","","",1
+2016-05-23 14:23:18.099 -0600,"Success",0:00:35,0,0,0,"20160523_142318.099/LogFile.txt","","",1
+2016-06-03 08:54:28.002 -0600,"Success",0:00:30,0,0,0,"20160603_085428.002/LogFile.txt","","",1
+2016-06-08 10:46:17.462 -0600,"Success",0:00:35,0,0,0,"20160608_104617.462/LogFile.txt","","",1
+2016-06-23 15:47:54.119 -0600,"Running",0:00:00,0,0,0,"20160623_154754.119/LogFile.txt","","",0
+2016-06-23 15:48:26.085 -0600,"Success",0:00:39,0,0,0,"20160623_154826.085/LogFile.txt","","",1
+2016-06-28 09:10:05.935 -0600,"Success",0:00:36,0,0,0,"20160628_091005.935/LogFile.txt","","",1
+2016-06-28 09:11:59.902 -0600,"Success",0:00:41,0,0,0,"20160628_091159.902/LogFile.txt","","",1

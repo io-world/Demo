@@ -1,0 +1,14 @@
+﻿2016-05-23 13:34:01.447 -0600	START		Running Index.script
+2016-05-23 13:34:01.574 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-05-23 13:34:02.626 -0600	imagefound	Apple/Sleep Screen	found at (139, 120)	4	on_unlock	AppleLib.script
+2016-05-23 13:34:02.633 -0600	presshomebutton			5	on_unlock	AppleLib.script
+2016-05-23 13:34:03.537 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	6	on_unlock	AppleLib.script
+2016-05-23 13:34:04.346 -0600	click		at (160, 845)	7	on_unlock	AppleLib.script
+2016-05-23 13:34:05.154 -0600	click		at (370, 1035)	8	on_unlock	AppleLib.script
+2016-05-23 13:34:05.967 -0600	click		at (580, 685)	9	on_unlock	AppleLib.script
+2016-05-23 13:34:06.780 -0600	click		at (370, 1035)	10	on_unlock	AppleLib.script
+2016-05-23 13:34:08.814 -0600	presshomebutton			12	on_unlock	AppleLib.script
+2016-05-23 13:34:09.520 -0600	presshomebutton			13	on_unlock	AppleLib.script
+2016-05-23 13:34:09.524 -0600	Log		Apple iPhone 6s	15	on_unlock	AppleLib.script
+2016-05-23 13:34:09.931 -0600	EndTestCase		(Duration:"8.481825", Errors:"0", Exceptions:"0", StartTime:"2016-05-23 13:34:01 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-23 13:34:09.935 -0600	SUCCESS		Execution Time 0:00:08 Index.script

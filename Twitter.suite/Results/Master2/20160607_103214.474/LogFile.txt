@@ -1,0 +1,17 @@
+﻿2016-06-07 10:32:14.475 -0600	START		Running Index2.script
+2016-06-07 10:32:14.643 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-06-07 10:32:14.645 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-06-07 10:32:17.141 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-06-07 10:32:17.160 -0600	LogSuccess		Chrome has Been Launched	3	on_launch	ChromeLib.script
+2016-06-07 10:32:20.203 -0600	click	Chrome Refresh	at (167, 42)	3	on_brower	ChromeLib.script
+2016-06-07 10:32:20.920 -0600	typetext		[backspace]	4	on_brower	ChromeLib.script
+2016-06-07 10:32:21.970 -0600	typetext		www.twitter.com/iotestplant	5	on_brower	ChromeLib.script
+2016-06-07 10:32:22.688 -0600	typetext		[enter]	6	on_brower	ChromeLib.script
+2016-06-07 10:32:28.777 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(454,300), ImageRectangle:(431,296,477,304), Language:"English", text:"Tweets", TextPlatform:"Generic OCR")	found at (454, 300)	7	on_index2	Index2.script
+2016-06-07 10:32:29.363 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(460,375), ImageRectangle:(432,369,488,382), Language:"English", searchRectangle:(360,315,720,450), text:"Tweets", TextPlatform:"Generic OCR")	at (460, 375)	8	on_index2	Index2.script
+2016-06-07 10:32:29.431 -0600	set		SEARCHRECTANGLE = (480,427,1000,475)	13	on_index2	Index2.script
+2016-06-07 10:32:33.487 -0600	readtext		(480,427,1000,475)
+2016-06-07 10:32:33.488 -0600	Log		Hi From TestPlant	15	on_index2	Index2.script
+2016-06-07 10:32:34.172 -0600	click	Windows/Close	at (1414, 10)	3	on_closeapplication	WindowsLib.script
+2016-06-07 10:32:34.484 -0600	EndTestCase		(Duration:"20.008291", Errors:"0", Exceptions:"0", StartTime:"2016-06-07 10:32:14 -0600", Successes:"1", TestCase:"Index2.script", Warnings:"0")
+2016-06-07 10:32:34.490 -0600	SUCCESS		Execution Time 0:00:20 Index2.script

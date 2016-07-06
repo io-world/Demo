@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2016-05-11 20:17:59 +0000";
+    CaptureHost = "Phone 6s";
+    CaptureScreenSize =     (
+        750,
+        1334
+    );
+    HasAlpha = 1;
+    HotSpotX = 33;
+    HotSpotY = 25;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 625;
+    OriginalLocationY = 1134;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

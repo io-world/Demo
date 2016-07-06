@@ -1,0 +1,25 @@
+﻿2016-05-11 15:04:30.010 -0600	START		Running index.script
+2016-05-11 15:04:30.077 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-11 15:04:30.085 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-11 15:04:30.096 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-11 15:04:31.746 -0600	click	Google Maps/Google Image	at (636, 645)	9	on_index	index.script
+2016-05-11 15:04:35.914 -0600	click	Google Maps/Google Maps Menu	at (237, 102)	10	on_index	index.script
+2016-05-11 15:04:38.866 -0600	click	Google Maps/Microphone	at (518, 101)	14	on_index	index.script
+2016-05-11 15:04:43.656 -0600	typetext		1633 York Street Denver CO 80206[returnKey]	15	on_index	index.script
+2016-05-11 15:04:48.405 -0600	click	Google Maps/Drive Icon	at (658, 1159)	16	on_index	index.script
+2016-05-11 15:04:51.326 -0600	click	Google Maps/Navigate Icon	at (661, 1157)	17	on_index	index.script
+2016-05-11 15:04:53.328 -0600	pinchin		at:(375, 667) duration:1	18	on_index	index.script
+2016-05-11 15:04:58.106 -0600	swipeup		Swiped up from (100, 700) to (100, 400)	20	on_index	index.script
+2016-05-11 15:05:00.995 -0600	swiperight		Swiped right from (100, 700) to (675, 700)	22	on_index	index.script
+2016-05-11 15:05:05.678 -0600	click	Google Maps/RE-Center	at (179, 1254)	23	on_index	index.script
+2016-05-11 15:05:07.751 -0600	readtext		(99,1207,549,1320)
+2016-05-11 15:05:07.799 -0600	Log		42 min	26	on_index	index.script
+2016-05-11 15:05:08.511 -0600	click		at (430, 1250)	27	on_index	index.script
+2016-05-11 15:05:13.504 -0600	click		at (430, 20)	29	on_index	index.script
+2016-05-11 15:05:19.509 -0600	click	Google Maps/Clear Directions	at (51, 1265)	30	on_index	index.script
+2016-05-11 15:05:24.623 -0600	click	Google Maps/Back Arrow	at (53, 94)	31	on_index	index.script
+2016-05-11 15:05:28.562 -0600	click	Google Maps/Microphone	at (518, 101)	14	on_index	index.script
+2016-05-11 15:05:33.366 -0600	typetext		1633 York Street Denver CO 80206[returnKey]	15	on_index	index.script
+2016-05-11 15:05:39.875 -0600	Exception	Google Maps/Drive Icon	No Image Found On Screen: "Google Maps/Drive Icon"	16	on_index	index.script
+2016-05-11 15:05:40.286 -0600	EndTestCase		(Duration:"70.275142", Errors:"1", Exceptions:"1", StartTime:"2016-05-11 15:04:30 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:05:40.384 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Google Maps/Drive Icon" -- Execution Time 0:01:10 index.script

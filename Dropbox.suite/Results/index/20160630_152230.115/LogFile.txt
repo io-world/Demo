@@ -1,0 +1,33 @@
+﻿2016-06-30 15:22:30.117 -0600	START		Running index.script
+2016-06-30 15:22:30.251 -0600	connect		Windows 2012:(null)	8	on_index	index.script
+2016-06-30 15:22:31.105 -0600	rightclick	WIndows/Desktop Area	at (471, 174)	2	on_rightc	Windows.script
+2016-06-30 15:22:32.709 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,304), ImageRectangle:(506,300,529,309), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 304)	6	on_rightc	Windows.script
+2016-06-30 15:22:34.741 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	5	on_createnotepad	Windows.script
+2016-06-30 15:22:34.870 -0600	click		at (707, 440)	6	on_createnotepad	Windows.script
+2016-06-30 15:22:35.700 -0600	typetext		Some File[enter][enter]	7	on_createnotepad	Windows.script
+2016-06-30 15:22:36.661 -0600	typetext		Hello From TestPlant!	8	on_createnotepad	Windows.script
+2016-06-30 15:22:39.005 -0600	click	Windows/Close	at (1249, 13)	10	on_createnotepad	Windows.script
+2016-06-30 15:22:43.228 -0600	everyimagelocation	(TEXT:"save")	found 3 images	11	on_createnotepad	Windows.script
+2016-06-30 15:22:43.362 -0600	click		at (674, 451)	12	on_createnotepad	Windows.script
+2016-06-30 15:22:44.837 -0600	rightclick	Windows/Note File Icon	at (485, 245)	2	on_rightc	Windows.script
+2016-06-30 15:22:46.579 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,564), ImageRectangle:(520,558,547,570), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 564)	6	on_rightc	Windows.script
+2016-06-30 15:22:48.100 -0600	doubleclick	WIndows/Drop Box Icon	at (111, 241)	2	on_movetodropbox	Windows.script
+2016-06-30 15:22:51.095 -0600	waitfor	Windows/Drop Box Item	found at (515, 387)	3	on_movetodropbox	Windows.script
+2016-06-30 15:22:51.888 -0600	rightclick	Windows/Drop Box Item	at (515, 387)	2	on_rightc	Windows.script
+2016-06-30 15:22:53.612 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(563,517), ImageRectangle:(550,513,577,522), Language:"English", searchRectangle:(515,387,915,787), Text:"Paste", TextPlatform:"Generic OCR")	at (563, 517)	6	on_rightc	Windows.script
+2016-06-30 15:22:55.070 -0600	click	windows/Close	at (1225, 127)	6	on_movetodropbox	Windows.script
+2016-06-30 15:22:56.541 -0600	rightclick	Windows/Note File Icon	at (485, 245)	2	on_rightc	Windows.script
+2016-06-30 15:22:58.282 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(536,610), ImageRectangle:(520,606,552,615), Language:"English", searchRectangle:(485,245,885,645), Text:"Delete", TextPlatform:"Generic OCR")	at (536, 610)	6	on_rightc	Windows.script
+2016-06-30 15:22:58.325 -0600	connect		iPhone 6s:(null)	18	on_index	index.script
+2016-06-30 15:23:02.682 -0600	imagefound	Apple/Sleep Screen	Unable to Find Image Apple/Sleep Screen	2	on_unlock	AppleLib.script
+2016-06-30 15:23:02.697 -0600	Log		Apple iPhone 6s	13	on_unlock	AppleLib.script
+2016-06-30 15:23:03.208 -0600	click	Apple/DropBox Icon	at (638, 819)	2	on_dropboxread	AppleLib.script
+2016-06-30 15:23:14.541 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(375,84), ImageRectangle:(314,72,436,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	found at (375, 84)	4	on_dropboxread	AppleLib.script
+2016-06-30 15:23:16.171 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(178,298), ImageRectangle:(106,285,251,311), Language:"English", Text:"Some File", TextPlatform:"Generic OCR", waitfor:"5")	at (178, 298)	5	on_dropboxread	AppleLib.script
+2016-06-30 15:23:21.338 -0600	readtext		(0,130,750,750)
+2016-06-30 15:23:21.339 -0600	Log		Hello\nYou can find more options in the\ndocument menu, like\nMake Available Offline and Al\nV\nRename\n\tj	7	on_dropboxread	AppleLib.script
+2016-06-30 15:23:32.485 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(116,84), ImageRectangle:(57,72,175,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	at (116, 84)	9	on_dropboxread	AppleLib.script
+2016-06-30 15:23:33.197 -0600	typetext		[homeKey]	10	on_dropboxread	AppleLib.script
+2016-06-30 15:23:38.472 -0600	Exception	Apple/DropBox Menu Icon	No Image Found On Screen: "Apple/DropBox Menu Icon"	2	on_dropboxdelete	AppleLib.script
+2016-06-30 15:23:38.994 -0600	EndTestCase		(Duration:"68.875905", Errors:"1", Exceptions:"1", StartTime:"2016-06-30 15:22:30 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-30 15:23:39.108 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Apple/DropBox Menu Icon" -- Execution Time 0:01:08 index.script

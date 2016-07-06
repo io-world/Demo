@@ -1,0 +1,4 @@
+﻿2016-05-02 14:41:21.877 -0600	START		Running Index.script
+2016-05-02 14:41:55.101 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"First Name")"	18	on_index	Index.script
+2016-05-02 14:41:55.398 -0600	EndTestCase		(Duration:"33.519595", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 14:41:21 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-02 14:41:55.478 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "(TEXT:"First Name")"  Restricted Search Rectangle ((317,73),(1116,461))\n -- Execution Time 0:00:33 Index.script

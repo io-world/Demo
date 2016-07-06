@@ -1,0 +1,17 @@
+﻿2016-05-18 11:26:07.072 -0600	START		Running index.script
+2016-05-18 11:26:08.042 -0600	rightclick	Desktop Area	at (471, 174)	6	on_index	index.script
+2016-05-18 11:26:09.767 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	9	on_index	index.script
+2016-05-18 11:26:12.035 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	10	on_index	index.script
+2016-05-18 11:26:12.158 -0600	click		at (740, 440)	11	on_index	index.script
+2016-05-18 11:26:13.028 -0600	typetext		Random File[enter][enter]	13	on_index	index.script
+2016-05-18 11:26:14.368 -0600	typetext		Random Information that we will Upload to DropBox.	15	on_index	index.script
+2016-05-18 11:26:15.648 -0600	click	Close	at (1249, 13)	16	on_index	index.script
+2016-05-18 11:26:20.461 -0600	everyimagelocation	(TEXT:"save")	found 3 images	19	on_index	index.script
+2016-05-18 11:26:20.583 -0600	click		at (674, 461)	20	on_index	index.script
+2016-05-18 11:26:22.108 -0600	rightclick	Note File Icon	at (485, 245)	22	on_index	index.script
+2016-05-18 11:26:22.232 -0600	Log		(485,245,885,645)	26	on_index	index.script
+2016-05-18 11:26:23.861 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,476), ImageRectangle:(520,470,547,482), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 476)	27	on_index	index.script
+2016-05-18 11:26:25.469 -0600	doubleclick	DropBox Icon	at (36, 348)	30	on_index	index.script
+2016-05-18 11:26:27.587 -0600	Exception	DropBox Item	Unable To Find Any Image On Screen "DropBox Item" within 2.00 seconds	31	on_index	index.script
+2016-05-18 11:26:27.857 -0600	EndTestCase		(Duration:"20.782897", Errors:"1", Exceptions:"1", StartTime:"2016-05-18 11:26:07 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 11:26:27.931 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "DropBox Item" within 2.00 seconds -- Execution Time 0:00:20 index.script

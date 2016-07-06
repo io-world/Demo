@@ -1,0 +1,17 @@
+﻿2016-05-09 15:11:09.245 -0600	START		Running Index2.script
+2016-05-09 15:11:09.401 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-09 15:11:09.403 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-05-09 15:11:10.957 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-05-09 15:11:10.965 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-09 15:11:13.931 -0600	click	Chrome Refresh	at (167, 42)	3	on_brower	ChromeLib.script
+2016-05-09 15:11:14.651 -0600	typetext		[backspace]	4	on_brower	ChromeLib.script
+2016-05-09 15:11:15.695 -0600	typetext		www.twitter.com/iotestplant	5	on_brower	ChromeLib.script
+2016-05-09 15:11:16.408 -0600	typetext		[enter]	6	on_brower	ChromeLib.script
+2016-05-09 15:11:20.084 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(454,300), ImageRectangle:(431,296,477,304), Language:"English", text:"Tweets", TextPlatform:"Generic OCR")	found at (454, 300)	9	on_index2	Index2.script
+2016-05-09 15:11:20.520 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(460,375), ImageRectangle:(432,369,488,382), Language:"English", searchRectangle:(360,315,720,450), text:"Tweets", TextPlatform:"Generic OCR")	at (460, 375)	10	on_index2	Index2.script
+2016-05-09 15:11:20.573 -0600	set		SEARCHRECTANGLE = (480,427,1000,475)	16	on_index2	Index2.script
+2016-05-09 15:11:24.644 -0600	readtext		(480,427,1000,475)
+2016-05-09 15:11:24.645 -0600	Log		Hey Monday...no seriously i hate you !	19	on_index2	Index2.script
+2016-05-09 15:11:28.669 -0600	Exception	Windows/Close	No Image Found On Screen: "Windows/Close"	3	on_closeapplication	WindowsLib.script
+2016-05-09 15:11:29.266 -0600	EndTestCase		(Duration:"20.019992", Errors:"1", Exceptions:"1", StartTime:"2016-05-09 15:11:09 -0600", Successes:"1", TestCase:"Index2.script", Warnings:"0")
+2016-05-09 15:11:29.351 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Windows/Close"  Restricted Search Rectangle ((480,427),(1000,475))\n -- Execution Time 0:00:20 Index2.script

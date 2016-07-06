@@ -1,0 +1,41 @@
+﻿set myDB to (type:"odbc", DSN:"172.16.229.129", user:"root", password:"T3stPl4nt")
+
+open database myDB
+
+
+put executeSQL(myDB, "SELECT * FROM TestPlant.WebFormData") into listOfRowInformation
+
+
+log listOfRowInformation
+
+
+close database myDB
+
+
+
+
+set myDB to (type:"odbc", DSN:"52.25.48.38", user:"dbuser", password:"T3stPl4nt")
+
+open database myDB
+
+put executeSQL(myDB, "SELECT * FROM dbo.Customer") into listOfRowInformation
+
+log listOfRowInformation
+
+close database myDB
+
+---Windows2012 -p 1433 -U root -P T3stPlant
+
+
+***************************************************************
+
+
+set myDB to (type:"odbc", DSN:"Windows2012", user:"root", password:"T3stPl4nt")
+
+open database myDB
+
+put executeSQL(myDB, "SELECT * FROM dbo.WebFormData") into listOfRowInformation
+
+log listOfRowInformation
+
+close database myDB

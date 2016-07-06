@@ -1,0 +1,30 @@
+﻿2016-06-02 09:14:32.554 -0600	START		Running index.script
+2016-06-02 09:14:32.663 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-06-02 09:14:37.362 -0600	imagefound	Apple/Sleep Screen	Unable to Find Image Apple/Sleep Screen	4	on_unlock	AppleLib.script
+2016-06-02 09:14:37.378 -0600	Log		Apple iPhone 6s	16	on_unlock	AppleLib.script
+2016-06-02 09:14:37.564 -0600	setoption		MouseMoveSpeed = 5	2	on_index	index.script
+2016-06-02 09:14:37.579 -0600	setoption		NextKeyDelay = 0.08	3	on_index	index.script
+2016-06-02 09:14:37.595 -0600	setoption		RemoteWorkInterval = 3	4	on_index	index.script
+2016-06-02 09:14:39.106 -0600	click	Google Maps/Google Image	at (636, 645)	13	on_index	index.script
+2016-06-02 09:14:49.349 -0600	imagefound	Google Maps/Google Maps Clear Search	Unable to Find Image Google Maps/Google Maps Clear Search	15	on_index	index.script
+2016-06-02 09:14:51.114 -0600	click	Google Maps/Microphone	at (518, 101)	19	on_index	index.script
+2016-06-02 09:14:56.137 -0600	typetext		Underwriters Labratories	20	on_index	index.script
+2016-06-02 09:15:00.684 -0600	click	Google Maps/Grey Image	at (70, 310)	21	on_index	index.script
+2016-06-02 09:15:07.256 -0600	click	Google Maps/Route Blue	at (658, 1159)	22	on_index	index.script
+2016-06-02 09:15:14.530 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"Search History is off", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Search History is off") within 1.00 seconds	24	on_index	index.script
+2016-06-02 09:15:15.608 -0600	imagefound	Google Maps/Navigate Icon	found at (661, 1157)	31	on_index	index.script
+2016-06-02 09:15:16.799 -0600	click	Google Maps/Navigate Icon	at (661, 1157)	32	on_index	index.script
+2016-06-02 09:15:20.828 -0600	pinchin		at:(375, 667) duration:1	34	on_index	index.script
+2016-06-02 09:15:26.582 -0600	swipeup		Swiped up from (100, 700) to (100, 400)	36	on_index	index.script
+2016-06-02 09:15:30.449 -0600	swiperight		Swiped right from (100, 700) to (675, 700)	38	on_index	index.script
+2016-06-02 09:15:36.287 -0600	click	Google Maps/RE-Center	at (179, 1254)	39	on_index	index.script
+2016-06-02 09:15:39.418 -0600	readtext		(99,1207,549,1320)
+2016-06-02 09:15:39.441 -0600	Log		20 min	42	on_index	index.script
+2016-06-02 09:15:40.137 -0600	click		at (430, 1250)	43	on_index	index.script
+2016-06-02 09:15:46.072 -0600	click		at (430, 20)	45	on_index	index.script
+2016-06-02 09:15:53.270 -0600	click	Google Maps/Clear Directions	at (51, 1265)	46	on_index	index.script
+2016-06-02 09:16:00.137 -0600	click	Google Maps/Back Arrow	at (53, 94)	49	on_index	index.script
+2016-06-02 09:16:05.500 -0600	click	Google Maps/Google Maps Clear Search	at (587, 101)	50	on_index	index.script
+2016-06-02 09:16:08.503 -0600	presshomebutton			52	on_index	index.script
+2016-06-02 09:16:08.845 -0600	EndTestCase		(Duration:"96.288649", Errors:"0", Exceptions:"0", StartTime:"2016-06-02 09:14:32 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-02 09:16:08.850 -0600	SUCCESS		Execution Time 0:01:36 index.script

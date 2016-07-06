@@ -1,0 +1,3 @@
+﻿2016-06-29 09:37:28.492 -0600	START		Running RESTful.script
+2016-06-29 09:37:29.122 -0600	EndTestCase		(Duration:"0.627958", Errors:"1", Exceptions:"0", StartTime:"2016-06-29 09:37:28 -0600", Successes:"0", TestCase:"RESTful.script", Warnings:"0")
+2016-06-29 09:37:29.569 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'http' -- Execution Time 0:00:00 RESTful.script

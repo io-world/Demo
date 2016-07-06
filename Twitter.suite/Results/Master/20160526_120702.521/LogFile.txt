@@ -1,0 +1,11 @@
+﻿2016-05-26 12:07:02.522 -0600	START		Running Index.script
+2016-05-26 12:07:03.248 -0600	imagefound	Windows/Start	found at (26, 880)	1	on_index	Index.script
+2016-05-26 12:07:03.301 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-26 12:07:03.303 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-05-26 12:07:04.538 -0600	click	Chrome Icons	at (640, 589)	2	on_launch	ChromeLib.script
+2016-05-26 12:07:04.556 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-26 12:07:06.779 -0600	waitfor	Chrome Search Icons	found at (517, 396)	2	on_search	ChromeLib.script
+2016-05-26 12:07:10.006 -0600	imagefound	Chrome Search Icons/apple Search Icon	Unable to Find Image Chrome Search Icons/apple Search Icon	4	on_search	ChromeLib.script
+2016-05-26 12:07:10.248 -0600	typetext		mobile.twitter.com	10	on_search	ChromeLib.script
+2016-05-26 12:07:17.456 -0600	EndTestCase		(Duration:"14.932487", Errors:"1", Exceptions:"0", StartTime:"2016-05-26 12:07:02 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-26 12:07:17.457 -0600	ABORTED		Execution Time 0:00:14 Index.script

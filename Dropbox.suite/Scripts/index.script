@@ -1,0 +1,37 @@
+﻿Put "Some File" into FileName
+put "Hello From TestPlant!" into FileInfo
+
+
+
+
+----------------------------------------------------------------
+Connect "Windows 2012"
+Windows.CreateNotepad FileName , FileInfo
+Windows.RIghtC  "Windows/Note File Icon","Copy"
+Windows.MovetoDropBox
+Windows.RIghtC  "Windows/Note File Icon","Delete"
+----------------------------------------------------------------
+
+
+
+----------------------------------------------------------------
+Connect "iPhone 6s"
+AppleLib.unlock
+Applelib.DropBoxRead FileName
+----------------------------------------------------------------
+Put "Some File" into FileName
+----------------------------------------------------------------
+Applelib.DropBoxDelete FileName
+----------------------------------------------------------------
+
+
+
+
+----------------------------------------------------------------
+--Connect "Samsung Tablet"
+--AndroidLib.DropBoxDelete FileName
+----------------------------------------------------------------
+
+
+
+--doubleclick "Drop Box/"

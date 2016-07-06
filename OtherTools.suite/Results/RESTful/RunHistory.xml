@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="RESTful">
+ <run>
+  <RunDate>2016-06-29 09:37:28.491 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.629494</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160629_093728.491/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;http&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-29 09:37:34.006 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.941793</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160629_093734.006/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-29 09:38:00.989 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.160115</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160629_093800.989/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

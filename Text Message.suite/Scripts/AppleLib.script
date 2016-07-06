@@ -1,0 +1,18 @@
+﻿on unlock
+	Connect "iPhone 6s"
+	
+	if imagefound ("Apple/Sleep Screen") Then
+		PressHomeButton
+		SwipeRight (00,600)
+		wait 4
+		Click (160,845)
+		Click (370,1035)
+		Click (580,685)
+		Click (370,1035)
+		wait 2
+		PressHomeButton
+		PressHomeButton
+	end if
+	Log "Apple iPhone 6s"
+end unlock
+

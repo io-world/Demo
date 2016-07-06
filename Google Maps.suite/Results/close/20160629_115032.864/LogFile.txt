@@ -1,0 +1,5 @@
+﻿2016-06-29 11:50:32.866 -0600	START		Running close.script
+2016-06-29 11:50:32.975 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-06-29 11:50:39.460 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	6	on_close	close.script
+2016-06-29 11:50:40.116 -0600	EndTestCase		(Duration:"7.249543", Errors:"1", Exceptions:"1", StartTime:"2016-06-29 11:50:32 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-06-29 11:50:40.117 -0600	ABORTED		Execution Time 0:00:07 close.script

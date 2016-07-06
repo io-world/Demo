@@ -1,0 +1,51 @@
+﻿2016-06-10 15:01:24.039 -0600	START		Running index.script
+2016-06-10 15:01:24.187 -0600	connect		Windows 2012 (VNC):(null)	8	on_index	index.script
+2016-06-10 15:01:24.923 -0600	rightclick	WIndows/Desktop Area	at (471, 174)	2	on_rightc	Windows.script
+2016-06-10 15:01:26.433 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	6	on_rightc	Windows.script
+2016-06-10 15:01:28.077 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	5	on_createnotepad	Windows.script
+2016-06-10 15:01:28.209 -0600	click		at (741, 440)	6	on_createnotepad	Windows.script
+2016-06-10 15:01:29.000 -0600	typetext		Dummy[enter][enter]	7	on_createnotepad	Windows.script
+2016-06-10 15:01:30.061 -0600	typetext		Dish Networking is AMAZING	8	on_createnotepad	Windows.script
+2016-06-10 15:01:31.349 -0600	click	Windows/Close	at (1249, 13)	9	on_createnotepad	Windows.script
+2016-06-10 15:01:35.642 -0600	everyimagelocation	(TEXT:"save")	found 3 images	10	on_createnotepad	Windows.script
+2016-06-10 15:01:35.772 -0600	click		at (674, 451)	11	on_createnotepad	Windows.script
+2016-06-10 15:01:37.197 -0600	rightclick	Windows/Note File Icon	at (485, 245)	2	on_rightc	Windows.script
+2016-06-10 15:01:38.847 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,476), ImageRectangle:(520,470,547,482), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 476)	6	on_rightc	Windows.script
+2016-06-10 15:01:40.336 -0600	doubleclick	WIndows/Drop Box Icon	at (36, 348)	2	on_movetodropbox	Windows.script
+2016-06-10 15:01:43.164 -0600	waitfor	Windows/Drop Box Item	found at (704, 388)	3	on_movetodropbox	Windows.script
+2016-06-10 15:01:43.914 -0600	rightclick	Windows/Drop Box Item	at (704, 388)	2	on_rightc	Windows.script
+2016-06-10 15:01:45.591 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(752,518), ImageRectangle:(739,514,766,523), Language:"English", searchRectangle:(704,388,1104,788), Text:"Paste", TextPlatform:"Generic OCR")	at (752, 518)	6	on_rightc	Windows.script
+2016-06-10 15:01:46.992 -0600	click	windows/Close	at (1381, 128)	6	on_movetodropbox	Windows.script
+2016-06-10 15:01:48.371 -0600	rightclick	Windows/Note File Icon	at (485, 245)	2	on_rightc	Windows.script
+2016-06-10 15:01:49.958 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(536,522), ImageRectangle:(520,518,552,527), Language:"English", searchRectangle:(485,245,885,645), Text:"Delete", TextPlatform:"Generic OCR")	at (536, 522)	6	on_rightc	Windows.script
+2016-06-10 15:01:50.011 -0600	connect		iPhone 6s:(null)	18	on_index	index.script
+2016-06-10 15:01:51.665 -0600	imagefound	Apple/Sleep Screen	found at (126, 135)	2	on_unlock	AppleLib.script
+2016-06-10 15:01:51.687 -0600	presshomebutton			3	on_unlock	AppleLib.script
+2016-06-10 15:01:52.601 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	4	on_unlock	AppleLib.script
+2016-06-10 15:01:53.416 -0600	click		at (160, 845)	5	on_unlock	AppleLib.script
+2016-06-10 15:01:54.231 -0600	click		at (370, 1035)	6	on_unlock	AppleLib.script
+2016-06-10 15:01:55.039 -0600	click		at (580, 685)	7	on_unlock	AppleLib.script
+2016-06-10 15:01:55.850 -0600	click		at (370, 1035)	8	on_unlock	AppleLib.script
+2016-06-10 15:01:57.864 -0600	presshomebutton			10	on_unlock	AppleLib.script
+2016-06-10 15:01:58.570 -0600	presshomebutton			11	on_unlock	AppleLib.script
+2016-06-10 15:01:58.573 -0600	Log		Apple iPhone 6s	13	on_unlock	AppleLib.script
+2016-06-10 15:01:59.905 -0600	click	Apple/DropBox Icon	at (638, 819)	2	on_dropboxread	AppleLib.script
+2016-06-10 15:02:11.382 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(374,83), ImageRectangle:(313,71,436,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	found at (374, 83)	4	on_dropboxread	AppleLib.script
+2016-06-10 15:02:13.293 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(163,302), ImageRectangle:(107,287,220,317), Language:"English", Text:"Dummy", TextPlatform:"Generic OCR", waitfor:"5")	at (163, 302)	5	on_dropboxread	AppleLib.script
+2016-06-10 15:02:18.361 -0600	readtext		(0,130,750,750)
+2016-06-10 15:02:18.362 -0600	Log		Dish Networking is AMAZING	7	on_dropboxread	AppleLib.script
+2016-06-10 15:02:29.866 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(116,84), ImageRectangle:(57,72,175,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	at (116, 84)	9	on_dropboxread	AppleLib.script
+2016-06-10 15:02:30.579 -0600	typetext		[homeKey]	10	on_dropboxread	AppleLib.script
+2016-06-10 15:02:30.636 -0600	connect		Samsung Tablet:(null)	25	on_index	index.script
+2016-06-10 15:02:32.103 -0600	click	Android/Drop Box Icon	at (73, 737)	2	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:32.969 -0600	swipedown		Swiped down from (400, 384) to (400, 896)	3	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:36.148 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(131,154), ImageRectangle:(96,144,166,164), Language:"English", Text:"Dummy", TextPlatform:"Generic OCR", waitfor:"10")	at (131, 154)	4	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:43.785 -0600	click	Android/Drop Box Menu Icon	at (748, 77)	6	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:45.455 -0600	click	Android/Drop Box Quit	at (568, 140)	7	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:46.439 -0600	click	Android/Drop Box Drop Down	at (767, 165)	8	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:47.306 -0600	swipeup		Swiped up from (400, 896) to (400, 384)	9	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:48.800 -0600	click	Android/Drop Box Delete	at (202, 1237)	10	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:50.462 -0600	click	Android/Drop Box Confirm Delete 	at (636, 706)	11	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:57.474 -0600	presshomebutton			13	on_dropboxdelete	AndroidLib.script
+2016-06-10 15:02:57.885 -0600	EndTestCase		(Duration:"93.844224", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 15:01:24 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-10 15:02:57.890 -0600	SUCCESS		Execution Time 0:01:33 index.script

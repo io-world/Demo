@@ -1,0 +1,8 @@
+﻿2016-05-12 14:57:45.363 -0600	START		Running index.script
+2016-05-12 14:57:45.537 -0600	typetext		[windowsKey]	9	on_index	index.script
+2016-05-12 14:57:46.699 -0600	click	Chrome	at (178, 599)	10	on_index	index.script
+2016-05-12 14:57:49.125 -0600	waitfor	Chrome Mic	found at (999, 402)	12	on_index	index.script
+2016-05-12 14:57:49.209 -0600	typetext		[enter]	18	on_index	index.script
+2016-05-12 14:57:59.358 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(125,236,681,393), Text:"USD", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"USD")" within 10.00 seconds	19	on_index	index.script
+2016-05-12 14:57:59.766 -0600	EndTestCase		(Duration:"14.401684", Errors:"1", Exceptions:"1", StartTime:"2016-05-12 14:57:45 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-12 14:57:59.842 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"USD")" within 10.00 seconds  Restricted Search Rectangle ((125,236),(681,393))\n -- Execution Time 0:00:14 index.script

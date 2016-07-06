@@ -1,0 +1,4 @@
+﻿2016-06-30 14:05:10.832 -0600	START		Running Notes.script
+2016-06-30 14:05:11.304 -0600	moveto	Google Logo	at (700, 294)	4	on_notes	Notes.script
+2016-06-30 14:05:11.718 -0600	EndTestCase		(Duration:"0.883206", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 14:05:10 -0600", Successes:"1", TestCase:"Notes.script", Warnings:"0")
+2016-06-30 14:05:11.722 -0600	SUCCESS		Execution Time 0:00:00 Notes.script

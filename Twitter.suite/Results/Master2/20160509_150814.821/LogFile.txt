@@ -1,0 +1,19 @@
+﻿2016-05-09 15:08:14.823 -0600	START		Running Index2.script
+2016-05-09 15:08:15.324 -0600	imagefound	Windows/Start	found at (26, 881)	1	on_index2	Index2.script
+2016-05-09 15:08:15.387 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-09 15:08:15.408 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-05-09 15:08:16.948 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-05-09 15:08:16.952 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-09 15:08:19.555 -0600	click	Chrome Refresh	at (167, 42)	3	on_brower	ChromeLib.script
+2016-05-09 15:08:20.271 -0600	typetext		[backspace]	4	on_brower	ChromeLib.script
+2016-05-09 15:08:21.320 -0600	typetext		www.twitter.com/iotestplant	5	on_brower	ChromeLib.script
+2016-05-09 15:08:22.036 -0600	typetext		[enter]	6	on_brower	ChromeLib.script
+2016-05-09 15:08:25.856 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(454,300), ImageRectangle:(431,296,477,304), Language:"English", text:"Tweets", TextPlatform:"Generic OCR")	found at (454, 300)	19	on_index2	Index2.script
+2016-05-09 15:08:26.029 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(460,375), ImageRectangle:(432,369,488,382), Language:"English", searchRectangle:(360,315,720,450), text:"Tweets", TextPlatform:"Generic OCR")	at (460, 375)	20	on_index2	Index2.script
+2016-05-09 15:08:26.119 -0600	set		SEARCHRECTANGLE = (480,427,1000,475)	26	on_index2	Index2.script
+2016-05-09 15:08:30.201 -0600	readtext		(480,427,1000,475)
+2016-05-09 15:08:30.201 -0600	Log		Hey Monday...no seriously i hate you !	29	on_index2	Index2.script
+2016-05-09 15:08:36.994 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	33	on_index2	Index2.script
+2016-05-09 15:08:41.011 -0600	Exception	Apple/Chrome Tab	No Image Found On Screen: "Apple/Chrome Tab"	3	on_resetchrome	AppleLib.script
+2016-05-09 15:08:41.582 -0600	EndTestCase		(Duration:"26.757384", Errors:"1", Exceptions:"1", StartTime:"2016-05-09 15:08:14 -0600", Successes:"1", TestCase:"Index2.script", Warnings:"0")
+2016-05-09 15:08:41.670 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Apple/Chrome Tab"  Restricted Search Rectangle ((480,427),(1000,475))\n -- Execution Time 0:00:26 Index2.script

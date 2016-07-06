@@ -1,0 +1,10 @@
+﻿2016-05-12 13:45:18.908 -0600	START		Running close.script
+2016-05-12 13:45:19.030 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 13:45:19.800 -0600	readtext		(248,107,570,167)
+2016-05-12 13:45:19.801 -0600	Log		o Verizon LIE\nThi i	5	on_close	close.script
+2016-05-12 13:45:20.120 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(356,136), ImageRectangle:(265,122,448,151), Language:"English", searchRectangle:(247.5,106.720001,570,166.75), Text:"Google Maps", TextPlatform:"Generic OCR")	found at (356, 136)	6	on_close	close.script
+2016-05-12 13:45:20.338 -0600	swipeup		Swiped up from (375, 934) to (375, 400)	11	on_close	close.script
+2016-05-12 13:45:25.787 -0600	imagefound	SpringBoard	Unable to Find Image SpringBoard	13	on_close	close.script
+2016-05-12 13:45:25.817 -0600	presshomebutton			27	on_close	close.script
+2016-05-12 13:45:26.203 -0600	EndTestCase		(Duration:"7.293755", Errors:"0", Exceptions:"0", StartTime:"2016-05-12 13:45:18 -0600", Successes:"1", TestCase:"close.script", Warnings:"0")
+2016-05-12 13:45:26.207 -0600	SUCCESS		Execution Time 0:00:07 close.script

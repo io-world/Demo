@@ -1,0 +1,16 @@
+﻿2016-05-31 09:28:20.390 -0600	START		Running index.script
+2016-05-31 09:28:20.515 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-31 09:28:20.530 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-31 09:28:20.544 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-31 09:28:24.473 -0600	click	Browsers Icon/Chrome	at (317, 881)	15	on_index	index.script
+2016-05-31 09:28:32.939 -0600	click	indicators	at (173, 43)	16	on_index	index.script
+2016-05-31 09:28:37.229 -0600	typetext		www.amazon.com[returnKey]	18	on_index	index.script
+2016-05-31 09:28:40.053 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(378,141), ImageRectangle:(366,136,391,146), Language:"English", searchRectangle:(0,90,720,180), Text:"Deal", TextPlatform:"Generic OCR", waitfor:"10")	at (378, 141)	19	on_index	index.script
+2016-05-31 09:28:44.633 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(339,618), ImageRectangle:(284,614,394,622), Language:"English", searchRectangle:(216,360,504,900), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR", waitfor:"10")	at (339, 618)	23	on_index	index.script
+2016-05-31 09:28:44.675 -0600	Log		Deal of the Day is Located Here:(339,618)	24	on_index	index.script
+2016-05-31 09:28:44.847 -0600	readtext		(259,626,429,658)
+2016-05-31 09:28:44.853 -0600	Log		$17.99-$699.00	29	on_index	index.script
+2016-05-31 09:28:47.462 -0600	click	Browser Close	at (1414, 12)	34	on_index	index.script
+2016-05-31 09:28:53.872 -0600	Exception	Browsers Icon/Internet Explorer	No Image Found On Screen: "Browsers Icon/Internet Explorer"	15	on_index	index.script
+2016-05-31 09:28:54.376 -0600	EndTestCase		(Duration:"33.984669", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 09:28:20 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-31 09:28:54.376 -0600	ABORTED		Execution Time 0:00:33 index.script

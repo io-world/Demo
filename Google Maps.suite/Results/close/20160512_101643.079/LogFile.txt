@@ -1,0 +1,12 @@
+﻿2016-05-12 10:16:43.080 -0600	START		Running close.script
+2016-05-12 10:16:43.243 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 10:16:50.168 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:16:50.256 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:16:56.193 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:16:56.274 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:17:02.224 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:17:02.311 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:17:08.227 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:17:08.305 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:17:09.953 -0600	EndTestCase		(Duration:"26.872044", Errors:"1", Exceptions:"0", StartTime:"2016-05-12 10:16:43 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 10:17:09.954 -0600	ABORTED		Execution Time 0:00:26 close.script

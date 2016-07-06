@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="RESTful.script" package="OtherTools.suite" timestamp="2016-06-29 09:37:34.006 -0600"
+ tests="1" successes="1" errors="0" time="0.941793">
+  <properties>
+   <property name="RunDate" value="2016-06-29 09:37:34.006 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="RESTful.script" assertions="1" successes="1" errors="0" time="0.940096">
+  </testcase>
+ </testsuite>
+</testsuites>

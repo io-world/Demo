@@ -1,0 +1,6 @@
+﻿2016-06-13 08:55:42.620 -0600	START		Running index.script
+2016-06-13 08:55:42.779 -0600	connect		Windows 2012 (VNC):(null)	8	on_index	index.script
+2016-06-13 08:55:44.180 -0600	rightclick	WIndows/Desktop Area	at (329, 354)	2	on_rightc	Windows.script
+2016-06-13 08:55:45.233 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(375,506), ImageRectangle:(364,502,387,511), Language:"English", searchRectangle:(329,354,729,754), Text:"New", TextPlatform:"Generic OCR")	at (375, 506)	6	on_rightc	Windows.script
+2016-06-13 08:55:47.273 -0600	EndTestCase		(Duration:"4.652123", Errors:"1", Exceptions:"0", StartTime:"2016-06-13 08:55:42 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-13 08:55:47.275 -0600	ABORTED		Execution Time 0:00:04 index.script

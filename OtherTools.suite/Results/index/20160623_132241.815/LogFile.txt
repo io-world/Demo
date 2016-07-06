@@ -1,0 +1,4 @@
+﻿2016-06-23 13:22:41.816 -0600	START		Running index.script
+2016-06-23 13:22:42.056 -0600	connect		Windows 2012:(null)	1	on_index	index.script
+2016-06-23 13:22:42.113 -0600	EndTestCase		(Duration:"0.295175", Errors:"1", Exceptions:"0", StartTime:"2016-06-23 13:22:41 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-23 13:22:42.648 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'params' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 index.script

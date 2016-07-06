@@ -1,0 +1,32 @@
+﻿if ImageFound(image:"Windows/Start") Then 
+	WindowsLib.start
+else
+	if  imagefound ("Apple/Blank") Then
+		AppleLib.unlock
+		Log "apple iPhone is in Sleep Mode"
+	else if imagefound ("Apple/Phone Icon") Then
+		Log "apple iPhone is already on"
+	else
+		Log "Unable to Open any Device"
+	end if
+end if
+
+
+
+ChromeLib.launch
+ChromeLib.search "mobile.twitter.com"
+----Mobile App--
+TwitterLib.TwitterLogin "iotestplant","twittergo4"
+TwitterLib.Tweet "Hi From TestPlant , June 30 , 2014"
+TwitterLib.logout
+---------
+
+
+wait 3
+if ImageFound("Windows/Start") Then 
+	WindowsLib.closeApplication
+else
+	AppleLib.resetChrome
+end if
+
+

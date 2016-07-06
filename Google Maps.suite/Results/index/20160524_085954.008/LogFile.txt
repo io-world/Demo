@@ -1,0 +1,8 @@
+﻿2016-05-24 08:59:54.009 -0600	START		Running index.script
+2016-05-24 08:59:54.151 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-24 08:59:54.168 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-24 08:59:54.179 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-24 08:59:54.221 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-05-24 08:59:54.227 -0600	Exception	Apple/Sleep Screen	Could Not Open Image: Apple/Sleep Screen	4	on_unlock	AppleLib.script
+2016-05-24 08:59:54.604 -0600	EndTestCase		(Duration:"0.59335", Errors:"1", Exceptions:"1", StartTime:"2016-05-24 08:59:54 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-24 08:59:55.549 -0600	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: Apple/Sleep Screen -- Execution Time 0:00:00 index.script

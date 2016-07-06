@@ -1,0 +1,29 @@
+﻿TypeText HomeKey, HomeKey
+--typetext HomeButton, HomeButton 
+put (RemoteScreenSize()*(0.33,0.08),RemoteScreenSize()*(.76,0.125)) into RSS
+
+Repeat until find = True
+	put imagefound(Text: "Google Maps", searchRectangle: (RSS)) into Find
+	
+	if Find = True Then
+		put True into Find
+		
+		SwipeUp 
+		
+		if ImageFound("Apple/SpringBoard")  Then
+			wait 4
+			Log "Unable to find Application"
+			put True into Find
+		end if	
+		
+	else
+		put False into Find
+		SwipeRight (545,700)	
+	end if
+	
+	
+End repeat
+
+PressHomeButton 
+
+

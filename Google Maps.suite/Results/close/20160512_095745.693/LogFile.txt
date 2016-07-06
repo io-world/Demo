@@ -1,0 +1,5 @@
+﻿2016-05-12 09:57:45.694 -0600	START		Running close.script
+2016-05-12 09:57:45.845 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 09:57:45.861 -0600	Exception		Image Property List did not contain "ImageName" property	5	on_close	close.script
+2016-05-12 09:57:46.107 -0600	EndTestCase		(Duration:"0.412406", Errors:"1", Exceptions:"1", StartTime:"2016-05-12 09:57:45 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 09:57:46.502 -0600	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:00 close.script

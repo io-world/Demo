@@ -1,0 +1,4 @@
+﻿2016-04-21 15:32:27.268 -0600	START		Running index.script
+2016-04-21 15:32:27.325 -0600	Log		((Company_name:"Stock Name"),(Company_name:"goog"),(Company_name:"Appl"),(Company_name:"Wmt"),(Company_name:"Xom"))	17	on_index	index.script
+2016-04-21 15:32:27.834 -0600	EndTestCase		(Duration:"0.563057", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 15:32:27 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-04-21 15:32:27.838 -0600	SUCCESS		Execution Time 0:00:00 index.script

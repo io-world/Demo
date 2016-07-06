@@ -1,0 +1,3 @@
+﻿2016-06-10 14:22:18.893 -0600	START		Running AndroidLib.script
+2016-06-10 14:22:25.102 -0600	EndTestCase		(Duration:"6.207478", Errors:"1", Exceptions:"0", StartTime:"2016-06-10 14:22:18 -0600", Successes:"0", TestCase:"AndroidLib.script", Warnings:"0")
+2016-06-10 14:22:25.103 -0600	ABORTED		Execution Time 0:00:06 AndroidLib.script

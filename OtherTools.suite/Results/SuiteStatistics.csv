@@ -1,0 +1,4 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+ODBC_connection,Failure,4,1,2016-06-29 09:07:40 -0600,2016-06-29 09:16:22 -0600,0:00:00
+RESTful,Success,3,1,2016-06-29 09:37:28 -0600,2016-06-29 09:38:00 -0600,0:00:01
+index,Success,39,11,2016-06-23 13:14:01 -0600,2016-06-24 09:26:35 -0600,0:00:00

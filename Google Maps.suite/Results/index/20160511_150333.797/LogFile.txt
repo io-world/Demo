@@ -1,0 +1,22 @@
+﻿2016-05-11 15:03:33.799 -0600	START		Running index.script
+2016-05-11 15:03:34.212 -0600	click	Google Maps/Google Image	at (636, 645)	5	on_index	index.script
+2016-05-11 15:03:36.663 -0600	click	Google Maps/Google Maps Menu	at (237, 102)	6	on_index	index.script
+2016-05-11 15:03:37.650 -0600	click	Google Maps/Microphone	at (518, 101)	10	on_index	index.script
+2016-05-11 15:03:38.774 -0600	typetext		1633 York Street Denver CO 80206[returnKey]	11	on_index	index.script
+2016-05-11 15:03:40.954 -0600	click	Google Maps/Drive Icon	at (658, 1159)	12	on_index	index.script
+2016-05-11 15:03:43.380 -0600	click	Google Maps/Navigate Icon	at (661, 1157)	13	on_index	index.script
+2016-05-11 15:03:44.081 -0600	pinchin		at:(375, 667) duration:1	14	on_index	index.script
+2016-05-11 15:03:46.199 -0600	swipeup		Swiped up from (100, 700) to (100, 400)	16	on_index	index.script
+2016-05-11 15:03:48.430 -0600	swiperight		Swiped right from (100, 700) to (675, 700)	18	on_index	index.script
+2016-05-11 15:03:49.507 -0600	click	Google Maps/RE-Center	at (179, 1254)	19	on_index	index.script
+2016-05-11 15:03:50.283 -0600	readtext		(99,1207,549,1320)
+2016-05-11 15:03:50.313 -0600	Log		43 min	22	on_index	index.script
+2016-05-11 15:03:50.430 -0600	click		at (430, 1250)	23	on_index	index.script
+2016-05-11 15:03:52.548 -0600	click		at (430, 20)	25	on_index	index.script
+2016-05-11 15:03:53.532 -0600	click	Google Maps/Clear Directions	at (51, 1265)	26	on_index	index.script
+2016-05-11 15:03:54.741 -0600	click	Google Maps/Back Arrow	at (53, 94)	27	on_index	index.script
+2016-05-11 15:03:55.749 -0600	click	Google Maps/Microphone	at (518, 101)	10	on_index	index.script
+2016-05-11 15:03:56.870 -0600	typetext		1633 York Street Denver CO 80206[returnKey]	11	on_index	index.script
+2016-05-11 15:04:01.538 -0600	Exception	Google Maps/Drive Icon	No Image Found On Screen: "Google Maps/Drive Icon"	12	on_index	index.script
+2016-05-11 15:04:01.918 -0600	EndTestCase		(Duration:"28.11763", Errors:"1", Exceptions:"1", StartTime:"2016-05-11 15:03:33 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:04:01.999 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Google Maps/Drive Icon" -- Execution Time 0:00:28 index.script

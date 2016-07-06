@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ODBC_connection.script" package="OtherTools.suite" timestamp="2016-06-29 09:09:53.344 -0600"
+ tests="1" successes="1" errors="0" time="0.591285">
+  <properties>
+   <property name="RunDate" value="2016-06-29 09:09:53.344 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ODBC_connection.script" assertions="1" successes="1" errors="0" time="0.589984">
+  </testcase>
+ </testsuite>
+</testsuites>

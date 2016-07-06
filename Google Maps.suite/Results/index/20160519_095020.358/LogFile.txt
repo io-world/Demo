@@ -1,0 +1,30 @@
+﻿2016-05-19 09:50:20.360 -0600	START		Running index.script
+2016-05-19 09:50:20.490 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-19 09:50:20.519 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-19 09:50:20.532 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-19 09:50:22.367 -0600	click	Google Maps/Google Image	at (636, 645)	11	on_index	index.script
+2016-05-19 09:50:32.931 -0600	imagefound	Google Maps/Google Maps Clear Search	Unable to Find Image Google Maps/Google Maps Clear Search	13	on_index	index.script
+2016-05-19 09:50:35.435 -0600	click	Google Maps/Microphone	at (518, 101)	17	on_index	index.script
+2016-05-19 09:50:39.111 -0600	typetext		Chicago 	18	on_index	index.script
+2016-05-19 09:50:40.084 -0600	waitfor	Google Maps/Grey Image	found at (70, 209)	19	on_index	index.script
+2016-05-19 09:50:43.674 -0600	click	Google Maps/Grey Image	at (70, 209)	21	on_index	index.script
+2016-05-19 09:50:49.664 -0600	click	Google Maps/Route Blue	at (659, 1158)	22	on_index	index.script
+2016-05-19 09:50:54.252 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(418,389), ImageRectangle:(237,370,600,409), Language:"English", Text:"Search History is off", TextPlatform:"Generic OCR")	found at (418, 389)	25	on_index	index.script
+2016-05-19 09:50:58.628 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,93), ImageRectangle:(145,82,237,104), Language:"English", Text:"Choose", TextPlatform:"Generic OCR")	at (191, 93)	26	on_index	index.script
+2016-05-19 09:51:03.260 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(273,209), ImageRectangle:(219,197,328,221), Language:"English", Text:"Location", TextPlatform:"Generic OCR")	at (273, 209)	28	on_index	index.script
+2016-05-19 09:51:06.087 -0600	imagefound	Google Maps/Navigate Icon	found at (661, 1157)	32	on_index	index.script
+2016-05-19 09:51:08.943 -0600	click	Google Maps/Navigate Icon	at (661, 1157)	33	on_index	index.script
+2016-05-19 09:51:12.960 -0600	pinchin		at:(375, 667) duration:1	35	on_index	index.script
+2016-05-19 09:51:18.739 -0600	swipeup		Swiped up from (100, 700) to (100, 400)	37	on_index	index.script
+2016-05-19 09:51:22.622 -0600	swiperight		Swiped right from (100, 700) to (675, 700)	39	on_index	index.script
+2016-05-19 09:51:28.483 -0600	click	Google Maps/RE-Center	at (179, 1254)	40	on_index	index.script
+2016-05-19 09:51:31.559 -0600	readtext		(99,1207,549,1320)
+2016-05-19 09:51:31.580 -0600	Log		14 hr 29 min	43	on_index	index.script
+2016-05-19 09:51:32.287 -0600	click		at (430, 1250)	44	on_index	index.script
+2016-05-19 09:51:38.224 -0600	click		at (430, 20)	46	on_index	index.script
+2016-05-19 09:51:45.382 -0600	click	Google Maps/Clear Directions	at (51, 1265)	47	on_index	index.script
+2016-05-19 09:51:52.234 -0600	click	Google Maps/Back Arrow	at (53, 94)	50	on_index	index.script
+2016-05-19 09:51:57.625 -0600	click	Google Maps/Google Maps Clear Search	at (587, 101)	51	on_index	index.script
+2016-05-19 09:52:00.632 -0600	presshomebutton			53	on_index	index.script
+2016-05-19 09:52:00.989 -0600	EndTestCase		(Duration:"100.626709", Errors:"0", Exceptions:"0", StartTime:"2016-05-19 09:50:20 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-19 09:52:00.993 -0600	SUCCESS		Execution Time 0:01:40 index.script

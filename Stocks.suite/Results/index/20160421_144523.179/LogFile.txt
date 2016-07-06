@@ -1,0 +1,4 @@
+﻿2016-04-21 14:45:23.180 -0600	START		Running index.script
+2016-04-21 14:45:23.239 -0600	Log		(Company Name,Google,Apple,Walmart,Exxon Mobile)	18	on_index	index.script
+2016-04-21 14:45:23.696 -0600	EndTestCase		(Duration:"0.514728", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 14:45:23 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-04-21 14:45:23.700 -0600	SUCCESS		Execution Time 0:00:00 index.script

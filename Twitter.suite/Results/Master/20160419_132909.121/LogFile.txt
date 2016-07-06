@@ -1,0 +1,6 @@
+﻿2016-04-19 13:29:09.122 -0600	START		Running Index.script
+2016-04-19 13:29:09.150 -0600	setoption		MouseMoveSpeed = 12	2	on_index	Index.script
+2016-04-19 13:29:12.667 -0600	click	Windows/Start	at (43, 1406)	2	on_start	WindowsLib.script
+2016-04-19 13:29:15.633 -0600	click	Windows/Start	at (43, 1406)	5	on_index	Index.script
+2016-04-19 13:29:25.523 -0600	EndTestCase		(Duration:"16.399845", Errors:"1", Exceptions:"0", StartTime:"2016-04-19 13:29:09 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-04-19 13:29:25.524 -0600	ABORTED		Execution Time 0:00:16 Index.script

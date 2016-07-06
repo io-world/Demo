@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-04-22 08:15:32.710 -0600,"Failure",0:00:00,1,0,0,"20160422_081532.710/LogFile.txt","","STUnknownMessage -- ERROR: 'readtext' was called as a Command, but is only available as a Function",0
+2016-04-22 08:15:44.696 -0600,"Success",0:00:01,0,0,0,"20160422_081544.696/LogFile.txt","","",1
+2016-04-22 08:55:52.133 -0600,"Success",0:00:00,0,0,0,"20160422_085552.133/LogFile.txt","","",1

@@ -1,0 +1,4 @@
+﻿2016-06-30 13:51:14.197 -0600	START		Running index.script
+2016-06-30 13:51:17.789 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(382,485), ImageRectangle:(367,480,398,490), Language:"English", text:"gmail", TextPlatform:"Generic OCR")	at (382, 485)	4	on_index	index.script
+2016-06-30 13:51:18.155 -0600	EndTestCase		(Duration:"3.956616", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 13:51:14 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-30 13:51:18.158 -0600	SUCCESS		Execution Time 0:00:03 index.script

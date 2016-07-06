@@ -1,0 +1,34 @@
+﻿on launch
+	click "Chrome Icons"
+	LogSuccess "Chrome has Been Launched"
+end launch
+
+
+on search Keyword
+	waitfor 10, "Chrome Search Icons"
+	
+	if imagefound("Chrome Search Icons/apple Search Icon")
+		click (image:"Chrome Search Icons", hotspot: (-50,0))
+		wait 1
+	Else
+		log "Unable to Find Chrome"
+	end if
+	
+	typetext keyword
+	Click "Chrome Enter"
+	
+	if ImageFound(text: "https://twitter.com", waitfor: 3) Then 
+		click(text: "https://twitter.com", hotspot: (20,-10))	
+	end if
+	
+end search
+
+on brower Address
+
+	click (image:"Chrome Refresh",hotspot:(100,10))
+	TypeText backspace
+	TypeText Address
+	TypeText Enter
+	
+	
+end brower

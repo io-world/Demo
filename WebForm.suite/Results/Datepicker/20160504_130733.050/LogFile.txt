@@ -1,0 +1,5 @@
+﻿2016-05-04 13:07:33.052 -0600	START		Running Datepicker.script
+2016-05-04 13:07:33.171 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
+2016-05-04 13:07:33.537 -0600	click	YearPicker	at (1052, 138)	16	on_datepicker	Datepicker.script
+2016-05-04 13:07:33.795 -0600	EndTestCase		(Duration:"0.740986", Errors:"1", Exceptions:"0", StartTime:"2016-05-04 13:07:33 -0600", Successes:"0", TestCase:"Datepicker.script", Warnings:"0")
+2016-05-04 13:07:34.460 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'readtext' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 Datepicker.script

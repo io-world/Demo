@@ -1,0 +1,9 @@
+﻿2016-04-21 16:22:59.100 -0600	START		Running index.script
+2016-04-21 16:22:59.215 -0600	typetext		goog	13	on_index	index.script
+2016-04-21 16:22:59.933 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-21 16:23:02.613 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(484,656,535,675), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	at (509, 665)	16	on_index	index.script
+2016-04-21 16:23:03.370 -0600	typetext		[backspace][backspace][backspace][backspace]	20	on_index	index.script
+2016-04-21 16:23:04.128 -0600	typetext		Appl	13	on_index	index.script
+2016-04-21 16:23:04.844 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-21 16:23:06.081 -0600	EndTestCase		(Duration:"6.97964", Errors:"1", Exceptions:"0", StartTime:"2016-04-21 16:22:59 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-04-21 16:23:06.082 -0600	ABORTED		Execution Time 0:00:06 index.script

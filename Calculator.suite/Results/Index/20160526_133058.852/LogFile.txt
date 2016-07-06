@@ -1,0 +1,15 @@
+﻿2016-05-26 13:30:58.853 -0600	START		Running Index.script
+2016-05-26 13:30:59.817 -0600	click	Run Icon	at (269, 880)	5	on_index	Index.script
+2016-05-26 13:31:00.584 -0600	typetext		calc[enter]	7	on_index	Index.script
+2016-05-26 13:31:01.264 -0600	imagefound	Calculator/Calculator Icon	found at (126, 81)	2	on_verify	Calculator.script
+2016-05-26 13:31:01.269 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2016-05-26 13:31:01.748 -0600	imagelocation	Calculator/MC Icon	at (112, 252)	2	on_math	Calculator.script
+2016-05-26 13:31:02.143 -0600	imagelocation	Operators/Equals Sign	at (323, 550)	3	on_math	Calculator.script
+2016-05-26 13:31:02.304 -0600	readtext		(94,302,268,580)
+2016-05-26 13:31:02.304 -0600	Log		CE\nc\n<3\n7\n8\n9\n4\n5\n6\n1\n2\n3\n+\n0\n•	8	on_math	Calculator.script
+2016-05-26 13:31:02.407 -0600	Log		1 was Clicked	17	on_math	Calculator.script
+2016-05-26 13:31:03.042 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(121,499), ImageRectangle:(118,491,125,508), Language:"English", searchrectangle:(94,302,268,580), Text:"1", TextPlatform:"Generic OCR")	at (121, 499)	30	on_math	Calculator.script
+2016-05-26 13:31:03.084 -0600	Log		 was Clicked	17	on_math	Calculator.script
+2016-05-26 13:31:03.189 -0600	Exception		Image Property List did not contain "ImageName" property	30	on_math	Calculator.script
+2016-05-26 13:31:03.863 -0600	EndTestCase		(Duration:"5.008335", Errors:"1", Exceptions:"1", StartTime:"2016-05-26 13:30:58 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-26 13:31:04.347 -0600	FAILURE	Screen_Error.png	Error Running Script Command click Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:05 Index.script

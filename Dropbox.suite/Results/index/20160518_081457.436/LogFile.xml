@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index.script" package="Dropbox.suite" timestamp="2016-05-18 08:14:57.436 -0600"
+ tests="1" successes="0" errors="1" time="13.466835">
+  <properties>
+   <property name="RunDate" value="2016-05-18 08:14:57.436 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="index.script" assertions="1" successes="0" errors="1" time="13.464856">
+  </testcase>
+ </testsuite>
+</testsuites>

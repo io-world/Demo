@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Rmenulob">
+ <run>
+  <RunDate>2016-05-18 09:34:58.362 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.384125</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160518_093458.362/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;(400,400)&#x27; and &#x27;&#x27;</ErrorMessage>
+ </run>
+</runHistory>

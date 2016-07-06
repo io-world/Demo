@@ -1,0 +1,8 @@
+﻿2016-05-09 13:09:27.891 -0600	START		Running Open.script
+2016-05-09 13:09:28.423 -0600	click	Chrome	at (391, 879)	2	on_open	Open.script
+2016-05-09 13:09:31.633 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(231,43), ImageRectangle:(171,35,292,51), Language:"English", searchRectangle:(0,0,360,225), text:"www.google.com", TextPlatform:"Generic OCR")	at (231, 43)	4	on_open	Open.script
+2016-05-09 13:09:32.414 -0600	typetext		Delete	6	on_open	Open.script
+2016-05-09 13:09:33.897 -0600	typetext		file:///C:/Users/Administrator/Desktop/TestPlantWebForm.html	7	on_open	Open.script
+2016-05-09 13:09:34.617 -0600	typetext		[enter]	8	on_open	Open.script
+2016-05-09 13:09:35.039 -0600	EndTestCase		(Duration:"7.146961", Errors:"0", Exceptions:"0", StartTime:"2016-05-09 13:09:27 -0600", Successes:"1", TestCase:"Open.script", Warnings:"0")
+2016-05-09 13:09:35.043 -0600	SUCCESS		Execution Time 0:00:07 Open.script

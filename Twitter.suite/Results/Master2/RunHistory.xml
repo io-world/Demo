@@ -1,0 +1,199 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index2">
+ <run>
+  <RunDate>2016-05-09 13:36:51.034 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.088337</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_133651.034/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 13:57:57.988 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.724212</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_135757.988/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:00:42.178 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>17.159833</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_150042.178/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:05:51.592 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>26.542836</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_150551.592/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Apple/Chrome Tab&quot;  Restricted Search Rectangle ((480,427),(1000,475))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:07:11.034 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>7.758443</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_150711.034/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:08:14.821 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>26.759069</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_150814.821/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Apple/Chrome Tab&quot;  Restricted Search Rectangle ((480,427),(1000,475))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:09:54.988 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.658111</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_150954.988/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Windows/Close&quot;  Restricted Search Rectangle ((480,427),(1000,475))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:11:09.244 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>20.021432</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_151109.244/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Windows/Close&quot;  Restricted Search Rectangle ((480,427),(1000,475))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:13:52.884 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>16.340258</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_151352.884/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-09 15:20:47.194 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>16.861080</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160509_152047.194/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-24 14:34:54.989 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>18.225040</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160524_143454.989/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-24 14:35:33.349 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>15.308000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160524_143533.349/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: (480,427,1000,475)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-24 14:36:21.531 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>16.310946</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160524_143621.531/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 10:31:51.264 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.925069</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160607_103151.264/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;brower&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 10:32:14.474 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>20.009841</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160607_103214.474/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-23 15:49:51.623 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.627464</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160623_154951.623/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome Refresh&quot;</ErrorMessage>
+ </run>
+</runHistory>

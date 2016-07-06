@@ -1,0 +1,7 @@
+﻿2016-05-11 15:04:21.479 -0600	START		Running index.script
+2016-05-11 15:04:21.591 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-11 15:04:21.601 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-11 15:04:21.617 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-11 15:04:25.481 -0600	Exception	Google Maps/Google Image	No Image Found On Screen: "Google Maps/Google Image"	9	on_index	index.script
+2016-05-11 15:04:25.873 -0600	EndTestCase		(Duration:"4.392996", Errors:"1", Exceptions:"1", StartTime:"2016-05-11 15:04:21 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:04:25.967 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Google Maps/Google Image" -- Execution Time 0:00:04 index.script

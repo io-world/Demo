@@ -1,0 +1,25 @@
+﻿2016-06-14 12:25:05.800 -0600	START		Running Index.script
+2016-06-14 12:25:07.088 -0600	click	Run Icon	at (266, 880)	5	on_index	Index.script
+2016-06-14 12:25:07.861 -0600	typetext		calc[enter]	7	on_index	Index.script
+2016-06-14 12:25:10.638 -0600	imagefound	Calculator/Calculator Icon	found at (176, 101)	2	on_verify	Calculator.script
+2016-06-14 12:25:10.666 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2016-06-14 12:25:12.881 -0600	imagelocation	Calculator/MC Icon	at (194, 216)	2	on_math	Calculator.script
+2016-06-14 12:25:15.084 -0600	imagelocation	Operators/Equals Sign	at (349, 360)	3	on_math	Calculator.script
+2016-06-14 12:25:15.232 -0600	readtext		(176,266,294,390)
+2016-06-14 12:25:15.232 -0600	Log		7\n\n8\n\n9\n4\n\n5\n\n6\n1\n\n2\n\n3\n0\n\n•	8	on_math	Calculator.script
+2016-06-14 12:25:15.308 -0600	Log		1 was Clicked	17	on_math	Calculator.script
+2016-06-14 12:25:16.629 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,344), ImageRectangle:(189,339,193,350), Language:"English", searchrectangle:(176,266,294,390), Text:"1", TextPlatform:"Generic OCR")	at (191, 344)	29	on_math	Calculator.script
+2016-06-14 12:25:16.692 -0600	Log		/ was Clicked	17	on_math	Calculator.script
+2016-06-14 12:25:19.609 -0600	click	Operators/Division	at (310, 281)	25	on_math	Calculator.script
+2016-06-14 12:25:19.674 -0600	Log		0 was Clicked	17	on_math	Calculator.script
+2016-06-14 12:25:21.575 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(212,376), ImageRectangle:(208,371,216,382), Language:"English", searchrectangle:(176,266,294,390), Text:"0", TextPlatform:"Generic OCR")	at (212, 376)	29	on_math	Calculator.script
+2016-06-14 12:25:21.626 -0600	Log		= was Clicked	17	on_math	Calculator.script
+2016-06-14 12:25:24.589 -0600	click	Operators/Equals Sign	at (349, 360)	27	on_math	Calculator.script
+2016-06-14 12:25:27.435 -0600	moveto	Calculator/Calculator Icon	at (176, 101)	33	on_math	Calculator.script
+2016-06-14 12:25:30.297 -0600	imagelocation	Calculator/Calculator Icon	at (176, 101)	3	on_answer	Calculator.script
+2016-06-14 12:25:30.390 -0600	readtext		(176,151,376,201)
+2016-06-14 12:25:30.391 -0600	Log		1 /\nCannot divide by zero	8	on_answer	Calculator.script
+2016-06-14 12:25:31.431 -0600	capturescreen	Results.png	(176,151,566,201)	11	on_answer	Calculator.script
+2016-06-14 12:25:33.772 -0600	click	Calculator/Close Icon	at (353, 98)	2	on_close	Calculator.script
+2016-06-14 12:25:34.382 -0600	EndTestCase		(Duration:"28.580406", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 12:25:05 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-06-14 12:25:34.386 -0600	SUCCESS		Execution Time 0:00:28 Index.script

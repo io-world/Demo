@@ -1,0 +1,40 @@
+﻿2016-06-03 09:16:23.353 -0600	START		Running index.script
+2016-06-03 09:16:23.462 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-06-03 09:16:24.508 -0600	imagefound	Apple/Sleep Screen	found at (138, 147)	4	on_unlock	AppleLib.script
+2016-06-03 09:16:24.512 -0600	presshomebutton			5	on_unlock	AppleLib.script
+2016-06-03 09:16:25.428 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	6	on_unlock	AppleLib.script
+2016-06-03 09:16:29.542 -0600	click		at (160, 845)	8	on_unlock	AppleLib.script
+2016-06-03 09:16:30.351 -0600	click		at (370, 1035)	9	on_unlock	AppleLib.script
+2016-06-03 09:16:31.161 -0600	click		at (580, 685)	10	on_unlock	AppleLib.script
+2016-06-03 09:16:31.970 -0600	click		at (370, 1035)	11	on_unlock	AppleLib.script
+2016-06-03 09:16:33.977 -0600	presshomebutton			13	on_unlock	AppleLib.script
+2016-06-03 09:16:34.682 -0600	presshomebutton			14	on_unlock	AppleLib.script
+2016-06-03 09:16:34.687 -0600	Log		Apple iPhone 6s	16	on_unlock	AppleLib.script
+2016-06-03 09:16:34.721 -0600	setoption		MouseMoveSpeed = 5	2	on_index	index.script
+2016-06-03 09:16:34.735 -0600	setoption		NextKeyDelay = 0.08	3	on_index	index.script
+2016-06-03 09:16:34.749 -0600	setoption		RemoteWorkInterval = 3	4	on_index	index.script
+2016-06-03 09:16:39.201 -0600	click	Google Maps/Google Image	at (636, 645)	13	on_index	index.script
+2016-06-03 09:16:48.340 -0600	imagefound	Google Maps/Google Maps Clear Search	Unable to Find Image Google Maps/Google Maps Clear Search	15	on_index	index.script
+2016-06-03 09:16:50.812 -0600	click	Google Maps/Microphone	at (518, 101)	19	on_index	index.script
+2016-06-03 09:16:54.071 -0600	typetext		NYC	20	on_index	index.script
+2016-06-03 09:16:58.451 -0600	click	Google Maps/Grey Image	at (70, 209)	21	on_index	index.script
+2016-06-03 09:17:06.159 -0600	click	Google Maps/Route Blue	at (659, 1158)	22	on_index	index.script
+2016-06-03 09:17:18.291 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(418,389), ImageRectangle:(237,370,600,409), Language:"English", Text:"Search History is off", TextPlatform:"Generic OCR")	found at (418, 389)	24	on_index	index.script
+2016-06-03 09:17:22.616 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,93), ImageRectangle:(145,82,237,104), Language:"English", Text:"Choose", TextPlatform:"Generic OCR")	at (191, 93)	25	on_index	index.script
+2016-06-03 09:17:27.371 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(273,209), ImageRectangle:(219,197,328,221), Language:"English", Text:"Location", TextPlatform:"Generic OCR")	at (273, 209)	27	on_index	index.script
+2016-06-03 09:17:30.345 -0600	imagefound	Google Maps/Navigate Icon	found at (661, 1157)	31	on_index	index.script
+2016-06-03 09:17:33.315 -0600	click	Google Maps/Navigate Icon	at (661, 1157)	32	on_index	index.script
+2016-06-03 09:17:37.330 -0600	pinchin		at:(375, 667) duration:1	34	on_index	index.script
+2016-06-03 09:17:43.141 -0600	swipeup		Swiped up from (100, 700) to (100, 400)	36	on_index	index.script
+2016-06-03 09:17:47.018 -0600	swiperight		Swiped right from (100, 700) to (675, 700)	38	on_index	index.script
+2016-06-03 09:17:52.491 -0600	click	Google Maps/RE-Center	at (179, 1254)	39	on_index	index.script
+2016-06-03 09:17:55.587 -0600	readtext		(99,1207,549,1320)
+2016-06-03 09:17:55.605 -0600	Log		1 d 2 hr	42	on_index	index.script
+2016-06-03 09:17:56.318 -0600	click		at (430, 1250)	43	on_index	index.script
+2016-06-03 09:18:02.325 -0600	click		at (430, 20)	45	on_index	index.script
+2016-06-03 09:18:09.526 -0600	click	Google Maps/Clear Directions	at (51, 1265)	46	on_index	index.script
+2016-06-03 09:18:16.413 -0600	click	Google Maps/Back Arrow	at (53, 94)	49	on_index	index.script
+2016-06-03 09:18:21.827 -0600	click	Google Maps/Google Maps Clear Search	at (587, 101)	50	on_index	index.script
+2016-06-03 09:18:24.831 -0600	presshomebutton			52	on_index	index.script
+2016-06-03 09:18:25.190 -0600	EndTestCase		(Duration:"121.835725", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 09:16:23 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-03 09:18:25.196 -0600	SUCCESS		Execution Time 0:02:01 index.script

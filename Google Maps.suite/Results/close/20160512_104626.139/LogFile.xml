@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="close.script" package="Google Maps.suite" timestamp="2016-05-12 10:46:26.139 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-05-12 10:46:26.139 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="close.script" assertions="5" successes="0" errors="5" time="115.513064">
+    <failure type="LogError">Enbale to find Application</failure>
+    <failure type="LogError">Enbale to find Application</failure>
+    <failure type="LogError">Enbale to find Application</failure>
+    <failure type="LogError">Enbale to find Application</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

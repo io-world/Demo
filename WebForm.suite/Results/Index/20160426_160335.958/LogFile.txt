@@ -1,0 +1,16 @@
+﻿2016-04-26 16:03:35.959 -0600	START		Running Untitled.script
+2016-04-26 16:03:37.469 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,204), ImageRectangle:(600,194,735,217), Language:"English", searchRectangle:(487,149,2069,920), text:"First Name", TextPlatform:"Generic OCR")	at (850, 204)	14	on_untitled	Untitled.script
+2016-04-26 16:03:38.305 -0600	typetext		First Name	16	on_untitled	Untitled.script
+2016-04-26 16:03:40.074 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,309), ImageRectangle:(600,299,731,321), Language:"English", searchRectangle:(487,149,2069,920), text:"Last Name", TextPlatform:"Generic OCR")	at (850, 309)	14	on_untitled	Untitled.script
+2016-04-26 16:03:40.847 -0600	typetext		Bruce	16	on_untitled	Untitled.script
+2016-04-26 16:03:42.970 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,433), ImageRectangle:(600,423,704,445), Language:"English", searchRectangle:(487,149,2069,920), text:"Address", TextPlatform:"Generic OCR")	at (850, 433)	14	on_untitled	Untitled.script
+2016-04-26 16:03:43.744 -0600	typetext		Clark	16	on_untitled	Untitled.script
+2016-04-26 16:03:45.853 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,555), ImageRectangle:(600,545,655,573), Language:"English", searchRectangle:(487,149,2069,920), text:"City", TextPlatform:"Generic OCR")	at (850, 555)	14	on_untitled	Untitled.script
+2016-04-26 16:03:46.676 -0600	typetext		Sherlock 	16	on_untitled	Untitled.script
+2016-04-26 16:03:48.802 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,841), ImageRectangle:(600,831,704,859), Language:"English", searchRectangle:(487,149,2069,920), text:"Zipcode", TextPlatform:"Generic OCR")	at (850, 841)	14	on_untitled	Untitled.script
+2016-04-26 16:03:49.573 -0600	typetext		Darth	16	on_untitled	Untitled.script
+2016-04-26 16:03:52.122 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(1466,205), ImageRectangle:(1216,195,1281,217), Language:"English", searchRectangle:(487,149,2069,920), text:"DOB", TextPlatform:"Generic OCR")	at (1466, 205)	14	on_untitled	Untitled.script
+2016-04-26 16:03:52.894 -0600	typetext		James	16	on_untitled	Untitled.script
+2016-04-26 16:03:54.693 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	14	on_untitled	Untitled.script
+2016-04-26 16:03:55.188 -0600	EndTestCase		(Duration:"19.227135", Errors:"1", Exceptions:"1", StartTime:"2016-04-26 16:03:35 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-04-26 16:03:55.188 -0600	ABORTED		Execution Time 0:00:19 Untitled.script

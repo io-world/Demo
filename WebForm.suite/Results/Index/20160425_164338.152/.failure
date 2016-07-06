@@ -1,0 +1,1 @@
+2016-04-25 16:43:38.152 -0600,Failure,0:00:00,1,0,0,20160425_164338.152/LogFile.txt,"","STFileException -- File /Users/randyhesse/Documents/Test SUTs/WebForm.suite/Resources/WebFormData.csv couldn't be read using the defaultStringEncoding (UTF8)",0

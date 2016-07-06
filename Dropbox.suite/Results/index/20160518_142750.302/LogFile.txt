@@ -1,0 +1,33 @@
+﻿2016-05-18 14:27:50.304 -0600	START		Running index.script
+2016-05-18 14:27:50.420 -0600	connect		Windows 2012 (VNC):(null)	5	on_index	index.script
+2016-05-18 14:27:51.003 -0600	rightclick	Desktop Area	at (471, 174)	3	on_menu	RightC.script
+2016-05-18 14:27:52.453 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	7	on_menu	RightC.script
+2016-05-18 14:27:53.982 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	10	on_index	index.script
+2016-05-18 14:27:54.113 -0600	click		at (741, 440)	11	on_index	index.script
+2016-05-18 14:27:54.985 -0600	typetext		Random File[enter][enter]	12	on_index	index.script
+2016-05-18 14:27:56.316 -0600	typetext		Random Information that we will Upload to DropBox.	13	on_index	index.script
+2016-05-18 14:27:57.527 -0600	click	Close	at (1249, 13)	14	on_index	index.script
+2016-05-18 14:28:02.156 -0600	everyimagelocation	(TEXT:"save")	found 3 images	15	on_index	index.script
+2016-05-18 14:28:02.287 -0600	click		at (674, 461)	16	on_index	index.script
+2016-05-18 14:28:03.573 -0600	rightclick	Note File Icon	at (485, 245)	3	on_menu	RightC.script
+2016-05-18 14:28:05.103 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,476), ImageRectangle:(520,470,547,482), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 476)	7	on_menu	RightC.script
+2016-05-18 14:28:06.466 -0600	doubleclick	DropBox Icon	at (36, 348)	22	on_index	index.script
+2016-05-18 14:28:09.452 -0600	waitfor	DropBox Item	found at (704, 388)	23	on_index	index.script
+2016-05-18 14:28:10.198 -0600	rightclick	DropBox Item	at (704, 388)	3	on_menu	RightC.script
+2016-05-18 14:28:11.849 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(752,518), ImageRectangle:(739,514,766,523), Language:"English", searchRectangle:(704,388,1104,788), Text:"Paste", TextPlatform:"Generic OCR")	at (752, 518)	7	on_menu	RightC.script
+2016-05-18 14:28:13.221 -0600	click	Close	at (1381, 128)	27	on_index	index.script
+2016-05-18 14:28:14.590 -0600	rightclick	Note File Icon	at (485, 245)	3	on_menu	RightC.script
+2016-05-18 14:28:16.164 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(536,522), ImageRectangle:(520,518,552,527), Language:"English", searchRectangle:(485,245,885,645), Text:"Delete", TextPlatform:"Generic OCR")	at (536, 522)	7	on_menu	RightC.script
+2016-05-18 14:28:16.213 -0600	connect		Phone 6s:(null)	32	on_index	index.script
+2016-05-18 14:28:19.571 -0600	click	Apple/DropBox Icon	at (638, 819)	34	on_index	index.script
+2016-05-18 14:28:27.022 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(375,84), ImageRectangle:(314,72,436,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	found at (375, 84)	35	on_index	index.script
+2016-05-18 14:28:28.648 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(198,298), ImageRectangle:(107,285,290,311), Language:"English", Text:"Random File", TextPlatform:"Generic OCR")	at (198, 298)	36	on_index	index.script
+2016-05-18 14:28:29.924 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(132,298), ImageRectangle:(41,285,224,311), Language:"English", Text:"Random File", TextPlatform:"Generic OCR")	found at (132, 298)	37	on_index	index.script
+2016-05-18 14:28:30.015 -0600	readtext		(0,130,750,750)
+2016-05-18 14:28:30.016 -0600	Log		1\nRandom File.txt	38	on_index	index.script
+2016-05-18 14:28:33.195 -0600	click	Apple/DropBox Menu Icon	at (697, 82)	40	on_index	index.script
+2016-05-18 14:28:35.069 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(154,735), ImageRectangle:(107,723,201,748), Language:"English", Text:"Delete", TextPlatform:"Generic OCR")	at (154, 735)	41	on_index	index.script
+2016-05-18 14:28:40.011 -0600	click	Apple/DropBox Double Delete	at (368, 1307)	43	on_index	index.script
+2016-05-18 14:28:42.117 -0600	typetext		[homeKey]	45	on_index	index.script
+2016-05-18 14:28:42.551 -0600	EndTestCase		(Duration:"52.246346", Errors:"0", Exceptions:"0", StartTime:"2016-05-18 14:27:50 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-18 14:28:42.555 -0600	SUCCESS		Execution Time 0:00:52 index.script

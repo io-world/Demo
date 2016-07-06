@@ -1,0 +1,13 @@
+﻿2016-05-10 14:45:00.160 -0600	START		Running index.script
+2016-05-10 14:45:00.271 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-10 14:45:00.284 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-10 14:45:00.295 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-10 14:45:03.795 -0600	click	Browsers Icon/Chrome	at (390, 880)	18	on_index	index.script
+2016-05-10 14:45:08.107 -0600	click	indicators	at (173, 43)	19	on_index	index.script
+2016-05-10 14:45:11.378 -0600	typetext		www.amazon.com[return]	20	on_index	index.script
+2016-05-10 14:45:14.428 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(378,141), ImageRectangle:(366,136,391,146), Language:"English", searchRectangle:(0,90,720,450), Text:"Deal", TextPlatform:"Generic OCR")	at (378, 141)	22	on_index	index.script
+2016-05-10 14:45:19.156 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(338,619), ImageRectangle:(283,615,393,623), Language:"English", searchRectangle:(216,360,504,900), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR")	at (338, 619)	24	on_index	index.script
+2016-05-10 14:45:19.184 -0600	Log		Deal of the Day is Located Here:(338,619)	25	on_index	index.script
+2016-05-10 14:45:19.266 -0600	Exception	0	Could Not Open Image: 0	30	on_index	index.script
+2016-05-10 14:45:19.631 -0600	EndTestCase		(Duration:"19.469853", Errors:"1", Exceptions:"1", StartTime:"2016-05-10 14:45:00 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-10 14:45:20.166 -0600	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: 0 -- Execution Time 0:00:19 index.script

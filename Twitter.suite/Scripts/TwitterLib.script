@@ -1,0 +1,57 @@
+﻿
+
+on TwitterLogin Username,Password
+
+	Click (Image:"Twitter/Log In/Logo")	
+	waitfor 10,"Twitter/Log In/Wait"
+	Click "Twitter/Log In/Click Username"
+	
+	TypeText Username
+	Click "Twitter/Log In/Click Password"
+	TypeText Password
+	Click "Twitter/Log In/Click Log In"
+	
+	LogSuccess "Successfully Logged into Twitter"
+	
+end TwitterLogin
+
+on tweet tweet
+
+	waitfor  5, (image: "Twitter/Tweet/Logo")
+	click foundimagelocation()
+	wait 2
+	waitfor 5,(image:"Twitter/Tweet/ClickWhat")
+	click foundimagelocation()
+	typetext tweet
+	wait 2
+	click "Twitter/Tweet/Post"
+	-----Handle errors----------------------------------------------------------------
+	---------------------------------------------------------------------------------------
+	if imagefound("Twitter/Tweet/Tweet Error/Error/Apple Tweet Error") Then
+		Click "Twitter/Tweet/Tweet Error/Close/Apple Close"
+	else if imagefound("Twitter/Tweet/Tweet Error/Error/Windows Tweet Error") Then
+		click (image: "Twitter/Tweet/Tweet Error/Close/Windows Close", searchRectangle: (RemoteScreensize()*(0,0.25),RemoteScreenSize()*(1,0.5)))
+	else if imagefound("Twitter/Tweet/Tweet Error/Error/Application Tweet Error") Then
+		click "Twitter/Tweet/Tweet Error/Close/Application Close"
+	end if
+	
+	wait 1
+	---------------------------------------------------------------------------------------
+	---------------------------------------------------------------------------------------
+	LogSuccess "Tweeted"
+	
+end tweet
+
+on logout
+	
+	waitfor 3,(Image:"Twitter/Log Out/Profile", wait: 2, searchRectangle: (RemoteScreensize()*(0.5,0),RemoteScreenSize()*(1,1)))
+	click foundImagelocation()
+	wait 2
+	if ImageFound("Twitter/Log Out/Settings/") Then
+		click "Twitter/Log Out/Settings/"
+	end if		
+	
+	click (image:"Twitter/Log Out/Log Out Button", wait: 1 )
+end logout
+
+

@@ -1,0 +1,23 @@
+﻿2016-05-11 15:06:08.105 -0600	START		Running index.script
+2016-05-11 15:06:08.238 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-11 15:06:08.253 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-11 15:06:08.270 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-11 15:06:09.928 -0600	click	Google Maps/Google Image	at (636, 645)	9	on_index	index.script
+2016-05-11 15:06:15.268 -0600	click	Google Maps/Google Maps Menu	at (237, 102)	10	on_index	index.script
+2016-05-11 15:06:19.264 -0600	click	Google Maps/Microphone	at (518, 101)	14	on_index	index.script
+2016-05-11 15:06:25.055 -0600	typetext		1633 York Street Denver CO 80206[returnKey]	15	on_index	index.script
+2016-05-11 15:06:31.457 -0600	click	Google Maps/Drive Icon	at (658, 1159)	16	on_index	index.script
+2016-05-11 15:06:35.359 -0600	click	Google Maps/Navigate Icon	at (661, 1157)	17	on_index	index.script
+2016-05-11 15:06:38.359 -0600	pinchin		at:(375, 667) duration:1	18	on_index	index.script
+2016-05-11 15:06:44.150 -0600	swipeup		Swiped up from (100, 700) to (100, 400)	20	on_index	index.script
+2016-05-11 15:06:48.039 -0600	swiperight		Swiped right from (100, 700) to (675, 700)	22	on_index	index.script
+2016-05-11 15:06:53.736 -0600	click	Google Maps/RE-Center	at (179, 1254)	23	on_index	index.script
+2016-05-11 15:06:56.811 -0600	readtext		(99,1207,549,1320)
+2016-05-11 15:06:56.827 -0600	Log		42 min	26	on_index	index.script
+2016-05-11 15:06:57.539 -0600	click		at (430, 1250)	27	on_index	index.script
+2016-05-11 15:07:03.521 -0600	click		at (430, 20)	29	on_index	index.script
+2016-05-11 15:07:10.005 -0600	click	Google Maps/Clear Directions	at (51, 1265)	30	on_index	index.script
+2016-05-11 15:07:16.379 -0600	click	Google Maps/Back Arrow	at (53, 94)	31	on_index	index.script
+2016-05-11 15:07:21.549 -0600	click	Google Maps/Google Maps Clear Search	at (587, 101)	32	on_index	index.script
+2016-05-11 15:07:21.948 -0600	EndTestCase		(Duration:"73.842112", Errors:"0", Exceptions:"0", StartTime:"2016-05-11 15:06:08 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:07:21.953 -0600	SUCCESS		Execution Time 0:01:13 index.script

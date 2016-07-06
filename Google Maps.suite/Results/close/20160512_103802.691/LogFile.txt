@@ -1,0 +1,25 @@
+﻿2016-05-12 10:38:02.692 -0600	START		Running close.script
+2016-05-12 10:38:02.859 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 10:38:07.066 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	7	on_close	close.script
+2016-05-12 10:38:07.079 -0600	Log		False	8	on_close	close.script
+2016-05-12 10:38:07.156 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:38:11.349 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	7	on_close	close.script
+2016-05-12 10:38:11.362 -0600	Log		False	8	on_close	close.script
+2016-05-12 10:38:11.441 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:38:16.774 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	7	on_close	close.script
+2016-05-12 10:38:16.780 -0600	Log		False	8	on_close	close.script
+2016-05-12 10:38:16.875 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:38:22.122 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	7	on_close	close.script
+2016-05-12 10:38:22.130 -0600	Log		False	8	on_close	close.script
+2016-05-12 10:38:22.220 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:38:27.838 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	7	on_close	close.script
+2016-05-12 10:38:27.846 -0600	Log		False	8	on_close	close.script
+2016-05-12 10:38:27.945 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:38:32.504 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	7	on_close	close.script
+2016-05-12 10:38:32.514 -0600	Log		False	8	on_close	close.script
+2016-05-12 10:38:32.605 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:38:37.131 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	7	on_close	close.script
+2016-05-12 10:38:37.144 -0600	Log		False	8	on_close	close.script
+2016-05-12 10:38:37.229 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	14	on_close	close.script
+2016-05-12 10:38:39.922 -0600	EndTestCase		(Duration:"37.228839", Errors:"1", Exceptions:"0", StartTime:"2016-05-12 10:38:02 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 10:38:39.923 -0600	ABORTED		Execution Time 0:00:37 close.script

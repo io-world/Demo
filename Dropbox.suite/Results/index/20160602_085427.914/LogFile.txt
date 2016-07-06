@@ -1,0 +1,42 @@
+﻿2016-06-02 08:54:27.915 -0600	START		Running index.script
+2016-06-02 08:54:28.104 -0600	connect		Windows 2012 (VNC):(null)	5	on_index	index.script
+2016-06-02 08:54:28.587 -0600	rightclick	Desktop Area	at (471, 174)	3	on_menu	RightC.script
+2016-06-02 08:54:30.505 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,304), ImageRectangle:(506,300,529,309), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 304)	7	on_menu	RightC.script
+2016-06-02 08:54:31.887 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	10	on_index	index.script
+2016-06-02 08:54:32.024 -0600	click		at (707, 418)	11	on_index	index.script
+2016-06-02 08:54:32.892 -0600	typetext		Not so file[enter][enter]	12	on_index	index.script
+2016-06-02 08:54:34.226 -0600	typetext		Random Information that we will Upload to DropBox.	13	on_index	index.script
+2016-06-02 08:54:35.343 -0600	click	Close	at (1249, 13)	14	on_index	index.script
+2016-06-02 08:54:39.408 -0600	everyimagelocation	(TEXT:"save")	found 3 images	15	on_index	index.script
+2016-06-02 08:54:39.543 -0600	click		at (674, 451)	16	on_index	index.script
+2016-06-02 08:54:40.631 -0600	rightclick	Note File Icon	at (485, 245)	3	on_menu	RightC.script
+2016-06-02 08:54:41.946 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,476), ImageRectangle:(520,470,547,482), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 476)	7	on_menu	RightC.script
+2016-06-02 08:54:43.120 -0600	doubleclick	DropBox Icon	at (36, 348)	26	on_index	index.script
+2016-06-02 08:54:46.513 -0600	waitfor	DropBox Item	found at (704, 388)	27	on_index	index.script
+2016-06-02 08:54:47.431 -0600	rightclick	DropBox Item	at (704, 388)	3	on_menu	RightC.script
+2016-06-02 08:54:49.289 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(752,518), ImageRectangle:(739,514,766,523), Language:"English", searchRectangle:(704,388,1104,788), Text:"Paste", TextPlatform:"Generic OCR")	at (752, 518)	7	on_menu	RightC.script
+2016-06-02 08:54:50.514 -0600	click	Close	at (1381, 128)	30	on_index	index.script
+2016-06-02 08:54:52.215 -0600	rightclick	Note File Icon	at (485, 245)	3	on_menu	RightC.script
+2016-06-02 08:54:54.133 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(536,522), ImageRectangle:(520,518,552,527), Language:"English", searchRectangle:(485,245,885,645), Text:"Delete", TextPlatform:"Generic OCR")	at (536, 522)	7	on_menu	RightC.script
+2016-06-02 08:54:54.256 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-06-02 08:54:55.780 -0600	imagefound	Apple/Sleep Screen	found at (126, 135)	4	on_unlock	AppleLib.script
+2016-06-02 08:54:55.787 -0600	presshomebutton			5	on_unlock	AppleLib.script
+2016-06-02 08:54:56.701 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	6	on_unlock	AppleLib.script
+2016-06-02 08:54:57.514 -0600	click		at (160, 845)	7	on_unlock	AppleLib.script
+2016-06-02 08:54:58.321 -0600	click		at (370, 1035)	8	on_unlock	AppleLib.script
+2016-06-02 08:54:59.128 -0600	click		at (580, 685)	9	on_unlock	AppleLib.script
+2016-06-02 08:54:59.936 -0600	click		at (370, 1035)	10	on_unlock	AppleLib.script
+2016-06-02 08:55:01.947 -0600	presshomebutton			12	on_unlock	AppleLib.script
+2016-06-02 08:55:02.652 -0600	presshomebutton			13	on_unlock	AppleLib.script
+2016-06-02 08:55:02.679 -0600	Log		Apple iPhone 6s	15	on_unlock	AppleLib.script
+2016-06-02 08:55:04.002 -0600	click	Apple/DropBox Icon	at (638, 819)	2	on_dropbox	AppleLib.script
+2016-06-02 08:55:15.608 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(375,84), ImageRectangle:(314,72,436,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	found at (375, 84)	4	on_dropbox	AppleLib.script
+2016-06-02 08:55:17.935 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(182,298), ImageRectangle:(107,285,257,311), Language:"English", Text:"Not so file", TextPlatform:"Generic OCR", waitfor:"5")	at (182, 298)	5	on_dropbox	AppleLib.script
+2016-06-02 08:55:23.022 -0600	readtext		(0,130,750,750)
+2016-06-02 08:55:23.023 -0600	Log		Random Information that we will Upload to\nDropBox.	7	on_dropbox	AppleLib.script
+2016-06-02 08:55:24.319 -0600	click	Apple/DropBox Menu Icon	at (697, 82)	8	on_dropbox	AppleLib.script
+2016-06-02 08:55:25.995 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(154,735), ImageRectangle:(107,723,201,748), Language:"English", Text:"Delete", TextPlatform:"Generic OCR", waitfor:"5")	at (154, 735)	9	on_dropbox	AppleLib.script
+2016-06-02 08:55:27.379 -0600	click	Apple/DropBox Double Delete	at (368, 1133)	10	on_dropbox	AppleLib.script
+2016-06-02 08:55:31.416 -0600	typetext		[homeKey]	12	on_dropbox	AppleLib.script
+2016-06-02 08:55:31.761 -0600	EndTestCase		(Duration:"63.84263", Errors:"0", Exceptions:"0", StartTime:"2016-06-02 08:54:27 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-02 08:55:31.767 -0600	SUCCESS		Execution Time 0:01:03 index.script

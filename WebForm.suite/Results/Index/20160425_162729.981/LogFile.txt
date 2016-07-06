@@ -1,0 +1,4 @@
+﻿2016-04-25 16:27:29.982 -0600	START		Running Untitled.script
+2016-04-25 16:27:33.989 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(100,0), IgnoreSpaces:"No", ImageLocation:(644,195), ImageRectangle:(544,195,679,217), Language:"English", text:"First Name", TextPlatform:"Generic OCR")	at (644, 195)	11	on_untitled	Untitled.script
+2016-04-25 16:27:34.342 -0600	EndTestCase		(Duration:"4.358544", Errors:"0", Exceptions:"0", StartTime:"2016-04-25 16:27:29 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-04-25 16:27:34.346 -0600	SUCCESS		Execution Time 0:00:04 Untitled.script

@@ -1,0 +1,4 @@
+﻿2016-04-19 13:27:36.030 -0600	START		Running Index.script
+2016-04-19 13:27:37.248 -0600	click	Windows/Start	at (42, 1405)	2	on_start	WindowsLib.script
+2016-04-19 13:27:42.901 -0600	EndTestCase		(Duration:"6.869239", Errors:"1", Exceptions:"0", StartTime:"2016-04-19 13:27:36 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-04-19 13:27:42.901 -0600	ABORTED		Execution Time 0:00:06 Index.script

@@ -1,0 +1,17 @@
+﻿2016-04-19 13:54:18.468 -0600	START		Running Index.script
+2016-04-19 13:54:19.053 -0600	click	Windows/Start	at (43, 1406)	2	on_start	WindowsLib.script
+2016-04-19 13:54:20.616 -0600	click	Chrome Icons	at (244, 869)	8	on_index	Index.script
+2016-04-19 13:54:23.675 -0600	click	Chrome Search Icons	at (751, 802)	9	on_index	Index.script
+2016-04-19 13:54:24.467 -0600	typetext		twitter	10	on_index	Index.script
+2016-04-19 13:54:26.088 -0600	click	Chrome Enter	at (1470, 181)	11	on_index	Index.script
+2016-04-19 13:54:27.662 -0600	click	Twitter/Link	at (327, 486)	2	on_fromchromesearch	TwitterLib.script
+2016-04-19 13:54:31.416 -0600	click	Twitter/Log In/Logo	at (2338, 202)	3	on_twitterlogin	TwitterLib.script
+2016-04-19 13:54:33.817 -0600	waitfor	Twitter/Log In/Wait	found at (1278, 546)	4	on_twitterlogin	TwitterLib.script
+2016-04-19 13:54:40.926 -0600	click	Twitter/Log In/Click Username	at (1201, 629)	5	on_twitterlogin	TwitterLib.script
+2016-04-19 13:54:41.766 -0600	typetext		iotestplant	6	on_twitterlogin	TwitterLib.script
+2016-04-19 13:54:42.484 -0600	typetext		[tab]	7	on_twitterlogin	TwitterLib.script
+2016-04-19 13:54:43.311 -0600	typetext		twittergo4	8	on_twitterlogin	TwitterLib.script
+2016-04-19 13:54:45.145 -0600	click	Twitter/Log In/Click Log In	at (1273, 852)	9	on_twitterlogin	TwitterLib.script
+2016-04-19 13:55:11.655 -0600	Exception	Twitter/Tweet/Logo	No Image Found On Screen: "Twitter/Tweet/Logo"	3	on_tweet	TwitterLib.script
+2016-04-19 13:55:12.259 -0600	EndTestCase		(Duration:"53.789746", Errors:"1", Exceptions:"1", StartTime:"2016-04-19 13:54:18 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-04-19 13:55:12.556 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Twitter/Tweet/Logo" -- Execution Time 0:00:53 Index.script

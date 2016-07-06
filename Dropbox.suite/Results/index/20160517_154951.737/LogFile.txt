@@ -1,0 +1,3 @@
+﻿2016-05-17 15:49:51.738 -0600	START		Running index.script
+2016-05-17 15:49:51.740 -0600	EndTestCase		(Duration:"0.000635", Errors:"1", Exceptions:"0", StartTime:"2016-05-17 15:49:51 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-17 15:49:52.103 -0600	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in index:\nSyntax Error at line 8: Syntax Error - can't understand [end of script] at or near character 185 -- Execution Time 0:00:00 index.script

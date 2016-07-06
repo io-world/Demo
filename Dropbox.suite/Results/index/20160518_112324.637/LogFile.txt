@@ -1,0 +1,4 @@
+﻿2016-05-18 11:23:24.638 -0600	START		Running index.script
+2016-05-18 11:23:25.637 -0600	rightclick	Desktop Area	at (471, 174)	6	on_index	index.script
+2016-05-18 11:23:25.966 -0600	EndTestCase		(Duration:"1.327099", Errors:"1", Exceptions:"0", StartTime:"2016-05-18 11:23:24 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 11:23:26.751 -0600	FAILURE	Screen_Error.png	Error Running Script Command click Error - Error Computing Rectangle: rmenu -- Execution Time 0:00:01 index.script

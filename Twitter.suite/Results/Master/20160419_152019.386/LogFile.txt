@@ -1,0 +1,34 @@
+﻿2016-04-19 15:20:19.387 -0600	START		Running Index.script
+2016-04-19 15:20:19.517 -0600	presshomebutton			2	on_unlock	AppleLib.script
+2016-04-19 15:20:20.433 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	4	on_unlock	AppleLib.script
+2016-04-19 15:20:21.249 -0600	click		at (160, 845)	5	on_unlock	AppleLib.script
+2016-04-19 15:20:22.059 -0600	click		at (370, 1035)	6	on_unlock	AppleLib.script
+2016-04-19 15:20:22.865 -0600	click		at (580, 685)	7	on_unlock	AppleLib.script
+2016-04-19 15:20:23.681 -0600	click		at (370, 1035)	8	on_unlock	AppleLib.script
+2016-04-19 15:20:25.687 -0600	presshomebutton			10	on_unlock	AppleLib.script
+2016-04-19 15:20:26.391 -0600	presshomebutton			11	on_unlock	AppleLib.script
+2016-04-19 15:20:28.771 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-04-19 15:20:29.831 -0600	click	Chrome Search Icons	at (76, 528)	2	on_search	ChromeLib.script
+2016-04-19 15:20:30.767 -0600	typetext		mobile.twitter.com	3	on_search	ChromeLib.script
+2016-04-19 15:20:31.844 -0600	click	Chrome Enter	at (678, 1285)	4	on_search	ChromeLib.script
+2016-04-19 15:20:34.280 -0600	click	Twitter/Log In/Logo	at (548, 319)	3	on_twitterlogin	TwitterLib.script
+2016-04-19 15:20:35.357 -0600	waitfor	Twitter/Log In/Wait	found at (61, 192)	4	on_twitterlogin	TwitterLib.script
+2016-04-19 15:20:36.279 -0600	click	Twitter/Log In/Click Username	at (179, 386)	5	on_twitterlogin	TwitterLib.script
+2016-04-19 15:20:37.123 -0600	typetext		iotestplant	6	on_twitterlogin	TwitterLib.script
+2016-04-19 15:20:38.319 -0600	click	Twitter/Log In/Click Password	at (119, 469)	7	on_twitterlogin	TwitterLib.script
+2016-04-19 15:20:39.152 -0600	typetext		twittergo4	8	on_twitterlogin	TwitterLib.script
+2016-04-19 15:20:40.153 -0600	click	Twitter/Log In/Click Log In	at (372, 578)	9	on_twitterlogin	TwitterLib.script
+2016-04-19 15:20:42.198 -0600	click	Twitter/Tweet/Logo	at (698, 186)	3	on_tweet	TwitterLib.script
+2016-04-19 15:20:44.908 -0600	click	Twitter/Tweet/ClickWhat	at (138, 270)	4	on_tweet	TwitterLib.script
+2016-04-19 15:20:45.798 -0600	typetext		Hi  Demo Manys	5	on_tweet	TwitterLib.script
+2016-04-19 15:20:46.845 -0600	click	Twitter/Tweet/Post	at (684, 195)	6	on_tweet	TwitterLib.script
+2016-04-19 15:20:50.893 -0600	click	Twitter/Log Out/Profile	at (657, 265)	2	on_logout	TwitterLib.script
+2016-04-19 15:20:52.369 -0600	imagefound	Twitter/Log Out/Settings/Apple Setting	found at (57, 784)	4	on_logout	TwitterLib.script
+2016-04-19 15:20:53.287 -0600	click	Twitter/Log Out/Settings/Apple Setting	at (57, 784)	5	on_logout	TwitterLib.script
+2016-04-19 15:20:54.880 -0600	click	Twitter/Log Out/Log Out Button	at (362, 879)	8	on_logout	TwitterLib.script
+2016-04-19 15:20:58.785 -0600	click	Apple/Chrome Tab	at (617, 98)	2	on_resetchrome	AppleLib.script
+2016-04-19 15:20:59.850 -0600	click	Apple/Close Tab	at (668, 227)	3	on_resetchrome	AppleLib.script
+2016-04-19 15:21:01.453 -0600	click	Apple/New Tab	at (56, 98)	4	on_resetchrome	AppleLib.script
+2016-04-19 15:21:02.160 -0600	presshomebutton			5	on_resetchrome	AppleLib.script
+2016-04-19 15:21:02.858 -0600	EndTestCase		(Duration:"43.470342", Errors:"0", Exceptions:"0", StartTime:"2016-04-19 15:20:19 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-04-19 15:21:02.864 -0600	SUCCESS		Execution Time 0:00:43 Index.script

@@ -1,0 +1,35 @@
+﻿2016-05-09 15:14:29.840 -0600	START		Running Index.script
+2016-05-09 15:14:30.328 -0600	imagefound	Windows/Start	found at (26, 881)	1	on_index	Index.script
+2016-05-09 15:14:30.384 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-09 15:14:30.386 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-05-09 15:14:31.950 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-05-09 15:14:31.980 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-09 15:14:35.011 -0600	waitfor	Chrome Search Icons	found at (1000, 400)	2	on_search	ChromeLib.script
+2016-05-09 15:14:38.600 -0600	imagefound	Chrome Search Icons/apple Search Icon	Unable to Find Image Chrome Search Icons/apple Search Icon	4	on_search	ChromeLib.script
+2016-05-09 15:14:38.839 -0600	typetext		mobile.twitter.com	10	on_search	ChromeLib.script
+2016-05-09 15:14:40.113 -0600	click	Chrome Enter	at (735, 90)	11	on_search	ChromeLib.script
+2016-05-09 15:14:43.592 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(195,628), ImageRectangle:(136,622,254,635), Language:"English", text:"https://twitter.com", TextPlatform:"Generic OCR")	found at (195, 628)	13	on_search	ChromeLib.script
+2016-05-09 15:14:46.754 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(20,-10), IgnoreSpaces:"No", ImageLocation:(156,612), ImageRectangle:(136,622,254,635), Language:"English", text:"https://twitter.com", TextPlatform:"Generic OCR")	at (156, 612)	14	on_search	ChromeLib.script
+2016-05-09 15:14:50.464 -0600	click	Twitter/Log In/Logo	at (1251, 101)	3	on_twitterlogin	TwitterLib.script
+2016-05-09 15:14:51.039 -0600	waitfor	Twitter/Log In/Wait	found at (718, 362)	4	on_twitterlogin	TwitterLib.script
+2016-05-09 15:14:52.172 -0600	click	Twitter/Log In/Click Username	at (681, 402)	5	on_twitterlogin	TwitterLib.script
+2016-05-09 15:14:53.019 -0600	typetext		iotestplant	7	on_twitterlogin	TwitterLib.script
+2016-05-09 15:14:54.736 -0600	click	Twitter/Log In/Click Password	at (631, 441)	8	on_twitterlogin	TwitterLib.script
+2016-05-09 15:14:55.570 -0600	typetext		twittergo4	9	on_twitterlogin	TwitterLib.script
+2016-05-09 15:14:57.247 -0600	click	Twitter/Log In/Click Log In	at (726, 514)	10	on_twitterlogin	TwitterLib.script
+2016-05-09 15:14:57.268 -0600	LogSuccess		Successfully Logged into Twitter	12	on_twitterlogin	TwitterLib.script
+2016-05-09 15:15:00.562 -0600	click	Twitter/Tweet/Logo	at (1267, 84)	3	on_tweet	TwitterLib.script
+2016-05-09 15:15:02.460 -0600	click	Twitter/Tweet/ClickWhat	at (519, 296)	5	on_tweet	TwitterLib.script
+2016-05-09 15:15:03.382 -0600	typetext		Day is almost over	6	on_tweet	TwitterLib.script
+2016-05-09 15:15:05.343 -0600	click	Twitter/Tweet/Post	at (954, 384)	8	on_tweet	TwitterLib.script
+2016-05-09 15:15:09.757 -0600	imagefound	Twitter/Tweet/Tweet Error/Error/Apple Tweet Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error/Apple Tweet Error	11	on_tweet	TwitterLib.script
+2016-05-09 15:15:41.124 -0600	imagefound	Twitter/Tweet/Tweet Error/Error/Windows Tweet Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error/Windows Tweet Error	13	on_tweet	TwitterLib.script
+2016-05-09 15:15:45.307 -0600	imagefound	Twitter/Tweet/Tweet Error/Error/Application Tweet Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error/Application Tweet Error	15	on_tweet	TwitterLib.script
+2016-05-09 15:15:46.317 -0600	LogSuccess		Tweeted	22	on_tweet	TwitterLib.script
+2016-05-09 15:15:47.619 -0600	click	Twitter/Log Out/Profile	at (1187, 84)	2	on_logout	TwitterLib.script
+2016-05-09 15:15:55.308 -0600	imagefound	Twitter/Log Out/Settings/	Unable to Find Image Twitter/Log Out/Settings/	4	on_logout	TwitterLib.script
+2016-05-09 15:15:56.716 -0600	click	Twitter/Log Out/Log Out Button	at (1127, 329)	8	on_logout	TwitterLib.script
+2016-05-09 15:15:59.988 -0600	imagefound	Windows/Start	found at (620, 44)	28	on_index	Index.script
+2016-05-09 15:16:00.514 -0600	click	Windows/Close	at (1414, 10)	3	on_closeapplication	WindowsLib.script
+2016-05-09 15:16:01.147 -0600	EndTestCase		(Duration:"91.304858", Errors:"0", Exceptions:"0", StartTime:"2016-05-09 15:14:29 -0600", Successes:"3", TestCase:"Index.script", Warnings:"0")
+2016-05-09 15:16:01.152 -0600	SUCCESS		Execution Time 0:01:31 Index.script

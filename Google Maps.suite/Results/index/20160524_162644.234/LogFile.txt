@@ -1,0 +1,9 @@
+﻿2016-05-24 16:26:44.235 -0600	START		Running index.script
+2016-05-24 16:26:44.352 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-05-24 16:26:48.985 -0600	imagefound	Apple/Sleep Screen	Unable to Find Image Apple/Sleep Screen	4	on_unlock	AppleLib.script
+2016-05-24 16:26:48.991 -0600	Log		Apple iPhone 6s	16	on_unlock	AppleLib.script
+2016-05-24 16:26:49.165 -0600	setoption		MouseMoveSpeed = 5	2	on_index	index.script
+2016-05-24 16:26:49.179 -0600	setoption		NextKeyDelay = 0.08	3	on_index	index.script
+2016-05-24 16:26:49.189 -0600	setoption		RemoteWorkInterval = 3	4	on_index	index.script
+2016-05-24 16:26:53.202 -0600	EndTestCase		(Duration:"8.965438", Errors:"1", Exceptions:"0", StartTime:"2016-05-24 16:26:44 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-24 16:26:53.203 -0600	ABORTED		Execution Time 0:00:08 index.script

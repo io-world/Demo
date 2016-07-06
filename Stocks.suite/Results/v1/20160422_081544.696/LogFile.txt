@@ -1,0 +1,5 @@
+﻿2016-04-22 08:15:44.696 -0600	START		Running Untitled.script
+2016-04-22 08:15:46.234 -0600	readtext		(128,978,1513,1236)
+2016-04-22 08:15:46.235 -0600	Log		0-Successful\nError Number 2977\nTransaction Failed!	1	on_untitled	Untitled.script
+2016-04-22 08:15:46.618 -0600	EndTestCase		(Duration:"1.920584", Errors:"0", Exceptions:"0", StartTime:"2016-04-22 08:15:44 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-04-22 08:15:46.623 -0600	SUCCESS		Execution Time 0:00:01 Untitled.script

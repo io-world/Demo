@@ -1,0 +1,24 @@
+﻿2016-05-12 13:39:56.337 -0600	START		Running index.script
+2016-05-12 13:39:56.439 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-12 13:39:56.449 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-12 13:39:56.458 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-12 13:39:59.165 -0600	click	Browsers Icon/Chrome	at (390, 880)	15	on_index	index.script
+2016-05-12 13:40:03.540 -0600	click	indicators	at (173, 43)	16	on_index	index.script
+2016-05-12 13:40:07.866 -0600	typetext		www.amazon.com[return]	18	on_index	index.script
+2016-05-12 13:40:11.155 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(378,141), ImageRectangle:(366,136,391,146), Language:"English", searchRectangle:(0,90,720,450), Text:"Deal", TextPlatform:"Generic OCR")	at (378, 141)	19	on_index	index.script
+2016-05-12 13:40:13.694 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(338,619), ImageRectangle:(283,615,393,623), Language:"English", searchRectangle:(216,360,504,900), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR")	at (338, 619)	21	on_index	index.script
+2016-05-12 13:40:13.725 -0600	Log		Deal of the Day is Located Here:(338,619)	22	on_index	index.script
+2016-05-12 13:40:13.865 -0600	readtext		(258,627,428,659)
+2016-05-12 13:40:13.871 -0600	Log		$140.85-$200.77	27	on_index	index.script
+2016-05-12 13:40:16.493 -0600	click	Browser Close	at (1415, 8)	29	on_index	index.script
+2016-05-12 13:40:22.010 -0600	click	Browsers Icon/Internet Explorer	at (455, 879)	15	on_index	index.script
+2016-05-12 13:40:26.275 -0600	click	indicators	at (182, 41)	16	on_index	index.script
+2016-05-12 13:40:30.570 -0600	typetext		www.amazon.com[return]	18	on_index	index.script
+2016-05-12 13:40:33.550 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(388,135), ImageRectangle:(376,130,401,140), Language:"English", searchRectangle:(0,90,720,450), Text:"Deal", TextPlatform:"Generic OCR")	at (388, 135)	19	on_index	index.script
+2016-05-12 13:40:37.934 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(344,614), ImageRectangle:(290,610,399,618), Language:"English", searchRectangle:(216,360,504,900), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR")	at (344, 614)	21	on_index	index.script
+2016-05-12 13:40:37.973 -0600	Log		Deal of the Day is Located Here:(344,614)	22	on_index	index.script
+2016-05-12 13:40:38.108 -0600	readtext		(264,622,434,654)
+2016-05-12 13:40:38.113 -0600	Log		$140.85 - $200.77	27	on_index	index.script
+2016-05-12 13:40:40.787 -0600	click	Browser Close	at (1411, 10)	29	on_index	index.script
+2016-05-12 13:40:41.220 -0600	EndTestCase		(Duration:"44.881435", Errors:"0", Exceptions:"0", StartTime:"2016-05-12 13:39:56 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-12 13:40:41.223 -0600	SUCCESS		Execution Time 0:00:44 index.script

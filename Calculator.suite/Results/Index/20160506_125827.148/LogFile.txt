@@ -1,0 +1,7 @@
+﻿2016-05-06 12:58:27.149 -0600	START		Running Untitled.script
+2016-05-06 12:58:27.697 -0600	click	Run Icon	at (266, 880)	5	on_untitled	Untitled.script
+2016-05-06 12:58:28.464 -0600	typetext		calc[enter]	7	on_untitled	Untitled.script
+2016-05-06 12:58:29.173 -0600	imagefound	Calculator Icon	found at (729, 268)	10	on_untitled	Untitled.script
+2016-05-06 12:58:29.200 -0600	Log		found it	12	on_untitled	Untitled.script
+2016-05-06 12:58:29.434 -0600	EndTestCase		(Duration:"2.283505", Errors:"0", Exceptions:"0", StartTime:"2016-05-06 12:58:27 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-05-06 12:58:29.438 -0600	SUCCESS		Execution Time 0:00:02 Untitled.script

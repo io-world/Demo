@@ -1,0 +1,23 @@
+﻿2016-05-02 14:43:50.260 -0600	START		Running Index.script
+2016-05-02 14:43:51.349 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(602,107), ImageRectangle:(352,97,420,108), Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	at (602, 107)	18	on_index	Index.script
+2016-05-02 14:43:52.119 -0600	typetext		Bruce	27	on_index	Index.script
+2016-05-02 14:43:53.829 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(602,159), ImageRectangle:(352,149,418,160), Language:"English", searchRectangle:(317,73,1116,461), text:"Last Name", TextPlatform:"Generic OCR")	at (602, 159)	18	on_index	Index.script
+2016-05-02 14:43:54.601 -0600	typetext		Wayne	27	on_index	Index.script
+2016-05-02 14:43:56.241 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(400,10), IgnoreSpaces:"No", ImageLocation:(1060,107), ImageRectangle:(660,97,693,108), Language:"English", searchRectangle:(317,73,1116,461), text:"DOB", TextPlatform:"Generic OCR")	at (1060, 107)	18	on_index	Index.script
+2016-05-02 14:43:57.986 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(400,10), IgnoreSpaces:"No", ImageLocation:(1061,159), ImageRectangle:(661,149,814,163), Language:"English", searchRectangle:(317,73,1116,461), text:"Social Security Number", TextPlatform:"Generic OCR")	at (1061, 159)	18	on_index	Index.script
+2016-05-02 14:43:58.832 -0600	typetext		113-83-3798	27	on_index	Index.script
+2016-05-02 14:44:00.530 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(601,221), ImageRectangle:(351,211,405,222), Language:"English", searchRectangle:(317,73,1116,461), text:"Address", TextPlatform:"Generic OCR")	at (601, 221)	18	on_index	Index.script
+2016-05-02 14:44:01.436 -0600	typetext		14 Maiden Lane 	27	on_index	Index.script
+2016-05-02 14:44:03.177 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(602,282), ImageRectangle:(352,272,380,286), Language:"English", searchRectangle:(317,73,1116,461), text:"City", TextPlatform:"Generic OCR")	at (602, 282)	18	on_index	Index.script
+2016-05-02 14:44:03.960 -0600	typetext		Gotham	27	on_index	Index.script
+2016-05-02 14:44:05.616 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(603,354), ImageRectangle:(353,344,384,355), Language:"English", searchRectangle:(317,73,1116,461), text:"State", TextPlatform:"Generic OCR")	at (603, 354)	18	on_index	Index.script
+2016-05-02 14:44:06.347 -0600	typetext		NY	27	on_index	Index.script
+2016-05-02 14:44:08.079 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(602,425), ImageRectangle:(352,415,405,429), Language:"English", searchRectangle:(317,73,1116,461), text:"Zipcode", TextPlatform:"Generic OCR")	at (602, 425)	18	on_index	Index.script
+2016-05-02 14:44:08.847 -0600	typetext		39485	27	on_index	Index.script
+2016-05-02 14:44:10.544 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(450,10), IgnoreSpaces:"No", ImageLocation:(1110,221), ImageRectangle:(660,211,727,225), Language:"English", searchRectangle:(317,73,1116,461), text:"Telephone", TextPlatform:"Generic OCR")	at (1110, 221)	18	on_index	Index.script
+2016-05-02 14:44:11.403 -0600	typetext		111-123-4030	27	on_index	Index.script
+2016-05-02 14:44:13.240 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(450,10), IgnoreSpaces:"No", ImageLocation:(1110,282), ImageRectangle:(660,272,750,283), Language:"English", searchRectangle:(317,73,1116,461), text:"Marital Status", TextPlatform:"Generic OCR")	at (1110, 282)	18	on_index	Index.script
+2016-05-02 14:44:14.025 -0600	typetext		Single	27	on_index	Index.script
+2016-05-02 14:44:25.712 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	18	on_index	Index.script
+2016-05-02 14:44:26.016 -0600	EndTestCase		(Duration:"35.755396", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 14:43:50 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-02 14:44:26.017 -0600	ABORTED		Execution Time 0:00:35 Index.script

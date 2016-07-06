@@ -1,0 +1,9 @@
+﻿2016-05-04 13:06:55.333 -0600	START		Running Index.script
+2016-05-04 13:06:57.339 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,107), ImageRectangle:(352,97,420,108), Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	at (502, 107)	29	on_index	Index.script
+2016-05-04 13:06:58.108 -0600	typetext		Bruce	30	on_index	Index.script
+2016-05-04 13:06:59.661 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,159), ImageRectangle:(352,149,418,160), Language:"English", searchRectangle:(317,73,1116,461), text:"Last Name", TextPlatform:"Generic OCR")	at (502, 159)	29	on_index	Index.script
+2016-05-04 13:07:00.431 -0600	typetext		Wayne	30	on_index	Index.script
+2016-05-04 13:07:00.518 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
+2016-05-04 13:07:04.760 -0600	Exception	YearPicker	No Image Found On Screen: "YearPicker"	16	on_datepicker	Datepicker.script
+2016-05-04 13:07:05.014 -0600	EndTestCase		(Duration:"9.67799", Errors:"1", Exceptions:"1", StartTime:"2016-05-04 13:06:55 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-04 13:07:05.090 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "YearPicker" -- Execution Time 0:00:09 Index.script

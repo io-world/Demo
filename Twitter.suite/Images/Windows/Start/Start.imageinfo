@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2016-05-02 19:00:41 +0000";
+    CaptureHost = "Windows 2012 (VNC)";
+    CaptureScreenSize =     (
+        1440,
+        900
+    );
+    CropRectangle = "1,0,53,37";
+    HasAlpha = 1;
+    HotSpotX = 26;
+    HotSpotY = 19;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 0;
+    OriginalLocationY = 862;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

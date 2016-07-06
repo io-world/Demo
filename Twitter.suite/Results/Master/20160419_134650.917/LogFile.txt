@@ -1,0 +1,5 @@
+﻿2016-04-19 13:46:50.918 -0600	START		Running Index.script
+2016-04-19 13:46:51.749 -0600	click	Windows/Start	at (43, 1406)	2	on_start	WindowsLib.script
+2016-04-19 13:46:53.846 -0600	click	Chrome Icons	at (244, 869)	8	on_index	Index.script
+2016-04-19 13:47:11.226 -0600	EndTestCase		(Duration:"20.306765", Errors:"1", Exceptions:"0", StartTime:"2016-04-19 13:46:50 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-04-19 13:47:11.227 -0600	ABORTED		Execution Time 0:00:20 Index.script

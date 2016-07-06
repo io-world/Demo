@@ -1,0 +1,13 @@
+﻿2016-06-24 09:22:51.407 -0600	START		Running index.script
+2016-06-24 09:22:51.659 -0600	connect		Windows 2012:(null)	3	on_index	index.script
+2016-06-24 09:22:51.684 -0600	typetext		[windowsKey]r	7	on_index	index.script
+2016-06-24 09:22:52.480 -0600	typetext		notepad[enter]	8	on_index	index.script
+2016-06-24 09:22:54.733 -0600	typetext		Hello From Test Plant	11	on_index	index.script
+2016-06-24 09:22:55.446 -0600	typetext		[enter]	12	on_index	index.script
+2016-06-24 09:22:56.285 -0600	typetext		second Line	13	on_index	index.script
+2016-06-24 09:22:57.543 -0600	click	Close	at (1248, 11)	17	on_index	index.script
+2016-06-24 09:22:58.706 -0600	imagefound	DontSave	found at (759, 440)	19	on_index	index.script
+2016-06-24 09:22:59.279 -0600	click	DontSave	at (759, 440)	20	on_index	index.script
+2016-06-24 09:22:59.280 -0600	Log		successful Written	21	on_index	index.script
+2016-06-24 09:22:59.340 -0600	EndTestCase		(Duration:"7.925547", Errors:"0", Exceptions:"0", StartTime:"2016-06-24 09:22:51 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-24 09:22:59.344 -0600	SUCCESS		Execution Time 0:00:07 index.script

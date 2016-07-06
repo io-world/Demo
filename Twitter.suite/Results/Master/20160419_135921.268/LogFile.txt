@@ -1,0 +1,6 @@
+﻿2016-04-19 13:59:21.270 -0600	START		Running Index.script
+2016-04-19 13:59:21.974 -0600	click	Windows/Start	at (43, 1406)	2	on_start	WindowsLib.script
+2016-04-19 13:59:23.733 -0600	click	Chrome Icons	at (244, 869)	8	on_index	Index.script
+2016-04-19 13:59:51.584 -0600	Exception	Chrome Search Icons	No Image Found On Screen: "Chrome Search Icons"	9	on_index	Index.script
+2016-04-19 13:59:52.175 -0600	EndTestCase		(Duration:"30.903101", Errors:"1", Exceptions:"1", StartTime:"2016-04-19 13:59:21 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-04-19 13:59:52.404 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Chrome Search Icons" -- Execution Time 0:00:30 Index.script

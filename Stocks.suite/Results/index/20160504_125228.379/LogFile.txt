@@ -1,0 +1,31 @@
+﻿2016-05-04 12:52:28.381 -0600	START		Running index.script
+2016-05-04 12:52:28.616 -0600	typetext		[windowsKey]	10	on_index	index.script
+2016-05-04 12:52:29.847 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
+2016-05-04 12:52:32.164 -0600	waitfor	Chrome Mic	found at (999, 402)	13	on_index	index.script
+2016-05-04 12:52:32.307 -0600	typetext		goog[enter]	19	on_index	index.script
+2016-05-04 12:52:34.251 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,331), ImageRectangle:(241,326,267,337), Language:"English", searchRectangle:(125,236,681,393), Text:"USD", TextPlatform:"Generic OCR")	at (254, 331)	20	on_index	index.script
+2016-05-04 12:52:34.351 -0600	readtext		(104,301,239,341)
+2016-05-04 12:52:34.359 -0600	Log		697.33	24	on_index	index.script
+2016-05-04 12:52:35.001 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(153,90), ImageRectangle:(136,84,170,96), Language:"English", searchRectangle:(120,70,800,120), text:"goog", TextPlatform:"Generic OCR")	at (153, 90)	25	on_index	index.script
+2016-05-04 12:52:35.714 -0600	typetext		[backspace]	26	on_index	index.script
+2016-05-04 12:52:36.485 -0600	typetext		Appl[enter]	19	on_index	index.script
+2016-05-04 12:52:38.368 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(125,236,681,393), Text:"USD", TextPlatform:"Generic OCR")	at (238, 331)	20	on_index	index.script
+2016-05-04 12:52:38.463 -0600	readtext		(88,301,223,341)
+2016-05-04 12:52:38.470 -0600	Log		94.22	24	on_index	index.script
+2016-05-04 12:52:39.113 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(151,88), ImageRectangle:(136,81,167,96), Language:"English", searchRectangle:(120,70,800,120), text:"Appl", TextPlatform:"Generic OCR")	at (151, 88)	25	on_index	index.script
+2016-05-04 12:52:39.828 -0600	typetext		[backspace]	26	on_index	index.script
+2016-05-04 12:52:40.584 -0600	typetext		Wmt[enter]	19	on_index	index.script
+2016-05-04 12:52:42.561 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(125,236,681,393), Text:"USD", TextPlatform:"Generic OCR")	at (238, 331)	20	on_index	index.script
+2016-05-04 12:52:42.665 -0600	readtext		(88,301,223,341)
+2016-05-04 12:52:42.670 -0600	Log		67.22	24	on_index	index.script
+2016-05-04 12:52:43.311 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(152,87), ImageRectangle:(136,81,168,93), Language:"English", searchRectangle:(120,70,800,120), text:"Wmt", TextPlatform:"Generic OCR")	at (152, 87)	25	on_index	index.script
+2016-05-04 12:52:44.023 -0600	typetext		[backspace]	26	on_index	index.script
+2016-05-04 12:52:44.781 -0600	typetext		Xom[enter]	19	on_index	index.script
+2016-05-04 12:52:46.584 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,331), ImageRectangle:(225,326,251,337), Language:"English", searchRectangle:(125,236,681,393), Text:"USD", TextPlatform:"Generic OCR")	at (238, 331)	20	on_index	index.script
+2016-05-04 12:52:46.690 -0600	readtext		(88,301,223,341)
+2016-05-04 12:52:46.700 -0600	Log		87.81	24	on_index	index.script
+2016-05-04 12:52:47.320 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(151,87), ImageRectangle:(136,81,167,93), Language:"English", searchRectangle:(120,70,800,120), text:"Xom", TextPlatform:"Generic OCR")	at (151, 87)	25	on_index	index.script
+2016-05-04 12:52:48.038 -0600	typetext		[backspace]	26	on_index	index.script
+2016-05-04 12:52:49.241 -0600	click	Close Chrome	at (1413, 9)	35	on_index	index.script
+2016-05-04 12:52:49.653 -0600	EndTestCase		(Duration:"21.271079", Errors:"0", Exceptions:"0", StartTime:"2016-05-04 12:52:28 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-04 12:52:49.657 -0600	SUCCESS		Execution Time 0:00:21 index.script

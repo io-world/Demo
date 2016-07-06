@@ -1,0 +1,17 @@
+﻿2016-05-12 10:26:37.258 -0600	START		Running close.script
+2016-05-12 10:26:37.425 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 10:26:45.063 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(262.5,0,562.5,200.100006), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:26:47.145 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:26:53.649 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(262.5,0,562.5,200.100006), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:26:55.725 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:27:02.147 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(262.5,0,562.5,200.100006), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:27:04.223 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:27:08.934 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(262.5,0,562.5,200.100006), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:27:11.012 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:27:16.448 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(262.5,0,562.5,200.100006), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:27:18.522 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:27:24.802 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(262.5,0,562.5,200.100006), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:27:26.874 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:27:29.834 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	5	on_close	close.script
+2016-05-12 10:27:30.068 -0600	EndTestCase		(Duration:"52.808439", Errors:"1", Exceptions:"1", StartTime:"2016-05-12 10:26:37 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 10:27:30.068 -0600	ABORTED		Execution Time 0:00:52 close.script

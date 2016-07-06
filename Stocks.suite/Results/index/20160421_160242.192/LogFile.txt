@@ -1,0 +1,27 @@
+﻿2016-04-21 16:02:42.193 -0600	START		Running index.script
+2016-04-21 16:02:42.304 -0600	typetext		goog	15	on_index	index.script
+2016-04-21 16:02:43.018 -0600	typetext		[enter]	16	on_index	index.script
+2016-04-21 16:02:47.238 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(484,656,535,675), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	found at (509, 665)	21	on_index	index.script
+2016-04-21 16:02:47.307 -0600	readtext		(259,607,554,691)
+2016-04-21 16:02:47.307 -0600	Log		759.14 usd	23	on_index	index.script
+2016-04-21 16:02:47.362 -0600	typetext		[backspace][backspace][backspace][backspace]	25	on_index	index.script
+2016-04-21 16:02:48.122 -0600	typetext		Appl	15	on_index	index.script
+2016-04-21 16:02:48.840 -0600	typetext		[enter]	16	on_index	index.script
+2016-04-21 16:02:52.163 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(483,656,535,674), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	found at (509, 665)	21	on_index	index.script
+2016-04-21 16:02:52.213 -0600	readtext		(259,607,554,691)
+2016-04-21 16:02:52.214 -0600	Log		105.97 usd	23	on_index	index.script
+2016-04-21 16:02:52.266 -0600	typetext		[backspace][backspace][backspace][backspace]	25	on_index	index.script
+2016-04-21 16:02:53.007 -0600	typetext		Wmt	15	on_index	index.script
+2016-04-21 16:02:53.722 -0600	typetext		[enter]	16	on_index	index.script
+2016-04-21 16:02:56.958 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(476,664), ImageRectangle:(451,655,502,674), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	found at (476, 664)	21	on_index	index.script
+2016-04-21 16:02:57.003 -0600	readtext		(259,607,554,691)
+2016-04-21 16:02:57.003 -0600	Log		68.48 usd ♦	23	on_index	index.script
+2016-04-21 16:02:57.054 -0600	typetext		[backspace][backspace][backspace][backspace]	25	on_index	index.script
+2016-04-21 16:02:57.797 -0600	typetext		Xom	15	on_index	index.script
+2016-04-21 16:02:58.515 -0600	typetext		[enter]	16	on_index	index.script
+2016-04-21 16:03:01.084 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(477,665), ImageRectangle:(452,656,503,675), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	found at (477, 665)	21	on_index	index.script
+2016-04-21 16:03:01.121 -0600	readtext		(259,607,554,691)
+2016-04-21 16:03:01.121 -0600	Log		86.80 usd 0	23	on_index	index.script
+2016-04-21 16:03:01.173 -0600	typetext		[backspace][backspace][backspace][backspace]	25	on_index	index.script
+2016-04-21 16:03:01.684 -0600	EndTestCase		(Duration:"19.490239", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 16:02:42 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-04-21 16:03:01.688 -0600	SUCCESS		Execution Time 0:00:19 index.script

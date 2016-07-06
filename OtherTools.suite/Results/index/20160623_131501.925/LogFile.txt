@@ -1,0 +1,6 @@
+﻿2016-06-23 13:15:01.927 -0600	START		Running index.script
+2016-06-23 13:15:02.000 -0600	connect		Windows 2012:(null)	1	on_index	index.script
+2016-06-23 13:15:02.423 -0600	click	Windows Icon	at (24, 881)	3	on_index	index.script
+2016-06-23 13:15:02.484 -0600	Log		HOLLA BACK	5	on_index	index.script
+2016-06-23 13:15:02.959 -0600	EndTestCase		(Duration:"1.031065", Errors:"0", Exceptions:"0", StartTime:"2016-06-23 13:15:01 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-23 13:15:02.963 -0600	SUCCESS		Execution Time 0:00:01 index.script

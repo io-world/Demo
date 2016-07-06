@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="AndroidLib.script" package="Dropbox.suite" timestamp="2016-06-10 14:22:18.892 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-06-10 14:22:18.892 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="AndroidLib.script" assertions="1" successes="0" errors="1" time="6.207478">
+  </testcase>
+ </testsuite>
+</testsuites>

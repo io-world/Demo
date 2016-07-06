@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Index">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>25</NumberOfRuns>
+  <NumberOfFails>9</NumberOfFails>
+  <FirstRun>2016-04-19 09:20:38 -0600</FirstRun>
+  <LastRun>2016-04-21 12:18:59 -0600</LastRun>
+  <TotalTimeOnSuccess>1019.586109</TotalTimeOnSuccess>
+ </script>
+ <script name="TwitterLib">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-04-21 13:51:52 -0600</FirstRun>
+  <LastRun>2016-04-21 13:51:52 -0600</LastRun>
+  <TotalTimeOnSuccess>0.356835</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,3 @@
+﻿2016-07-05 10:51:51.125 -0600	START		Running Untitled.script
+2016-07-05 10:51:51.500 -0600	EndTestCase		(Duration:"0.373723", Errors:"1", Exceptions:"0", StartTime:"2016-07-05 10:51:51 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-07-05 10:51:51.668 -0600	FAILURE	Screen_Error.png	STDatabaseError No class is registered to handle database connections of type 'unixodbc' -- Execution Time 0:00:00 Untitled.script

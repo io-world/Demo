@@ -1,0 +1,16 @@
+﻿on Open_C
+	click "Chrome Icon"
+	Click (Image:"Chrome Refresh Icon", WaitFor:5)
+	
+	typetext backspace
+	typetext "file:///C:/Users/Administrator/Desktop/TestPlantWebForm.html"
+	typetext Enter
+end Open_C
+
+
+
+on Close_C
+
+	click "Chrome Close"
+	
+end Close_C

@@ -1,0 +1,26 @@
+﻿2016-06-23 15:50:11.480 -0600	START		Running Master.script
+2016-06-23 15:50:18.525 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	1	on_master	Master.script
+2016-06-23 15:50:22.577 -0600	imagefound	Apple/Blank	Unable to Find Image Apple/Blank	4	on_master	Master.script
+2016-06-23 15:50:23.160 -0600	imagefound	Apple/Phone Icon	found at (113, 1228)	7	on_master	Master.script
+2016-06-23 15:50:23.178 -0600	Log		apple iPhone is already on	8	on_master	Master.script
+2016-06-23 15:50:23.685 -0600	click	Chrome Icons	at (286, 820)	2	on_launch	ChromeLib.script
+2016-06-23 15:50:23.687 -0600	LogSuccess		Chrome has Been Launched	3	on_launch	ChromeLib.script
+2016-06-23 15:50:25.382 -0600	waitfor	Chrome Search Icons	found at (76, 528)	2	on_search	ChromeLib.script
+2016-06-23 15:50:26.429 -0600	imagefound	Chrome Search Icons/apple Search Icon	found at (76, 528)	4	on_search	ChromeLib.script
+2016-06-23 15:50:27.523 -0600	click	Chrome Search Icons	at (584, 489)	5	on_search	ChromeLib.script
+2016-06-23 15:50:28.789 -0600	typetext		mobile.twitter.com	11	on_search	ChromeLib.script
+2016-06-23 15:50:29.739 -0600	click	Chrome Enter	at (678, 1285)	12	on_search	ChromeLib.script
+2016-06-23 15:50:34.838 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"https://twitter.com", TextPlatform:"Generic OCR", waitfor:"3")	Unable to Find Image (TEXT:"https://twitter.com")	14	on_search	ChromeLib.script
+2016-06-23 15:50:36.096 -0600	click	Twitter/Log In/Logo	at (658, 1255)	3	on_twitterlogin	TwitterLib.script
+2016-06-23 15:50:37.786 -0600	waitfor	Twitter/Log In/Wait	found at (61, 192)	4	on_twitterlogin	TwitterLib.script
+2016-06-23 15:50:38.473 -0600	click	Twitter/Log In/Click Username	at (179, 386)	5	on_twitterlogin	TwitterLib.script
+2016-06-23 15:50:39.301 -0600	typetext		iotestplant	7	on_twitterlogin	TwitterLib.script
+2016-06-23 15:50:40.525 -0600	click	Twitter/Log In/Click Password	at (119, 469)	8	on_twitterlogin	TwitterLib.script
+2016-06-23 15:50:41.344 -0600	typetext		twittergo4	9	on_twitterlogin	TwitterLib.script
+2016-06-23 15:50:42.343 -0600	click	Twitter/Log In/Click Log In	at (372, 578)	10	on_twitterlogin	TwitterLib.script
+2016-06-23 15:50:42.346 -0600	LogSuccess		Successfully Logged into Twitter	12	on_twitterlogin	TwitterLib.script
+2016-06-23 15:50:46.278 -0600	waitfor	Twitter/Tweet/Logo	found at (694, 381)	3	on_tweet	TwitterLib.script
+2016-06-23 15:50:46.417 -0600	click		at (694, 381)	4	on_tweet	TwitterLib.script
+2016-06-23 15:50:56.889 -0600	Exception	Twitter/Tweet/ClickWhat	Unable To Find Any Image On Screen "Twitter/Tweet/ClickWhat" within 5.00 seconds	6	on_tweet	TwitterLib.script
+2016-06-23 15:50:57.358 -0600	EndTestCase		(Duration:"45.876541", Errors:"1", Exceptions:"1", StartTime:"2016-06-23 15:50:11 -0600", Successes:"2", TestCase:"Master.script", Warnings:"0")
+2016-06-23 15:50:57.439 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Twitter/Tweet/ClickWhat" within 5.00 seconds -- Execution Time 0:00:45 Master.script

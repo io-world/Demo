@@ -1,0 +1,8 @@
+﻿2016-06-23 13:58:36.835 -0600	START		Running index.script
+2016-06-23 13:58:37.069 -0600	connect		Windows 2012:(null)	3	on_index	index.script
+2016-06-23 13:58:37.091 -0600	typetext		[windowsKey]r	7	on_index	index.script
+2016-06-23 13:58:37.888 -0600	typetext		notepad[enter]	8	on_index	index.script
+2016-06-23 13:58:39.980 -0600	typetext		55555555	11	on_index	index.script
+2016-06-23 13:58:44.191 -0600	Exception	Close	No Image Found On Screen: "Close"	14	on_index	index.script
+2016-06-23 13:58:44.248 -0600	EndTestCase		(Duration:"7.410802", Errors:"1", Exceptions:"1", StartTime:"2016-06-23 13:58:36 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-23 13:58:44.322 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Close" -- Execution Time 0:00:07 index.script

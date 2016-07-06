@@ -1,0 +1,4 @@
+﻿2016-05-12 15:14:30.174 -0600	START		Running Index.script
+2016-05-12 15:14:30.833 -0600	click	Chrome Icon	at (391, 879)	2	on_open_c	Chrome.script
+2016-05-12 15:14:40.173 -0600	EndTestCase		(Duration:"9.997538", Errors:"1", Exceptions:"0", StartTime:"2016-05-12 15:14:30 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-12 15:14:40.174 -0600	ABORTED		Execution Time 0:00:09 Index.script

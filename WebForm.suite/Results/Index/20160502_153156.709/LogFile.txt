@@ -1,0 +1,6 @@
+﻿2016-05-02 15:31:56.711 -0600	START		Running PageForm.script
+2016-05-02 15:31:57.869 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,107), ImageRectangle:(352,97,420,108), Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	at (502, 107)	25	on_pageform	PageForm.script
+2016-05-02 15:31:58.638 -0600	typetext		Bruce	27	on_pageform	PageForm.script
+2016-05-02 15:32:09.433 -0600	Exception	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(100,10), IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(317,73,1116,461), text:"Sex", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"Sex")"	35	on_pageform	PageForm.script
+2016-05-02 15:32:09.604 -0600	EndTestCase		(Duration:"12.891888", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 15:31:56 -0600", Successes:"0", TestCase:"PageForm.script", Warnings:"0")
+2016-05-02 15:32:09.681 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "(TEXT:"Sex")"  Restricted Search Rectangle ((317,73),(1116,461))\n -- Execution Time 0:00:12 PageForm.script

@@ -1,0 +1,29 @@
+﻿put ResourcePath("StockList.csv") into CSV
+put ResourcePath("output.csv") into output
+put the number of lines of file CSV into Max
+
+open file output
+write return to file output at eof
+write Today  & "," to file output
+
+TypeText windowskey 
+Click "Chrome"
+
+waitfor 10,(image: "Chrome Mic")
+
+repeat Max-1 Times	
+	
+	put item 1 of line repeatindex() +1of file CSV into Company_name
+	put item 2 of line repeatindex() +1  of file CSV into Stock_name
+	TypeText Stock_name , Enter
+	waitfor 10,(Text: "USD",searchRectangle: (ImageLocation("Chrome/Chrome Icon Logo")+(20,20),ImageLocation("Chrome/Chrome Icon Logo")+(700,400)))
+	put ReadText((FoundImageLocation()+(-150,-30)), (FoundImageLocation()+(-15,10))) into price
+	DoubleClick "Chrome/Search Icon"
+	TypeText backspace
+	log Company_name &":"& price
+	write price  & "," to file output
+	
+end repeat
+
+Click "Close Chrome"
+close file output

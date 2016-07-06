@@ -1,0 +1,11 @@
+﻿2016-05-02 14:13:09.180 -0600	START		Running Index.script
+2016-05-02 14:13:10.076 -0600	imagefound	Windows/Start	found at (26, 881)	2	on_index	Index.script
+2016-05-02 14:13:10.107 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-02 14:13:10.109 -0600	Log		Windws 2012 R2 1440 X 900	5	on_index	Index.script
+2016-05-02 14:13:12.605 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-05-02 14:13:12.637 -0600	LogSuccess		Chrome has Been Launched	14	on_index	Index.script
+2016-05-02 14:13:15.106 -0600	waitfor	Chrome Search Icons	found at (1000, 400)	2	on_search	ChromeLib.script
+2016-05-02 14:13:15.766 -0600	click	Chrome Search Icons	at (1000, 400)	3	on_search	ChromeLib.script
+2016-05-02 14:13:16.701 -0600	typetext		mobile.twitter.com	4	on_search	ChromeLib.script
+2016-05-02 14:13:19.657 -0600	EndTestCase		(Duration:"10.474302", Errors:"1", Exceptions:"0", StartTime:"2016-05-02 14:13:09 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-02 14:13:19.658 -0600	ABORTED		Execution Time 0:00:10 Index.script

@@ -1,0 +1,21 @@
+﻿2016-06-28 09:10:05.937 -0600	START		Running Index.script
+2016-06-28 09:10:06.104 -0600	connect		iPhone 6s:(null)	2	on_unlock	AppleLib.script
+2016-06-28 09:10:10.100 -0600	imagefound	Apple/Sleep Screen	Unable to Find Image Apple/Sleep Screen	4	on_unlock	AppleLib.script
+2016-06-28 09:10:10.118 -0600	Log		Apple iPhone 6s	16	on_unlock	AppleLib.script
+2016-06-28 09:10:10.633 -0600	click	Apple/Message Icon	at (114, 113)	4	on_index	Index.script
+2016-06-28 09:10:26.245 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchrectangle:(0,0,375,266.799988), text:"Messages", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Messages")	7	on_index	Index.script
+2016-06-28 09:10:27.236 -0600	click	Apple/Write Message Icon	at (686, 83)	12	on_index	Index.script
+2016-06-28 09:10:29.558 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(376,87), ImageRectangle:(267,72,485,102), Language:"English", searchrectangle:(150,0,600,133.399994), text:"New Message", TextPlatform:"Generic OCR")	found at (376, 87)	13	on_index	Index.script
+2016-06-28 09:10:29.701 -0600	typetext		9734327060	17	on_index	Index.script
+2016-06-28 09:10:31.347 -0600	click	Apple/Camera Icon	at (223, 855)	18	on_index	Index.script
+2016-06-28 09:10:32.399 -0600	typetext		Test Plant says Hello06/28/16	19	on_index	Index.script
+2016-06-28 09:10:33.375 -0600	click	Emoji/Select Section/Emoji Icon	at (139, 1284)	2	on_select	emoji.script
+2016-06-28 09:10:34.980 -0600	click	Emoji/Select Section/Smile	at (187, 1294)	3	on_select	emoji.script
+2016-06-28 09:10:35.984 -0600	click	Emoji/Smile Section/Upside down Face	at (244, 1061)	4	on_select	emoji.script
+2016-06-28 09:10:37.076 -0600	click	Emoji/Select Section/ABC Section	at (51, 1290)	5	on_select	emoji.script
+2016-06-28 09:10:38.224 -0600	click	Apple/Send Icon	at (699, 775)	32	on_index	Index.script
+2016-06-28 09:10:41.716 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(131,87), ImageRectangle:(57,72,206,102), Language:"English", searchrectangle:(0,0,375,266.799988), text:"Messages", TextPlatform:"Generic OCR")	found at (131, 87)	34	on_index	Index.script
+2016-06-28 09:10:41.840 -0600	click		at (131, 87)	35	on_index	Index.script
+2016-06-28 09:10:42.545 -0600	presshomebutton			37	on_index	Index.script
+2016-06-28 09:10:42.914 -0600	EndTestCase		(Duration:"36.974262", Errors:"0", Exceptions:"0", StartTime:"2016-06-28 09:10:05 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-06-28 09:10:42.918 -0600	SUCCESS		Execution Time 0:00:36 Index.script

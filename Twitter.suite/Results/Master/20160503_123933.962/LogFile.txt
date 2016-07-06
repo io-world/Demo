@@ -1,0 +1,28 @@
+﻿2016-05-03 12:39:33.963 -0600	START		Running Index.script
+2016-05-03 12:39:39.245 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	2	on_index	Index.script
+2016-05-03 12:39:39.419 -0600	imagefound	Apple/Phone Icon	found at (113, 1228)	7	on_index	Index.script
+2016-05-03 12:39:39.445 -0600	Log		Apple iPhone 6s	10	on_index	Index.script
+2016-05-03 12:39:39.750 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-05-03 12:39:39.771 -0600	LogSuccess		Chrome has Been Launched	16	on_index	Index.script
+2016-05-03 12:39:41.015 -0600	waitfor	Chrome Search Icons	found at (76, 528)	2	on_search	ChromeLib.script
+2016-05-03 12:39:41.828 -0600	imagefound	Chrome Search Icons/apple Search Icon	found at (76, 528)	4	on_search	ChromeLib.script
+2016-05-03 12:39:42.685 -0600	click	Chrome Search Icons	at (76, 528)	5	on_search	ChromeLib.script
+2016-05-03 12:39:43.991 -0600	typetext		mobile.twitter.com	10	on_search	ChromeLib.script
+2016-05-03 12:39:45.029 -0600	click	Chrome Enter	at (678, 1285)	11	on_search	ChromeLib.script
+2016-05-03 12:39:50.734 -0600	imagefound	Twitter/Link/Windows Twittter Link	Unable to Find Image Twitter/Link/Windows Twittter Link	13	on_search	ChromeLib.script
+2016-05-03 12:39:51.749 -0600	click	Twitter/Log In/Logo	at (548, 319)	3	on_twitterlogin	TwitterLib.script
+2016-05-03 12:39:53.611 -0600	waitfor	Twitter/Log In/Wait	found at (61, 192)	4	on_twitterlogin	TwitterLib.script
+2016-05-03 12:39:54.470 -0600	click	Twitter/Log In/Click Username	at (179, 386)	5	on_twitterlogin	TwitterLib.script
+2016-05-03 12:39:55.316 -0600	typetext		iotestplant	7	on_twitterlogin	TwitterLib.script
+2016-05-03 12:39:56.556 -0600	click	Twitter/Log In/Click Password	at (119, 469)	8	on_twitterlogin	TwitterLib.script
+2016-05-03 12:39:57.383 -0600	typetext		twittergo4	9	on_twitterlogin	TwitterLib.script
+2016-05-03 12:39:58.591 -0600	click	Twitter/Log In/Click Log In	at (372, 578)	10	on_twitterlogin	TwitterLib.script
+2016-05-03 12:39:58.628 -0600	LogSuccess		Successfully Logged into Twitter	20	on_index	Index.script
+2016-05-03 12:40:00.669 -0600	click	Twitter/Tweet/Logo	at (694, 380)	3	on_tweet	TwitterLib.script
+2016-05-03 12:40:01.680 -0600	click	Twitter/Tweet/ClickWhat	at (247, 416)	4	on_tweet	TwitterLib.script
+2016-05-03 12:40:02.798 -0600	typetext		Ready for the DEMO ! May 3 2016	5	on_tweet	TwitterLib.script
+2016-05-03 12:40:03.907 -0600	click	Twitter/Tweet/Post	at (669, 205)	6	on_tweet	TwitterLib.script
+2016-05-03 12:40:07.421 -0600	imagefound	Twitter/Tweet/Tweet Error/Error	found at (304, 1303)	8	on_tweet	TwitterLib.script
+2016-05-03 12:40:14.113 -0600	Exception	Twitter/Tweet/Tweet Error/Close	No Image Found On Screen: "Twitter/Tweet/Tweet Error/Close"	9	on_tweet	TwitterLib.script
+2016-05-03 12:40:14.442 -0600	EndTestCase		(Duration:"40.477582", Errors:"1", Exceptions:"1", StartTime:"2016-05-03 12:39:33 -0600", Successes:"2", TestCase:"Index.script", Warnings:"0")
+2016-05-03 12:40:14.502 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Twitter/Tweet/Tweet Error/Close"  Restricted Search Rectangle ((0,333),(750,1000))\n -- Execution Time 0:00:40 Index.script

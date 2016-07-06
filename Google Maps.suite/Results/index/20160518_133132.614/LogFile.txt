@@ -1,0 +1,11 @@
+﻿2016-05-18 13:31:32.616 -0600	START		Running index.script
+2016-05-18 13:31:32.781 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-18 13:31:32.801 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-18 13:31:32.814 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-18 13:31:35.314 -0600	click	Google Maps/Google Image	at (635, 645)	11	on_index	index.script
+2016-05-18 13:31:41.633 -0600	imagefound	Google Maps/Google Maps Clear Search	Unable to Find Image Google Maps/Google Maps Clear Search	13	on_index	index.script
+2016-05-18 13:31:43.167 -0600	click	Google Maps/Microphone	at (518, 101)	17	on_index	index.script
+2016-05-18 13:31:47.851 -0600	typetext		disneyland, Florida 	18	on_index	index.script
+2016-05-18 13:31:54.925 -0600	Exception	Google Maps/Grey Image 	No Image Found On Screen: "Google Maps/Grey Image "	20	on_index	index.script
+2016-05-18 13:31:55.299 -0600	EndTestCase		(Duration:"22.681707", Errors:"1", Exceptions:"1", StartTime:"2016-05-18 13:31:32 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 13:31:55.360 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Google Maps/Grey Image " -- Execution Time 0:00:22 index.script

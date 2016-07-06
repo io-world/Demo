@@ -1,0 +1,47 @@
+﻿2016-05-24 14:32:41.745 -0600	START		Running Index.script
+2016-05-24 14:32:49.117 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	1	on_index	Index.script
+2016-05-24 14:32:49.814 -0600	imagefound	Apple/Blank	found at (49, 46)	4	on_index	Index.script
+2016-05-24 14:32:49.860 -0600	presshomebutton			2	on_unlock	AppleLib.script
+2016-05-24 14:32:50.764 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	3	on_unlock	AppleLib.script
+2016-05-24 14:32:51.571 -0600	click		at (160, 845)	4	on_unlock	AppleLib.script
+2016-05-24 14:32:52.382 -0600	click		at (370, 1035)	5	on_unlock	AppleLib.script
+2016-05-24 14:32:53.198 -0600	click		at (580, 685)	6	on_unlock	AppleLib.script
+2016-05-24 14:32:54.007 -0600	click		at (370, 1035)	7	on_unlock	AppleLib.script
+2016-05-24 14:32:56.016 -0600	presshomebutton			9	on_unlock	AppleLib.script
+2016-05-24 14:32:56.719 -0600	presshomebutton			10	on_unlock	AppleLib.script
+2016-05-24 14:32:56.723 -0600	Log		Apple iPhone 6s	12	on_unlock	AppleLib.script
+2016-05-24 14:32:56.755 -0600	Log		apple iPhone is in Sleep Mode	6	on_index	Index.script
+2016-05-24 14:32:59.070 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-05-24 14:32:59.074 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-24 14:33:00.767 -0600	waitfor	Chrome Search Icons	found at (76, 528)	2	on_search	ChromeLib.script
+2016-05-24 14:33:01.946 -0600	imagefound	Chrome Search Icons/apple Search Icon	found at (76, 528)	4	on_search	ChromeLib.script
+2016-05-24 14:33:03.181 -0600	click	Chrome Search Icons	at (584, 489)	5	on_search	ChromeLib.script
+2016-05-24 14:33:04.418 -0600	typetext		mobile.twitter.com	10	on_search	ChromeLib.script
+2016-05-24 14:33:05.538 -0600	click	Chrome Enter	at (678, 1285)	11	on_search	ChromeLib.script
+2016-05-24 14:33:20.179 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"https://twitter.com", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"https://twitter.com")	13	on_search	ChromeLib.script
+2016-05-24 14:33:21.594 -0600	click	Twitter/Log In/Logo	at (548, 319)	3	on_twitterlogin	TwitterLib.script
+2016-05-24 14:33:24.610 -0600	waitfor	Twitter/Log In/Wait	found at (61, 192)	4	on_twitterlogin	TwitterLib.script
+2016-05-24 14:33:25.881 -0600	click	Twitter/Log In/Click Username	at (179, 386)	5	on_twitterlogin	TwitterLib.script
+2016-05-24 14:33:26.723 -0600	typetext		iotestplant	7	on_twitterlogin	TwitterLib.script
+2016-05-24 14:33:27.714 -0600	click	Twitter/Log In/Click Password	at (119, 469)	8	on_twitterlogin	TwitterLib.script
+2016-05-24 14:33:28.540 -0600	typetext		twittergo4	9	on_twitterlogin	TwitterLib.script
+2016-05-24 14:33:29.525 -0600	click	Twitter/Log In/Click Log In	at (372, 578)	10	on_twitterlogin	TwitterLib.script
+2016-05-24 14:33:29.529 -0600	LogSuccess		Successfully Logged into Twitter	12	on_twitterlogin	TwitterLib.script
+2016-05-24 14:33:31.750 -0600	click	Twitter/Tweet/Logo	at (694, 380)	3	on_tweet	TwitterLib.script
+2016-05-24 14:33:37.979 -0600	click	Twitter/Tweet/ClickWhat	at (202, 440)	5	on_tweet	TwitterLib.script
+2016-05-24 14:33:38.917 -0600	typetext		@grabanzo so good!	6	on_tweet	TwitterLib.script
+2016-05-24 14:33:41.503 -0600	click	Twitter/Tweet/Post	at (659, 212)	8	on_tweet	TwitterLib.script
+2016-05-24 14:33:48.248 -0600	imagefound	Twitter/Tweet/Tweet Error/Error/Apple Tweet Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error/Apple Tweet Error	11	on_tweet	TwitterLib.script
+2016-05-24 14:34:00.106 -0600	imagefound	Twitter/Tweet/Tweet Error/Error/Windows Tweet Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error/Windows Tweet Error	13	on_tweet	TwitterLib.script
+2016-05-24 14:34:07.763 -0600	imagefound	Twitter/Tweet/Tweet Error/Error/Application Tweet Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error/Application Tweet Error	15	on_tweet	TwitterLib.script
+2016-05-24 14:34:08.918 -0600	LogSuccess		Tweeted	22	on_tweet	TwitterLib.script
+2016-05-24 14:34:10.201 -0600	click	Twitter/Log Out/Profile	at (691, 279)	2	on_logout	TwitterLib.script
+2016-05-24 14:34:27.277 -0600	imagefound	Twitter/Log Out/Settings/	Unable to Find Image Twitter/Log Out/Settings/	4	on_logout	TwitterLib.script
+2016-05-24 14:34:27.937 -0600	click	Twitter/Log Out/Log Out Button	at (86, 857)	8	on_logout	TwitterLib.script
+2016-05-24 14:34:38.798 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	28	on_index	Index.script
+2016-05-24 14:34:40.174 -0600	click	Apple/Chrome Tab	at (617, 98)	3	on_resetchrome	AppleLib.script
+2016-05-24 14:34:41.470 -0600	click	Apple/Close Tab	at (668, 227)	4	on_resetchrome	AppleLib.script
+2016-05-24 14:34:42.697 -0600	click	Apple/New Tab	at (56, 98)	5	on_resetchrome	AppleLib.script
+2016-05-24 14:34:43.403 -0600	presshomebutton			6	on_resetchrome	AppleLib.script
+2016-05-24 14:34:43.742 -0600	EndTestCase		(Duration:"121.99564", Errors:"0", Exceptions:"0", StartTime:"2016-05-24 14:32:41 -0600", Successes:"3", TestCase:"Index.script", Warnings:"0")
+2016-05-24 14:34:43.748 -0600	SUCCESS		Execution Time 0:02:01 Index.script

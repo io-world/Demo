@@ -1,0 +1,25 @@
+﻿{
+    CaptureDate = "2016-05-02 19:02:19 +0000";
+    CaptureHost = "Windows 2012 (VNC)";
+    CaptureScreenSize =     (
+        1440,
+        900
+    );
+    HasAlpha = 1;
+    HotSpotX = 55;
+    HotSpotY = 40;
+    IgnoreColor =     (
+        "#323232"
+    );
+    IgnoreColorTolerance =     (
+        12
+    );
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 125;
+    OriginalLocationY = 565;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

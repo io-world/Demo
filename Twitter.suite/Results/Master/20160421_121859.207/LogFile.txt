@@ -1,0 +1,4 @@
+﻿2016-04-21 12:18:59.208 -0600	START		Running Index.script
+2016-04-21 12:18:59.313 -0600	Exception		Image Property List did not contain "ImageName" property	3	on_index	Index.script
+2016-04-21 12:18:59.809 -0600	EndTestCase		(Duration:"0.599576", Errors:"1", Exceptions:"1", StartTime:"2016-04-21 12:18:59 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-04-21 12:19:00.163 -0600	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:00 Index.script

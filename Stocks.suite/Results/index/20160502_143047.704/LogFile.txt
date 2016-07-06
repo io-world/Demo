@@ -1,0 +1,11 @@
+﻿2016-05-02 14:30:47.705 -0600	START		Running index.script
+2016-05-02 14:30:47.787 -0600	typetext		[windowsKey]	6	on_index	index.script
+2016-05-02 14:30:49.359 -0600	click	Chrome	at (178, 599)	7	on_index	index.script
+2016-05-02 14:30:50.613 -0600	waitfor	Chrome Mic	found at (694, 91)	9	on_index	index.script
+2016-05-02 14:30:50.679 -0600	typetext		goog[enter]	15	on_index	index.script
+2016-05-02 14:30:51.857 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,331), ImageRectangle:(241,326,267,337), Language:"English", searchRectangle:(125,236,681,393), Text:"USD", TextPlatform:"Generic OCR")	at (254, 331)	16	on_index	index.script
+2016-05-02 14:30:51.909 -0600	readtext		(104,301,234,341)
+2016-05-02 14:30:51.909 -0600	Log		Gooale's nai	20	on_index	index.script
+2016-05-02 14:31:02.110 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	21	on_index	index.script
+2016-05-02 14:31:02.362 -0600	EndTestCase		(Duration:"14.655901", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 14:30:47 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-02 14:31:02.363 -0600	ABORTED		Execution Time 0:00:14 index.script

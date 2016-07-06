@@ -1,0 +1,4 @@
+﻿2016-04-25 16:26:50.514 -0600	START		Running Untitled.script
+2016-04-25 16:27:05.916 -0600	Exception		Retrieving Frame Buffer:No Connection to Server\nWindows 2012 (VNC)\n	11	on_untitled	Untitled.script
+2016-04-25 16:27:06.312 -0600	EndTestCase		(Duration:"15.796692", Errors:"1", Exceptions:"1", StartTime:"2016-04-25 16:26:50 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-04-25 16:27:06.315 -0600	FAILURE	Screen_Error.png	No Remote Connection click Error - Retrieving Frame Buffer:No Connection to Server\nWindows 2012 (VNC)\n -- Execution Time 0:00:15 Untitled.script

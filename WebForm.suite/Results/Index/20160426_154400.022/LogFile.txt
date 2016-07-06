@@ -1,0 +1,3 @@
+﻿2016-04-26 15:44:00.023 -0600	START		Running Untitled.script
+2016-04-26 15:44:00.592 -0600	EndTestCase		(Duration:"0.567359", Errors:"1", Exceptions:"0", StartTime:"2016-04-26 15:44:00 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-04-26 15:44:00.980 -0600	FAILURE	Screen_Error.png	SRUN_ZeroChunkIndex Zero is not a valid chunk number -- Execution Time 0:00:00 Untitled.script

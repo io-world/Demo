@@ -1,0 +1,4 @@
+﻿2016-05-18 09:13:11.161 -0600	START		Running index.script
+2016-05-18 09:13:12.210 -0600	rightclick	Desktop Area	at (685, 174)	1	on_index	index.script
+2016-05-18 09:13:13.118 -0600	EndTestCase		(Duration:"1.956238", Errors:"1", Exceptions:"0", StartTime:"2016-05-18 09:13:11 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 09:13:13.119 -0600	ABORTED		Execution Time 0:00:01 index.script

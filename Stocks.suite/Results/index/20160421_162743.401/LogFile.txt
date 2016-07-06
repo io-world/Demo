@@ -1,0 +1,27 @@
+﻿2016-04-21 16:27:43.402 -0600	START		Running index.script
+2016-04-21 16:27:43.485 -0600	typetext		goog	13	on_index	index.script
+2016-04-21 16:27:44.203 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-21 16:27:46.327 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(484,656,535,675), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	at (509, 665)	16	on_index	index.script
+2016-04-21 16:27:47.055 -0600	typetext		[controlKey]c	18	on_index	index.script
+2016-04-21 16:27:47.360 -0600	Log		759.14	23	on_index	index.script
+2016-04-21 16:27:47.814 -0600	typetext		[backspace][backspace][backspace][backspace]	26	on_index	index.script
+2016-04-21 16:27:48.569 -0600	typetext		Appl	13	on_index	index.script
+2016-04-21 16:27:49.285 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-21 16:27:51.431 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(509,665), ImageRectangle:(483,656,535,674), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	at (509, 665)	16	on_index	index.script
+2016-04-21 16:27:52.157 -0600	typetext		[controlKey]c	18	on_index	index.script
+2016-04-21 16:27:52.464 -0600	Log		105.97	23	on_index	index.script
+2016-04-21 16:27:52.911 -0600	typetext		[backspace][backspace][backspace][backspace]	26	on_index	index.script
+2016-04-21 16:27:53.651 -0600	typetext		Wmt	13	on_index	index.script
+2016-04-21 16:27:54.369 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-21 16:27:56.563 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(476,664), ImageRectangle:(451,655,502,674), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	at (476, 664)	16	on_index	index.script
+2016-04-21 16:27:57.295 -0600	typetext		[controlKey]c	18	on_index	index.script
+2016-04-21 16:27:57.600 -0600	Log		68.48	23	on_index	index.script
+2016-04-21 16:27:58.053 -0600	typetext		[backspace][backspace][backspace][backspace]	26	on_index	index.script
+2016-04-21 16:27:58.797 -0600	typetext		Xom	13	on_index	index.script
+2016-04-21 16:27:59.516 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-21 16:28:01.032 -0600	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(477,665), ImageRectangle:(452,656,503,675), Language:"English", searchRectangle:(248,464,960,728), Text:"USD", TextPlatform:"Generic OCR")	at (477, 665)	16	on_index	index.script
+2016-04-21 16:28:01.760 -0600	typetext		[controlKey]c	18	on_index	index.script
+2016-04-21 16:28:02.066 -0600	Log		86.800.00 	23	on_index	index.script
+2016-04-21 16:28:02.512 -0600	typetext		[backspace][backspace][backspace][backspace]	26	on_index	index.script
+2016-04-21 16:28:03.014 -0600	EndTestCase		(Duration:"19.611127", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 16:27:43 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-04-21 16:28:03.019 -0600	SUCCESS		Execution Time 0:00:19 index.script

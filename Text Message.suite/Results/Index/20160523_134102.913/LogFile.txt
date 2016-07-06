@@ -1,0 +1,4 @@
+﻿2016-05-23 13:41:02.914 -0600	START		Running Index.script
+2016-05-23 13:41:04.126 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(131,86), ImageRectangle:(56,71,207,102), Language:"English", searchrectangle:(0,0,375,266.799988), text:"Messages", TextPlatform:"Generic OCR")	found at (131, 86)	8	on_index	Index.script
+2016-05-23 13:41:04.559 -0600	EndTestCase		(Duration:"1.643411", Errors:"1", Exceptions:"0", StartTime:"2016-05-23 13:41:02 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-23 13:41:05.675 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'imagefoundlocation' -- Execution Time 0:00:01 Index.script

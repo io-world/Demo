@@ -1,0 +1,39 @@
+﻿2016-06-30 15:25:01.374 -0600	START		Running index.script
+2016-06-30 15:25:01.509 -0600	connect		Windows 2012:(null)	8	on_index	index.script
+2016-06-30 15:25:02.357 -0600	rightclick	WIndows/Desktop Area	at (471, 174)	2	on_rightc	Windows.script
+2016-06-30 15:25:04.000 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	6	on_rightc	Windows.script
+2016-06-30 15:25:05.989 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	5	on_createnotepad	Windows.script
+2016-06-30 15:25:06.122 -0600	click		at (741, 462)	6	on_createnotepad	Windows.script
+2016-06-30 15:25:06.957 -0600	typetext		Some File[enter][enter]	7	on_createnotepad	Windows.script
+2016-06-30 15:25:07.912 -0600	typetext		Hello From TestPlant!	8	on_createnotepad	Windows.script
+2016-06-30 15:25:10.262 -0600	click	Windows/Close	at (1249, 13)	10	on_createnotepad	Windows.script
+2016-06-30 15:25:14.452 -0600	everyimagelocation	(TEXT:"save")	found 3 images	11	on_createnotepad	Windows.script
+2016-06-30 15:25:14.587 -0600	click		at (674, 451)	12	on_createnotepad	Windows.script
+2016-06-30 15:25:16.079 -0600	rightclick	Windows/Note File Icon	at (485, 245)	2	on_rightc	Windows.script
+2016-06-30 15:25:17.803 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,564), ImageRectangle:(520,558,547,570), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 564)	6	on_rightc	Windows.script
+2016-06-30 15:25:19.323 -0600	doubleclick	WIndows/Drop Box Icon	at (111, 241)	2	on_movetodropbox	Windows.script
+2016-06-30 15:25:22.217 -0600	waitfor	Windows/Drop Box Item	found at (515, 387)	3	on_movetodropbox	Windows.script
+2016-06-30 15:25:23.050 -0600	rightclick	Windows/Drop Box Item	at (515, 387)	2	on_rightc	Windows.script
+2016-06-30 15:25:24.777 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(563,517), ImageRectangle:(550,513,577,522), Language:"English", searchRectangle:(515,387,915,787), Text:"Paste", TextPlatform:"Generic OCR")	at (563, 517)	6	on_rightc	Windows.script
+2016-06-30 15:25:25.919 -0600	click	windows/Close	at (1225, 127)	6	on_movetodropbox	Windows.script
+2016-06-30 15:25:27.377 -0600	rightclick	Windows/Note File Icon	at (485, 245)	2	on_rightc	Windows.script
+2016-06-30 15:25:29.113 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(536,610), ImageRectangle:(520,606,552,615), Language:"English", searchRectangle:(485,245,885,645), Text:"Delete", TextPlatform:"Generic OCR")	at (536, 610)	6	on_rightc	Windows.script
+2016-06-30 15:25:29.166 -0600	connect		iPhone 6s:(null)	18	on_index	index.script
+2016-06-30 15:25:33.604 -0600	imagefound	Apple/Sleep Screen	Unable to Find Image Apple/Sleep Screen	2	on_unlock	AppleLib.script
+2016-06-30 15:25:33.625 -0600	Log		Apple iPhone 6s	13	on_unlock	AppleLib.script
+2016-06-30 15:25:34.076 -0600	click	Apple/DropBox Icon	at (638, 819)	2	on_dropboxread	AppleLib.script
+2016-06-30 15:25:45.462 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(375,84), ImageRectangle:(314,72,436,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	found at (375, 84)	4	on_dropboxread	AppleLib.script
+2016-06-30 15:25:47.159 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(178,298), ImageRectangle:(106,285,251,311), Language:"English", Text:"Some File", TextPlatform:"Generic OCR", waitfor:"5")	at (178, 298)	5	on_dropboxread	AppleLib.script
+2016-06-30 15:25:52.225 -0600	readtext		(0,130,750,750)
+2016-06-30 15:25:52.225 -0600	Log		Hello From TestPlant!	7	on_dropboxread	AppleLib.script
+2016-06-30 15:26:03.427 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(116,84), ImageRectangle:(57,72,175,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	at (116, 84)	9	on_dropboxread	AppleLib.script
+2016-06-30 15:26:04.139 -0600	typetext		[homeKey]	10	on_dropboxread	AppleLib.script
+2016-06-30 15:26:05.832 -0600	click	Apple/DropBox Icon	at (638, 819)	2	on_dropboxdelete	AppleLib.script
+2016-06-30 15:26:15.113 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(375,84), ImageRectangle:(314,72,436,96), Language:"English", Text:"Recents", TextPlatform:"Generic OCR")	found at (375, 84)	3	on_dropboxdelete	AppleLib.script
+2016-06-30 15:26:16.852 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(178,298), ImageRectangle:(106,285,251,311), Language:"English", Text:"Some File", TextPlatform:"Generic OCR", waitfor:"5")	at (178, 298)	4	on_dropboxdelete	AppleLib.script
+2016-06-30 15:26:18.069 -0600	click	Apple/DropBox Menu Icon	at (697, 82)	5	on_dropboxdelete	AppleLib.script
+2016-06-30 15:26:21.784 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(154,735), ImageRectangle:(107,723,201,747), Language:"English", Text:"Delete", TextPlatform:"Generic OCR", waitfor:"5")	at (154, 735)	7	on_dropboxdelete	AppleLib.script
+2016-06-30 15:26:28.375 -0600	click	Apple/DropBox Double Delete	at (368, 1194)	9	on_dropboxdelete	AppleLib.script
+2016-06-30 15:26:32.392 -0600	typetext		[homeKey]	11	on_dropboxdelete	AppleLib.script
+2016-06-30 15:26:32.963 -0600	EndTestCase		(Duration:"91.587151", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 15:25:01 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-30 15:26:32.967 -0600	SUCCESS		Execution Time 0:01:31 index.script

@@ -1,0 +1,28 @@
+﻿2016-05-18 14:37:08.362 -0600	START		Running index.script
+2016-05-18 14:37:08.467 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-18 14:37:08.479 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-18 14:37:08.490 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-18 14:37:10.340 -0600	click	Google Maps/Google Image	at (636, 645)	11	on_index	index.script
+2016-05-18 14:37:19.158 -0600	imagefound	Google Maps/Google Maps Clear Search	Unable to Find Image Google Maps/Google Maps Clear Search	13	on_index	index.script
+2016-05-18 14:37:21.516 -0600	click	Google Maps/Microphone	at (518, 101)	17	on_index	index.script
+2016-05-18 14:37:26.542 -0600	typetext		300 pearl street Denver 	18	on_index	index.script
+2016-05-18 14:37:27.456 -0600	waitfor	Google Maps/Grey Image	found at (70, 195)	19	on_index	index.script
+2016-05-18 14:37:31.025 -0600	click	Google Maps/Grey Image	at (70, 195)	21	on_index	index.script
+2016-05-18 14:37:37.016 -0600	click	Google Maps/Route Blue	at (658, 1159)	22	on_index	index.script
+2016-05-18 14:37:50.581 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"Search History is off", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Search History is off") within 1.00 seconds	25	on_index	index.script
+2016-05-18 14:37:51.620 -0600	imagefound	Google Maps/Navigate Icon	found at (661, 1157)	32	on_index	index.script
+2016-05-18 14:37:52.715 -0600	click	Google Maps/Navigate Icon	at (661, 1157)	33	on_index	index.script
+2016-05-18 14:37:56.728 -0600	pinchin		at:(375, 667) duration:1	35	on_index	index.script
+2016-05-18 14:38:02.482 -0600	swipeup		Swiped up from (100, 700) to (100, 400)	37	on_index	index.script
+2016-05-18 14:38:06.351 -0600	swiperight		Swiped right from (100, 700) to (675, 700)	39	on_index	index.script
+2016-05-18 14:38:12.169 -0600	click	Google Maps/RE-Center	at (179, 1254)	40	on_index	index.script
+2016-05-18 14:38:15.246 -0600	readtext		(99,1207,549,1320)
+2016-05-18 14:38:15.264 -0600	Log		43 min	43	on_index	index.script
+2016-05-18 14:38:15.964 -0600	click		at (430, 1250)	44	on_index	index.script
+2016-05-18 14:38:21.925 -0600	click		at (430, 20)	46	on_index	index.script
+2016-05-18 14:38:29.024 -0600	click	Google Maps/Clear Directions	at (51, 1265)	47	on_index	index.script
+2016-05-18 14:38:35.847 -0600	click	Google Maps/Back Arrow	at (53, 94)	50	on_index	index.script
+2016-05-18 14:38:41.193 -0600	click	Google Maps/Google Maps Clear Search	at (587, 101)	51	on_index	index.script
+2016-05-18 14:38:44.199 -0600	presshomebutton			53	on_index	index.script
+2016-05-18 14:38:44.699 -0600	EndTestCase		(Duration:"96.336307", Errors:"0", Exceptions:"0", StartTime:"2016-05-18 14:37:08 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-18 14:38:44.704 -0600	SUCCESS		Execution Time 0:01:36 index.script

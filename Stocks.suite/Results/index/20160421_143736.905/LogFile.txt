@@ -1,0 +1,4 @@
+﻿2016-04-21 14:37:36.906 -0600	START		Running index.script
+2016-04-21 14:37:36.959 -0600	Log		/Users/randyhesse/Documents/Test SUTs/Stocks.suite/Resources/StockList.csv	3	on_index	index.script
+2016-04-21 14:37:37.522 -0600	EndTestCase		(Duration:"0.614804", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 14:37:36 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-04-21 14:37:37.527 -0600	SUCCESS		Execution Time 0:00:00 index.script

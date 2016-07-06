@@ -1,0 +1,14 @@
+﻿2016-05-24 09:00:12.695 -0600	START		Running index.script
+2016-05-24 09:00:12.837 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-24 09:00:12.852 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-24 09:00:12.864 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-24 09:00:12.911 -0600	connect		Phone 6s:(null)	2	on_unlock	AppleLib.script
+2016-05-24 09:00:13.793 -0600	imagefound	Apple/Sleep Screen	found at (138, 147)	4	on_unlock	AppleLib.script
+2016-05-24 09:00:13.800 -0600	presshomebutton			5	on_unlock	AppleLib.script
+2016-05-24 09:00:18.372 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	6	on_unlock	AppleLib.script
+2016-05-24 09:00:23.815 -0600	click		at (160, 845)	8	on_unlock	AppleLib.script
+2016-05-24 09:00:27.581 -0600	click		at (370, 1035)	9	on_unlock	AppleLib.script
+2016-05-24 09:00:31.632 -0600	click		at (580, 685)	10	on_unlock	AppleLib.script
+2016-05-24 09:00:34.734 -0600	click		at (370, 1035)	11	on_unlock	AppleLib.script
+2016-05-24 09:00:35.126 -0600	EndTestCase		(Duration:"22.42965", Errors:"1", Exceptions:"0", StartTime:"2016-05-24 09:00:12 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-24 09:00:35.127 -0600	ABORTED		Execution Time 0:00:22 index.script

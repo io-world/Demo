@@ -1,0 +1,13 @@
+﻿2016-05-11 15:01:07.700 -0600	START		Running index.script
+2016-05-11 15:01:07.814 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-11 15:01:07.826 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-11 15:01:07.838 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-11 15:01:08.650 -0600	imagefound	Apple Blank.png	found at (28, 31)	7	on_index	index.script
+2016-05-11 15:01:08.845 -0600	presshomebutton			2	on_unlock	AppleLib.script
+2016-05-11 15:01:12.735 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	4	on_unlock	AppleLib.script
+2016-05-11 15:01:16.174 -0600	click		at (160, 845)	6	on_unlock	AppleLib.script
+2016-05-11 15:01:18.943 -0600	click		at (370, 1035)	7	on_unlock	AppleLib.script
+2016-05-11 15:01:21.996 -0600	click		at (580, 685)	8	on_unlock	AppleLib.script
+2016-05-11 15:01:24.117 -0600	click		at (370, 1035)	9	on_unlock	AppleLib.script
+2016-05-11 15:01:24.519 -0600	EndTestCase		(Duration:"16.817795", Errors:"1", Exceptions:"0", StartTime:"2016-05-11 15:01:07 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:01:24.519 -0600	ABORTED		Execution Time 0:00:16 index.script

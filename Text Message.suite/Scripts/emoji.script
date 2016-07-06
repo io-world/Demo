@@ -1,0 +1,6 @@
+﻿on select type
+	Click (Image:"Emoji/Select Section/Emoji Icon", WaitFor:5)
+	click (image: "Emoji/Select Section/Smile", waitfor: 5)
+	click (Image:"Emoji/Smile Section/" & Type & " Face", WaitFor:5)
+	click (image:"Emoji/Select Section/ABC Section")
+end select

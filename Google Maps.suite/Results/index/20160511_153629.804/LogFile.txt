@@ -1,0 +1,7 @@
+﻿2016-05-11 15:36:29.805 -0600	START		Running index.script
+2016-05-11 15:36:29.931 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-11 15:36:29.944 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-11 15:36:29.955 -0600	setoption		RemoteWorkInterval = 3	3	on_index	index.script
+2016-05-11 15:36:31.643 -0600	click	Google Maps/Google Image	at (636, 645)	6	on_index	index.script
+2016-05-11 15:36:38.626 -0600	EndTestCase		(Duration:"8.819359", Errors:"1", Exceptions:"0", StartTime:"2016-05-11 15:36:29 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-11 15:36:38.628 -0600	ABORTED		Execution Time 0:00:08 index.script

@@ -1,0 +1,4 @@
+﻿2016-05-04 13:16:15.472 -0600	START		Running Datepicker.script
+2016-05-04 13:16:15.587 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
+2016-05-04 13:16:19.324 -0600	EndTestCase		(Duration:"3.851002", Errors:"1", Exceptions:"0", StartTime:"2016-05-04 13:16:15 -0600", Successes:"0", TestCase:"Datepicker.script", Warnings:"0")
+2016-05-04 13:16:19.399 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - Unable To Find Image: TL_DatePicker -- Execution Time 0:00:03 Datepicker.script

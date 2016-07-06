@@ -1,0 +1,38 @@
+﻿2016-05-03 15:38:35.808 -0600	START		Running Index.script
+2016-05-03 15:38:43.442 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	2	on_index	Index.script
+2016-05-03 15:38:49.094 -0600	imagefound	Apple/Phone Icon	Unable to Find Image Apple/Phone Icon	5	on_index	Index.script
+2016-05-03 15:38:49.286 -0600	presshomebutton			2	on_unlock	AppleLib.script
+2016-05-03 15:38:50.200 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	3	on_unlock	AppleLib.script
+2016-05-03 15:38:51.012 -0600	click		at (160, 845)	4	on_unlock	AppleLib.script
+2016-05-03 15:38:51.824 -0600	click		at (370, 1035)	5	on_unlock	AppleLib.script
+2016-05-03 15:38:52.638 -0600	click		at (580, 685)	6	on_unlock	AppleLib.script
+2016-05-03 15:38:53.448 -0600	click		at (370, 1035)	7	on_unlock	AppleLib.script
+2016-05-03 15:38:55.511 -0600	presshomebutton			9	on_unlock	AppleLib.script
+2016-05-03 15:38:56.215 -0600	presshomebutton			10	on_unlock	AppleLib.script
+2016-05-03 15:38:56.221 -0600	Log		Apple iPhone 6s	12	on_unlock	AppleLib.script
+2016-05-03 15:38:57.183 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-05-03 15:38:57.186 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-03 15:38:58.524 -0600	waitfor	Chrome Search Icons	found at (76, 528)	2	on_search	ChromeLib.script
+2016-05-03 15:38:58.910 -0600	imagefound	Chrome Search Icons/apple Search Icon	found at (76, 528)	4	on_search	ChromeLib.script
+2016-05-03 15:38:59.771 -0600	click	Chrome Search Icons	at (584, 489)	5	on_search	ChromeLib.script
+2016-05-03 15:39:01.018 -0600	typetext		mobile.twitter.com	10	on_search	ChromeLib.script
+2016-05-03 15:39:02.065 -0600	click	Chrome Enter	at (678, 1285)	11	on_search	ChromeLib.script
+2016-05-03 15:39:27.376 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"https://twitter.com", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"https://twitter.com")	13	on_search	ChromeLib.script
+2016-05-03 15:39:28.243 -0600	click	Twitter/Log In/Logo	at (548, 319)	3	on_twitterlogin	TwitterLib.script
+2016-05-03 15:39:29.805 -0600	waitfor	Twitter/Log In/Wait	found at (61, 192)	4	on_twitterlogin	TwitterLib.script
+2016-05-03 15:39:30.088 -0600	click	Twitter/Log In/Click Username	at (179, 386)	5	on_twitterlogin	TwitterLib.script
+2016-05-03 15:39:30.934 -0600	typetext		iotestplant	7	on_twitterlogin	TwitterLib.script
+2016-05-03 15:39:32.134 -0600	click	Twitter/Log In/Click Password	at (119, 469)	8	on_twitterlogin	TwitterLib.script
+2016-05-03 15:39:32.967 -0600	typetext		twittergo4	9	on_twitterlogin	TwitterLib.script
+2016-05-03 15:39:34.132 -0600	click	Twitter/Log In/Click Log In	at (372, 578)	10	on_twitterlogin	TwitterLib.script
+2016-05-03 15:39:34.138 -0600	LogSuccess		Successfully Logged into Twitter	12	on_twitterlogin	TwitterLib.script
+2016-05-03 15:39:36.203 -0600	click	Twitter/Tweet/Logo	at (694, 380)	3	on_tweet	TwitterLib.script
+2016-05-03 15:39:37.243 -0600	click	Twitter/Tweet/ClickWhat	at (247, 422)	4	on_tweet	TwitterLib.script
+2016-05-03 15:39:38.232 -0600	typetext		Randy's Turn to tweet!	5	on_tweet	TwitterLib.script
+2016-05-03 15:39:39.245 -0600	click	Twitter/Tweet/Post	at (669, 205)	6	on_tweet	TwitterLib.script
+2016-05-03 15:39:47.943 -0600	imagefound	Twitter/Tweet/Tweet Error/Error/Windows Tweet Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error/Windows Tweet Error	10	on_tweet	TwitterLib.script
+2016-05-03 15:39:54.180 -0600	imagefound	Twitter/Tweet/Tweet Error/Error/Apple Tweet Error	Unable to Find Image Twitter/Tweet/Tweet Error/Error/Apple Tweet Error	12	on_tweet	TwitterLib.script
+2016-05-03 15:39:54.190 -0600	LogSuccess		Tweeted	16	on_tweet	TwitterLib.script
+2016-05-03 15:40:10.655 -0600	Exception	Twitter/Log Out/Profile	No Image Found On Screen: "Twitter/Log Out/Profile"	2	on_logout	TwitterLib.script
+2016-05-03 15:40:11.033 -0600	EndTestCase		(Duration:"95.223976", Errors:"1", Exceptions:"1", StartTime:"2016-05-03 15:38:35 -0600", Successes:"3", TestCase:"Index.script", Warnings:"0")
+2016-05-03 15:40:11.092 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Twitter/Log Out/Profile"  Restricted Search Rectangle ((375,0),(750,667))\n -- Execution Time 0:01:35 Index.script

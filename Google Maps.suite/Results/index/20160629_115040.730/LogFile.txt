@@ -1,0 +1,18 @@
+﻿2016-06-29 11:50:40.731 -0600	START		Running index.script
+2016-06-29 11:50:40.837 -0600	connect		iPhone 6s:(null)	2	on_unlock	AppleLib.script
+2016-06-29 11:50:41.775 -0600	imagefound	Apple/Sleep Screen	found at (138, 147)	4	on_unlock	AppleLib.script
+2016-06-29 11:50:41.778 -0600	presshomebutton			5	on_unlock	AppleLib.script
+2016-06-29 11:50:42.672 -0600	swiperight		Swiped right from (0, 600) to (675, 600)	6	on_unlock	AppleLib.script
+2016-06-29 11:50:46.797 -0600	click		at (160, 845)	8	on_unlock	AppleLib.script
+2016-06-29 11:50:47.603 -0600	click		at (370, 1035)	9	on_unlock	AppleLib.script
+2016-06-29 11:50:48.407 -0600	click		at (580, 685)	10	on_unlock	AppleLib.script
+2016-06-29 11:50:49.214 -0600	click		at (370, 1035)	11	on_unlock	AppleLib.script
+2016-06-29 11:50:51.221 -0600	presshomebutton			13	on_unlock	AppleLib.script
+2016-06-29 11:50:51.922 -0600	presshomebutton			14	on_unlock	AppleLib.script
+2016-06-29 11:50:51.926 -0600	Log		Apple iPhone 6s	16	on_unlock	AppleLib.script
+2016-06-29 11:50:51.962 -0600	setoption		MouseMoveSpeed = 5	2	on_index	index.script
+2016-06-29 11:50:51.974 -0600	setoption		NextKeyDelay = 0.08	3	on_index	index.script
+2016-06-29 11:50:51.987 -0600	setoption		RemoteWorkInterval = 3	4	on_index	index.script
+2016-06-29 11:51:02.226 -0600	Exception	Google Maps/Google Image	No Image Found On Screen: "Google Maps/Google Image"	13	on_index	index.script
+2016-06-29 11:51:02.879 -0600	EndTestCase		(Duration:"22.146164", Errors:"1", Exceptions:"1", StartTime:"2016-06-29 11:50:40 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-29 11:51:02.937 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Google Maps/Google Image" -- Execution Time 0:00:22 index.script

@@ -1,0 +1,4 @@
+﻿2016-05-06 12:47:30.586 -0600	START		Running Untitled.script
+2016-05-06 12:47:31.100 -0600	click	Windows Icon	at (25, 881)	3	on_untitled	Untitled.script
+2016-05-06 12:47:31.338 -0600	EndTestCase		(Duration:"0.750315", Errors:"0", Exceptions:"0", StartTime:"2016-05-06 12:47:30 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-05-06 12:47:31.341 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

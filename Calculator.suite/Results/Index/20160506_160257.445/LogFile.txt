@@ -1,0 +1,53 @@
+﻿2016-05-06 16:02:57.445 -0600	START		Running Index.script
+2016-05-06 16:02:57.998 -0600	click	Run Icon	at (266, 880)	5	on_index	Index.script
+2016-05-06 16:02:58.767 -0600	typetext		calc[enter]	7	on_index	Index.script
+2016-05-06 16:02:59.465 -0600	imagefound	Calculator/Calculator Icon	found at (1067, 123)	2	on_verify	Calculator.script
+2016-05-06 16:02:59.491 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2016-05-06 16:02:59.837 -0600	imagelocation	Calculator/Calculator Icon	at (1067, 123)	2	on_math	Calculator.script
+2016-05-06 16:03:00.177 -0600	imagelocation	Operators/Equals Sign	at (1240, 382)	3	on_math	Calculator.script
+2016-05-06 16:03:00.349 -0600	readtext		(1067,288,1190,409)
+2016-05-06 16:03:00.350 -0600	Log		7\n\n8\n\n9\n4\n\n5\n\n6\n1\n\n2\n\n3\n0	8	on_math	Calculator.script
+2016-05-06 16:03:00.384 -0600	Log		(1,+,2,+,3,-,4,*,5,*,6,/,7,-,8,+,9,-,0,=)	13	on_math	Calculator.script
+2016-05-06 16:03:00.465 -0600	Log		1	20	on_math	Calculator.script
+2016-05-06 16:03:01.004 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1082,366), ImageRectangle:(1080,361,1084,372), Language:"English", searchrectangle:(1067,288,1190,409), Text:"1", TextPlatform:"Generic OCR")	at (1082, 366)	33	on_math	Calculator.script
+2016-05-06 16:03:01.053 -0600	Log		+	20	on_math	Calculator.script
+2016-05-06 16:03:01.722 -0600	typetext		+	22	on_math	Calculator.script
+2016-05-06 16:03:01.762 -0600	Log		2	20	on_math	Calculator.script
+2016-05-06 16:03:02.921 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1121,366), ImageRectangle:(1118,361,1125,372), Language:"English", searchrectangle:(1067,288,1190,409), Text:"2", TextPlatform:"Generic OCR")	at (1121, 366)	33	on_math	Calculator.script
+2016-05-06 16:03:02.965 -0600	Log		+	20	on_math	Calculator.script
+2016-05-06 16:03:03.636 -0600	typetext		+	22	on_math	Calculator.script
+2016-05-06 16:03:03.666 -0600	Log		3	20	on_math	Calculator.script
+2016-05-06 16:03:04.816 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1160,366), ImageRectangle:(1157,361,1164,372), Language:"English", searchrectangle:(1067,288,1190,409), Text:"3", TextPlatform:"Generic OCR")	at (1160, 366)	33	on_math	Calculator.script
+2016-05-06 16:03:04.873 -0600	Log		-	20	on_math	Calculator.script
+2016-05-06 16:03:05.531 -0600	typetext		-	24	on_math	Calculator.script
+2016-05-06 16:03:05.569 -0600	Log		4	20	on_math	Calculator.script
+2016-05-06 16:03:06.741 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1082,334), ImageRectangle:(1078,329,1086,340), Language:"English", searchrectangle:(1067,288,1190,409), Text:"4", TextPlatform:"Generic OCR")	at (1082, 334)	33	on_math	Calculator.script
+2016-05-06 16:03:06.807 -0600	Log		*	20	on_math	Calculator.script
+2016-05-06 16:03:07.459 -0600	typetext		*	26	on_math	Calculator.script
+2016-05-06 16:03:07.496 -0600	Log		5	20	on_math	Calculator.script
+2016-05-06 16:03:08.646 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1121,334), ImageRectangle:(1118,329,1125,340), Language:"English", searchrectangle:(1067,288,1190,409), Text:"5", TextPlatform:"Generic OCR")	at (1121, 334)	33	on_math	Calculator.script
+2016-05-06 16:03:08.698 -0600	Log		*	20	on_math	Calculator.script
+2016-05-06 16:03:09.364 -0600	typetext		*	26	on_math	Calculator.script
+2016-05-06 16:03:09.396 -0600	Log		6	20	on_math	Calculator.script
+2016-05-06 16:03:10.544 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1161,334), ImageRectangle:(1157,329,1165,340), Language:"English", searchrectangle:(1067,288,1190,409), Text:"6", TextPlatform:"Generic OCR")	at (1161, 334)	33	on_math	Calculator.script
+2016-05-06 16:03:10.595 -0600	Log		/	20	on_math	Calculator.script
+2016-05-06 16:03:11.261 -0600	typetext		/	28	on_math	Calculator.script
+2016-05-06 16:03:11.297 -0600	Log		7	20	on_math	Calculator.script
+2016-05-06 16:03:12.450 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1082,302), ImageRectangle:(1079,297,1086,308), Language:"English", searchrectangle:(1067,288,1190,409), Text:"7", TextPlatform:"Generic OCR")	at (1082, 302)	33	on_math	Calculator.script
+2016-05-06 16:03:12.504 -0600	Log		-	20	on_math	Calculator.script
+2016-05-06 16:03:13.164 -0600	typetext		-	24	on_math	Calculator.script
+2016-05-06 16:03:13.198 -0600	Log		8	20	on_math	Calculator.script
+2016-05-06 16:03:14.349 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1121,302), ImageRectangle:(1118,297,1125,308), Language:"English", searchrectangle:(1067,288,1190,409), Text:"8", TextPlatform:"Generic OCR")	at (1121, 302)	33	on_math	Calculator.script
+2016-05-06 16:03:14.407 -0600	Log		+	20	on_math	Calculator.script
+2016-05-06 16:03:15.064 -0600	typetext		+	22	on_math	Calculator.script
+2016-05-06 16:03:15.099 -0600	Log		9	20	on_math	Calculator.script
+2016-05-06 16:03:16.244 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1160,302), ImageRectangle:(1157,297,1164,308), Language:"English", searchrectangle:(1067,288,1190,409), Text:"9", TextPlatform:"Generic OCR")	at (1160, 302)	33	on_math	Calculator.script
+2016-05-06 16:03:16.295 -0600	Log		-	20	on_math	Calculator.script
+2016-05-06 16:03:16.960 -0600	typetext		-	24	on_math	Calculator.script
+2016-05-06 16:03:16.994 -0600	Log		0	20	on_math	Calculator.script
+2016-05-06 16:03:18.143 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1103,398), ImageRectangle:(1099,393,1107,404), Language:"English", searchrectangle:(1067,288,1190,409), Text:"0", TextPlatform:"Generic OCR")	at (1103, 398)	33	on_math	Calculator.script
+2016-05-06 16:03:18.197 -0600	Log		=	20	on_math	Calculator.script
+2016-05-06 16:03:19.284 -0600	click	Operators/Equals Sign	at (1240, 382)	30	on_math	Calculator.script
+2016-05-06 16:03:20.303 -0600	imagelocation	Calculator/Calculator Icon	at (1067, 123)	3	on_answer	Calculator.script
+2016-05-06 16:03:20.740 -0600	EndTestCase		(Duration:"23.292486", Errors:"0", Exceptions:"0", StartTime:"2016-05-06 16:02:57 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-06 16:03:20.743 -0600	SUCCESS		Execution Time 0:00:23 Index.script

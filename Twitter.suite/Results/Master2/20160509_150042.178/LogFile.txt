@@ -1,0 +1,16 @@
+﻿2016-05-09 15:00:42.179 -0600	START		Running Index2.script
+2016-05-09 15:00:42.674 -0600	imagefound	Windows/Start	found at (26, 881)	1	on_index2	Index2.script
+2016-05-09 15:00:42.733 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-09 15:00:42.735 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-05-09 15:00:44.313 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
+2016-05-09 15:00:44.320 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-09 15:00:45.492 -0600	click	Chrome Refresh	at (167, 42)	3	on_brower	ChromeLib.script
+2016-05-09 15:00:46.208 -0600	typetext		[backspace]	4	on_brower	ChromeLib.script
+2016-05-09 15:00:47.260 -0600	typetext		www.twitter.com/iotestplant	5	on_brower	ChromeLib.script
+2016-05-09 15:00:47.974 -0600	typetext		[enter]	6	on_brower	ChromeLib.script
+2016-05-09 15:00:49.100 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(460,375), ImageRectangle:(432,369,488,382), Language:"English", searchRectangle:(360,315,720,450), text:"Tweets", TextPlatform:"Generic OCR")	at (460, 375)	22	on_index2	Index2.script
+2016-05-09 15:00:49.184 -0600	set		SEARCHRECTANGLE = (460,395,960,475)	28	on_index2	Index2.script
+2016-05-09 15:00:58.783 -0600	readtext		(460,395,960,475)
+2016-05-09 15:00:58.784 -0600	Log		Randy (5 iotestplant 1h\nHey Monday...no seriously i hate you	31	on_index2	Index2.script
+2016-05-09 15:00:59.338 -0600	EndTestCase		(Duration:"17.158102", Errors:"0", Exceptions:"0", StartTime:"2016-05-09 15:00:42 -0600", Successes:"1", TestCase:"Index2.script", Warnings:"0")
+2016-05-09 15:00:59.344 -0600	SUCCESS		Execution Time 0:00:17 Index2.script

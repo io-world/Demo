@@ -1,0 +1,10 @@
+﻿2016-05-18 09:24:40.541 -0600	START		Running index.script
+2016-05-18 09:24:41.652 -0600	rightclick	Desktop Area	at (700, 174)	6	on_index	index.script
+2016-05-18 09:24:43.369 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(746,326), ImageRectangle:(735,322,758,331), Language:"English", searchRectangle:(700,174,1100,574), Text:"New", TextPlatform:"Generic OCR")	at (746, 326)	10	on_index	index.script
+2016-05-18 09:24:45.652 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	11	on_index	index.script
+2016-05-18 09:24:45.793 -0600	click		at (969, 440)	12	on_index	index.script
+2016-05-18 09:24:46.648 -0600	typetext		Random File[enter]	14	on_index	index.script
+2016-05-18 09:24:47.363 -0600	typetext		[enter]	15	on_index	index.script
+2016-05-18 09:24:48.700 -0600	typetext		Random Information that we will Upload to DropBox.	16	on_index	index.script
+2016-05-18 09:24:52.669 -0600	EndTestCase		(Duration:"12.126454", Errors:"1", Exceptions:"0", StartTime:"2016-05-18 09:24:40 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 09:24:52.669 -0600	ABORTED		Execution Time 0:00:12 index.script

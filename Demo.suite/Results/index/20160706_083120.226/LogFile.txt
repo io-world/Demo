@@ -1,0 +1,4 @@
+﻿2016-07-06 08:31:20.227 -0600	START		Running index.script
+2016-07-06 08:31:20.305 -0600	Log		51	2	on_index	index.script
+2016-07-06 08:31:20.719 -0600	EndTestCase		(Duration:"0.489478", Errors:"0", Exceptions:"0", StartTime:"2016-07-06 08:31:20 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-07-06 08:31:20.728 -0600	SUCCESS		Execution Time 0:00:00 index.script

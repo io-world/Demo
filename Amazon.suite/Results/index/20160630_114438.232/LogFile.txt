@@ -1,0 +1,10 @@
+﻿2016-06-30 11:44:38.233 -0600	START		Running index.script
+2016-06-30 11:44:38.353 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-06-30 11:44:38.365 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-06-30 11:44:38.379 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-06-30 11:44:41.463 -0600	click	Browsers Icon/Chrome	at (390, 880)	15	on_index	index.script
+2016-06-30 11:44:46.069 -0600	click	indicators	at (173, 43)	16	on_index	index.script
+2016-06-30 11:44:50.334 -0600	typetext		www.amazon.com[returnKey]	18	on_index	index.script
+2016-06-30 11:45:02.646 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(0,90,720,180), Text:"Deal", TextPlatform:"Generic OCR", waitfor:"10")	No Image Found On Screen: "(TEXT:"Deal")"	19	on_index	index.script
+2016-06-30 11:45:03.088 -0600	EndTestCase		(Duration:"24.853523", Errors:"1", Exceptions:"1", StartTime:"2016-06-30 11:44:38 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-30 11:45:03.212 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "(TEXT:"Deal")"  Restricted Search Rectangle ((0,90),(720,180))\n -- Execution Time 0:00:24 index.script

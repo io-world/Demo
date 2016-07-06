@@ -1,0 +1,22 @@
+﻿2016-05-20 15:39:33.125 -0600	START		Running index.script
+2016-05-20 15:39:33.241 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-20 15:39:33.264 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-20 15:39:33.274 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-20 15:39:37.220 -0600	click	Browsers Icon/Chrome	at (390, 880)	14	on_index	index.script
+2016-05-20 15:39:41.704 -0600	click	indicators	at (173, 43)	15	on_index	index.script
+2016-05-20 15:39:45.985 -0600	typetext		www.amazon.com[return]	17	on_index	index.script
+2016-05-20 15:39:46.781 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(554,105), ImageRectangle:(540,99,569,111), Language:"English", searchRectangle:(0,90,720,180), Text:"Deal", TextPlatform:"Generic OCR")	found at (554, 105)	18	on_index	index.script
+2016-05-20 15:39:48.986 -0600	click		at (554, 105)	19	on_index	index.script
+2016-05-20 15:39:51.681 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(216,360,504,900), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"DEAL OF THE DAY") within 2.00 seconds	21	on_index	index.script
+2016-05-20 15:39:51.707 -0600	Log		There is No Deal of the Day	30	on_index	index.script
+2016-05-20 15:39:53.881 -0600	click	Browser Close	at (1415, 8)	34	on_index	index.script
+2016-05-20 15:39:59.340 -0600	click	Browsers Icon/Internet Explorer	at (455, 879)	14	on_index	index.script
+2016-05-20 15:40:03.681 -0600	click	indicators	at (182, 41)	15	on_index	index.script
+2016-05-20 15:40:07.983 -0600	typetext		www.amazon.com[return]	17	on_index	index.script
+2016-05-20 15:40:09.190 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(388,135), ImageRectangle:(376,130,401,140), Language:"English", searchRectangle:(0,90,720,180), Text:"Deal", TextPlatform:"Generic OCR")	found at (388, 135)	18	on_index	index.script
+2016-05-20 15:40:10.611 -0600	click		at (388, 135)	19	on_index	index.script
+2016-05-20 15:40:13.123 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(216,360,504,900), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"DEAL OF THE DAY") within 2.00 seconds	21	on_index	index.script
+2016-05-20 15:40:13.153 -0600	Log		There is No Deal of the Day	30	on_index	index.script
+2016-05-20 15:40:16.084 -0600	click	Browser Close	at (1411, 10)	34	on_index	index.script
+2016-05-20 15:40:16.341 -0600	EndTestCase		(Duration:"43.215322", Errors:"0", Exceptions:"0", StartTime:"2016-05-20 15:39:33 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-20 15:40:16.345 -0600	SUCCESS		Execution Time 0:00:43 index.script

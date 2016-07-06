@@ -1,0 +1,24 @@
+﻿2016-05-02 15:56:22.886 -0600	START		Running PageForm.script
+2016-05-02 15:56:24.100 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,107), ImageRectangle:(352,97,420,108), Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	at (502, 107)	29	on_pageform	PageForm.script
+2016-05-02 15:56:24.865 -0600	typetext		Bruce	30	on_pageform	PageForm.script
+2016-05-02 15:56:26.502 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,159), ImageRectangle:(352,149,418,160), Language:"English", searchRectangle:(317,73,1116,461), text:"Last Name", TextPlatform:"Generic OCR")	at (502, 159)	29	on_pageform	PageForm.script
+2016-05-02 15:56:27.268 -0600	typetext		Wayne	30	on_pageform	PageForm.script
+2016-05-02 15:56:27.332 -0600	Log		nope	20	on_pageform	PageForm.script
+2016-05-02 15:56:28.864 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(300,10), IgnoreSpaces:"No", ImageLocation:(961,159), ImageRectangle:(661,149,814,163), Language:"English", searchRectangle:(317,73,1116,461), text:"Social Security Number", TextPlatform:"Generic OCR")	at (961, 159)	29	on_pageform	PageForm.script
+2016-05-02 15:56:29.699 -0600	typetext		113-83-3798	30	on_pageform	PageForm.script
+2016-05-02 15:56:31.292 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(501,221), ImageRectangle:(351,211,405,222), Language:"English", searchRectangle:(317,73,1116,461), text:"Address", TextPlatform:"Generic OCR")	at (501, 221)	29	on_pageform	PageForm.script
+2016-05-02 15:56:32.194 -0600	typetext		14 Maiden Lane 	30	on_pageform	PageForm.script
+2016-05-02 15:56:33.838 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,282), ImageRectangle:(352,272,380,286), Language:"English", searchRectangle:(317,73,1116,461), text:"City", TextPlatform:"Generic OCR")	at (502, 282)	29	on_pageform	PageForm.script
+2016-05-02 15:56:34.619 -0600	typetext		Gotham	30	on_pageform	PageForm.script
+2016-05-02 15:56:36.210 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(503,354), ImageRectangle:(353,344,384,355), Language:"English", searchRectangle:(317,73,1116,461), text:"State", TextPlatform:"Generic OCR")	at (503, 354)	29	on_pageform	PageForm.script
+2016-05-02 15:56:36.944 -0600	typetext		NY	30	on_pageform	PageForm.script
+2016-05-02 15:56:38.563 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,425), ImageRectangle:(352,415,405,429), Language:"English", searchRectangle:(317,73,1116,461), text:"Zipcode", TextPlatform:"Generic OCR")	at (502, 425)	29	on_pageform	PageForm.script
+2016-05-02 15:56:39.332 -0600	typetext		39485	30	on_pageform	PageForm.script
+2016-05-02 15:56:40.939 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(200,10), IgnoreSpaces:"No", ImageLocation:(860,221), ImageRectangle:(660,211,727,225), Language:"English", searchRectangle:(317,73,1116,461), text:"Telephone", TextPlatform:"Generic OCR")	at (860, 221)	29	on_pageform	PageForm.script
+2016-05-02 15:56:41.793 -0600	typetext		111-123-4030	30	on_pageform	PageForm.script
+2016-05-02 15:56:43.462 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(200,10), IgnoreSpaces:"No", ImageLocation:(860,282), ImageRectangle:(660,272,750,283), Language:"English", searchRectangle:(317,73,1116,461), text:"Marital Status", TextPlatform:"Generic OCR")	at (860, 282)	24	on_pageform	PageForm.script
+2016-05-02 15:56:43.469 -0600	Log		Single	25	on_pageform	PageForm.script
+2016-05-02 15:56:45.975 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(872,382), ImageRectangle:(855,375,890,389), Language:"English", text:"Single", TextPlatform:"Generic OCR")	at (872, 382)	26	on_pageform	PageForm.script
+2016-05-02 15:57:23.923 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", hotspot:(-12,5), IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"(First Name,Last Name,DOB,Social Security Number,Address,City,State,Zipcode,Telephone,Marital Status,Sex,Submit)", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"(First Name,Last Name,DOB,Social Security Number,Address,City,State,Zipcode,Telephone,Marital Status,Sex,Submit)")"	22	on_pageform	PageForm.script
+2016-05-02 15:57:24.114 -0600	EndTestCase		(Duration:"61.226696", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 15:56:22 -0600", Successes:"0", TestCase:"PageForm.script", Warnings:"0")
+2016-05-02 15:57:24.115 -0600	ABORTED		Execution Time 0:01:01 PageForm.script

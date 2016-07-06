@@ -1,0 +1,7 @@
+﻿2016-05-26 11:14:38.987 -0600	START		Running Index.script
+2016-05-26 11:14:39.866 -0600	imagefound	Windows/Start	found at (26, 880)	1	on_index	Index.script
+2016-05-26 11:14:39.922 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-26 11:14:39.924 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-05-26 11:14:44.743 -0600	Exception	Chrome Icons	No Image Found On Screen: "Chrome Icons"	2	on_launch	ChromeLib.script
+2016-05-26 11:14:45.311 -0600	EndTestCase		(Duration:"6.322902", Errors:"1", Exceptions:"1", StartTime:"2016-05-26 11:14:38 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-26 11:14:45.449 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Chrome Icons" -- Execution Time 0:00:06 Index.script

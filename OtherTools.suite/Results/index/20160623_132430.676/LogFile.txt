@@ -1,0 +1,6 @@
+﻿2016-06-23 13:24:30.677 -0600	START		Running index.script
+2016-06-23 13:24:30.915 -0600	connect		Windows 2012:(null)	1	on_index	index.script
+2016-06-23 13:24:30.939 -0600	typetext		[windowsKey]r	8	on_index	index.script
+2016-06-23 13:24:31.736 -0600	typetext		notepad[enter]	9	on_index	index.script
+2016-06-23 13:24:31.792 -0600	EndTestCase		(Duration:"1.11328", Errors:"0", Exceptions:"0", StartTime:"2016-06-23 13:24:30 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-23 13:24:31.795 -0600	SUCCESS		Execution Time 0:00:01 index.script

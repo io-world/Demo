@@ -1,0 +1,11 @@
+﻿2016-05-12 10:21:21.855 -0600	START		Running close.script
+2016-05-12 10:21:21.986 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 10:21:30.494 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(0,0,750,266.799988), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:21:32.570 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:21:41.905 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(0,0,750,266.799988), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:21:43.984 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:21:53.190 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", scale:"0.5", searchRectangle:(0,0,750,266.799988), Text:"Goolgle Maps", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Goolgle Maps")	5	on_close	close.script
+2016-05-12 10:21:55.267 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:21:58.974 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	5	on_close	close.script
+2016-05-12 10:21:59.216 -0600	EndTestCase		(Duration:"37.359028", Errors:"1", Exceptions:"1", StartTime:"2016-05-12 10:21:21 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 10:21:59.217 -0600	ABORTED		Execution Time 0:00:37 close.script

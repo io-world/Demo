@@ -1,0 +1,39 @@
+﻿2016-07-05 15:05:24.299 -0600	START		Running index.script
+2016-07-05 15:05:24.495 -0600	typetext		[windowsKey]	10	on_index	index.script
+2016-07-05 15:05:26.263 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
+2016-07-05 15:05:28.784 -0600	waitfor	Chrome Mic	found at (1279, 592)	13	on_index	index.script
+2016-07-05 15:05:28.911 -0600	typetext		goog[enter]	19	on_index	index.script
+2016-07-05 15:05:30.090 -0600	imagelocation	Chrome/Chrome Icon Logo	at (535, 201)	20	on_index	index.script
+2016-07-05 15:05:30.205 -0600	imagelocation	Chrome/Chrome Icon Logo	at (535, 201)	20	on_index	index.script
+2016-07-05 15:05:31.015 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(765,520), ImageRectangle:(752,515,778,526), Language:"English", searchRectangle:(555,221,1235,601), Text:"USD", TextPlatform:"Generic OCR")	found at (765, 520)	20	on_index	index.script
+2016-07-05 15:05:31.122 -0600	readtext		(615,490,750,530)
+2016-07-05 15:05:31.743 -0600	doubleclick	Chrome/Search Icon	at (758, 278)	27	on_index	index.script
+2016-07-05 15:05:32.456 -0600	typetext		[backspace]	29	on_index	index.script
+2016-07-05 15:05:32.462 -0600	Log		694.95	30	on_index	index.script
+2016-07-05 15:05:33.221 -0600	typetext		Appl[enter]	19	on_index	index.script
+2016-07-05 15:05:34.294 -0600	imagelocation	Chrome/Chrome Icon Logo	at (535, 201)	20	on_index	index.script
+2016-07-05 15:05:34.763 -0600	imagelocation	Chrome/Chrome Icon Logo	at (535, 201)	20	on_index	index.script
+2016-07-05 15:05:35.649 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(749,520), ImageRectangle:(736,515,762,526), Language:"English", searchRectangle:(555,221,1235,601), Text:"USD", TextPlatform:"Generic OCR")	found at (749, 520)	20	on_index	index.script
+2016-07-05 15:05:35.753 -0600	readtext		(599,490,734,530)
+2016-07-05 15:05:36.383 -0600	doubleclick	Chrome/Search Icon	at (758, 278)	27	on_index	index.script
+2016-07-05 15:05:37.099 -0600	typetext		[backspace]	29	on_index	index.script
+2016-07-05 15:05:37.105 -0600	Log		95.04	30	on_index	index.script
+2016-07-05 15:05:37.849 -0600	typetext		Wmt[enter]	19	on_index	index.script
+2016-07-05 15:05:38.995 -0600	imagelocation	Chrome/Chrome Icon Logo	at (535, 201)	20	on_index	index.script
+2016-07-05 15:05:39.469 -0600	imagelocation	Chrome/Chrome Icon Logo	at (535, 201)	20	on_index	index.script
+2016-07-05 15:05:40.406 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(749,520), ImageRectangle:(736,515,762,526), Language:"English", searchRectangle:(555,221,1235,601), Text:"USD", TextPlatform:"Generic OCR")	found at (749, 520)	20	on_index	index.script
+2016-07-05 15:05:40.513 -0600	readtext		(599,490,734,530)
+2016-07-05 15:05:41.136 -0600	doubleclick	Chrome/Search Icon	at (758, 278)	27	on_index	index.script
+2016-07-05 15:05:41.850 -0600	typetext		[backspace]	29	on_index	index.script
+2016-07-05 15:05:41.856 -0600	Log		73.14	30	on_index	index.script
+2016-07-05 15:05:42.601 -0600	typetext		Xom[enter]	19	on_index	index.script
+2016-07-05 15:05:43.631 -0600	imagelocation	Chrome/Chrome Icon Logo	at (535, 201)	20	on_index	index.script
+2016-07-05 15:05:44.151 -0600	imagelocation	Chrome/Chrome Icon Logo	at (535, 201)	20	on_index	index.script
+2016-07-05 15:05:45.117 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(749,520), ImageRectangle:(736,515,762,526), Language:"English", searchRectangle:(555,221,1235,601), Text:"USD", TextPlatform:"Generic OCR")	found at (749, 520)	20	on_index	index.script
+2016-07-05 15:05:45.228 -0600	readtext		(599,490,734,530)
+2016-07-05 15:05:45.887 -0600	doubleclick	Chrome/Search Icon	at (758, 278)	27	on_index	index.script
+2016-07-05 15:05:46.598 -0600	typetext		[backspace]	29	on_index	index.script
+2016-07-05 15:05:46.603 -0600	Log		93.02	30	on_index	index.script
+2016-07-05 15:05:54.098 -0600	Exception	Close Chrome	No Image Found On Screen: "Close Chrome"	35	on_index	index.script
+2016-07-05 15:05:54.402 -0600	EndTestCase		(Duration:"30.101517", Errors:"1", Exceptions:"1", StartTime:"2016-07-05 15:05:24 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-07-05 15:05:54.475 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Close Chrome" -- Execution Time 0:00:30 index.script

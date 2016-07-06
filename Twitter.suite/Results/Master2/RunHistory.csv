@@ -1,0 +1,17 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-09 13:36:51.034 -0600,"Success",0:00:01,0,0,0,"20160509_133651.034/LogFile.txt","","",1
+2016-05-09 13:57:57.988 -0600,"Success",0:00:07,0,0,0,"20160509_135757.988/LogFile.txt","","",1
+2016-05-09 15:00:42.178 -0600,"Success",0:00:17,0,0,0,"20160509_150042.178/LogFile.txt","","",1
+2016-05-09 15:05:51.592 -0600,"Failure",0:00:26,1,0,1,"20160509_150551.592/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/Chrome Tab""  Restricted Search Rectangle ((480,427),(1000,475))\n",1
+2016-05-09 15:07:11.034 -0600,"Failure",0:00:07,1,0,1,"20160509_150711.034/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",1
+2016-05-09 15:08:14.821 -0600,"Failure",0:00:26,1,0,1,"20160509_150814.821/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/Chrome Tab""  Restricted Search Rectangle ((480,427),(1000,475))\n",1
+2016-05-09 15:09:54.988 -0600,"Failure",0:00:23,1,0,1,"20160509_150954.988/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Windows/Close""  Restricted Search Rectangle ((480,427),(1000,475))\n",1
+2016-05-09 15:11:09.244 -0600,"Failure",0:00:20,1,0,1,"20160509_151109.244/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Windows/Close""  Restricted Search Rectangle ((480,427),(1000,475))\n",1
+2016-05-09 15:13:52.884 -0600,"Success",0:00:16,0,0,0,"20160509_151352.884/LogFile.txt","","",1
+2016-05-09 15:20:47.194 -0600,"Success",0:00:16,0,0,0,"20160509_152047.194/LogFile.txt","","",1
+2016-05-24 14:34:54.989 -0600,"Success",0:00:18,0,0,0,"20160524_143454.989/LogFile.txt","","",1
+2016-05-24 14:35:33.349 -0600,"Failure",0:00:15,1,0,1,"20160524_143533.349/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: (480,427,1000,475)",1
+2016-05-24 14:36:21.531 -0600,"Success",0:00:16,0,0,0,"20160524_143621.531/LogFile.txt","","",1
+2016-06-07 10:31:51.264 -0600,"Failure",0:00:02,1,0,0,"20160607_103151.264/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'brower'",1
+2016-06-07 10:32:14.474 -0600,"Success",0:00:20,0,0,0,"20160607_103214.474/LogFile.txt","","",1
+2016-06-23 15:49:51.623 -0600,"Failure",0:00:08,1,0,1,"20160623_154951.623/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome Refresh""",1

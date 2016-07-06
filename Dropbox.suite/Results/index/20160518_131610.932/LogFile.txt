@@ -1,0 +1,21 @@
+﻿2016-05-18 13:16:10.933 -0600	START		Running index.script
+2016-05-18 13:16:12.016 -0600	rightclick	Desktop Area	at (471, 174)	3	on_menu	RightC.script
+2016-05-18 13:16:13.782 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	7	on_menu	RightC.script
+2016-05-18 13:16:15.671 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	7	on_index	index.script
+2016-05-18 13:16:15.792 -0600	click		at (741, 440)	8	on_index	index.script
+2016-05-18 13:16:16.657 -0600	typetext		Random File[enter][enter]	9	on_index	index.script
+2016-05-18 13:16:18.007 -0600	typetext		Random Information that we will Upload to DropBox.	10	on_index	index.script
+2016-05-18 13:16:19.238 -0600	click	Close	at (1249, 13)	11	on_index	index.script
+2016-05-18 13:16:24.054 -0600	everyimagelocation	(TEXT:"save")	found 3 images	12	on_index	index.script
+2016-05-18 13:16:24.174 -0600	click		at (674, 461)	13	on_index	index.script
+2016-05-18 13:16:25.737 -0600	rightclick	Note File Icon	at (485, 245)	3	on_menu	RightC.script
+2016-05-18 13:16:27.549 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,476), ImageRectangle:(520,470,547,482), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 476)	7	on_menu	RightC.script
+2016-05-18 13:16:29.210 -0600	doubleclick	DropBox Icon	at (36, 348)	23	on_index	index.script
+2016-05-18 13:16:32.334 -0600	waitfor	DropBox Item	found at (704, 388)	24	on_index	index.script
+2016-05-18 13:16:33.286 -0600	rightclick	DropBox Item	at (704, 388)	3	on_menu	RightC.script
+2016-05-18 13:16:35.141 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(752,518), ImageRectangle:(739,514,766,523), Language:"English", searchRectangle:(704,388,1104,788), Text:"Paste", TextPlatform:"Generic OCR")	at (752, 518)	7	on_menu	RightC.script
+2016-05-18 13:16:36.577 -0600	click	Close	at (1381, 128)	33	on_index	index.script
+2016-05-18 13:16:38.155 -0600	rightclick	Note File Icon	at (485, 245)	3	on_menu	RightC.script
+2016-05-18 13:16:39.937 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(536,522), ImageRectangle:(520,518,552,527), Language:"English", searchRectangle:(485,245,885,645), Text:"Delete", TextPlatform:"Generic OCR")	at (536, 522)	7	on_menu	RightC.script
+2016-05-18 13:16:40.280 -0600	EndTestCase		(Duration:"29.345786", Errors:"0", Exceptions:"0", StartTime:"2016-05-18 13:16:10 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-18 13:16:40.283 -0600	SUCCESS		Execution Time 0:00:29 index.script

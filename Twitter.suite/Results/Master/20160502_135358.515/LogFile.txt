@@ -1,0 +1,9 @@
+﻿2016-05-02 13:53:58.516 -0600	START		Running Index.script
+2016-05-02 13:54:02.232 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	2	on_index	Index.script
+2016-05-02 13:54:02.404 -0600	imagefound	Apple/Phone Icon	found at (113, 1228)	7	on_index	Index.script
+2016-05-02 13:54:02.405 -0600	Log		Apple iPhone 6s	10	on_index	Index.script
+2016-05-02 13:54:02.731 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-05-02 13:54:02.733 -0600	LogSuccess		Chrome has Been Launched	14	on_index	Index.script
+2016-05-02 13:54:08.876 -0600	Exception	Chrome Search Icons	Unable To Find Any Image On Screen "Chrome Search Icons" within 2.00 seconds	2	on_search	ChromeLib.script
+2016-05-02 13:54:09.206 -0600	EndTestCase		(Duration:"10.688704", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 13:53:58 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-02 13:54:09.207 -0600	ABORTED		Execution Time 0:00:10 Index.script

@@ -1,0 +1,6 @@
+﻿2016-05-02 16:14:20.615 -0600	START		Running Datepicker.script
+2016-05-02 16:14:20.744 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
+2016-05-02 16:14:21.297 -0600	click	YearPicker	at (1052, 138)	16	on_datepicker	Datepicker.script
+2016-05-02 16:14:21.301 -0600	Exception	06	Could Not Open Image: 06	17	on_datepicker	Datepicker.script
+2016-05-02 16:14:21.511 -0600	EndTestCase		(Duration:"0.894831", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 16:14:20 -0600", Successes:"0", TestCase:"Datepicker.script", Warnings:"0")
+2016-05-02 16:14:22.015 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: 06 -- Execution Time 0:00:00 Datepicker.script

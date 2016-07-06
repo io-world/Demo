@@ -1,0 +1,23 @@
+﻿2016-06-10 14:53:13.731 -0600	START		Running index.script
+2016-06-10 14:53:13.872 -0600	connect		Windows 2012 (VNC):(null)	5	on_index	index.script
+2016-06-10 14:53:14.342 -0600	rightclick	WIndows/Desktop Area	at (471, 174)	2	on_rightc	Windows.script
+2016-06-10 14:53:15.683 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	6	on_rightc	Windows.script
+2016-06-10 14:53:17.097 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	5	on_createnotepad	Windows.script
+2016-06-10 14:53:17.225 -0600	click		at (741, 440)	6	on_createnotepad	Windows.script
+2016-06-10 14:53:18.095 -0600	typetext		Not so file[enter][enter]	7	on_createnotepad	Windows.script
+2016-06-10 14:53:19.448 -0600	typetext		Random Information that we will Upload to DropBox.	8	on_createnotepad	Windows.script
+2016-06-10 14:53:20.573 -0600	click	Windows/Close	at (1249, 13)	9	on_createnotepad	Windows.script
+2016-06-10 14:53:24.673 -0600	everyimagelocation	(TEXT:"save")	found 3 images	10	on_createnotepad	Windows.script
+2016-06-10 14:53:24.801 -0600	click		at (674, 451)	11	on_createnotepad	Windows.script
+2016-06-10 14:53:25.908 -0600	rightclick	Windows/Note File Icon	at (485, 245)	2	on_rightc	Windows.script
+2016-06-10 14:53:27.241 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,476), ImageRectangle:(520,470,547,482), Language:"English", searchRectangle:(485,245,885,645), Text:"Copy", TextPlatform:"Generic OCR")	at (533, 476)	6	on_rightc	Windows.script
+2016-06-10 14:53:28.423 -0600	doubleclick	WIndows/DropBox Icon	at (36, 348)	2	on_movetodropbox	Windows.script
+2016-06-10 14:53:31.242 -0600	waitfor	Windows/DropBox Item	found at (704, 388)	3	on_movetodropbox	Windows.script
+2016-06-10 14:53:31.944 -0600	rightclick	Windows/DropBox Item	at (704, 388)	2	on_rightc	Windows.script
+2016-06-10 14:53:33.546 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(752,518), ImageRectangle:(739,514,766,523), Language:"English", searchRectangle:(704,388,1104,788), Text:"Paste", TextPlatform:"Generic OCR")	at (752, 518)	6	on_rightc	Windows.script
+2016-06-10 14:53:34.877 -0600	click	windows/Close	at (1381, 128)	6	on_movetodropbox	Windows.script
+2016-06-10 14:53:36.198 -0600	rightclick	Windows/Note File Icon	at (485, 245)	2	on_rightc	Windows.script
+2016-06-10 14:53:37.692 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(536,522), ImageRectangle:(520,518,552,527), Language:"English", searchRectangle:(485,245,885,645), Text:"Delete", TextPlatform:"Generic OCR")	at (536, 522)	6	on_rightc	Windows.script
+2016-06-10 14:53:43.421 -0600	Exception	Android/Drop Box Icon	No Image Found On Screen: "Android/Drop Box Icon"	2	on_dropboxdelete	AndroidLib.script
+2016-06-10 14:53:43.784 -0600	EndTestCase		(Duration:"30.051445", Errors:"1", Exceptions:"1", StartTime:"2016-06-10 14:53:13 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-06-10 14:53:43.859 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Android/Drop Box Icon" -- Execution Time 0:00:30 index.script

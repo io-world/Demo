@@ -1,0 +1,10 @@
+﻿2016-04-26 16:25:20.413 -0600	START		Running Index.script
+2016-04-26 16:25:24.520 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,205), ImageRectangle:(600,195,735,217), Language:"English", searchRectangle:(487,149,2069,920), text:"First Name", TextPlatform:"Generic OCR")	at (850, 205)	18	on_index	Index.script
+2016-04-26 16:25:25.291 -0600	typetext		Bruce	24	on_index	Index.script
+2016-04-26 16:25:27.339 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(850,309), ImageRectangle:(600,299,731,321), Language:"English", searchRectangle:(487,149,2069,920), text:"Last Name", TextPlatform:"Generic OCR")	at (850, 309)	18	on_index	Index.script
+2016-04-26 16:25:28.109 -0600	typetext		Wayne	24	on_index	Index.script
+2016-04-26 16:25:30.360 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(400,10), IgnoreSpaces:"No", ImageLocation:(1616,205), ImageRectangle:(1216,195,1281,217), Language:"English", searchRectangle:(487,149,2069,920), text:"DOB", TextPlatform:"Generic OCR")	at (1616, 205)	18	on_index	Index.script
+2016-04-26 16:25:35.035 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(400,10), IgnoreSpaces:"No", ImageLocation:(1617,309), ImageRectangle:(1217,299,1523,327), Language:"English", searchRectangle:(487,149,2069,920), text:"Social Security Number", TextPlatform:"Generic OCR")	at (1617, 309)	18	on_index	Index.script
+2016-04-26 16:25:35.879 -0600	typetext		113-83-3798	24	on_index	Index.script
+2016-04-26 16:25:37.122 -0600	EndTestCase		(Duration:"16.707778", Errors:"1", Exceptions:"0", StartTime:"2016-04-26 16:25:20 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-04-26 16:25:37.123 -0600	ABORTED		Execution Time 0:00:16 Index.script

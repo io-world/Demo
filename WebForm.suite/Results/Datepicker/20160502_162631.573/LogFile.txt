@@ -1,0 +1,6 @@
+﻿2016-05-02 16:26:31.574 -0600	START		Running Datepicker.script
+2016-05-02 16:26:31.700 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
+2016-05-02 16:26:32.130 -0600	click	YearPicker	at (1052, 138)	16	on_datepicker	Datepicker.script
+2016-05-02 16:26:40.580 -0600	Exception	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchretangle:(1007,153,1067,616), Text:"2006", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"2006")"	18	on_datepicker	Datepicker.script
+2016-05-02 16:26:40.806 -0600	EndTestCase		(Duration:"9.230701", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 16:26:31 -0600", Successes:"0", TestCase:"Datepicker.script", Warnings:"0")
+2016-05-02 16:26:40.882 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "(TEXT:"2006")" -- Execution Time 0:00:09 Datepicker.script

@@ -1,0 +1,6 @@
+﻿2016-04-22 09:14:16.775 -0600	START		Running index.script
+2016-04-22 09:14:16.863 -0600	typetext		goog	13	on_index	index.script
+2016-04-22 09:14:17.579 -0600	typetext		[enter]	14	on_index	index.script
+2016-04-22 09:14:19.100 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	18	on_index	index.script
+2016-04-22 09:14:19.375 -0600	EndTestCase		(Duration:"2.59902", Errors:"1", Exceptions:"1", StartTime:"2016-04-22 09:14:16 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-04-22 09:14:19.376 -0600	ABORTED		Execution Time 0:00:02 index.script

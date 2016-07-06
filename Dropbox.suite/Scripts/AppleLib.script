@@ -1,0 +1,43 @@
+﻿on unlock
+	if imagefound ("Apple/Sleep Screen") Then
+		PressHomeButton
+		SwipeRight (00,600)
+		Click (160,845)
+		Click (370,1035)
+		Click (580,685)
+		Click (370,1035)
+		wait 2
+		PressHomeButton
+		PressHomeButton
+	end if
+	Log "Apple iPhone 6s"
+end unlock
+
+
+
+on DropBoxRead FileName
+	click "Apple/DropBox Icon"
+	wait 10
+	waitfor 15, Text: "Recents" 
+	Click (Text: FileName, waitfor: 5)
+	wait 5
+	log ReadText(0,130,750,750)
+	wait 10
+	click Text: "Recents" 
+	TypeText HomeKey
+end DropBoxRead
+
+
+
+on DropBoxDelete FileName
+	click "Apple/DropBox Icon"
+	waitfor 15, Text: "Recents" 
+	Click (Text: FileName, waitfor: 5)
+	click (image:"Apple/DropBox Menu Icon", waiffor: 5)
+	wait 2
+	click (Text: "Delete" , waitfor :5)
+	wait 2
+	click (image: "Apple/DropBox Double Delete", waitfor :5)
+	wait 4
+	TypeText HomeKey
+end DropBoxDelete

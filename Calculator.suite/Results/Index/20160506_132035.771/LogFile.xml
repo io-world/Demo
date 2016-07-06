@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Index.script" package="MS Paint.suite" timestamp="2016-05-06 13:20:35.771 -0600"
+ tests="1" successes="0" errors="1" time="2.324909">
+  <properties>
+   <property name="RunDate" value="2016-05-06 13:20:35.771 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Index.script" assertions="1" successes="0" errors="1" time="2.323604">
+  </testcase>
+ </testsuite>
+</testsuites>

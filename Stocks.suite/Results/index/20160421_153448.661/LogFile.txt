@@ -1,0 +1,4 @@
+﻿2016-04-21 15:34:48.662 -0600	START		Running index.script
+2016-04-21 15:34:48.718 -0600	Log		Xom	15	on_index	index.script
+2016-04-21 15:34:49.225 -0600	EndTestCase		(Duration:"0.562522", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 15:34:48 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-04-21 15:34:49.229 -0600	SUCCESS		Execution Time 0:00:00 index.script

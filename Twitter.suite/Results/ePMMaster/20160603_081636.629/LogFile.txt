@@ -1,0 +1,16 @@
+﻿2016-06-03 08:16:36.631 -0600	START		Running EPMIndex.script
+2016-06-03 08:16:42.963 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	1	on_epmindex	EPMIndex.script
+2016-06-03 08:16:47.822 -0600	imagefound	Apple/Blank	Unable to Find Image Apple/Blank	4	on_epmindex	EPMIndex.script
+2016-06-03 08:16:48.198 -0600	imagefound	Apple/Phone Icon	found at (113, 1228)	7	on_epmindex	EPMIndex.script
+2016-06-03 08:16:48.205 -0600	Log		apple iPhone is already on	8	on_epmindex	EPMIndex.script
+2016-06-03 08:16:48.898 -0600	click	Chrome Icons	at (460, 644)	2	on_launch	ChromeLib.script
+2016-06-03 08:16:48.901 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-06-03 08:16:50.639 -0600	waitfor	Chrome Search Icons	found at (76, 528)	2	on_search	ChromeLib.script
+2016-06-03 08:16:51.729 -0600	imagefound	Chrome Search Icons/apple Search Icon	found at (76, 528)	4	on_search	ChromeLib.script
+2016-06-03 08:16:52.902 -0600	click	Chrome Search Icons	at (584, 489)	5	on_search	ChromeLib.script
+2016-06-03 08:16:54.142 -0600	typetext		mobile.twitter.com	10	on_search	ChromeLib.script
+2016-06-03 08:16:55.214 -0600	click	Chrome Enter	at (678, 1285)	11	on_search	ChromeLib.script
+2016-06-03 08:17:57.497 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"https://twitter.com", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"https://twitter.com")	13	on_search	ChromeLib.script
+2016-06-03 08:18:19.018 -0600	Exception	Twitter/Log In/Logo	No Image Found On Screen: "Twitter/Log In/Logo"	3	on_twitterlogin	TwitterLib.script
+2016-06-03 08:18:19.378 -0600	EndTestCase		(Duration:"102.746229", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 08:16:36 -0600", Successes:"1", TestCase:"EPMIndex.script", Warnings:"0")
+2016-06-03 08:18:19.451 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Twitter/Log In/Logo" -- Execution Time 0:01:42 EPMIndex.script

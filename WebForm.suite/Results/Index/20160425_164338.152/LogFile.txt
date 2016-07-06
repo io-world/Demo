@@ -1,0 +1,3 @@
+﻿2016-04-25 16:43:38.153 -0600	START		Running Untitled.script
+2016-04-25 16:43:38.782 -0600	EndTestCase		(Duration:"0.627856", Errors:"1", Exceptions:"0", StartTime:"2016-04-25 16:43:38 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-04-25 16:43:39.321 -0600	FAILURE	Screen_Error.png	STFileException File /Users/randyhesse/Documents/Test SUTs/WebForm.suite/Resources/WebFormData.csv couldn't be read using the defaultStringEncoding (UTF8) -- Execution Time 0:00:00 Untitled.script

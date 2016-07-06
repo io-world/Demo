@@ -1,0 +1,15 @@
+﻿2016-05-12 10:19:14.372 -0600	START		Running close.script
+2016-05-12 10:19:14.517 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 10:19:21.863 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:19:24.070 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:19:30.354 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:19:32.558 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:19:38.856 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:19:41.058 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	10	on_close	close.script
+2016-05-12 10:19:42.928 -0600	imagefound	Google Maps/Google Image	found at (624, 124)	5	on_close	close.script
+2016-05-12 10:19:42.995 -0600	set		REMOTEWORKINTERVAL = 0	17	on_close	close.script
+2016-05-12 10:19:43.182 -0600	swipeup		Swiped up from (375, 934) to (375, 400)	18	on_close	close.script
+2016-05-12 10:19:43.211 -0600	set		REMOTEWORKINTERVAL = 0.7	19	on_close	close.script
+2016-05-12 10:19:43.887 -0600	presshomebutton			22	on_close	close.script
+2016-05-12 10:19:44.128 -0600	EndTestCase		(Duration:"29.755119", Errors:"0", Exceptions:"0", StartTime:"2016-05-12 10:19:14 -0600", Successes:"1", TestCase:"close.script", Warnings:"0")
+2016-05-12 10:19:44.132 -0600	SUCCESS		Execution Time 0:00:29 close.script

@@ -1,0 +1,25 @@
+﻿
+
+put url "http://www.w3schools.com/xml/note.xml" as a tree into myTree
+
+
+repeat with item of myTree --read each line of the file
+
+	put item repeatindex() of myTree into output
+	log output
+	
+	
+end repeat
+
+
+
+put url "http://maps.googleapis.com/maps/api/geocode/xml?address=3000%20Pearl%20St%20boulder%20CO&sensor=false" as a tree into myTree
+
+
+repeat with item of myTree --read each line of the file
+
+	put item repeatindex() of myTree into output
+	log output
+	
+	
+end repeat

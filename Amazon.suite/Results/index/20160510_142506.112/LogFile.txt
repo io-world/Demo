@@ -1,0 +1,14 @@
+﻿2016-05-10 14:25:06.113 -0600	START		Running index.script
+2016-05-10 14:25:06.242 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2016-05-10 14:25:06.252 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2016-05-10 14:25:06.263 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2016-05-10 14:25:09.791 -0600	click	Browsers Icon/Internet Explorer	at (455, 879)	12	on_index	index.script
+2016-05-10 14:25:14.066 -0600	click	indicators	at (182, 41)	17	on_index	index.script
+2016-05-10 14:25:17.343 -0600	typetext		www.amazon.com[return]	19	on_index	index.script
+2016-05-10 14:25:20.646 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(388,135), ImageRectangle:(376,130,401,140), Language:"English", searchRectangle:(0,90,720,450), Text:"Deal", TextPlatform:"Generic OCR")	at (388, 135)	22	on_index	index.script
+2016-05-10 14:25:36.061 -0600	everyimagelocation	(TEXT:"DEAL OF THE DAY")	found 5 images	26	on_index	index.script
+2016-05-10 14:25:36.209 -0600	readtext		(274,624,394,644)
+2016-05-10 14:25:36.210 -0600	Log		$8.62 - $89.99	35	on_index	index.script
+2016-05-10 14:25:38.941 -0600	click	Browser Close	at (1411, 10)	38	on_index	index.script
+2016-05-10 14:25:39.380 -0600	EndTestCase		(Duration:"33.265313", Errors:"0", Exceptions:"0", StartTime:"2016-05-10 14:25:06 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-10 14:25:39.384 -0600	SUCCESS		Execution Time 0:00:33 index.script

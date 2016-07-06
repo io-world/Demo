@@ -1,0 +1,5 @@
+﻿2016-04-21 15:51:42.962 -0600	START		Running index.script
+2016-04-21 15:51:43.084 -0600	typetext		goog	15	on_index	index.script
+2016-04-21 15:51:43.802 -0600	typetext		[enter]	16	on_index	index.script
+2016-04-21 15:51:46.272 -0600	EndTestCase		(Duration:"3.307999", Errors:"1", Exceptions:"0", StartTime:"2016-04-21 15:51:42 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-04-21 15:51:47.646 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'readtext' was called as a Command, but is only available as a Function -- Execution Time 0:00:03 index.script

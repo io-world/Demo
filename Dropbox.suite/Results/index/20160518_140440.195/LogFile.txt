@@ -1,0 +1,4 @@
+﻿2016-05-18 14:04:40.196 -0600	START		Running index.script
+2016-05-18 14:04:44.687 -0600	Exception	Desktop Area	No Image Found On Screen: "Desktop Area"	3	on_menu	RightC.script
+2016-05-18 14:04:45.091 -0600	EndTestCase		(Duration:"4.894205", Errors:"1", Exceptions:"1", StartTime:"2016-05-18 14:04:40 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 14:04:45.206 -0600	FAILURE	Screen_Error.png	Image Not Found rightclick Error - No Image Found On Screen: "Desktop Area" -- Execution Time 0:00:04 index.script

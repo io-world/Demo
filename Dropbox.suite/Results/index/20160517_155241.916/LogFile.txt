@@ -1,0 +1,6 @@
+﻿2016-05-17 15:52:41.917 -0600	START		Running index.script
+2016-05-17 15:52:42.456 -0600	rightclick	Desktop Area	at (471, 174)	1	on_index	index.script
+2016-05-17 15:52:43.762 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	7	on_index	index.script
+2016-05-17 15:52:44.574 -0600	click		at current mouse point (517, 326)	8	on_index	index.script
+2016-05-17 15:52:44.755 -0600	EndTestCase		(Duration:"2.836917", Errors:"0", Exceptions:"0", StartTime:"2016-05-17 15:52:41 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-17 15:52:44.759 -0600	SUCCESS		Execution Time 0:00:02 index.script

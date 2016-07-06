@@ -1,0 +1,18 @@
+﻿2016-05-12 10:13:46.976 -0600	START		Running close.script
+2016-05-12 10:13:47.133 -0600	typetext		[homeKey][homeKey]	1	on_close	close.script
+2016-05-12 10:13:54.005 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:13:54.071 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:13:59.928 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:14:00.002 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:14:05.965 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:14:06.033 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:14:11.090 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:14:11.159 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:14:17.257 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:14:17.336 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:14:23.971 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:14:24.038 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:14:30.618 -0600	imagefound	Google Maps/Google Image	Unable to Find Image Google Maps/Google Image	5	on_close	close.script
+2016-05-12 10:14:30.687 -0600	swiperight		Swiped right from (545, 700) to (675, 700)	9	on_close	close.script
+2016-05-12 10:14:35.598 -0600	EndTestCase		(Duration:"48.621249", Errors:"1", Exceptions:"0", StartTime:"2016-05-12 10:13:46 -0600", Successes:"0", TestCase:"close.script", Warnings:"0")
+2016-05-12 10:14:35.599 -0600	ABORTED		Execution Time 0:00:48 close.script

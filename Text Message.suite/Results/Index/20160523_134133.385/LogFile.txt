@@ -1,0 +1,5 @@
+﻿2016-05-23 13:41:33.386 -0600	START		Running Index.script
+2016-05-23 13:41:34.592 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(131,86), ImageRectangle:(56,71,207,102), Language:"English", searchrectangle:(0,0,375,266.799988), text:"Messages", TextPlatform:"Generic OCR")	found at (131, 86)	8	on_index	Index.script
+2016-05-23 13:41:34.714 -0600	click		at (131, 86)	9	on_index	Index.script
+2016-05-23 13:41:35.123 -0600	EndTestCase		(Duration:"1.735977", Errors:"0", Exceptions:"0", StartTime:"2016-05-23 13:41:33 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-23 13:41:35.127 -0600	SUCCESS		Execution Time 0:00:01 Index.script

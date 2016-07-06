@@ -1,0 +1,5 @@
+﻿TypeText HomeKey, HomeKey
+Wait 2
+SwipeUp (RemoteScreenSize()*(0.9, 0.5))
+Wait 2
+Tap (RemoteScreenSize()*(0.9, 0.5))

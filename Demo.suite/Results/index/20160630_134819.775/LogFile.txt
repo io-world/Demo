@@ -1,0 +1,5 @@
+﻿2016-06-30 13:48:19.776 -0600	START		Running index.script
+2016-06-30 13:48:23.637 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(503,381), ImageRectangle:(488,376,519,386), Language:"English", Text:"gmail", TextPlatform:"Generic OCR")	found at (503, 381)	6	on_index	index.script
+2016-06-30 13:48:23.667 -0600	Log		image found	7	on_index	index.script
+2016-06-30 13:48:24.043 -0600	EndTestCase		(Duration:"4.265239", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 13:48:19 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-06-30 13:48:24.047 -0600	SUCCESS		Execution Time 0:00:04 index.script

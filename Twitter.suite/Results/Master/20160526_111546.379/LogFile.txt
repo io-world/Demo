@@ -1,0 +1,9 @@
+﻿2016-05-26 11:15:46.381 -0600	START		Running Index.script
+2016-05-26 11:15:47.214 -0600	imagefound	Windows/Start	found at (26, 880)	1	on_index	Index.script
+2016-05-26 11:15:47.268 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-05-26 11:15:47.270 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
+2016-05-26 11:15:48.800 -0600	click	Chrome Icons	at (640, 589)	2	on_launch	ChromeLib.script
+2016-05-26 11:15:48.803 -0600	LogSuccess		Chrome has Been Launched	4	on_launch	ChromeLib.script
+2016-05-26 11:15:52.060 -0600	Exception	Chrome Search Icons	Unable To Find Any Image On Screen "Chrome Search Icons" within 3.00 seconds	2	on_search	ChromeLib.script
+2016-05-26 11:15:52.676 -0600	EndTestCase		(Duration:"6.292975", Errors:"1", Exceptions:"1", StartTime:"2016-05-26 11:15:46 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-05-26 11:15:52.757 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Chrome Search Icons" within 3.00 seconds -- Execution Time 0:00:06 Index.script

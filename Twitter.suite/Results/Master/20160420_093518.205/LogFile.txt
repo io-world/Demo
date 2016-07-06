@@ -1,0 +1,18 @@
+﻿2016-04-20 09:35:18.206 -0600	START		Running Index.script
+2016-04-20 09:35:19.246 -0600	imagefound	Windows/Start	found at (31, 1415)	3	on_index	Index.script
+2016-04-20 09:35:19.300 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
+2016-04-20 09:35:22.337 -0600	click	Chrome Icons	at (244, 869)	2	on_launch	ChromeLib.script
+2016-04-20 09:35:26.086 -0600	click	Chrome Search Icons	at (751, 802)	2	on_search	ChromeLib.script
+2016-04-20 09:35:27.025 -0600	typetext		mobile.twitter.com	3	on_search	ChromeLib.script
+2016-04-20 09:35:28.206 -0600	click	Chrome Enter	at (1470, 181)	4	on_search	ChromeLib.script
+2016-04-20 09:35:30.369 -0600	imagefound	Twitter/Link/Windows Twittter Link	found at (327, 486)	6	on_search	ChromeLib.script
+2016-04-20 09:35:31.122 -0600	click	Twitter/Link/Windows Twittter Link	at (327, 486)	7	on_search	ChromeLib.script
+2016-04-20 09:35:33.357 -0600	click	Twitter/Log In/Logo	at (2338, 202)	3	on_twitterlogin	TwitterLib.script
+2016-04-20 09:35:50.929 -0600	waitfor	Twitter/Log In/Wait	found at (1278, 546)	4	on_twitterlogin	TwitterLib.script
+2016-04-20 09:35:52.604 -0600	click	Twitter/Log In/Click Username	at (1201, 629)	5	on_twitterlogin	TwitterLib.script
+2016-04-20 09:35:53.448 -0600	typetext		iotestplant	6	on_twitterlogin	TwitterLib.script
+2016-04-20 09:35:56.723 -0600	click	Twitter/Log In/Click Password	at (1098, 710)	7	on_twitterlogin	TwitterLib.script
+2016-04-20 09:35:57.555 -0600	typetext		twittergo4	8	on_twitterlogin	TwitterLib.script
+2016-04-20 09:36:00.899 -0600	click	Twitter/Log In/Click Log In	at (1273, 852)	9	on_twitterlogin	TwitterLib.script
+2016-04-20 09:36:13.247 -0600	EndTestCase		(Duration:"55.039209", Errors:"1", Exceptions:"0", StartTime:"2016-04-20 09:35:18 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-04-20 09:36:13.248 -0600	ABORTED		Execution Time 0:00:55 Index.script

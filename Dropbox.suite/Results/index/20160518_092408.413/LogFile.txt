@@ -1,0 +1,15 @@
+﻿2016-05-18 09:24:08.414 -0600	START		Running index.script
+2016-05-18 09:24:09.383 -0600	rightclick	Desktop Area	at (471, 174)	6	on_index	index.script
+2016-05-18 09:24:11.118 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(517,326), ImageRectangle:(506,322,529,331), Language:"English", searchRectangle:(471,174,871,574), Text:"New", TextPlatform:"Generic OCR")	at (517, 326)	10	on_index	index.script
+2016-05-18 09:24:13.377 -0600	everyimagelocation	(TEXT:"Text Document")	found 2 images	11	on_index	index.script
+2016-05-18 09:24:13.514 -0600	click		at (740, 440)	12	on_index	index.script
+2016-05-18 09:24:14.373 -0600	typetext		Random File[enter]	14	on_index	index.script
+2016-05-18 09:24:15.091 -0600	typetext		[enter]	15	on_index	index.script
+2016-05-18 09:24:16.438 -0600	typetext		Random Information that we will Upload to DropBox.	16	on_index	index.script
+2016-05-18 09:24:17.687 -0600	click	Close	at (1249, 13)	17	on_index	index.script
+2016-05-18 09:24:22.495 -0600	everyimagelocation	(TEXT:"save")	found 3 images	20	on_index	index.script
+2016-05-18 09:24:22.632 -0600	click		at (674, 461)	21	on_index	index.script
+2016-05-18 09:24:24.149 -0600	click	Note File Icon	at (485, 245)	24	on_index	index.script
+2016-05-18 09:24:24.186 -0600	Log		(471,174,871,574,485,245,885,645)	27	on_index	index.script
+2016-05-18 09:24:24.435 -0600	EndTestCase		(Duration:"16.019929", Errors:"1", Exceptions:"0", StartTime:"2016-05-18 09:24:08 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-05-18 09:24:25.222 -0600	FAILURE	Screen_Error.png	Error Running Script Command click Error - Error Computing Rectangle: (\n    471,\n    174,\n    871,\n    574,\n    485,\n    245,\n    885,\n    645\n) -- Execution Time 0:00:16 index.script

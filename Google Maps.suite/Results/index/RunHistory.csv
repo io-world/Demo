@@ -1,0 +1,64 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-11 14:13:25.266 -0600,"Success",0:00:08,0,0,0,"20160511_141325.266/LogFile.txt","","",1
+2016-05-11 14:14:13.161 -0600,"Success",0:00:09,0,0,0,"20160511_141413.161/LogFile.txt","","",1
+2016-05-11 15:01:07.698 -0600,"Running",0:00:00,0,0,0,"20160511_150107.698/LogFile.txt","","",0
+2016-05-11 15:01:33.753 -0600,"Running",0:00:00,0,0,0,"20160511_150133.753/LogFile.txt","","",0
+2016-05-11 15:01:52.445 -0600,"Running",0:00:00,0,0,0,"20160511_150152.445/LogFile.txt","","",0
+2016-05-11 15:02:10.138 -0600,"Running",0:00:00,0,0,0,"20160511_150210.138/LogFile.txt","","",0
+2016-05-11 15:02:28.775 -0600,"Failure",0:00:09,1,0,1,"20160511_150228.775/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Microphone""",0
+2016-05-11 15:02:49.586 -0600,"Running",0:00:00,0,0,0,"20160511_150249.586/LogFile.txt","","",0
+2016-05-11 15:03:00.289 -0600,"Running",0:00:00,0,0,0,"20160511_150300.289/LogFile.txt","","",0
+2016-05-11 15:03:33.797 -0600,"Failure",0:00:28,1,0,1,"20160511_150333.797/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Drive Icon""",0
+2016-05-11 15:04:21.478 -0600,"Failure",0:00:04,1,0,1,"20160511_150421.478/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Google Image""",0
+2016-05-11 15:04:30.009 -0600,"Failure",0:01:10,1,0,1,"20160511_150430.009/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Drive Icon""",0
+2016-05-11 15:06:08.104 -0600,"Success",0:01:13,0,0,0,"20160511_150608.104/LogFile.txt","","",1
+2016-05-11 15:26:28.650 -0600,"Success",0:01:36,0,0,0,"20160511_152628.650/LogFile.txt","","",1
+2016-05-11 15:28:49.739 -0600,"Failure",0:00:29,1,0,1,"20160511_152849.739/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Route Blue""",0
+2016-05-11 15:29:57.179 -0600,"Success",0:01:34,0,0,0,"20160511_152957.179/LogFile.txt","","",1
+2016-05-11 15:32:16.865 -0600,"Failure",0:00:32,1,0,1,"20160511_153216.865/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Route Blue""",0
+2016-05-11 15:34:21.616 -0600,"Failure",0:00:31,1,0,1,"20160511_153421.616/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Microphone""",0
+2016-05-11 15:35:01.684 -0600,"Running",0:00:00,0,0,0,"20160511_153501.684/LogFile.txt","","",0
+2016-05-11 15:36:29.804 -0600,"Running",0:00:00,0,0,0,"20160511_153629.804/LogFile.txt","","",0
+2016-05-11 15:36:45.439 -0600,"Failure",0:00:04,1,0,0,"20160511_153645.439/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'clicklocation'",0
+2016-05-11 15:37:31.359 -0600,"Running",0:00:00,0,0,0,"20160511_153731.359/LogFile.txt","","",0
+2016-05-11 15:38:14.617 -0600,"Success",0:01:41,0,0,0,"20160511_153814.617/LogFile.txt","","",1
+2016-05-11 15:40:31.781 -0600,"Success",0:01:36,0,0,0,"20160511_154031.781/LogFile.txt","","",1
+2016-05-11 15:46:44.704 -0600,"Success",0:01:36,0,0,0,"20160511_154644.704/LogFile.txt","","",1
+2016-05-12 10:00:38.207 -0600,"Success",0:01:38,0,0,0,"20160512_100038.207/LogFile.txt","","",1
+2016-05-12 13:43:32.422 -0600,"Success",0:01:38,0,0,0,"20160512_134332.422/LogFile.txt","","",1
+2016-05-13 10:42:01.947 -0600,"Failure",0:00:47,1,0,1,"20160513_104201.947/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Navigate Icon""",0
+2016-05-13 11:17:24.285 -0600,"Failure",0:00:47,1,0,1,"20160513_111724.285/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Navigate Icon""",0
+2016-05-13 11:25:38.856 -0600,"Failure",0:00:46,1,0,1,"20160513_112538.856/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Navigate Icon""",0
+2016-05-13 11:28:24.166 -0600,"Success",0:02:10,0,0,0,"20160513_112824.166/LogFile.txt","","",1
+2016-05-13 11:31:24.521 -0600,"Success",0:01:31,0,0,0,"20160513_113124.521/LogFile.txt","","",1
+2016-05-13 11:33:23.217 -0600,"Success",0:01:48,0,0,0,"20160513_113323.217/LogFile.txt","","",1
+2016-05-13 11:35:33.447 -0600,"Failure",0:01:05,1,0,1,"20160513_113533.447/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Google Maps/Navigate Icon"" within 20.00 seconds",0
+2016-05-13 12:16:15.376 -0600,"Success",0:01:45,0,0,0,"20160513_121615.376/LogFile.txt","","",1
+2016-05-18 13:31:32.614 -0600,"Failure",0:00:22,1,0,1,"20160518_133132.614/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Grey Image """,0
+2016-05-18 13:37:25.093 -0600,"Success",0:01:29,0,0,0,"20160518_133725.093/LogFile.txt","","",1
+2016-05-18 14:37:08.360 -0600,"Success",0:01:36,0,0,0,"20160518_143708.360/LogFile.txt","","",1
+2016-05-18 15:04:47.969 -0600,"Success",0:01:41,0,0,0,"20160518_150447.969/LogFile.txt","","",1
+2016-05-19 09:49:46.267 -0600,"Failure",0:00:26,1,0,1,"20160519_094946.267/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Google Maps/Grey Image"" within 10.00 seconds",0
+2016-05-19 09:50:20.358 -0600,"Success",0:01:40,0,0,0,"20160519_095020.358/LogFile.txt","","",1
+2016-05-24 08:58:56.876 -0600,"Failure",0:00:00,1,0,1,"20160524_085856.876/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: Apple/Sleep Screen",0
+2016-05-24 08:59:54.008 -0600,"Failure",0:00:00,1,0,1,"20160524_085954.008/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: Apple/Sleep Screen",0
+2016-05-24 16:26:17.597 -0600,"Running",0:00:00,0,0,0,"20160524_162617.597/LogFile.txt","","",0
+2016-05-24 16:26:44.234 -0600,"Running",0:00:00,0,0,0,"20160524_162644.234/LogFile.txt","","",0
+2016-05-24 16:26:54.991 -0600,"Success",0:02:01,0,0,0,"20160524_162654.991/LogFile.txt","","",1
+2016-05-31 09:37:20.609 -0600,"Success",0:01:48,0,0,0,"20160531_093720.609/LogFile.txt","","",1
+2016-06-02 09:04:51.748 -0600,"Failure",0:00:47,1,0,1,"20160602_090451.748/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Grey Image""",0
+2016-06-02 09:06:40.707 -0600,"Failure",0:01:17,1,0,1,"20160602_090640.707/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/RE-Center""",0
+2016-06-02 09:12:00.357 -0600,"Success",0:01:39,0,0,0,"20160602_091200.357/LogFile.txt","","",1
+2016-06-02 09:14:32.553 -0600,"Success",0:01:36,0,0,0,"20160602_091432.553/LogFile.txt","","",1
+2016-06-02 09:19:20.740 -0600,"Success",0:01:45,0,0,0,"20160602_091920.740/LogFile.txt","","",1
+2016-06-02 10:34:26.556 -0600,"Success",0:01:46,0,0,0,"20160602_103426.556/LogFile.txt","","",1
+2016-06-03 09:16:23.352 -0600,"Success",0:02:01,0,0,0,"20160603_091623.352/LogFile.txt","","",1
+2016-06-03 10:29:25.688 -0600,"Success",0:01:58,0,0,0,"20160603_102925.688/LogFile.txt","","",1
+2016-06-23 15:56:03.856 -0600,"Running",0:00:00,0,0,0,"20160623_155603.856/LogFile.txt","","",0
+2016-06-23 15:56:36.161 -0600,"Success",0:01:44,0,0,0,"20160623_155636.161/LogFile.txt","","",1
+2016-06-23 16:02:54.728 -0600,"Success",0:01:52,0,0,0,"20160623_160254.728/LogFile.txt","","",1
+2016-06-28 09:15:52.135 -0600,"Success",0:01:48,0,0,0,"20160628_091552.135/LogFile.txt","","",1
+2016-06-29 11:50:40.730 -0600,"Failure",0:00:22,1,0,1,"20160629_115040.730/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Google Maps/Google Image""",0
+2016-06-29 11:51:19.731 -0600,"Success",0:01:45,0,0,0,"20160629_115119.731/LogFile.txt","","",1
+2016-06-29 12:56:47.636 -0600,"Success",0:01:47,0,0,0,"20160629_125647.636/LogFile.txt","","",1
+2016-06-30 11:56:11.043 -0600,"Success",0:01:42,0,0,0,"20160630_115611.043/LogFile.txt","","",1

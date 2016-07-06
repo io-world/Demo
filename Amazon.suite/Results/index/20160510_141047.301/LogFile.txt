@@ -1,0 +1,7 @@
+﻿2016-05-10 14:10:47.302 -0600	START		Running index.script
+2016-05-10 14:10:47.944 -0600	click	Browsers Icon/Internet Explorer	at (455, 879)	10	on_index	index.script
+2016-05-10 14:10:48.853 -0600	click	indicators	at (198, 41)	15	on_index	index.script
+2016-05-10 14:10:49.746 -0600	typetext		www.amazon.com[return]	17	on_index	index.script
+2016-05-10 14:10:51.281 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(388,135), ImageRectangle:(376,130,401,140), Language:"English", searchRectangle:(0,90,720,450), Text:"Deal", TextPlatform:"Generic OCR")	at (388, 135)	20	on_index	index.script
+2016-05-10 14:10:51.760 -0600	EndTestCase		(Duration:"4.455609", Errors:"0", Exceptions:"0", StartTime:"2016-05-10 14:10:47 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-05-10 14:10:51.764 -0600	SUCCESS		Execution Time 0:00:04 index.script

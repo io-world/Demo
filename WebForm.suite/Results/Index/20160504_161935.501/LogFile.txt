@@ -1,0 +1,7 @@
+﻿2016-05-04 16:19:35.502 -0600	START		Running Index.script
+2016-05-04 16:19:37.490 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,107), ImageRectangle:(352,97,420,108), Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	at (502, 107)	34	on_index	Index.script
+2016-05-04 16:19:38.256 -0600	typetext		Bruce	35	on_index	Index.script
+2016-05-04 16:19:40.003 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,159), ImageRectangle:(352,149,418,160), Language:"English", searchRectangle:(317,73,1116,461), text:"Last Name", TextPlatform:"Generic OCR")	at (502, 159)	34	on_index	Index.script
+2016-05-04 16:19:40.772 -0600	typetext		Wayne	35	on_index	Index.script
+2016-05-04 16:19:41.079 -0600	EndTestCase		(Duration:"5.575106", Errors:"1", Exceptions:"0", StartTime:"2016-05-04 16:19:35 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-05-04 16:19:41.080 -0600	ABORTED		Execution Time 0:00:05 Index.script
