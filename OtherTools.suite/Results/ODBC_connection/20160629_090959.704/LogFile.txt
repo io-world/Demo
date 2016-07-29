@@ -1,3 +1,0 @@
-﻿2016-06-29 09:09:59.705 -0600	START		Running ODBC_connection.script
-2016-06-29 09:10:00.287 -0600	EndTestCase		(Duration:"0.580695", Errors:"0", Exceptions:"0", StartTime:"2016-06-29 09:09:59 -0600", Successes:"1", TestCase:"ODBC_connection.script", Warnings:"0")
-2016-06-29 09:10:00.291 -0600	SUCCESS		Execution Time 0:00:00 ODBC_connection.script

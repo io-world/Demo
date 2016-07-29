@@ -1,1 +1,5 @@
-﻿log MonthNames
+﻿Click "image0001"
+Click "Time"
+click (313,1129)
+wait 1
+click (313,1129)

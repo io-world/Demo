@@ -1,0 +1,7 @@
+﻿http://localhost/phpmyadmin/sql.php?server=1&db=openemr&table=patient_data&pos=0&token=a7d36b6540c42409ac522d53731f9b86
+
+
+delete * FROM openemr.patient_data
+
+
+http://localhost/openemr/interface/login/login_frame.php?site=default

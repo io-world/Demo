@@ -1,242 +1,341 @@
 ﻿<?xml version="1.0"?>
 <runHistory script="index">
  <run>
-  <RunDate>2016-06-30 11:49:02.018 -0600</RunDate>
+  <RunDate>2016-07-27 15:46:28.828 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.542218</Duration>
+  <Duration>0.620622</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20160630_114902.018/LogFile.txt</LogFile>
+  <LogFile>20160727_154628.828/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-06-30 12:21:09.024 -0600</RunDate>
+  <RunDate>2016-07-27 15:46:51.048 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>1.140594</Duration>
+  <Duration>0.598259</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20160630_122109.024/LogFile.txt</LogFile>
+  <LogFile>20160727_154651.048/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-06-30 12:34:35.189 -0600</RunDate>
+  <RunDate>2016-07-27 15:48:28.709 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.981276</Duration>
+  <Duration>0.657596</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20160630_123435.189/LogFile.txt</LogFile>
+  <LogFile>20160727_154828.709/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-06-30 12:34:51.834 -0600</RunDate>
+  <RunDate>2016-07-28 15:31:02.878 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.601437</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160728_153102.878/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-28 15:31:16.488 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.570514</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160728_153116.488/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-28 15:31:44.723 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.684347</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160728_153144.723/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-28 15:32:06.378 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.608397</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160728_153206.378/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-28 16:20:47.692 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.334326</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160728_162047.692/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-28 16:26:33.009 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160728_162633.009/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-28 16:26:44.956 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.356238</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160728_162644.956/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 08:51:43.370 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.255299</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_085143.370/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 08:52:12.832 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160729_085212.832/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 08:52:55.739 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>0.386794</Duration>
+  <Duration>47.535051</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
   <Successes>0</Successes>
-  <LogFile>20160630_123451.834/LogFile.txt</LogFile>
+  <LogFile>20160729_085255.739/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
-  <ErrorMessage>Error Running Script Command -- click Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;(TEXT:&quot;MENU&quot;)&quot;</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-06-30 12:35:15.992 -0600</RunDate>
+  <RunDate>2016-07-29 08:53:47.235 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.788279</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_085347.235/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 08:54:50.834 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.906072</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_085450.834/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 09:04:06.671 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.602569</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_090406.671/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 09:06:03.393 -0600</RunDate>
   <Status>Failure</Status>
-  <Duration>4.245888</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20160630_123515.992/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome Icon&quot;</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 12:35:34.092 -0600</RunDate>
-  <Status>Failure</Status>
-  <Duration>4.470295</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20160630_123534.092/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome Icon&quot;</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 12:35:59.730 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.984487</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160630_123559.730/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 13:46:44.395 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.122713</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160630_134644.395/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 13:46:55.526 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.882153</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160630_134655.526/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 13:47:06.220 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.790092</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160630_134706.220/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 13:48:12.013 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.220193</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160630_134812.013/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 13:48:19.775 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>4.267081</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160630_134819.775/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 13:49:20.536 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.052653</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160630_134920.536/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-06-30 13:51:14.196 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>3.958004</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160630_135114.196/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-07-06 08:31:20.226 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.491883</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160706_083120.226/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-07-06 08:39:31.568 -0600</RunDate>
-  <Status>Failure</Status>
-  <Duration>0.417156</Duration>
+  <Duration>1.636515</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>0</Successes>
-  <LogFile>20160706_083931.568/LogFile.txt</LogFile>
+  <LogFile>20160729_090603.393/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
-  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;6&#x27;.</ErrorMessage>
+  <ErrorMessage>Error Running Script Command -- click Error - Error Computing Rectangle: (
+    image0001,
+    image0002
+)</ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-07-06 08:39:39.953 -0600</RunDate>
-  <Status>Failure</Status>
-  <Duration>0.431986</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20160706_083939.953/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;6&#x27;.</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-07-06 08:40:18.856 -0600</RunDate>
-  <Status>Failure</Status>
-  <Duration>0.403018</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20160706_084018.856/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;word&#x27;</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-07-06 09:01:13.028 -0600</RunDate>
-  <Status>Failure</Status>
-  <Duration>0.337069</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20160706_090113.028/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>Unknown Property or Function -- Unable to access global property or function &#x27;DAYNAME&#x27;</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-07-06 09:01:36.468 -0600</RunDate>
+  <RunDate>2016-07-29 09:06:30.874 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.327825</Duration>
+  <Duration>2.335247</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20160706_090136.468/LogFile.txt</LogFile>
+  <LogFile>20160729_090630.874/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 09:06:48.484 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.232466</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_090648.484/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 09:07:12.758 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.033785</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_090712.758/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 09:48:12.668 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.882042</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_094812.668/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 11:04:45.305 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.851610</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_110445.305/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 11:05:08.679 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.702684</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_110508.679/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 11:05:18.846 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.353419</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_110518.846/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 11:54:51.137 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.979890</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_115451.137/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 12:20:27.927 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.291012</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_122027.927/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 12:20:40.145 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.948160</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_122040.145/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-29 12:21:27.430 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>6.231285</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160729_122127.430/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>

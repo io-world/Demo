@@ -1,4 +1,0 @@
-﻿2016-06-30 12:21:09.025 -0600	START		Running index.script
-2016-06-30 12:21:09.589 -0600	click	Chrome Icon	at (287, 296)	1	on_index	index.script
-2016-06-30 12:21:10.166 -0600	EndTestCase		(Duration:"1.138521", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 12:21:09 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-06-30 12:21:10.171 -0600	SUCCESS		Execution Time 0:00:01 index.script

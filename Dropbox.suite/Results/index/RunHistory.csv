@@ -77,3 +77,16 @@
 2016-06-15 14:22:25.752 -0600,"Failure",0:01:18,1,0,1,"20160615_142225.752/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Recents"")""",0
 2016-06-30 15:22:30.115 -0600,"Failure",0:01:08,1,0,1,"20160630_152230.115/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/DropBox Menu Icon""",0
 2016-06-30 15:25:01.373 -0600,"Success",0:01:31,0,0,0,"20160630_152501.373/LogFile.txt","","",1
+2016-07-12 11:58:41.751 -0600,"Success",0:01:34,0,0,0,"20160712_115841.751/LogFile.txt","","",1
+2016-07-15 10:34:50.273 -0600,"Success",0:01:24,0,0,0,"20160715_103450.273/LogFile.txt","","",1
+2016-07-15 13:49:45.399 -0600,"Failure",0:00:42,1,0,1,"20160715_134945.399/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/DropBox Icon""",0
+2016-07-15 13:52:22.001 -0600,"Success",0:01:25,0,0,0,"20160715_135222.001/LogFile.txt","","",1
+2016-07-15 13:58:26.522 -0600,"Running",0:00:00,0,0,0,"20160715_135826.522/LogFile.txt","","",0
+2016-07-15 13:59:50.505 -0600,"Success",0:01:48,0,0,0,"20160715_135950.505/LogFile.txt","","",1
+2016-07-15 14:04:57.538 -0600,"Running",0:00:00,0,0,0,"20160715_140457.538/LogFile.txt","","",0
+2016-07-15 14:09:40.939 -0600,"Failure",0:00:51,1,0,1,"20160715_140940.939/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Apple/DropBox Icon""",0
+2016-07-15 15:32:53.251 -0600,"Failure",0:00:29,1,0,1,"20160715_153253.251/LogFile.txt","","Image Not Found -- rightclick Error - No Image Found On Screen: ""Windows/Note File Icon""",0
+2016-07-15 15:33:35.725 -0600,"Success",0:07:54,0,0,0,"20160715_153335.725/LogFile.txt","","",1
+2016-07-20 09:22:28.933 -0600,"Success",0:02:07,0,0,0,"20160720_092228.933/LogFile.txt","","",1
+2016-07-20 12:42:34.055 -0600,"Success",0:02:04,0,0,0,"20160720_124234.055/LogFile.txt","","",1
+2016-07-20 16:20:06.541 -0600,"Failure",0:01:54,1,0,1,"20160720_162006.541/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Some File"")""",0

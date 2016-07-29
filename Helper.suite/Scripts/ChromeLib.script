@@ -1,0 +1,4 @@
+﻿function open
+	
+	return "Chrome has Opened"
+end open

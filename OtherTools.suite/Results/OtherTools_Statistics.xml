@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="ODBC_connection">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>4</NumberOfRuns>
-  <NumberOfFails>1</NumberOfFails>
-  <FirstRun>2016-06-29 09:07:40 -0600</FirstRun>
-  <LastRun>2016-06-29 09:16:22 -0600</LastRun>
-  <TotalTimeOnSuccess>1.828180</TotalTimeOnSuccess>
+ <script name="Output">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-07-13 08:59:07 -0600</FirstRun>
+  <LastRun>2016-07-13 09:16:23 -0600</LastRun>
+  <TotalTimeOnSuccess>8.717036</TotalTimeOnSuccess>
  </script>
  <script name="RESTful">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfRuns>5</NumberOfRuns>
   <NumberOfFails>1</NumberOfFails>
   <FirstRun>2016-06-29 09:37:28 -0600</FirstRun>
-  <LastRun>2016-06-29 09:38:00 -0600</LastRun>
-  <TotalTimeOnSuccess>2.101908</TotalTimeOnSuccess>
+  <LastRun>2016-07-06 10:02:12 -0600</LastRun>
+  <TotalTimeOnSuccess>3.966850</TotalTimeOnSuccess>
  </script>
  <script name="index">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>39</NumberOfRuns>
-  <NumberOfFails>11</NumberOfFails>
+  <NumberOfRuns>48</NumberOfRuns>
+  <NumberOfFails>12</NumberOfFails>
   <FirstRun>2016-06-23 13:14:01 -0600</FirstRun>
-  <LastRun>2016-06-24 09:26:35 -0600</LastRun>
-  <TotalTimeOnSuccess>23.494359</TotalTimeOnSuccess>
+  <LastRun>2016-07-29 12:44:35 -0600</LastRun>
+  <TotalTimeOnSuccess>89.951936</TotalTimeOnSuccess>
  </script>
 </statistics>

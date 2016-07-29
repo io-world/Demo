@@ -1,0 +1,5 @@
+﻿put false into found
+repeat with each line of file "/Users/randyhesse/Desktop/data.txt" by reference 
+	
+end repeat
+log it

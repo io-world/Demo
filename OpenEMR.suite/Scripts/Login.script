@@ -1,0 +1,13 @@
+﻿TypeText windowsKey & "r"
+TypeText "chrome.exe", returnkey
+TypeText controlKey & "l" 
+TypeText  "http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default" , enterKey
+
+
+
+waitfor 5, "Login/Logo"
+log the result
+
+TypeText "admin", tabKey
+TypeText "pass", enterkey
+wait 6

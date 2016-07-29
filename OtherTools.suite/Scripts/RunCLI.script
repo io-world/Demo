@@ -1,23 +1,13 @@
-﻿(* 
+﻿(*
 
-/Applications/TestPlant/eggPlant.app/runscript ~ /Users/randyhesse/Documents/Test\ SUTs/Demo/Command\ Line\ Interface.suite/Scripts/index.script 
-
-
+--Run this------
 
 
 
-------With Param-----------------
-
-
-/Applications/TestPlant/eggPlant.app/runscript ~ /Users/randyhesse/Documents/Test\ SUTs/Demo/Command\ Line\ Interface.suite/Scripts/index.script -params "Hello From Test Plant" "second Line" -CommandLineOutput YES
+/Applications/TestPlant/eggPlant.app/runscript ~ /Users/randyhesse/Documents/Demos/OtherTools.suite/Scripts/index.script -params "Hello From Test Plant" "second Line" -CommandLineOutput YES
 
 
 
 
 
-/Applications/TestPlant/eggPlant.app/runscript ~ /Users/randyhesse/Documents/Test\ SUTs/Demo/Command\ Line\ Interface.suite/Scripts/index.script -params "Hello From Test Plant" "This is another Line" -CommandLineOutput YES > /Users/randyhesse/Desktop/output.txt
-
-
-
-
- *)
+*)

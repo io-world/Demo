@@ -1,0 +1,17 @@
+﻿click "PatientAllergies/Allergies"
+Click "PatientAllergies/Add"
+
+put ImageLocation("PatientInformation/Type") into ILT
+click(Text:"Sulfa",searchRectangle: (ILT+(50,0),ILT+(150,100)))
+
+Click "PatientAllergies/BeginDate"
+TypeText the year, " - ",the month," - ", the day
+Click "PatientAllergies/Occurrence"
+TypeText downArrow,downArrow,downArrow, returnKey
+Click "PatientAllergies/Severity"
+TypeText downArrow,downArrow,downArrow ,returnKey
+click "PatientAllergies/Type"
+TypeText pageDown
+Click "PatientAllergies/Save"
+
+

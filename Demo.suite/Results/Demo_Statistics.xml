@@ -2,18 +2,10 @@
 <statistics>
  <script name="index">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>20</NumberOfRuns>
-  <NumberOfFails>7</NumberOfFails>
-  <FirstRun>2016-06-30 11:49:02 -0600</FirstRun>
-  <LastRun>2016-07-06 09:01:36 -0600</LastRun>
-  <TotalTimeOnSuccess>17.761172</TotalTimeOnSuccess>
- </script>
- <script name="Notes">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>3</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-06-30 14:05:10 -0600</FirstRun>
-  <LastRun>2016-06-30 15:20:08 -0600</LastRun>
-  <TotalTimeOnSuccess>3.619127</TotalTimeOnSuccess>
+  <NumberOfRuns>26</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-07-27 15:46:28 -0600</FirstRun>
+  <LastRun>2016-07-29 12:21:27 -0600</LastRun>
+  <TotalTimeOnSuccess>100.425555</TotalTimeOnSuccess>
  </script>
 </statistics>

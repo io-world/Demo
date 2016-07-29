@@ -1,3 +1,0 @@
-﻿2016-06-30 15:19:50.061 -0600	START		Running Notes.script
-2016-06-30 15:19:57.170 -0600	EndTestCase		(Duration:"7.107341", Errors:"1", Exceptions:"0", StartTime:"2016-06-30 15:19:50 -0600", Successes:"0", TestCase:"Notes.script", Warnings:"0")
-2016-06-30 15:19:57.171 -0600	ABORTED		Execution Time 0:00:07 Notes.script

@@ -1,0 +1,45 @@
+﻿Click "NewPatient/New Patient Button"
+Click "NewPatient/Name"
+put FoundImageLocation() into FILName
+
+click text: "Mr",searchRectangle:(FILName+(-100,20),FILName+(0,100))
+TypeText tabKey , "Jane" , tabkey
+TypeText "A" , tabKey
+TypeText "Doe" , tabKey
+TypeText "123456789", tabkey
+Click "NewPatient/DateOfBirth"
+put FoundImageLocation() into FILDOB
+
+put (FILDOB+(-10,30),FILDOB+(260,70)) into SRChange
+
+moveto (image:"NewPatient/MonthBack", searchRectangle:(SRChange))
+repeat 6 times
+	click FoundImageLocation()
+end repeat
+
+
+moveto (image:"NewPatient/YearBack", searchRectangle:(SRChange))
+repeat 6 times
+	click FoundImageLocation()
+end repeat
+
+
+put (FILDOB+(22,65),FILDOB+(270,200)) into DaySelectSquare
+
+click (text:"10",searchRectangle:(DaySelectSquare))
+
+Click "Login/Social Security"
+TypeText "555-33-7777"
+-----
+Click "NewPatient/MaritalStatus"
+put FoundImageLocation() into FILMS
+put (FILMS+(-120,10),FILMS+(0,150)) into MSSquare
+click (Text:"Divorced", searchRectangle:(MSSquare)) 
+Click "NewPatient/CreateNewPatient"
+-------
+wait 5
+Click "NewPatient/OK"
+Click "NewPatient/Sex"
+TypeText downarrow , returnkey
+Click "NewPatient/CreateNewPatient"
+Click "NewPatient/ConfirmCreateNewPatient"

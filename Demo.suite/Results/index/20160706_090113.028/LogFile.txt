@@ -1,3 +1,0 @@
-﻿2016-07-06 09:01:13.028 -0600	START		Running index.script
-2016-07-06 09:01:13.366 -0600	EndTestCase		(Duration:"0.334912", Errors:"1", Exceptions:"0", StartTime:"2016-07-06 09:01:13 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-07-06 09:01:13.899 -0600	FAILURE	Screen_Error.png	Unknown Property or Function Unable to access global property or function 'DAYNAME' -- Execution Time 0:00:00 index.script

@@ -1,1 +1,0 @@
-2016-07-05 10:36:24.662 -0600,Failure,0:00:00,1,0,0,20160705_103624.662/LogFile.txt,"","STDatabaseConnectionError -- Failed to connect to ODBC database odbc:3 Reason: [iODBC][Driver Manager]Data source name not found and no default driver specified. Driver could not be loaded, SQLSTATE=IM002",0

@@ -1,0 +1,18 @@
+﻿{
+    CaptureDate = "2016-07-15 20:06:17 +0000";
+    CaptureHost = "Samsung Tablet";
+    CaptureScreenSize =     (
+        800,
+        1280
+    );
+    HasAlpha = 1;
+    HotSpotX = 16;
+    HotSpotY = 21;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 42;
+    OriginalLocationY = 51;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

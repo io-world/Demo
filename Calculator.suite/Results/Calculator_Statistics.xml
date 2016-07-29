@@ -1,13 +1,5 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="Index">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>66</NumberOfRuns>
-  <NumberOfFails>23</NumberOfFails>
-  <FirstRun>2016-05-06 12:41:50 -0600</FirstRun>
-  <LastRun>2016-06-15 14:36:50 -0600</LastRun>
-  <TotalTimeOnSuccess>416.274856</TotalTimeOnSuccess>
- </script>
  <script name="Calculator">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>8</NumberOfRuns>
@@ -15,5 +7,13 @@
   <FirstRun>2016-05-06 15:31:26 -0600</FirstRun>
   <LastRun>2016-06-08 10:35:17 -0600</LastRun>
   <TotalTimeOnSuccess>0.018126</TotalTimeOnSuccess>
+ </script>
+ <script name="Index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>70</NumberOfRuns>
+  <NumberOfFails>23</NumberOfFails>
+  <FirstRun>2016-05-06 12:41:50 -0600</FirstRun>
+  <LastRun>2016-07-26 15:23:28 -0600</LastRun>
+  <TotalTimeOnSuccess>516.170220</TotalTimeOnSuccess>
  </script>
 </statistics>

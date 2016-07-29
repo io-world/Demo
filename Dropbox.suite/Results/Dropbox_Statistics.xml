@@ -2,18 +2,18 @@
 <statistics>
  <script name="AndroidLib">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfRuns>2</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-06-10 14:24:05 -0600</FirstRun>
-  <LastRun>2016-06-10 14:24:05 -0600</LastRun>
-  <TotalTimeOnSuccess>3.137595</TotalTimeOnSuccess>
+  <LastRun>2016-07-15 13:57:45 -0600</LastRun>
+  <TotalTimeOnSuccess>4.148888</TotalTimeOnSuccess>
  </script>
  <script name="index">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>68</NumberOfRuns>
-  <NumberOfFails>36</NumberOfFails>
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>79</NumberOfRuns>
+  <NumberOfFails>40</NumberOfFails>
   <FirstRun>2016-05-17 15:44:03 -0600</FirstRun>
-  <LastRun>2016-06-30 15:25:01 -0600</LastRun>
-  <TotalTimeOnSuccess>1557.399856</TotalTimeOnSuccess>
+  <LastRun>2016-07-20 16:20:06 -0600</LastRun>
+  <TotalTimeOnSuccess>2658.327244</TotalTimeOnSuccess>
  </script>
 </statistics>

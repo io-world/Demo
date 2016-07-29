@@ -1,5 +1,0 @@
-﻿2016-06-30 14:12:05.287 -0600	START		Running Untitled.script
-2016-06-30 14:12:08.638 -0600	everyimagelocation	(TEXT:"gmail")	found 2 images	1	on_untitled	Untitled.script
-2016-06-30 14:12:08.639 -0600	Log		((1203,90),(1039,573))	1	on_untitled	Untitled.script
-2016-06-30 14:12:09.070 -0600	EndTestCase		(Duration:"3.781322", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 14:12:05 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
-2016-06-30 14:12:09.073 -0600	SUCCESS		Execution Time 0:00:03 Untitled.script

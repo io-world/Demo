@@ -1,4 +1,0 @@
-﻿2016-06-30 12:35:15.993 -0600	START		Running index.script
-2016-06-30 12:35:19.968 -0600	Exception	Chrome Icon	No Image Found On Screen: "Chrome Icon"	1	on_index	index.script
-2016-06-30 12:35:20.239 -0600	EndTestCase		(Duration:"4.244512", Errors:"1", Exceptions:"1", StartTime:"2016-06-30 12:35:15 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-06-30 12:35:20.312 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Chrome Icon" -- Execution Time 0:00:04 index.script

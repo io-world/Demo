@@ -1,0 +1,10 @@
+﻿
+
+put file ("/Users/randyhesse/Documents/Demos/OtherTools.suite/Results/index/20160713_091515.911/LogFile.xml") as a tree into XMLFile
+
+put  node "testsuites" of  XMLFile into TestSuites
+
+log TestSuites
+
+
+log line 3 of XMLFile

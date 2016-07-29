@@ -1,0 +1,31 @@
+﻿if ImageFound(10, "VNC/Logo") then
+	click foundimagelocation()
+	wait 1
+	Click "VNC/Cancel"
+	
+end if
+
+Spotify. DefineArtist "Nicki"
+
+
+
+--------------Open Spotify and Verify---------------
+Spotify.Open
+Spotify.OpenVerify
+------------------------------------------------------------
+
+------------------------------------------------------------
+Spotify. FindArtist 
+Spotify.Play
+Spotify.GetSongLength
+------------------------------------------------------------
+
+
+
+--------------Artist's Page-------------------
+Spotify.GetPopularList
+Spotify.GetTrackInfo "9"
+Spotify.close
+------------------------------------------------------------
+
+

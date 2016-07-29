@@ -1,0 +1,89 @@
+﻿on Open
+	TypeText windowskey & "r"
+	TypeText "C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe" , returnkey
+end Open
+
+
+on DefineArtist ArtistName
+	put ArtistName into Global ArtistName
+	
+	
+end DefineArtist
+
+
+on OpenVerify
+	put RemoteScreenSize() into RSS
+	waitfor 10,(text:"Spotify Free", searchRectangle:(RSS*(.4,0),RSS*(0.6,0.1)))
+	log "Top Portion load time:" , the result
+	
+	
+	waitfor 10,("Bottom Buttons")
+	log "Bottom Portion Load time:" , the result
+end OpenVerify
+
+
+on FindArtist 
+	doubleclick "Search"
+	typetext Global ArtistName , enterkey
+end FindArtist
+
+
+on play 
+	put ImageLocation(image:"Albums", waitfor: 10) into ILAlbums
+	Try
+		click Text: Global ArtistName, searchRectangle: (ILAlbums +(-50,20),ILAlbums+(100,200))
+	Catch exception
+		click FoundImageLocation() +(0,100)
+		Log "You May have misspelled the Artist's Name"
+	End try
+	
+	waitfor 10, "Play Button"
+	log the result
+	click "Play Button"
+end play
+
+
+on GetSongLength
+	put imagelocation("Bottom Buttons") into ILBB
+	put ReadText(ILBB+(-100,-20),ILBB+(-50,20)) into SougLength
+	Log "The Sound Length is:" , SougLength
+end GetSongLength
+
+on GetPopularList
+	if imagefound("Popular")  Then
+		click FoundImageLocation()
+		Log "Found Popular List"
+	else
+		Log "Unable to Find Popular List"
+	end if
+	
+end GetPopularList
+
+
+
+on GetTrackInfo TrackNumber
+	wait 2
+	put RemoteScreenSize() into RSS
+	put imagelocation(Text: "Upgrade",SearchRectangle: (RSS*(0.70,0),RSS*(0.85,0.15))) into ILUB
+	repeat until ImageFound(2, text: TrackNumber, searchRectangle: (ILUB+(-910,120),ILUB+(-850,580)))
+		TypeText PageDown
+		Log "PageDown was pressed " & repeatindex() & " Times"
+		if repeatindex() = 10
+			exit repeat 
+		end if
+	end repeat
+	put FoundImageLocation() into FIL
+	put readtext (FIL+(70,-10),FIL+(300,10)) into TrackName
+	put readtext (FIL+(800,-10),FIL+(840,10)) into TrackLength
+	Log "The Track Name is: " & TrackName
+	Log "The Track Length  is: " & TrackLength
+end GetTrackInfo
+
+
+on close
+	click "Pause Button"
+	wait 5
+	TypeText altKey & F4
+	
+end close
+

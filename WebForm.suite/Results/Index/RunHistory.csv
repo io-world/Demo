@@ -96,3 +96,5 @@
 2016-05-26 14:26:54.141 -0600,"Running",0:00:00,0,0,0,"20160526_142654.141/LogFile.txt","","",0
 2016-05-26 14:27:05.091 -0600,"Failure",0:00:04,1,0,1,"20160526_142705.091/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome Icon""",0
 2016-06-08 10:51:26.198 -0600,"Success",0:07:16,0,0,0,"20160608_105126.198/LogFile.txt","","",1
+2016-07-25 09:50:12.491 -0600,"Success",0:07:44,0,0,0,"20160725_095012.491/LogFile.txt","","",1
+2016-07-25 10:28:20.741 -0600,"Failure",0:00:07,1,0,1,"20160725_102820.741/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome Refresh Icon""",0

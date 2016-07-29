@@ -1,0 +1,13 @@
+﻿
+on TurnOn
+	SetOption MouseMoveSpeed, 5
+	SetOption NextKeyDelay, 0.2
+	SetOption RemoteWorkInterval, 2
+end TurnOn
+
+
+on TurnOff
+	SetOption MouseMoveSpeed, 0
+	SetOption NextKeyDelay, 0.01
+	SetOption RemoteWorkInterval, 0.7
+end TurnOff

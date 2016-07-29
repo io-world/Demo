@@ -1,4 +1,0 @@
-﻿2016-06-30 15:19:05.258 -0600	START		Running Notes.script
-2016-06-30 15:19:18.110 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	1	on_notes	Notes.script
-2016-06-30 15:19:18.508 -0600	EndTestCase		(Duration:"13.248859", Errors:"1", Exceptions:"1", StartTime:"2016-06-30 15:19:05 -0600", Successes:"0", TestCase:"Notes.script", Warnings:"0")
-2016-06-30 15:19:18.509 -0600	ABORTED		Execution Time 0:00:13 Notes.script

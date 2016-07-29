@@ -1,16 +1,26 @@
 ﻿on unlock
+	Log "Apple iPhone 6s"
 	if imagefound ("Apple/Sleep Screen") Then
+		log "iphone is locked"
 		PressHomeButton
+		wait 2
 		SwipeRight (00,600)
+		wait 1
 		Click (160,845)
+		wait 1
 		Click (370,1035)
+		wait 1
 		Click (580,685)
+		wait 1
 		Click (370,1035)
 		wait 2
 		PressHomeButton
 		PressHomeButton
+	else
+		log "phone is already unlocked"
 	end if
-	Log "Apple iPhone 6s"
+	
+	waitfor 5, (image:"Apple/Phone Icon")
 end unlock
 
 
@@ -33,11 +43,11 @@ on DropBoxDelete FileName
 	click "Apple/DropBox Icon"
 	waitfor 15, Text: "Recents" 
 	Click (Text: FileName, waitfor: 5)
-	click (image:"Apple/DropBox Menu Icon", waiffor: 5)
+	click (image:"Apple/DropBox Menu Icon", waiffor: 10)
 	wait 2
-	click (Text: "Delete" , waitfor :5)
+	click (Text: "Delete" , waitfor :10)
 	wait 2
-	click (image: "Apple/DropBox Double Delete", waitfor :5)
+	click (image: "Apple/DropBox Double Delete", waitfor :10)
 	wait 4
 	TypeText HomeKey
 end DropBoxDelete

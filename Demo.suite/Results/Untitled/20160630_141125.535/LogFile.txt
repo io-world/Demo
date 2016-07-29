@@ -1,5 +1,0 @@
-﻿2016-06-30 14:11:25.536 -0600	START		Running Untitled.script
-2016-06-30 14:11:25.883 -0600	everyimagelocation	Google Logo	found 2 images	1	on_untitled	Untitled.script
-2016-06-30 14:11:25.884 -0600	Log		((700,294),(598,737))	1	on_untitled	Untitled.script
-2016-06-30 14:11:26.309 -0600	EndTestCase		(Duration:"0.771449", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 14:11:25 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
-2016-06-30 14:11:26.313 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

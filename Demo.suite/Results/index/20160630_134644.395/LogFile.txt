@@ -1,5 +1,0 @@
-﻿2016-06-30 13:46:44.396 -0600	START		Running index.script
-2016-06-30 13:46:44.863 -0600	imagefound	Google Logo	found at (700, 294)	6	on_index	index.script
-2016-06-30 13:46:45.141 -0600	Log		image found	7	on_index	index.script
-2016-06-30 13:46:45.519 -0600	EndTestCase		(Duration:"1.121409", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 13:46:44 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-06-30 13:46:45.523 -0600	SUCCESS		Execution Time 0:00:01 index.script

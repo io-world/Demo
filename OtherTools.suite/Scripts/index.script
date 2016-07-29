@@ -6,7 +6,6 @@ Connect "Windows 2012"
 
 typetext windowsKey , "r"
 typetext "notepad" , enterkey
-
 wait 2
 typetext notewrite1
 typetext enterkey
@@ -19,7 +18,13 @@ Click "Close"
 If imagefound ("DontSave") then
 	Click "DontSave"
 	log "successful Written"
+	return notewrite1
 Else
 	log "Nothing was Written"
 End if
 
+
+
+TypeText the long date
+
+typetext the time

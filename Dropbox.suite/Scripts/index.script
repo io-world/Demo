@@ -1,6 +1,5 @@
 ﻿Put "Some File" into FileName
-put "Hello From TestPlant!" into FileInfo
-
+put "Hello From TestPlant" into FileInfo
 
 
 
@@ -11,27 +10,22 @@ Windows.RIghtC  "Windows/Note File Icon","Copy"
 Windows.MovetoDropBox
 Windows.RIghtC  "Windows/Note File Icon","Delete"
 ----------------------------------------------------------------
-
-
-
+wait 5
 ----------------------------------------------------------------
 Connect "iPhone 6s"
 AppleLib.unlock
 Applelib.DropBoxRead FileName
-----------------------------------------------------------------
-Put "Some File" into FileName
-----------------------------------------------------------------
-Applelib.DropBoxDelete FileName
+--Applelib.DropBoxDelete FileName
 ----------------------------------------------------------------
 
-
+wait 5
 
 
 ----------------------------------------------------------------
---Connect "Samsung Tablet"
---AndroidLib.DropBoxDelete FileName
+Connect "Samsung Tablet"
+AndroidLib.DropBoxDelete "Some File"
 ----------------------------------------------------------------
 
 
 
---doubleclick "Drop Box/"
+
