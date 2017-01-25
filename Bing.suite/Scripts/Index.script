@@ -1,4 +1,6 @@
-﻿put "Oatmeal" into SearchItem
+﻿log "testing"
+
+put "Oatmeal" into SearchItem
 
 put ("chrome.exe","microsoft-edge:") into Browers
 Repeat 2 times
