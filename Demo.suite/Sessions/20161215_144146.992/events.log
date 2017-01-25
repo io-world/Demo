@@ -1,0 +1,86 @@
+1	0.000811994	start	
+2	6.35183	mouseDown	{button:2, clickCount:1, hotSpot:[668.558938, 879.118436]}
+3	6.46375	mouseUp	{button:2, clickCount:1, hotSpot:[668.284141, 879.118436]}
+4	8.84621	mouseDown	{button:2, clickCount:1, hotSpot:[662.888138, 878.340422]}
+5	8.96554	mouseUp	{button:2, clickCount:1, hotSpot:[662.888138, 878.340422]}
+6	9.78562	mouseDown	{button:2, clickCount:1, hotSpot:[661.788953, 877.225407]}
+7	9.89881	mouseUp	{button:2, clickCount:1, hotSpot:[661.788953, 877.225407]}
+8	11.0146	mouseDown	{button:1, clickCount:1, hotSpot:[635.633327, 839.506287]}
+9	11.1488	mouseUp	{button:1, clickCount:0, hotSpot:[635.633327, 839.227533]}
+10	12.9803	mouseDown	{button:2, clickCount:1, hotSpot:[666.881014, 877.899408]}
+11	13.1458	mouseUp	{button:2, clickCount:1, hotSpot:[666.881014, 877.899408]}
+12	15.5076	mouseDown	{button:1, clickCount:1, hotSpot:[747.68366, 716.663277]}
+13	15.6197	mouseUp	{button:1, clickCount:1, hotSpot:[747.68366, 716.663277]}
+14	17.124	mouseDown	{button:1, clickCount:1, hotSpot:[630.49963, 838.116679]}
+15	17.2453	mouseUp	{button:1, clickCount:1, hotSpot:[630.49963, 838.116679]}
+16	19.2199	mouseDown	{button:1, clickCount:1, hotSpot:[627.476869, 837.001664]}
+17	19.3073	mouseUp	{button:1, clickCount:1, hotSpot:[627.476869, 837.001664]}
+18	20.2519	mouseDown	{button:1, clickCount:1, hotSpot:[660.964563, 878.860484]}
+19	20.3473	mouseUp	{button:1, clickCount:1, hotSpot:[660.964563, 878.860484]}
+20	23.6219	mouseDown	{button:1, clickCount:1, hotSpot:[641.270818, 804.732803]}
+21	23.7519	mouseUp	{button:1, clickCount:1, hotSpot:[641.270818, 804.732803]}
+22	25.1015	mouseDown	{button:1, clickCount:1, hotSpot:[666.164878, 874.466993]}
+23	25.19	mouseUp	{button:1, clickCount:1, hotSpot:[666.164878, 874.466993]}
+24	27.0775	mouseDown	{button:1, clickCount:1, hotSpot:[629.16312, 807.016919]}
+25	27.1838	mouseUp	{button:1, clickCount:1, hotSpot:[629.16312, 807.016919]}
+26	28.6639	mouseDown	{button:1, clickCount:1, hotSpot:[664.403682, 881.514885]}
+27	28.7451	mouseUp	{button:1, clickCount:1, hotSpot:[664.403682, 881.514885]}
+28	31.2637	mouseDown	{button:1, clickCount:1, hotSpot:[30.29839, 147.381657]}
+29	31.3535	mouseUp	{button:1, clickCount:1, hotSpot:[30.29839, 147.381657]}
+30	31.423	mouseDown	{button:1, clickCount:2, hotSpot:[30.29839, 147.381657]}
+31	31.5446	mouseUp	{button:1, clickCount:2, hotSpot:[30.29839, 147.381657]}
+32	42.8612	mouseDown	{button:1, clickCount:1, hotSpot:[664.20383, 876.930011]}
+33	43.0204	mouseUp	{button:1, clickCount:1, hotSpot:[664.20383, 876.930011]}
+34	44.6771	mouseDown	{button:1, clickCount:1, hotSpot:[664.220485, 880.774316]}
+35	44.8525	mouseUp	{button:1, clickCount:1, hotSpot:[664.220485, 880.774316]}
+36	49.5113	mouseDown	{button:1, clickCount:1, hotSpot:[451.819486, 231.29068]}
+37	49.6576	mouseUp	{button:1, clickCount:1, hotSpot:[451.819486, 231.29068]}
+38	51.8146	mouseDown	{button:1, clickCount:1, hotSpot:[447.697539, 229.339405]}
+39	51.966	mouseUp	{button:1, clickCount:1, hotSpot:[447.697539, 229.339405]}
+40	52.7528	mouseDown	{button:1, clickCount:1, hotSpot:[447.697539, 229.339405]}
+41	52.8444	mouseUp	{button:1, clickCount:1, hotSpot:[447.697539, 229.339405]}
+42	52.9123	mouseDown	{button:1, clickCount:2, hotSpot:[447.697539, 229.339405]}
+43	53.0435	mouseUp	{button:1, clickCount:2, hotSpot:[447.697539, 229.339405]}
+44	53.6964	mouseDown	{button:1, clickCount:1, hotSpot:[519.348631, 232.010447]}
+45	53.768	mouseUp	{button:1, clickCount:1, hotSpot:[519.348631, 232.010447]}
+46	54.2649	mouseDown	{button:1, clickCount:1, hotSpot:[522.479645, 230.059172]}
+47	55.1759	mouseUp	{button:1, clickCount:0, hotSpot:[321.028868, 226.909671]}
+48	55.7504	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+49	55.8533	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+50	55.953	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+51	56.0281	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+52	56.1087	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+53	56.251	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+54	56.3103	keyDown	{modifiers:256, string:@".", theKey:@"."}
+55	56.4138	keyUp	{modifiers:256, string:@".", theKey:@"."}
+56	56.5627	keyDown	{modifiers:256, string:@"a", theKey:@"a"}
+57	56.6909	keyDown	{modifiers:256, string:@"m", theKey:@"m"}
+58	56.7057	keyUp	{modifiers:256, string:@"a", theKey:@"a"}
+59	56.7902	keyDown	{modifiers:256, string:@"a", theKey:@"a"}
+60	56.7976	keyUp	{modifiers:256, string:@"m", theKey:@"m"}
+61	56.947	keyUp	{modifiers:256, string:@"a", theKey:@"a"}
+62	57.0611	keyDown	{modifiers:256, string:@"z", theKey:@"z"}
+63	57.1498	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+64	57.1753	keyUp	{modifiers:256, string:@"z", theKey:@"z"}
+65	57.2138	keyDown	{modifiers:256, string:@"n", theKey:@"n"}
+66	57.266	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+67	57.3578	keyUp	{modifiers:256, string:@"n", theKey:@"n"}
+68	57.6519	keyDown	{modifiers:256, string:@".", theKey:@"."}
+69	57.7629	keyUp	{modifiers:256, string:@".", theKey:@"."}
+70	57.7979	keyDown	{modifiers:256, string:@"c", theKey:@"c"}
+71	57.8862	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+72	57.9576	keyUp	{modifiers:256, string:@"c", theKey:@"c"}
+73	57.9739	keyDown	{modifiers:256, string:@"m", theKey:@"m"}
+74	58.0507	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+75	58.1017	keyUp	{modifiers:256, string:@"m", theKey:@"m"}
+76	58.2496	keyDown	{modifiers:256, string:@"\r", theKey:@"\r"}
+77	58.3257	keyUp	{modifiers:256, string:@"\r", theKey:@"\r"}
+78	61.052	mouseDown	{button:1, clickCount:1, hotSpot:[623.617228, 333.938609]}
+79	61.1797	mouseUp	{button:1, clickCount:1, hotSpot:[623.617228, 333.938609]}
+80	61.9963	mouseDown	{button:1, clickCount:1, hotSpot:[619.220485, 331.987334]}
+81	62.1427	mouseUp	{button:1, clickCount:1, hotSpot:[619.220485, 331.987334]}
+82	65.7739	mouseDown	{button:1, clickCount:1, hotSpot:[1420.360381, 179.167899]}
+83	65.9165	mouseUp	{button:1, clickCount:1, hotSpot:[1420.360381, 179.167899]}
+84	67.4942	mouseDown	{button:1, clickCount:1, hotSpot:[1420.918301, 179.442493]}
+85	67.5974	mouseUp	{button:1, clickCount:1, hotSpot:[1420.918301, 179.442493]}
+86	69.2077	end	

@@ -1,6 +1,0 @@
-﻿2016-05-02 16:17:23.528 -0600	START		Running Datepicker.script
-2016-05-02 16:17:23.657 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
-2016-05-02 16:17:23.906 -0600	click	YearPicker	at (1052, 138)	16	on_datepicker	Datepicker.script
-2016-05-02 16:18:22.967 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchretangle:(1008,131,1094,610), text:"2006", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"2006")"	17	on_datepicker	Datepicker.script
-2016-05-02 16:18:23.185 -0600	EndTestCase		(Duration:"59.655322", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 16:17:23 -0600", Successes:"0", TestCase:"Datepicker.script", Warnings:"0")
-2016-05-02 16:18:23.185 -0600	ABORTED		Execution Time 0:00:59 Datepicker.script

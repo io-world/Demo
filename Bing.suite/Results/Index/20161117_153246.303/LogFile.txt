@@ -1,0 +1,10 @@
+﻿2016-11-17 15:32:46.304 -0700	START		Running Index.script
+2016-11-17 15:32:46.471 -0700	typetext		[windowsKey]r	5	on_index	Index.script
+2016-11-17 15:32:46.478 -0700	Log		Now Active: chrome.exe	6	on_index	Index.script
+2016-11-17 15:32:47.315 -0700	typetext		chrome.exe[returnKey]	7	on_index	Index.script
+2016-11-17 15:32:49.505 -0700	waitfor	Google Buttons	found at (717, 474)	9	on_index	Index.script
+2016-11-17 15:32:49.529 -0700	Log		(Chrome/IE) Google Load Time: 2.170107 seconds	10	on_index	Index.script
+2016-11-17 15:32:49.585 -0700	typetext		[controlKey]l	11	on_index	Index.script
+2016-11-17 15:32:50.456 -0700	typetext		www.bing.com[returnKey]	12	on_index	Index.script
+2016-11-17 15:32:57.673 -0700	EndTestCase		(Duration:"11.367209", Errors:"1", Exceptions:"0", StartTime:"2016-11-17 15:32:46 -0700", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-11-17 15:32:57.674 -0700	ABORTED		Execution Time 0:00:11 Index.script

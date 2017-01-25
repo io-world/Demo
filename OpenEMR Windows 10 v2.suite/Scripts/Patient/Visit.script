@@ -1,0 +1,29 @@
+﻿
+
+on Create Date
+	click "PatientVisit/Calendar"
+	Click "PatientVisit/Add"
+	waitfor 10,"PatientVisit/Patient"
+	-----------
+	put  the RemoteWorkInterval into defaultRWI
+	put the MouseDoubleClickDelay into clickTime 
+	set the RemoteWorkInterval to clickTime
+	Click text:"Date",hotspot:(120,4)
+	Click 
+	Click 
+	set the RemoteWorkInterval to defaultRWI
+	-------------
+	TypeText Date
+	moveto "PatientVisit/Patient"
+	click "PatientVisit/Save"
+	click "PatientVisit/Ok"
+end Create
+
+on Delete Date
+	click "PatientVisit/Top Patient"
+	wait 4	
+	click Text:Date
+	click (image:"PatientVisit/Delete", waitfor: 10)
+	click "PatientVisit/Ok"
+end Delete
+

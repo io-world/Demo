@@ -2,7 +2,9 @@
 SetOption NextKeyDelay, .08
 SetOption RemoteWorkInterval, 2
 
-put ("Chrome","Internet Explorer") into browsers
+put ("Chrome","Microsoft Edge") into browsers
+--put ("Chrome","Internet Explorer") into browsers
+
 --put ("Microsoft Edge","Chrome") into browsers
 
 
@@ -16,7 +18,9 @@ repeat Max Times
 	Click "indicators"
 	wait 3
 	typetext "www.amazon.com" , ReturnKey
-	click (Text:"Deal", searchRectangle: (RSS*(0,0.1),RSS*(0.5,0.4)), waitfor: 10)
+	WaitFor 10 , "indicators"
+	
+	click (Text:"Deal", waitfor: 10)
 	wait 3
 	--------------------------
 	Try

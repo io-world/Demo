@@ -1,0 +1,9 @@
+﻿2016-09-26 10:37:44.616 -0600	START		Running Index.script
+2016-09-26 10:37:44.758 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-09-26 10:37:45.611 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-09-26 10:37:46.336 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-09-26 10:37:46.579 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_login	Login.script
+2016-09-26 10:37:48.083 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-09-26 10:37:57.742 -0600	Exception	Login/Logo	Unable To Find Any Image On Screen "Login/Logo" within 5.00 seconds	6	on_login	Login.script
+2016-09-26 10:37:58.038 -0600	EndTestCase		(Duration:"13.420272", Errors:"1", Exceptions:"1", StartTime:"2016-09-26 10:37:44 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-09-26 10:37:58.039 -0600	ABORTED		Execution Time 0:00:13 Index.script

@@ -1,0 +1,19 @@
+﻿2016-08-11 07:58:23.189 -0600	START		Running ZeroState.script
+2016-08-11 07:58:23.686 -0600	imagefound	Chrome/Icon Open	found at (387, 880)	3	on_check	Chrome.script
+2016-08-11 07:58:23.706 -0600	Log		Chrome was Left Open	4	on_check	Chrome.script
+2016-08-11 07:58:23.820 -0600	rightclick		at (387, 880)	5	on_check	Chrome.script
+2016-08-11 07:58:25.575 -0600	click	Chrome/Close Windows	at (284, 829)	6	on_check	Chrome.script
+2016-08-11 07:58:26.301 -0600	typetext		[windowsKey]r	13	on_check	Chrome.script
+2016-08-11 07:58:27.151 -0600	typetext		Chrome.exe[returnKey]	14	on_check	Chrome.script
+2016-08-11 07:58:28.090 -0600	imagefound	Title Bar Menu/Float	found at (659, 14)	16	on_check	Chrome.script
+2016-08-11 07:58:28.224 -0600	click		at (659, 14)	17	on_check	Chrome.script
+2016-08-11 07:58:28.229 -0600	Log		Click Maximixed	18	on_check	Chrome.script
+2016-08-11 07:58:29.156 -0600	imagefound	Title Bar Menu/Maximized	found at (1414, 9)	24	on_check	Chrome.script
+2016-08-11 07:58:29.173 -0600	Log		Ready to Run	25	on_check	Chrome.script
+2016-08-11 07:58:29.425 -0600	click	Title Bar Menu/Maximized	at (1414, 9)	30	on_check	Chrome.script
+2016-08-11 07:58:29.599 -0600	imagefound	VNC/Logo	found at (1154, 810)	2	on_check	VNC.script
+2016-08-11 07:58:30.233 -0600	click		at (1154, 810)	3	on_check	VNC.script
+2016-08-11 07:58:32.033 -0600	click	VNC/Cancel	at (920, 623)	5	on_check	VNC.script
+2016-08-11 07:58:32.047 -0600	Log		VNC Dialog Box was Closed	6	on_check	VNC.script
+2016-08-11 07:58:32.535 -0600	EndTestCase		(Duration:"9.345576", Errors:"0", Exceptions:"0", StartTime:"2016-08-11 07:58:23 -0600", Successes:"1", TestCase:"ZeroState.script", Warnings:"0")
+2016-08-11 07:58:32.542 -0600	SUCCESS		Execution Time 0:00:09 ZeroState.script

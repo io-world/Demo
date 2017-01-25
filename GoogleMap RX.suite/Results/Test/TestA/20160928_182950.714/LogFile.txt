@@ -1,0 +1,5 @@
+﻿2016-09-28 18:29:50.715 -0600	START		Running TestA.script
+2016-09-28 18:29:50.832 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 18:29:50.902 -0600	Exception	TestA/image00013	Could Not Open Image: TestA/image00013	7	on_imagec	verify.script
+2016-09-28 18:29:51.288 -0600	EndTestCase		(Duration:"0.572033", Errors:"1", Exceptions:"1", StartTime:"2016-09-28 18:29:50 -0600", Successes:"0", TestCase:"TestA.script", Warnings:"0")
+2016-09-28 18:29:51.800 -0600	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: TestA/image00013 -- Execution Time 0:00:00 TestA.script

@@ -1,0 +1,17 @@
+﻿2016-10-19 07:57:52.511 -0600	START		Running ZeroState.script
+2016-10-19 07:57:52.696 -0600	moveto		at (400, 400)	2	on_check	Chrome.script
+2016-10-19 07:57:57.940 -0600	imagefound	Chrome/Icon Open	Unable to Find Image Chrome/Icon Open within 5.00 seconds	4	on_check	Chrome.script
+2016-10-19 07:57:57.946 -0600	Log		Found No Open Instance of Chrome	9	on_check	Chrome.script
+2016-10-19 07:57:58.435 -0600	imagefound	Chrome/Icon Normal	found at (452, 881)	13	on_check	Chrome.script
+2016-10-19 07:57:58.455 -0600	Log		 No instance of Chrome Opened	14	on_check	Chrome.script
+2016-10-19 07:57:58.490 -0600	typetext		[windowsKey]r	22	on_check	Chrome.script
+2016-10-19 07:57:59.338 -0600	typetext		Chrome.exe[returnKey]	23	on_check	Chrome.script
+2016-10-19 07:58:03.039 -0600	imagefound	Title Bar Menu/Float	Unable to Find Image Title Bar Menu/Float	25	on_check	Chrome.script
+2016-10-19 07:58:03.047 -0600	Log		Windows is already been Maximized	29	on_check	Chrome.script
+2016-10-19 07:58:03.142 -0600	imagefound	Title Bar Menu/Maximized	found at (1414, 9)	33	on_check	Chrome.script
+2016-10-19 07:58:03.164 -0600	Log		Ready to Run	34	on_check	Chrome.script
+2016-10-19 07:58:03.730 -0600	click	Title Bar Menu/Maximized	at (1414, 9)	39	on_check	Chrome.script
+2016-10-19 07:58:14.086 -0600	imagefound	VNC/Logo	Unable to Find Image VNC/Logo within 10.00 seconds	2	on_check	VNC.script
+2016-10-19 07:58:14.091 -0600	Log		VNC Dialog box is not Displayed	8	on_check	VNC.script
+2016-10-19 07:58:14.654 -0600	EndTestCase		(Duration:"22.142264", Errors:"0", Exceptions:"0", StartTime:"2016-10-19 07:57:52 -0600", Successes:"1", TestCase:"ZeroState.script", Warnings:"0")
+2016-10-19 07:58:14.663 -0600	SUCCESS		Execution Time 0:00:22 ZeroState.script

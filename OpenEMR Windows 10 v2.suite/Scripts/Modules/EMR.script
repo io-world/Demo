@@ -1,0 +1,37 @@
+﻿on Login username, password
+	
+	TypeText windowsKey & "r"
+	TypeText "chrome.exe", returnkey
+	waitfor 15,"Chrome/Refresh Icon"
+	TypeText controlKey & "l" 
+	TypeText  "http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default" , enterKey
+	waitfor 15, "Login/Logo"
+	log "Login/logo was Booted"  && the result
+	
+	TypeText username, tabKey
+	TypeText password, enterkey
+	wait 6 
+	waitfor 10,"Chrome/Refresh Icon"
+	log "EMR was loaded" && the result
+	
+end Login
+
+
+
+on Logout
+
+
+	click "Logout/Close Button"
+	wait 3
+	waitfor 10,"Logout/Logo"
+	TypeText altKey & F4
+	wait 1
+	if imagefound("Logout/Logo") then
+		Log "error Closing"
+	else
+		log "Successfully Closed."
+	end if
+	
+	
+	
+end Logout

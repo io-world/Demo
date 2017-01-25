@@ -1,0 +1,3 @@
+﻿2016-08-25 08:01:12.916 -0600	START		Running index.script
+2016-08-25 08:01:14.048 -0600	EndTestCase		(Duration:"1.129626", Errors:"1", Exceptions:"0", StartTime:"2016-08-25 08:01:12 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-25 08:01:14.581 -0600	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'SObj'. -- Execution Time 0:00:01 index.script

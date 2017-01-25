@@ -1,4 +1,0 @@
-﻿2016-05-09 13:05:30.493 -0600	START		Running Open.script
-2016-05-09 13:05:30.627 -0600	typetext		[windowsKey]R	2	on_open	Open.script
-2016-05-09 13:05:31.026 -0600	EndTestCase		(Duration:"0.53203", Errors:"0", Exceptions:"0", StartTime:"2016-05-09 13:05:30 -0600", Successes:"1", TestCase:"Open.script", Warnings:"0")
-2016-05-09 13:05:31.032 -0600	SUCCESS		Execution Time 0:00:00 Open.script

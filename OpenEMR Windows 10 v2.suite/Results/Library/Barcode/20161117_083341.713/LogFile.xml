@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Barcode.script" package="OpenEMR Windows 10.suite" timestamp="2016-11-17 08:33:41.713 -0700"
+ tests="1" successes="0" errors="1" time="0.625317">
+  <properties>
+   <property name="RunDate" value="2016-11-17 08:33:41.713 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Barcode.script" assertions="1" successes="0" errors="1" time="0.623681">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,92 @@
+﻿2016-11-28 09:13:06.498 -0700	START		Running Index Full Run.script
+2016-11-28 09:13:06.726 -0700	typetext		[windowsKey]r	3	on_login	EMR.script
+2016-11-28 09:13:07.562 -0700	typetext		chrome.exe[returnKey]	4	on_login	EMR.script
+2016-11-28 09:13:09.634 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	EMR.script
+2016-11-28 09:13:09.671 -0700	typetext		[controlKey]l	6	on_login	EMR.script
+2016-11-28 09:13:11.349 -0700	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	EMR.script
+2016-11-28 09:13:11.852 -0700	waitfor	Login/Logo	found at (524, 486)	8	on_login	EMR.script
+2016-11-28 09:13:11.855 -0700	Log		Login/logo was Booted 0.495568 seconds	9	on_login	EMR.script
+2016-11-28 09:13:12.129 -0700	typetext		admin[tab]	11	on_login	EMR.script
+2016-11-28 09:13:12.894 -0700	typetext		pass[enter]	12	on_login	EMR.script
+2016-11-28 09:13:19.658 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	14	on_login	EMR.script
+2016-11-28 09:13:19.663 -0700	Log		EMR was loaded 0.748836 seconds	15	on_login	EMR.script
+2016-11-28 09:13:19.718 -0700	Log		Mr,Bruce,,Wayne,222222,2006-06-13,113-83-3798,Male,Single	10	on_index_full_run	Index Full Run.script
+2016-11-28 09:13:20.251 -0700	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	PatientNew.script
+2016-11-28 09:13:21.160 -0700	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	PatientNew.script
+2016-11-28 09:13:21.281 -0700	click		at (378, 201)	6	on_create	PatientNew.script
+2016-11-28 09:13:23.821 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,236), ImageRectangle:(302,231,316,241), Language:"English", searchRectangle:(278,221,378,301), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 236)	8	on_create	PatientNew.script
+2016-11-28 09:13:23.948 -0700	click		at (309, 236)	9	on_create	PatientNew.script
+2016-11-28 09:13:23.955 -0700	Log		Mr	10	on_create	PatientNew.script
+2016-11-28 09:13:24.735 -0700	typetext		[tab]Bruce[tab]	14	on_create	PatientNew.script
+2016-11-28 09:13:25.452 -0700	typetext		[tab]	15	on_create	PatientNew.script
+2016-11-28 09:13:26.228 -0700	typetext		Wayne[tab]	16	on_create	PatientNew.script
+2016-11-28 09:13:27.018 -0700	typetext		222222[tab]	17	on_create	PatientNew.script
+2016-11-28 09:13:27.024 -0700	Log		Bruce	18	on_create	PatientNew.script
+2016-11-28 09:13:27.043 -0700	Log			19	on_create	PatientNew.script
+2016-11-28 09:13:27.065 -0700	Log		Wayne	20	on_create	PatientNew.script
+2016-11-28 09:13:27.072 -0700	Log		222222	21	on_create	PatientNew.script
+2016-11-28 09:13:27.130 -0700	Log		2006-06-13	2	on_buttons	DOBMod.script
+2016-11-28 09:13:28.185 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	DOBMod.script
+2016-11-28 09:13:29.258 -0700	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	DOBMod.script
+2016-11-28 09:13:30.069 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:30.881 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:31.691 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:32.504 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:33.314 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:34.123 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:34.935 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:35.745 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:36.555 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:37.367 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-28 09:13:38.355 -0700	moveto	PatientNew/DOB/MonthBack	at (461, 286)	25	on_buttons	DOBMod.script
+2016-11-28 09:13:39.162 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-28 09:13:39.969 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-28 09:13:40.781 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-28 09:13:41.591 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-28 09:13:42.399 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-28 09:13:44.501 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(534,362), ImageRectangle:(528,357,540,367), Language:"English", searchRectangle:(417,316,676,427), text:"13", TextPlatform:"Generic OCR")	at (534, 362)	31	on_buttons	DOBMod.script
+2016-11-28 09:13:45.625 -0700	click	PatientNew/New/Social Security	at (335, 260)	25	on_create	PatientNew.script
+2016-11-28 09:13:46.468 -0700	typetext		113-83-3798	27	on_create	PatientNew.script
+2016-11-28 09:13:46.475 -0700	Log		113-83-3798	28	on_create	PatientNew.script
+2016-11-28 09:13:47.607 -0700	click	PatientNew/New/MaritalStatus	at (411, 288)	30	on_create	PatientNew.script
+2016-11-28 09:13:48.886 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(319,342), ImageRectangle:(302,336,337,349), Language:"English", searchRectangle:(291,298,411,438), Text:"Single", TextPlatform:"Generic OCR")	at (319, 342)	33	on_create	PatientNew.script
+2016-11-28 09:13:49.797 -0700	click	PatientNew/New/Sex	at (864, 232)	34	on_create	PatientNew.script
+2016-11-28 09:13:50.538 -0700	typetext		[downArrow][downArrow][returnKey]	39	on_create	PatientNew.script
+2016-11-28 09:13:50.545 -0700	Log		Male	42	on_create	PatientNew.script
+2016-11-28 09:13:51.681 -0700	click	PatientNew/New/CreateNewPatient	at (317, 529)	43	on_create	PatientNew.script
+2016-11-28 09:13:52.510 -0700	imagefound	PatientNew/Check/OK	found at (545, 179)	2	on_check	PatientNew.script
+2016-11-28 09:13:52.649 -0700	imagefound	PatientNew/Check/Error3	found at (278, 134)	3	on_check	PatientNew.script
+2016-11-28 09:13:52.660 -0700	Log		ID Already Exist	4	on_check	PatientNew.script
+2016-11-28 09:13:52.812 -0700	imagefound	PatientNew/Check/OK	found at (545, 179)	3	on_fix	PatientNew.script
+2016-11-28 09:13:53.027 -0700	click	PatientNew/Check/OK	at (545, 179)	6	on_fix	PatientNew.script
+2016-11-28 09:13:54.136 -0700	click	PatientNew/Fix/Cancel	at (72, 547)	7	on_fix	PatientNew.script
+2016-11-28 09:13:55.140 -0700	imagelocation	PatientNew/Fix/ExternalID	at (733, 201)	8	on_fix	PatientNew.script
+2016-11-28 09:13:55.207 -0700	readtext		(778,191,863,211)
+2016-11-28 09:13:55.670 -0700	doubleclick	PatientNew/Fix/ExternalID	at (796, 195)	12	on_fix	PatientNew.script
+2016-11-28 09:13:56.448 -0700	typetext		222223	13	on_fix	PatientNew.script
+2016-11-28 09:13:57.583 -0700	click	PatientNew/New/CreateNewPatient	at (317, 529)	14	on_fix	PatientNew.script
+2016-11-28 09:14:00.750 -0700	imagefound	PatientNew/New/ConfirmCreateNewPatient	Unable to Find Image PatientNew/New/ConfirmCreateNewPatient	16	on_fix	PatientNew.script
+2016-11-28 09:14:02.959 -0700	click	PatientNew/Check/OK	at (545, 179)	6	on_fix	PatientNew.script
+2016-11-28 09:14:04.055 -0700	click	PatientNew/Fix/Cancel	at (72, 547)	7	on_fix	PatientNew.script
+2016-11-28 09:14:05.079 -0700	imagelocation	PatientNew/Fix/ExternalID	at (733, 201)	8	on_fix	PatientNew.script
+2016-11-28 09:14:05.145 -0700	readtext		(778,191,863,211)
+2016-11-28 09:14:05.617 -0700	doubleclick	PatientNew/Fix/ExternalID	at (796, 195)	12	on_fix	PatientNew.script
+2016-11-28 09:14:06.392 -0700	typetext		222224	13	on_fix	PatientNew.script
+2016-11-28 09:14:07.484 -0700	click	PatientNew/New/CreateNewPatient	at (317, 529)	14	on_fix	PatientNew.script
+2016-11-28 09:14:10.624 -0700	imagefound	PatientNew/New/ConfirmCreateNewPatient	Unable to Find Image PatientNew/New/ConfirmCreateNewPatient	16	on_fix	PatientNew.script
+2016-11-28 09:14:12.870 -0700	click	PatientNew/Check/OK	at (545, 179)	6	on_fix	PatientNew.script
+2016-11-28 09:14:13.987 -0700	click	PatientNew/Fix/Cancel	at (72, 547)	7	on_fix	PatientNew.script
+2016-11-28 09:14:14.992 -0700	imagelocation	PatientNew/Fix/ExternalID	at (733, 201)	8	on_fix	PatientNew.script
+2016-11-28 09:14:15.069 -0700	readtext		(778,191,863,211)
+2016-11-28 09:14:15.527 -0700	doubleclick	PatientNew/Fix/ExternalID	at (796, 195)	12	on_fix	PatientNew.script
+2016-11-28 09:14:16.305 -0700	typetext		222225	13	on_fix	PatientNew.script
+2016-11-28 09:14:17.444 -0700	click	PatientNew/New/CreateNewPatient	at (317, 529)	14	on_fix	PatientNew.script
+2016-11-28 09:14:18.476 -0700	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	16	on_fix	PatientNew.script
+2016-11-28 09:14:18.597 -0700	click		at (142, 545)	17	on_fix	PatientNew.script
+2016-11-28 09:14:19.508 -0700	click	Logout/Close Button	at (1418, 80)	4	on_logout	EMR.script
+2016-11-28 09:14:22.593 -0700	waitfor	Logout/Logo	found at (524, 486)	6	on_logout	EMR.script
+2016-11-28 09:14:22.630 -0700	typetext		[windowsAltKey][F4]	7	on_logout	EMR.script
+2016-11-28 09:14:27.328 -0700	imagefound	Logout/Logo	Unable to Find Image Logout/Logo	9	on_logout	EMR.script
+2016-11-28 09:14:27.336 -0700	Log		Successfully Closed.	12	on_logout	EMR.script
+2016-11-28 09:14:27.821 -0700	EndTestCase		(Duration:"81.320487", Errors:"0", Exceptions:"0", StartTime:"2016-11-28 09:13:06 -0700", Successes:"1", TestCase:"Index Full Run.script", Warnings:"0")
+2016-11-28 09:14:27.848 -0700	SUCCESS		Execution Time 0:01:21 Index Full Run.script

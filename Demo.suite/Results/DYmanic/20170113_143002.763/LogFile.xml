@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="DYmanic.script" package="Demo.suite" timestamp="2017-01-13 14:30:02.763 -0700"
+ tests="1" successes="1" errors="0" time="3.814217">
+  <properties>
+   <property name="RunDate" value="2017-01-13 14:30:02.763 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="DYmanic.script" assertions="1" successes="1" errors="0" time="3.812591">
+  </testcase>
+ </testsuite>
+</testsuites>

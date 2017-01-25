@@ -1,0 +1,4 @@
+﻿2016-11-10 08:46:01.158 -0700	START		Running Logout.script
+2016-11-10 08:46:01.855 -0700	click	Logout/Close Button	at (1418, 80)	1	on_logout	Logout.script
+2016-11-10 08:46:03.157 -0700	EndTestCase		(Duration:"1.997852", Errors:"0", Exceptions:"0", StartTime:"2016-11-10 08:46:01 -0700", Successes:"1", TestCase:"Logout.script", Warnings:"0")
+2016-11-10 08:46:03.351 -0700	SUCCESS		Execution Time 0:00:01 Logout.script

@@ -1,0 +1,14 @@
+﻿2016-09-14 09:15:15.833 -0400	START		Running index.script
+2016-09-14 09:15:16.040 -0400	typetext		[windowsKey]r	2	on_open	
+2016-09-14 09:15:17.520 -0400	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	
+2016-09-14 09:15:22.112 -0400	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	
+2016-09-14 09:15:22.125 -0400	Log		Top Portion load time:	4	on_openverify	
+2016-09-14 09:15:22.126 -0400	Log		4.498573 seconds	4	on_openverify	
+2016-09-14 09:15:32.754 -0400	Exception	Pause Button	Unable To Find Any Image On Screen "Pause Button" within 10.00 seconds	7	on_openverify	
+2016-09-14 09:15:33.177 -0400	imagefound	Spotify Open Icon	found at (576, 880)	15	on_index	index.script
+2016-09-14 09:15:33.811 -0400	capturescreen	ErrorImage.png		16	on_index	index.script
+2016-09-14 09:15:33.815 -0400	LogError		Spotify was left Opened	18	on_index	index.script
+2016-09-14 09:15:33.849 -0400	typetext		[windowsAltKey][F4]	19	on_index	index.script
+2016-09-14 09:15:33.852 -0400	Log		Spotify has been closed	20	on_index	index.script
+2016-09-14 09:15:34.434 -0400	EndTestCase		(Duration:"18.598488", Errors:"1", Exceptions:"1", StartTime:"2016-09-14 09:15:15 -0400", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-09-14 09:15:35.046 -0400	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:18 index.script

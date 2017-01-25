@@ -1,0 +1,4 @@
+﻿2017-01-20 11:40:01.735 -0700	START		Running Untitled4.script
+2017-01-20 11:40:01.757 -0700	Log		(type:"Unknown VNC")	1	on_untitled4	Untitled4.script
+2017-01-20 11:40:02.053 -0700	EndTestCase		(Duration:"0.317106", Errors:"0", Exceptions:"0", StartTime:"2017-01-20 11:40:01 -0700", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-20 11:40:02.065 -0700	SUCCESS		Execution Time 0:00:00 Untitled4.script

@@ -1,0 +1,8 @@
+﻿2016-11-21 11:26:08.352 -0700	START		Running Index Full Run.script
+2016-11-21 11:26:08.547 -0700	typetext		[windowsKey]r	3	on_login	EMR.script
+2016-11-21 11:26:09.391 -0700	typetext		chrome.exe[returnKey]	4	on_login	EMR.script
+2016-11-21 11:26:10.353 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	EMR.script
+2016-11-21 11:26:10.379 -0700	typetext		[controlKey]l	6	on_login	EMR.script
+2016-11-21 11:26:12.067 -0700	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	EMR.script
+2016-11-21 11:26:23.865 -0700	EndTestCase		(Duration:"15.511453", Errors:"1", Exceptions:"0", StartTime:"2016-11-21 11:26:08 -0700", Successes:"0", TestCase:"Index Full Run.script", Warnings:"0")
+2016-11-21 11:26:23.888 -0700	ABORTED		Execution Time 0:00:15 Index Full Run.script

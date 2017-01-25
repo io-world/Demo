@@ -1,0 +1,7 @@
+﻿2016-09-28 18:49:44.621 -0600	START		Running TestA.script
+2016-09-28 18:49:44.733 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 18:49:45.169 -0600	imagefound	TestA/image0001	found at (787, 355)	7	on_imagec	verify.script
+2016-09-28 18:49:45.235 -0600	Log		Image was found: 	8	on_imagec	verify.script
+2016-09-28 18:49:45.236 -0600	Log		TestA/image0001	8	on_imagec	verify.script
+2016-09-28 18:49:45.749 -0600	EndTestCase		(Duration:"1.12729", Errors:"1", Exceptions:"0", StartTime:"2016-09-28 18:49:44 -0600", Successes:"0", TestCase:"TestA.script", Warnings:"0")
+2016-09-28 18:49:46.199 -0600	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Error Computing Rectangle: (1,1,500,500) -- Execution Time 0:00:01 TestA.script

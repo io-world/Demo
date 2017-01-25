@@ -1,0 +1,33 @@
+﻿2017-01-11 14:47:03.229 -0700	START		Running Untitled4.script
+2017-01-11 14:47:03.511 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:04.200 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(216,131), ImageRectangle:(160,126,273,136), Language:"English", searchRectangle:(151,126,320,825), text:"Prescott Bartlett", TextPlatform:"Generic OCR")	at (216, 131)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:04.203 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:05.117 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:05.776 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(206,157), ImageRectangle:(160,151,252,163), Language:"English", searchRectangle:(151,126,320,825), text:"Gavin Cortez", TextPlatform:"Generic OCR")	at (206, 157)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:05.779 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:06.689 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:07.387 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(217,185), ImageRectangle:(160,178,274,193), Language:"English", searchRectangle:(151,126,320,825), text:"Martena Mccray", TextPlatform:"Generic OCR")	at (217, 185)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:07.389 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:08.298 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:08.953 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(201,212), ImageRectangle:(160,205,242,220), Language:"English", searchRectangle:(151,126,320,825), text:"Unity Butler", TextPlatform:"Generic OCR")	at (201, 212)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:08.956 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:09.873 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:10.568 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(216,238), ImageRectangle:(160,232,272,244), Language:"English", searchRectangle:(151,126,320,825), text:"Howard Hatfield", TextPlatform:"Generic OCR")	at (216, 238)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:10.571 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:11.497 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:12.187 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(210,266), ImageRectangle:(161,259,259,274), Language:"English", searchRectangle:(151,126,320,825), text:"Hope Fuentes", TextPlatform:"Generic OCR")	at (210, 266)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:12.190 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:13.114 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:13.810 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(206,292), ImageRectangle:(159,286,253,298), Language:"English", searchRectangle:(151,126,320,825), text:"Vivian Harrell", TextPlatform:"Generic OCR")	at (206, 292)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:13.813 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:14.733 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:15.438 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(218,320), ImageRectangle:(160,313,277,328), Language:"English", searchRectangle:(151,126,320,825), text:"Timothy Mooney", TextPlatform:"Generic OCR")	at (218, 320)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:15.441 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:16.357 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:17.050 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(226,346), ImageRectangle:(160,340,293,352), Language:"English", searchRectangle:(151,126,320,825), text:"Jackson Bradshaw", TextPlatform:"Generic OCR")	at (226, 346)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:17.052 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:17.967 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:18.663 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(201,374), ImageRectangle:(160,367,242,382), Language:"English", searchRectangle:(151,126,320,825), text:"Olivia Liang", TextPlatform:"Generic OCR")	at (201, 374)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:18.666 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:18.949 -0700	EndTestCase		(Duration:"15.719214", Errors:"0", Exceptions:"0", StartTime:"2017-01-11 14:47:03 -0700", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-11 14:47:18.982 -0700	SUCCESS		Execution Time 0:00:15 Untitled4.script

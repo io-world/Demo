@@ -1,6 +1,0 @@
-﻿2016-05-02 15:23:38.231 -0600	START		Running Index.script
-2016-05-02 15:23:39.863 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,107), ImageRectangle:(352,97,420,108), Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	at (502, 107)	25	on_index	Index.script
-2016-05-02 15:23:40.635 -0600	typetext		Bruce	27	on_index	Index.script
-2016-05-02 15:23:50.446 -0600	Exception	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(100,10), IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(317,73,1116,461), text:"Sex", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"Sex")"	35	on_index	Index.script
-2016-05-02 15:23:50.621 -0600	EndTestCase		(Duration:"12.3886", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 15:23:38 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-05-02 15:23:50.699 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "(TEXT:"Sex")"  Restricted Search Rectangle ((317,73),(1116,461))\n -- Execution Time 0:00:12 Index.script

@@ -1,0 +1,39 @@
+﻿2016-08-26 08:20:32.122 -0600	START		Running index.script
+2016-08-26 08:20:32.455 -0600	typetext		[windowsKey]r	2	on_open	
+2016-08-26 08:20:33.926 -0600	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	
+2016-08-26 08:20:37.756 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	
+2016-08-26 08:20:37.782 -0600	Log		Top Portion load time:	4	on_openverify	
+2016-08-26 08:20:37.782 -0600	Log		3.738462 seconds	4	on_openverify	
+2016-08-26 08:20:42.408 -0600	waitfor	Bottom Buttons	found at (1245, 830)	7	on_openverify	
+2016-08-26 08:20:42.430 -0600	Log		Bottom Portion Load time:	8	on_openverify	
+2016-08-26 08:20:42.431 -0600	Log		4.596829 seconds	8	on_openverify	
+2016-08-26 08:20:42.996 -0600	doubleclick	Search	at (169, 80)	2	on_findartist	
+2016-08-26 08:20:43.773 -0600	typetext		Nicki[enter]	3	on_findartist	
+2016-08-26 08:20:45.734 -0600	imagelocation	Albums	at (716, 202)	2	on_play	
+2016-08-26 08:20:46.182 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(702,372), ImageRectangle:(689,368,715,377), Language:"English", searchRectangle:(666,222,816,402), Text:"Nicki", TextPlatform:"Generic OCR")	at (702, 372)	4	on_play	
+2016-08-26 08:20:46.430 -0600	waitfor	Play Button	found at (82, 828)	10	on_play	
+2016-08-26 08:20:46.452 -0600	Log		0.217656 seconds	11	on_play	
+2016-08-26 08:20:47.104 -0600	click	Play Button	at (82, 828)	12	on_play	
+2016-08-26 08:20:48.356 -0600	imagelocation	Bottom Buttons	at (1245, 830)	2	on_getsonglength	
+2016-08-26 08:20:48.425 -0600	readtext		(1145,810,1195,850)
+2016-08-26 08:20:48.432 -0600	Log		The Sound Length is:	4	on_getsonglength	
+2016-08-26 08:20:48.433 -0600	Log		3:18	4	on_getsonglength	
+2016-08-26 08:20:48.674 -0600	imagefound	Popular	found at (263, 597)	2	on_getpopularlist	
+2016-08-26 08:20:48.807 -0600	click		at (263, 597)	3	on_getpopularlist	
+2016-08-26 08:20:48.827 -0600	Log		Found Popular List	4	on_getpopularlist	
+2016-08-26 08:20:51.207 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1126,81), ImageRectangle:(1096,77,1157,85), Language:"English", SearchRectangle:(1008,0,1224,135), Text:"Upgrade", TextPlatform:"Generic OCR")	at (1126, 81)	4	on_gettrackinfo	
+2016-08-26 08:20:53.868 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(216,201,276,661), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	5	on_gettrackinfo	
+2016-08-26 08:20:53.929 -0600	typetext		[pageDown]	9	on_gettrackinfo	
+2016-08-26 08:20:53.940 -0600	Log		PageDown was pressed 1 Times	10	on_gettrackinfo	
+2016-08-26 08:20:56.954 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(216,201,276,661), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	12	on_gettrackinfo	
+2016-08-26 08:20:57.024 -0600	typetext		[pageDown]	9	on_gettrackinfo	
+2016-08-26 08:20:57.033 -0600	Log		PageDown was pressed 2 Times	10	on_gettrackinfo	
+2016-08-26 08:20:57.257 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(247,641), ImageRectangle:(244,637,251,646), Language:"English", searchRectangle:(216,201,276,661), text:"9", TextPlatform:"Generic OCR")	found at (247, 641)	12	on_gettrackinfo	
+2016-08-26 08:20:57.786 -0600	readtext		(317,631,547,651)
+2016-08-26 08:20:57.826 -0600	readtext		(1037,631,1087,651)
+2016-08-26 08:20:57.834 -0600	Log		The Track Name is: Favorite - Jeremih	18	on_gettrackinfo	
+2016-08-26 08:20:57.854 -0600	Log		The Track Length  is: 4:03 l	19	on_gettrackinfo	
+2016-08-26 08:20:58.163 -0600	click	Pause Button	at (82, 830)	2	on_close	
+2016-08-26 08:21:03.207 -0600	typetext		[windowsAltKey][F4]	4	on_close	
+2016-08-26 08:21:03.729 -0600	EndTestCase		(Duration:"31.604001", Errors:"0", Exceptions:"0", StartTime:"2016-08-26 08:20:32 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-08-26 08:21:03.751 -0600	SUCCESS		Execution Time 0:00:31 index.script

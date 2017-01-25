@@ -1,8 +1,0 @@
-﻿2016-05-02 12:56:38.289 -0600	START		Running Index.script
-2016-05-02 12:56:42.341 -0600	imagefound	Windows/Start	Unable to Find Image Windows/Start	1	on_index	Index.script
-2016-05-02 12:56:46.366 -0600	imagefound	Apple/Phone Icon	Unable to Find Image Apple/Phone Icon	6	on_index	Index.script
-2016-05-02 12:56:46.371 -0600	presshomebutton			2	on_unlock	AppleLib.script
-2016-05-02 12:56:47.424 -0600	swiperight		Swiped right from (0, 600) to (1152, 600)	3	on_unlock	AppleLib.script
-2016-05-02 12:56:48.126 -0600	Exception		Invalid Point (160, 845) is off screen	4	on_unlock	AppleLib.script
-2016-05-02 12:56:48.367 -0600	EndTestCase		(Duration:"10.076582", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 12:56:38 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-05-02 12:56:48.747 -0600	FAILURE	Screen_Error.png	Invalid Point click Error - Invalid Point (160, 845) is off screen -- Execution Time 0:00:10 Index.script

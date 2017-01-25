@@ -1,0 +1,51 @@
+﻿2016-12-05 19:24:47.478 -0600	START		Running Index.script
+2016-12-05 19:24:47.707 -0600	typetext		[windowsKey]r	3	on_login	EMR.script
+2016-12-05 19:24:48.553 -0600	typetext		chrome.exe[returnKey]	4	on_login	EMR.script
+2016-12-05 19:24:51.488 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	EMR.script
+2016-12-05 19:24:51.517 -0600	typetext		[controlKey]l	6	on_login	EMR.script
+2016-12-05 19:24:53.216 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	EMR.script
+2016-12-05 19:24:53.775 -0600	waitfor	Login/Logo	found at (524, 486)	8	on_login	EMR.script
+2016-12-05 19:24:53.778 -0600	Log		Login/logo was Booted 0.554797 seconds	9	on_login	EMR.script
+2016-12-05 19:24:53.995 -0600	typetext		admin[tab]	11	on_login	EMR.script
+2016-12-05 19:24:54.761 -0600	typetext		pass[enter]	12	on_login	EMR.script
+2016-12-05 19:25:01.361 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	14	on_login	EMR.script
+2016-12-05 19:25:01.367 -0600	Log		EMR was loaded 0.58831 seconds	15	on_login	EMR.script
+2016-12-05 19:25:02.007 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	PatientNew.script
+2016-12-05 19:25:02.524 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	PatientNew.script
+2016-12-05 19:25:02.818 -0600	click		at (378, 201)	6	on_create	PatientNew.script
+2016-12-05 19:25:03.977 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,236), ImageRectangle:(302,231,316,241), Language:"English", searchRectangle:(278,221,378,301), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 236)	8	on_create	PatientNew.script
+2016-12-05 19:25:04.128 -0600	click		at (309, 236)	9	on_create	PatientNew.script
+2016-12-05 19:25:04.140 -0600	Log		Mr	10	on_create	PatientNew.script
+2016-12-05 19:25:04.909 -0600	typetext		[tab]John[tab]	14	on_create	PatientNew.script
+2016-12-05 19:25:05.640 -0600	typetext		A[tab]	15	on_create	PatientNew.script
+2016-12-05 19:25:06.396 -0600	typetext		Doe[tab]	16	on_create	PatientNew.script
+2016-12-05 19:25:07.182 -0600	typetext		123756[tab]	17	on_create	PatientNew.script
+2016-12-05 19:25:07.188 -0600	Log		John	18	on_create	PatientNew.script
+2016-12-05 19:25:07.204 -0600	Log		A	19	on_create	PatientNew.script
+2016-12-05 19:25:07.227 -0600	Log		Doe	20	on_create	PatientNew.script
+2016-12-05 19:25:07.241 -0600	Log		123756	21	on_create	PatientNew.script
+2016-12-05 19:25:07.307 -0600	Log		2016-08-05	2	on_buttons	DOBMod.script
+2016-12-05 19:25:08.370 -0600	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	DOBMod.script
+2016-12-05 19:25:09.460 -0600	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	DOBMod.script
+2016-12-05 19:25:10.583 -0600	moveto	PatientNew/DOB/MonthBack	at (461, 286)	25	on_buttons	DOBMod.script
+2016-12-05 19:25:11.393 -0600	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-12-05 19:25:12.198 -0600	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-12-05 19:25:13.005 -0600	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-12-05 19:25:13.818 -0600	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-12-05 19:25:16.049 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(637,325), ImageRectangle:(634,320,640,330), Language:"English", searchRectangle:(446,317,676,427), text:"5", TextPlatform:"Generic OCR")	at (637, 325)	31	on_buttons	DOBMod.script
+2016-12-05 19:25:16.965 -0600	click	PatientNew/New/Social Security	at (335, 260)	25	on_create	PatientNew.script
+2016-12-05 19:25:17.805 -0600	typetext		423-05-1210	27	on_create	PatientNew.script
+2016-12-05 19:25:17.811 -0600	Log		423-05-1210	28	on_create	PatientNew.script
+2016-12-05 19:25:19.026 -0600	click	PatientNew/New/MaritalStatus	at (411, 288)	30	on_create	PatientNew.script
+2016-12-05 19:25:20.326 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(319,342), ImageRectangle:(302,336,337,349), Language:"English", searchRectangle:(291,298,411,438), Text:"Single", TextPlatform:"Generic OCR")	at (319, 342)	33	on_create	PatientNew.script
+2016-12-05 19:25:21.245 -0600	click	PatientNew/New/Sex	at (864, 232)	34	on_create	PatientNew.script
+2016-12-05 19:25:21.984 -0600	typetext		[downArrow][downArrow][returnKey]	39	on_create	PatientNew.script
+2016-12-05 19:25:21.993 -0600	Log		Male	42	on_create	PatientNew.script
+2016-12-05 19:25:23.186 -0600	click	PatientNew/New/CreateNewPatient	at (317, 529)	43	on_create	PatientNew.script
+2016-12-05 19:25:23.990 -0600	imagefound	PatientNew/Check/OK	found at (545, 179)	2	on_check	PatientNew.script
+2016-12-05 19:25:24.131 -0600	imagefound	PatientNew/Check/Error3	found at (278, 134)	3	on_check	PatientNew.script
+2016-12-05 19:25:24.172 -0600	Log		ID Already Exist	4	on_check	PatientNew.script
+2016-12-05 19:25:26.704 -0600	imagefound	PatientSelect/Clear Active Patient	Unable to Find Image PatientSelect/Clear Active Patient	4	on_patientselect	PatientSelect.script
+2016-12-05 19:25:34.756 -0600	Exception	PatientSelect/Patients	No Image Found On Screen: "PatientSelect/Patients"	7	on_patientselect	PatientSelect.script
+2016-12-05 19:25:36.278 -0600	EndTestCase		(Duration:"48.797905", Errors:"1", Exceptions:"1", StartTime:"2016-12-05 19:24:47 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-12-05 19:25:36.279 -0600	ABORTED		Execution Time 0:00:48 Index.script

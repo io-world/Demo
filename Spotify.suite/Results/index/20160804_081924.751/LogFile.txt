@@ -1,0 +1,17 @@
+﻿2016-08-04 08:19:24.752 -0600	START		Running index.script
+2016-08-04 08:19:25.308 -0600	imagefound	VNC/Logo	found at (1154, 810)	1	on_index	index.script
+2016-08-04 08:19:25.438 -0600	click		at (1154, 810)	2	on_index	index.script
+2016-08-04 08:19:27.051 -0600	click	VNC/Cancel	at (920, 623)	4	on_index	index.script
+2016-08-04 08:19:27.778 -0600	typetext		[windowsKey]r	2	on_open	spotify.script
+2016-08-04 08:19:29.247 -0600	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	spotify.script
+2016-08-04 08:19:32.564 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	spotify.script
+2016-08-04 08:19:32.588 -0600	Log		Top Portion load time:	4	on_openverify	spotify.script
+2016-08-04 08:19:32.588 -0600	Log		3.252208 seconds	4	on_openverify	spotify.script
+2016-08-04 08:19:35.362 -0600	waitfor	Bottom Buttons	found at (1162, 830)	7	on_openverify	spotify.script
+2016-08-04 08:19:35.386 -0600	Log		Bottom Portion Load time:	8	on_openverify	spotify.script
+2016-08-04 08:19:35.387 -0600	Log		2.741471 seconds	8	on_openverify	spotify.script
+2016-08-04 08:19:35.740 -0600	doubleclick	Search	at (169, 80)	2	on_findartist	spotify.script
+2016-08-04 08:19:36.525 -0600	typetext		Nicki[enter]	3	on_findartist	spotify.script
+2016-08-04 08:19:47.458 -0600	Exception	Albums	Unable To Find Image "Albums"	2	on_play	spotify.script
+2016-08-04 08:19:47.777 -0600	EndTestCase		(Duration:"23.023925", Errors:"1", Exceptions:"1", StartTime:"2016-08-04 08:19:24 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-04 08:19:47.893 -0600	FAILURE	Screen_Error.png	Image Not Found imagelocation Error - Unable To Find Image "Albums" -- Execution Time 0:00:23 index.script

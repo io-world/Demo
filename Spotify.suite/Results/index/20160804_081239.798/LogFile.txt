@@ -1,0 +1,61 @@
+﻿2016-08-04 08:12:39.800 -0600	START		Running index.script
+2016-08-04 08:12:40.376 -0600	imagefound	VNC/Logo	found at (1154, 810)	1	on_index	index.script
+2016-08-04 08:12:40.509 -0600	click		at (1154, 810)	2	on_index	index.script
+2016-08-04 08:12:42.102 -0600	click	VNC/Cancel	at (920, 623)	4	on_index	index.script
+2016-08-04 08:12:42.830 -0600	typetext		[windowsKey]r	2	on_open	spotify.script
+2016-08-04 08:12:44.313 -0600	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	spotify.script
+2016-08-04 08:12:47.389 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	spotify.script
+2016-08-04 08:12:47.414 -0600	Log		Top Portion load time:	4	on_openverify	spotify.script
+2016-08-04 08:12:47.415 -0600	Log		2.989965 seconds	4	on_openverify	spotify.script
+2016-08-04 08:12:49.927 -0600	waitfor	Bottom Buttons	found at (83, 830)	7	on_openverify	spotify.script
+2016-08-04 08:12:49.954 -0600	Log		Bottom Portion Load time:	8	on_openverify	spotify.script
+2016-08-04 08:12:49.955 -0600	Log		2.500855 seconds	8	on_openverify	spotify.script
+2016-08-04 08:12:50.313 -0600	doubleclick	Search	at (169, 80)	2	on_findartist	spotify.script
+2016-08-04 08:12:51.093 -0600	typetext		Nicki[enter]	3	on_findartist	spotify.script
+2016-08-04 08:12:52.735 -0600	imagelocation	Albums	at (532, 200)	2	on_play	spotify.script
+2016-08-04 08:12:53.124 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(594,331), ImageRectangle:(579,326,610,336), Language:"English", searchRectangle:(482,220,632,400), Text:"Nicki", TextPlatform:"Generic OCR")	at (594, 331)	4	on_play	spotify.script
+2016-08-04 08:12:53.267 -0600	waitfor	Play Button	found at (82, 828)	10	on_play	spotify.script
+2016-08-04 08:12:53.292 -0600	Log		0.123055 seconds	11	on_play	spotify.script
+2016-08-04 08:12:54.224 -0600	click	Play Button	at (82, 828)	12	on_play	spotify.script
+2016-08-04 08:12:55.257 -0600	imagelocation	Bottom Buttons	at (1249, 830)	2	on_getsonglength	spotify.script
+2016-08-04 08:12:55.319 -0600	readtext		(1149,810,1199,850)
+2016-08-04 08:12:55.323 -0600	Log		The Sound Length is:	4	on_getsonglength	spotify.script
+2016-08-04 08:12:55.324 -0600	Log		4:20	4	on_getsonglength	spotify.script
+2016-08-04 08:12:55.921 -0600	imagefound	Popular	found at (263, 461)	2	on_getpopularlist	spotify.script
+2016-08-04 08:12:56.048 -0600	click		at (263, 461)	3	on_getpopularlist	spotify.script
+2016-08-04 08:12:56.065 -0600	Log		Found Popular List	4	on_getpopularlist	spotify.script
+2016-08-04 08:12:58.306 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1145,79), ImageRectangle:(1115,75,1176,83), Language:"English", SearchRectangle:(1008,0,1224,135), Text:"Upgrade", TextPlatform:"Generic OCR")	at (1145, 79)	4	on_gettrackinfo	spotify.script
+2016-08-04 08:13:04.436 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	5	on_gettrackinfo	spotify.script
+2016-08-04 08:13:04.473 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:04.492 -0600	Log		PageDown was pressed 1 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:07.802 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:07.839 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:07.858 -0600	Log		PageDown was pressed 2 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:10.179 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:10.217 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:10.223 -0600	Log		PageDown was pressed 3 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:12.627 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:12.664 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:12.678 -0600	Log		PageDown was pressed 4 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:14.946 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:14.988 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:14.993 -0600	Log		PageDown was pressed 5 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:17.392 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:17.435 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:17.443 -0600	Log		PageDown was pressed 6 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:20.113 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:20.158 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:20.176 -0600	Log		PageDown was pressed 7 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:23.010 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:23.046 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:23.069 -0600	Log		PageDown was pressed 8 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:25.578 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:25.614 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:25.628 -0600	Log		PageDown was pressed 9 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:28.167 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	11	on_gettrackinfo	spotify.script
+2016-08-04 08:13:28.205 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:13:28.216 -0600	Log		PageDown was pressed 10 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:13:29.010 -0600	readtext		(1215,69,1440,89)
+2016-08-04 08:13:29.016 -0600	Exception		Parameter Error - readtext called with absolute point (1945, 69) and other parameters	14	on_gettrackinfo	spotify.script
+2016-08-04 08:13:29.310 -0600	EndTestCase		(Duration:"49.508524", Errors:"1", Exceptions:"1", StartTime:"2016-08-04 08:12:39 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-04 08:13:29.486 -0600	FAILURE	Screen_Error.png	Error Running Script Command readtext Error - Parameter Error - readtext called with absolute point (1945, 69) and other parameters -- Execution Time 0:00:49 index.script

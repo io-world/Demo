@@ -1,0 +1,5 @@
+﻿2017-01-11 14:39:56.456 -0700	START		Running Untitled4.script
+2017-01-11 14:39:56.729 -0700	readtext		(151,126,320,825)
+2017-01-11 14:39:56.730 -0700	Log		26	5	on_untitled4	Untitled4.script
+2017-01-11 14:39:57.016 -0700	EndTestCase		(Duration:"0.558564", Errors:"0", Exceptions:"0", StartTime:"2017-01-11 14:39:56 -0700", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-11 14:39:57.033 -0700	SUCCESS		Execution Time 0:00:00 Untitled4.script

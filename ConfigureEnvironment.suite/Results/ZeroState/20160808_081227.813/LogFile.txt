@@ -1,0 +1,15 @@
+﻿2016-08-08 08:12:27.814 -0600	START		Running ZeroState.script
+2016-08-08 08:12:28.043 -0600	imagefound	Chrome/Icon Open	found at (390, 880)	2	on_zerostate	ZeroState.script
+2016-08-08 08:12:28.053 -0600	Log		Chrome was Left Open	3	on_zerostate	ZeroState.script
+2016-08-08 08:12:28.191 -0600	rightclick		at (390, 880)	4	on_zerostate	ZeroState.script
+2016-08-08 08:12:29.074 -0600	click	Chrome/Close Windows	at (284, 829)	5	on_zerostate	ZeroState.script
+2016-08-08 08:12:29.800 -0600	typetext		[windowsKey]r	13	on_zerostate	ZeroState.script
+2016-08-08 08:12:30.648 -0600	typetext		Chrome.exe[returnKey]	14	on_zerostate	ZeroState.script
+2016-08-08 08:12:31.601 -0600	imagefound	Title Bar Menu/Float	found at (1344, 347)	16	on_zerostate	ZeroState.script
+2016-08-08 08:12:31.729 -0600	click		at (1344, 347)	17	on_zerostate	ZeroState.script
+2016-08-08 08:12:31.738 -0600	Log		Click Maximixed	18	on_zerostate	ZeroState.script
+2016-08-08 08:12:32.569 -0600	imagefound	Title Bar Menu/Maximized	found at (1414, 9)	24	on_zerostate	ZeroState.script
+2016-08-08 08:12:32.592 -0600	Log		Ready to Run	25	on_zerostate	ZeroState.script
+2016-08-08 08:12:32.792 -0600	click	Title Bar Menu/Maximized	at (1414, 9)	30	on_zerostate	ZeroState.script
+2016-08-08 08:12:33.157 -0600	EndTestCase		(Duration:"5.340965", Errors:"0", Exceptions:"0", StartTime:"2016-08-08 08:12:27 -0600", Successes:"1", TestCase:"ZeroState.script", Warnings:"0")
+2016-08-08 08:12:33.161 -0600	SUCCESS		Execution Time 0:00:05 ZeroState.script

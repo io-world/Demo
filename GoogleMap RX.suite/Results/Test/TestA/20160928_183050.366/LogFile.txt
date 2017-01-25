@@ -1,0 +1,7 @@
+﻿2016-09-28 18:30:50.367 -0600	START		Running TestA.script
+2016-09-28 18:30:50.472 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 18:30:50.540 -0600	Log		TestA/image0001	2	on_imagec	verify.script
+2016-09-28 18:30:50.545 -0600	Log		3	3	on_imagec	verify.script
+2016-09-28 18:30:50.568 -0600	Exception		Image Property List did not contain "ImageName" property	10	on_imagec	verify.script
+2016-09-28 18:30:50.969 -0600	EndTestCase		(Duration:"0.599453", Errors:"1", Exceptions:"1", StartTime:"2016-09-28 18:30:50 -0600", Successes:"0", TestCase:"TestA.script", Warnings:"0")
+2016-09-28 18:30:51.538 -0600	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:00 TestA.script

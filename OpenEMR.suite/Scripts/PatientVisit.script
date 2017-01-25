@@ -1,6 +1,0 @@
-﻿Click "PatientInformation/PatientVisit/CreateVisit"
-TypeText "Patient is coming because the hit there head"
-Click "PatientVisit/VisitCategory"
-TypeText downArrow, returnKey
-Click "PatientVisit/Save"
-

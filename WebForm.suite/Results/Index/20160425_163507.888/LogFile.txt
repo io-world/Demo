@@ -1,3 +1,0 @@
-﻿2016-04-25 16:35:07.889 -0600	START		Running Untitled.script
-2016-04-25 16:35:08.362 -0600	EndTestCase		(Duration:"0.471783", Errors:"1", Exceptions:"0", StartTime:"2016-04-25 16:35:07 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
-2016-04-25 16:35:09.487 -0600	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got '(First Name,Last Name,Address,City,Zipcode,DOB,Social Security Number,Telephone,Marital Status,Sex,Submit)'. -- Execution Time 0:00:00 Untitled.script

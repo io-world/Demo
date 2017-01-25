@@ -6,9 +6,12 @@ put "Hello From TestPlant" into FileInfo
 ----------------------------------------------------------------
 Connect "Windows 2012"
 Windows.CreateNotepad FileName , FileInfo
-Windows.RIghtC  "Windows/Note File Icon","Copy"
+Windows.RIghtC  "image0001","Copy"
 Windows.MovetoDropBox
 Windows.RIghtC  "Windows/Note File Icon","Delete"
+
+
+
 ----------------------------------------------------------------
 wait 5
 ----------------------------------------------------------------
@@ -25,7 +28,6 @@ wait 5
 Connect "Samsung Tablet"
 AndroidLib.DropBoxDelete "Some File"
 ----------------------------------------------------------------
-
 
 
 

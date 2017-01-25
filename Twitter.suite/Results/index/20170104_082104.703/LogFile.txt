@@ -1,0 +1,13 @@
+﻿2017-01-04 08:21:04.705 -0700	START		Running index.script
+2017-01-04 08:21:04.803 -0700	typetext		[windowsKey]r	2	on_launch	Libraries/Chrome.script
+2017-01-04 08:21:05.638 -0700	typetext		chrome.exe[returnKey]	3	on_launch	Libraries/Chrome.script
+2017-01-04 08:21:08.056 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_launch	Libraries/Chrome.script
+2017-01-04 08:21:08.222 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	2	on_search	Libraries/Chrome.script
+2017-01-04 08:21:08.248 -0700	typetext		[controlKey]l	5	on_search	Libraries/Chrome.script
+2017-01-04 08:21:09.134 -0700	typetext		www.twitter.com	6	on_search	Libraries/Chrome.script
+2017-01-04 08:21:09.849 -0700	typetext		[returnKey]	7	on_search	Libraries/Chrome.script
+2017-01-04 08:21:13.039 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	9	on_search	Libraries/Chrome.script
+2017-01-04 08:21:15.420 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1194,164), ImageRectangle:(1187,159,1202,170), Language:"English", searchRectangle:(1080,45,1440,225), Text:"Log", TextPlatform:"Generic OCR")	at (1194, 164)	3	on_login	Libraries/Twitter.script
+2017-01-04 08:21:33.387 -0700	Exception	Twitter/Login/Logo	Unable To Find Any Image On Screen "Twitter/Login/Logo" within 10.00 seconds	4	on_login	Libraries/Twitter.script
+2017-01-04 08:21:33.655 -0700	EndTestCase		(Duration:"28.948032", Errors:"1", Exceptions:"1", StartTime:"2017-01-04 08:21:04 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-01-04 08:21:33.656 -0700	ABORTED		Execution Time 0:00:28 index.script

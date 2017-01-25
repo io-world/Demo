@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index.script" package="Spotify.suite" timestamp="2016-08-04 08:19:24.751 -0600"
+ tests="1" successes="0" errors="1" time="23.025874">
+  <properties>
+   <property name="RunDate" value="2016-08-04 08:19:24.751 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="index.script" assertions="1" successes="0" errors="1" time="23.023925">
+  </testcase>
+ </testsuite>
+</testsuites>

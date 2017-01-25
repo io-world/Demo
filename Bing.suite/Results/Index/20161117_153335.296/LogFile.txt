@@ -1,0 +1,12 @@
+﻿2016-11-17 15:33:35.297 -0700	START		Running Index.script
+2016-11-17 15:33:35.458 -0700	typetext		[windowsKey]r	5	on_index	Index.script
+2016-11-17 15:33:35.469 -0700	Log		Now Active: chrome.exe	6	on_index	Index.script
+2016-11-17 15:33:36.302 -0700	typetext		chrome.exe[returnKey]	7	on_index	Index.script
+2016-11-17 15:33:36.314 -0700	Log		Chrome is Opened	9	on_index	Index.script
+2016-11-17 15:33:38.556 -0700	waitfor	Google Buttons	found at (717, 474)	10	on_index	Index.script
+2016-11-17 15:33:38.582 -0700	Log		(Chrome/IE) Google Load Time: 2.235216 seconds	11	on_index	Index.script
+2016-11-17 15:33:38.611 -0700	typetext		[controlKey]l	12	on_index	Index.script
+2016-11-17 15:33:39.475 -0700	typetext		www.bing.com[returnKey]	13	on_index	Index.script
+2016-11-17 15:34:30.744 -0700	Exception	Bing/Menu Bar	Unable To Find Any Image On Screen "Bing/Menu Bar" within 10.00 seconds	14	on_index	Index.script
+2016-11-17 15:34:30.956 -0700	EndTestCase		(Duration:"55.657407", Errors:"1", Exceptions:"1", StartTime:"2016-11-17 15:33:35 -0700", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-11-17 15:34:31.129 -0700	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Bing/Menu Bar" within 10.00 seconds -- Execution Time 0:00:55 Index.script

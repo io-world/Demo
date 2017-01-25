@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-11-29 15:33:08.109 -0700,"Running",0:00:00,0,0,0,"20161129_153308.109/LogFile.txt","","",0
+2016-11-29 15:45:48.402 -0700,"Running",0:00:00,0,0,0,"20161129_154548.402/LogFile.txt","","",0
+2016-11-29 15:47:47.273 -0700,"Failure",0:00:04,1,0,0,"20161129_154747.273/LogFile.txt","","STInvalidNumber -- Value is not a number: ''",0
+2016-11-29 15:48:00.579 -0700,"Success",0:06:03,0,0,0,"20161129_154800.579/LogFile.txt","","",1
+2016-12-19 15:32:51.069 -0800,"Success",0:02:02,0,0,0,"20161219_153251.069/LogFile.txt","","",1

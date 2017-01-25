@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="GlobalDefine.script" package="GoogleMap RX.suite" timestamp="2017-01-19 14:50:51.440 -0700"
+ tests="1" successes="1" errors="0" time="0.432882">
+  <properties>
+   <property name="RunDate" value="2017-01-19 14:50:51.440 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="GlobalDefine.script" assertions="1" successes="1" errors="0" time="0.431057">
+  </testcase>
+ </testsuite>
+</testsuites>

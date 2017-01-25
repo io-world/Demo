@@ -1,0 +1,6 @@
+﻿2016-11-09 09:14:55.449 -0700	START		Running index.script
+2016-11-09 09:14:55.680 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2016-11-09 09:14:56.513 -0700	typetext		chrome.exe	11	on_index	index.script
+2016-11-09 09:14:57.541 -0700	typetext		[returnKey]	13	on_index	index.script
+2016-11-09 09:15:11.550 -0700	EndTestCase		(Duration:"16.099519", Errors:"1", Exceptions:"0", StartTime:"2016-11-09 09:14:55 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-11-09 09:15:11.551 -0700	ABORTED		Execution Time 0:00:16 index.script

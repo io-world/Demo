@@ -1,8 +1,14 @@
 ﻿params notewrite1, notewrite2
 
-Connect "Windows 2012"
+Connect "Windows 10"
 
+if notewrite1 is empty
+	put "Default" into notewrite1
+end if
 
+if notewrite2 is empty
+	put "Default" into notewrite2
+end if
 
 typetext windowsKey , "r"
 typetext "notepad" , enterkey
@@ -10,13 +16,12 @@ wait 2
 typetext notewrite1
 typetext enterkey
 typetext notewrite2
-
+wait 2
 
 
 Click "Close"
-
 If imagefound ("DontSave") then
-	Click "DontSave"
+	Click FoundImageLocation()
 	log "successful Written"
 	return notewrite1
 Else
@@ -25,6 +30,3 @@ End if
 
 
 
-TypeText the long date
-
-typetext the time

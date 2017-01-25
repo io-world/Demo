@@ -1,8 +1,0 @@
-﻿2016-04-25 16:42:41.044 -0600	START		Running Untitled.script
-2016-04-25 16:42:42.734 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(794,204), ImageRectangle:(544,194,679,217), Language:"English", searchRectangle:(487,149,2069,920), text:"First Name", TextPlatform:"Generic OCR")	at (794, 204)	13	on_untitled	Untitled.script
-2016-04-25 16:42:43.437 -0600	typetext			16	on_untitled	Untitled.script
-2016-04-25 16:42:44.992 -0600	click	(CaseSensitive:"No", Contrast:"Off", hotspot:(250,10), IgnoreSpaces:"No", ImageLocation:(794,309), ImageRectangle:(544,299,675,321), Language:"English", searchRectangle:(487,149,2069,920), text:"Last Name", TextPlatform:"Generic OCR")	at (794, 309)	13	on_untitled	Untitled.script
-2016-04-25 16:42:45.695 -0600	typetext			16	on_untitled	Untitled.script
-2016-04-25 16:42:46.829 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	13	on_untitled	Untitled.script
-2016-04-25 16:42:47.407 -0600	EndTestCase		(Duration:"6.361125", Errors:"1", Exceptions:"1", StartTime:"2016-04-25 16:42:41 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
-2016-04-25 16:42:47.407 -0600	ABORTED		Execution Time 0:00:06 Untitled.script

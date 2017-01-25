@@ -1,0 +1,11 @@
+﻿2016-11-17 15:32:11.963 -0700	START		Running Index.script
+2016-11-17 15:32:12.118 -0700	typetext		[windowsKey]r	5	on_index	Index.script
+2016-11-17 15:32:12.126 -0700	Log		Now Active: chrome.exe	6	on_index	Index.script
+2016-11-17 15:32:12.958 -0700	typetext		chrome.exe[returnKey]	7	on_index	Index.script
+2016-11-17 15:32:15.192 -0700	waitfor	Google Buttons	found at (717, 474)	9	on_index	Index.script
+2016-11-17 15:32:15.217 -0700	Log		(Chrome/IE) Google Load Time: 2.221367 seconds	10	on_index	Index.script
+2016-11-17 15:32:15.245 -0700	typetext		[controlKey]l	11	on_index	Index.script
+2016-11-17 15:32:16.112 -0700	typetext		www.bing.com[returnKey]	12	on_index	Index.script
+2016-11-17 15:32:28.217 -0700	Exception	Bing/Menu Bar	Unable To Find Any Image On Screen "Bing/Menu Bar" within 10.00 seconds	13	on_index	Index.script
+2016-11-17 15:32:28.431 -0700	EndTestCase		(Duration:"16.466562", Errors:"1", Exceptions:"1", StartTime:"2016-11-17 15:32:11 -0700", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-11-17 15:32:28.432 -0700	ABORTED		Execution Time 0:00:16 Index.script

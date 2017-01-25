@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Chrome.script" package="ConfigureEnvironment.suite" timestamp="2016-08-11 08:00:23.954 -0600"
+ tests="1" successes="1" errors="0" time="0.548244">
+  <properties>
+   <property name="RunDate" value="2016-08-11 08:00:23.954 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Chrome.script" assertions="1" successes="1" errors="0" time="0.546964">
+  </testcase>
+ </testsuite>
+</testsuites>

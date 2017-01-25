@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="PatientDelete.script" package="OpenEMR.suite" timestamp="2016-08-08 10:56:26.579 -0600"
+ tests="1" successes="1" errors="0" time="16.798569">
+  <properties>
+   <property name="RunDate" value="2016-08-08 10:56:26.579 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="PatientDelete.script" assertions="1" successes="1" errors="0" time="16.797094">
+  </testcase>
+ </testsuite>
+</testsuites>

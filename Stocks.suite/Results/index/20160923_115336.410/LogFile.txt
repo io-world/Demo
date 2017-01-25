@@ -1,0 +1,5 @@
+﻿2016-09-23 11:53:36.412 -0600	START		Running index.script
+2016-09-23 11:53:36.548 -0600	Log		/Users/randyhesse/Documents/Demos/Stocks.suite/Resources/output.csv	4	on_index	index.script
+2016-09-23 11:53:36.617 -0600	typetext		[windowsKey]	14	on_index	index.script
+2016-09-23 11:53:40.840 -0600	EndTestCase		(Duration:"4.426879", Errors:"1", Exceptions:"0", StartTime:"2016-09-23 11:53:36 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-09-23 11:53:40.841 -0600	ABORTED		Execution Time 0:00:04 index.script

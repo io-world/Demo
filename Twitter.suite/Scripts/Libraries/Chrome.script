@@ -1,0 +1,34 @@
+﻿on launch
+	TypeText windowsKey & "r"
+	TypeText "chrome.exe" , returnKey
+	WaitFor 10, "Chrome/Refresh Icon"
+end launch
+
+
+
+on search Keyword
+	WaitFor 15, "Chrome/Refresh Icon"
+	
+	
+	TypeText controlKey & "l"
+	typetext keyword
+	TypeText returnKey
+	wait 1
+	WaitFor 15, "Chrome/Refresh Icon"
+	
+	
+end search
+
+
+on close
+	click image: "Chrome/Windows Buttons", hotspot:(110,10)
+	--log FoundImageInfo().imagepath
+	if imagefound ("Chrome/Refresh Icon") then
+		logerror "Could not close Chrome"
+	else
+		LogSuccess "Chrome Closed Successfully"
+		
+	end if
+	
+	
+end close

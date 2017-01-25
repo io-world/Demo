@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-09-28 19:04:40.404 -0600,"Failure",0:00:00,1,0,0,"20160928_190440.404/LogFile.txt","","Error Running Script Command -- click Error - Error Computing Rectangle: (0,0,500,500)",0
+2016-09-28 19:04:53.411 -0600,"Failure",0:00:00,1,0,0,"20160928_190453.411/LogFile.txt","","Error Running Script Command -- click Error - Error Computing Rectangle: (0,0,500,500)",0
+2016-09-28 19:05:03.252 -0600,"Success",0:00:01,0,0,0,"20160928_190503.252/LogFile.txt","","",1

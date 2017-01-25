@@ -1,0 +1,18 @@
+﻿set OChrome to a new ("Libraries/Chrome")
+set OTwitter to a new ("Libraries/Twitter")
+
+
+(OChrome).launch
+(OChrome).search "www.twitter.com"
+(OTwitter).Login "iotestplant","twittergo4"
+(OTwitter).tweet "Hello From Testlant"
+(OTwitter).check 
+(OTwitter).Logoff
+(OChrome).close
+
+wait 5
+
+(OChrome).launch
+(OChrome).search "www.twitter.com/iotestplant"
+(OTwitter).read
+(OChrome).close

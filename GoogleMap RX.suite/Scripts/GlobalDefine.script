@@ -1,0 +1,11 @@
+﻿
+
+set OGM to a new ("Libraries/GoogleMaps")
+put OGM into Global OGM
+
+
+
+
+put "Colorado" into startLocation
+put "New Jersey" into endLocation
+Run (Global OGM).set startLocation , endLocation

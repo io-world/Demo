@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2016-09-28 19:04:40.404 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.581536</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160928_190440.404/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- click Error - Error Computing Rectangle: (0,0,500,500)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-28 19:04:53.411 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.556493</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160928_190453.411/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- click Error - Error Computing Rectangle: (0,0,500,500)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-28 19:05:03.252 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.507234</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160928_190503.252/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

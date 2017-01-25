@@ -1,0 +1,5 @@
+﻿2016-11-17 11:34:07.162 -0700	START		Running Index Full Run.script
+2016-11-17 11:34:07.343 -0700	typetext		[windowsKey]r	3	on_login	EMR.script
+2016-11-17 11:34:08.186 -0700	typetext		chrome.exe[returnKey]	4	on_login	EMR.script
+2016-11-17 11:34:10.533 -0700	EndTestCase		(Duration:"3.370148", Errors:"1", Exceptions:"0", StartTime:"2016-11-17 11:34:07 -0700", Successes:"0", TestCase:"Index Full Run.script", Warnings:"0")
+2016-11-17 11:34:10.534 -0700	ABORTED		Execution Time 0:00:03 Index Full Run.script

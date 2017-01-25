@@ -1,0 +1,134 @@
+﻿2016-11-29 15:45:48.403 -0700	START		Running Index No CSV.script
+2016-11-29 15:45:52.252 -0700	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	PatientNew.script
+2016-11-29 15:45:52.365 -0700	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	PatientNew.script
+2016-11-29 15:45:53.066 -0700	click		at (378, 201)	6	on_create	PatientNew.script
+2016-11-29 15:45:54.310 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(310,270), ImageRectangle:(302,265,318,275), Language:"English", searchRectangle:(278,221,378,301), text:"Ms", TextPlatform:"Generic OCR")	found at (310, 270)	8	on_create	PatientNew.script
+2016-11-29 15:45:54.448 -0700	click		at (310, 270)	9	on_create	PatientNew.script
+2016-11-29 15:45:54.455 -0700	Log		Ms	10	on_create	PatientNew.script
+2016-11-29 15:45:55.985 -0700	typetext		[tab]novembertwentynineonehundredfiftyfourthousandfivehundredfiftyone[tab]	14	on_create	PatientNew.script
+2016-11-29 15:45:56.715 -0700	typetext		T[tab]	15	on_create	PatientNew.script
+2016-11-29 15:45:57.659 -0700	typetext		twothousandsixteen[tab]	16	on_create	PatientNew.script
+2016-11-29 15:45:58.455 -0700	typetext		404531[tab]	17	on_create	PatientNew.script
+2016-11-29 15:45:58.460 -0700	Log		novembertwentynineonehundredfiftyfourthousandfivehundredfiftyone	18	on_create	PatientNew.script
+2016-11-29 15:45:58.474 -0700	Log		T	19	on_create	PatientNew.script
+2016-11-29 15:45:58.491 -0700	Log		twothousandsixteen	20	on_create	PatientNew.script
+2016-11-29 15:45:58.507 -0700	Log		404531	21	on_create	PatientNew.script
+2016-11-29 15:45:58.564 -0700	Log		1887-04-15	2	on_buttons	DOBMod.script
+2016-11-29 15:45:59.682 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	DOBMod.script
+2016-11-29 15:46:00.925 -0700	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	DOBMod.script
+2016-11-29 15:46:01.736 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:02.552 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:03.368 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:04.182 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:04.990 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:05.802 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:06.616 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:07.423 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:08.234 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:09.048 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:09.864 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:10.677 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:11.488 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:12.296 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:13.107 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:13.918 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:14.728 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:15.543 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:16.356 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:17.163 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:17.971 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:18.782 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:19.592 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:20.406 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:21.214 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:22.024 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:22.835 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:23.650 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:24.466 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:25.281 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:26.091 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:26.905 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:27.710 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:28.520 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:29.334 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:30.148 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:30.955 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:31.766 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:32.578 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:33.390 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:34.201 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:35.016 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:35.831 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:36.645 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:37.451 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:38.259 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:39.071 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:39.880 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:40.695 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:41.513 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:42.324 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:43.133 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:43.947 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:44.757 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:45.569 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:46.381 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:47.195 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:48.010 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:48.819 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:49.631 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:50.445 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:51.255 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:52.067 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:52.874 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:53.683 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:54.495 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:55.309 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:56.125 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:56.939 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:57.752 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:58.563 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:46:59.380 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:00.194 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:01.006 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:01.817 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:02.625 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:03.435 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:04.245 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:05.055 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:05.865 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:06.676 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:07.489 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:08.300 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:09.110 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:09.919 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:10.732 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:11.545 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:12.355 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:13.165 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:13.975 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:14.788 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:15.600 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:16.410 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:17.221 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:18.026 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:18.836 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:19.649 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:20.459 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:21.273 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:22.083 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:22.892 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:23.699 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:24.511 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:25.324 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:26.139 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:26.953 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:27.764 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:28.574 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:29.385 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:30.198 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:31.008 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:31.818 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:32.628 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:33.431 -0700	click		at (429, 285)	18	on_buttons	DOBMod.script
+2016-11-29 15:47:34.437 -0700	EndTestCase		(Duration:"106.032569", Errors:"1", Exceptions:"0", StartTime:"2016-11-29 15:45:48 -0700", Successes:"0", TestCase:"Index No CSV.script", Warnings:"0")
+2016-11-29 15:47:34.438 -0700	ABORTED		Execution Time 0:01:46 Index No CSV.script

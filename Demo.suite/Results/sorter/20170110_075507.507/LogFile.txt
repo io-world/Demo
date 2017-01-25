@@ -1,0 +1,4 @@
+﻿2017-01-10 07:55:07.507 -0700	START		Running Untitled1.script
+2017-01-10 07:55:07.554 -0700	Log		2017	2	on_untitled1	Untitled1.script
+2017-01-10 07:55:08.085 -0700	EndTestCase		(Duration:"0.576097", Errors:"0", Exceptions:"0", StartTime:"2017-01-10 07:55:07 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-01-10 07:55:08.106 -0700	SUCCESS		Execution Time 0:00:00 Untitled1.script

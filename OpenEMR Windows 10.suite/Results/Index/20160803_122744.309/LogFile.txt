@@ -1,0 +1,8 @@
+﻿2016-08-03 12:27:44.309 -0600	START		Running Index.script
+2016-08-03 12:27:44.429 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-08-03 12:27:45.278 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-08-03 12:27:46.006 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-08-03 12:27:47.742 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	4	on_login	Login.script
+2016-08-03 12:27:52.864 -0600	Exception	Login/Logo	Unable To Find Any Image On Screen "Login/Logo" within 5.00 seconds	8	on_login	Login.script
+2016-08-03 12:27:53.587 -0600	EndTestCase		(Duration:"9.276146", Errors:"1", Exceptions:"1", StartTime:"2016-08-03 12:27:44 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-08-03 12:27:53.676 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Login/Logo" within 5.00 seconds -- Execution Time 0:00:09 Index.script

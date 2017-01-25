@@ -1,0 +1,14 @@
+﻿2016-09-28 19:06:14.817 -0600	START		Running TestA.script
+2016-09-28 19:06:14.915 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 19:06:15.324 -0600	imagefound	TestA/image0001	found at (787, 355)	7	on_imagec	verify.script
+2016-09-28 19:06:15.391 -0600	Log		Image was found: 	8	on_imagec	verify.script
+2016-09-28 19:06:15.391 -0600	Log		TestA/image0001	8	on_imagec	verify.script
+2016-09-28 19:06:20.690 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(0,0,500,500), text:"plan", TextPlatform:"Generic OCR", Waitfor:"3")	Unable to Find Image (TEXT:"plan")	11	on_textc	verify.script
+2016-09-28 19:06:20.761 -0600	LogWarning		Text was not found: plan	14	on_textc	verify.script
+2016-09-28 19:06:20.772 -0600	Log		(0,0,500,500)	18	on_textc	verify.script
+2016-09-28 19:06:22.397 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(112,65), ImageRectangle:(101,61,123,69), Language:"English", searchRectangle:(0,0,1440,900), text:"plan", TextPlatform:"Generic OCR", Waitfor:"3")	found at (112, 65)	11	on_textc	verify.script
+2016-09-28 19:06:22.471 -0600	Log		Text was found: 	12	on_textc	verify.script
+2016-09-28 19:06:22.472 -0600	Log		plan	12	on_textc	verify.script
+2016-09-28 19:06:22.484 -0600	Log		((0,0),(1440,900))	18	on_textc	verify.script
+2016-09-28 19:06:22.922 -0600	EndTestCase		(Duration:"8.103363", Errors:"0", Exceptions:"0", StartTime:"2016-09-28 19:06:14 -0600", Successes:"1", TestCase:"TestA.script", Warnings:"1")
+2016-09-28 19:06:22.935 -0600	SUCCESS		Execution Time 0:00:08 TestA.script

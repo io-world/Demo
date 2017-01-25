@@ -1,0 +1,5 @@
+﻿2016-09-07 11:19:45.889 -0600	START		Running Demo.script
+2016-09-07 11:19:46.012 -0600	readtext		(674,209,780,231)
+2016-09-07 11:19:46.013 -0600	Log		123-1231-12	1	on_demo	Demo.script
+2016-09-07 11:19:46.543 -0600	EndTestCase		(Duration:"0.652412", Errors:"0", Exceptions:"0", StartTime:"2016-09-07 11:19:45 -0600", Successes:"1", TestCase:"Demo.script", Warnings:"0")
+2016-09-07 11:19:46.552 -0600	SUCCESS		Execution Time 0:00:00 Demo.script

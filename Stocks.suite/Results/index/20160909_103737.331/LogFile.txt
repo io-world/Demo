@@ -1,0 +1,18 @@
+﻿2016-09-09 10:37:37.333 -0600	START		Running index.script
+2016-09-09 10:37:37.485 -0600	typetext		[windowsKey]	9	on_index	index.script
+2016-09-09 10:37:38.935 -0600	click	Chrome	at (306, 599)	10	on_index	index.script
+2016-09-09 10:37:41.517 -0600	waitfor	Chrome Mic	found at (730, 433)	12	on_index	index.script
+2016-09-09 10:37:41.671 -0600	typetext		goog[enter]	18	on_index	index.script
+2016-09-09 10:37:42.807 -0600	imagelocation	Chrome/Chrome Icon Logo	at (43, 42)	19	on_index	index.script
+2016-09-09 10:37:42.967 -0600	imagelocation	Chrome/Chrome Icon Logo	at (43, 42)	19	on_index	index.script
+2016-09-09 10:37:43.509 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(273,361), ImageRectangle:(261,356,286,367), Language:"English", searchRectangle:(63,62,743,442), Text:"USD", TextPlatform:"Generic OCR")	found at (273, 361)	19	on_index	index.script
+2016-09-09 10:37:43.568 -0600	readtext		(123,331,258,371)
+2016-09-09 10:37:44.161 -0600	doubleclick	Chrome/Search Icon	at (266, 119)	21	on_index	index.script
+2016-09-09 10:37:44.879 -0600	typetext		[backspace]	22	on_index	index.script
+2016-09-09 10:37:44.885 -0600	Log		Google:767.08	23	on_index	index.script
+2016-09-09 10:37:45.651 -0600	typetext		Appl[enter]	18	on_index	index.script
+2016-09-09 10:37:46.746 -0600	imagelocation	Chrome/Chrome Icon Logo	at (43, 42)	19	on_index	index.script
+2016-09-09 10:37:46.857 -0600	imagelocation	Chrome/Chrome Icon Logo	at (43, 42)	19	on_index	index.script
+2016-09-09 10:37:58.792 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(63,62,743,442), Text:"USD", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"USD")" within 10.00 seconds	19	on_index	index.script
+2016-09-09 10:37:59.633 -0600	EndTestCase		(Duration:"22.299578", Errors:"1", Exceptions:"1", StartTime:"2016-09-09 10:37:37 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-09-09 10:37:59.718 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"USD")" within 10.00 seconds  Restricted Search Rectangle ((63,62),(743,442))\n -- Execution Time 0:00:22 index.script

@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-01-11 14:55:58.892 -0700,"Success",0:00:00,0,0,0,"20170111_145558.892/LogFile.txt","","",1
+2017-01-11 14:56:12.720 -0700,"Success",0:00:00,0,0,0,"20170111_145612.720/LogFile.txt","","",1
+2017-01-11 15:02:25.728 -0700,"Failure",0:00:00,1,0,0,"20170111_150225.728/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'B' and '20'",0
+2017-01-11 15:02:36.050 -0700,"Success",0:00:00,0,0,0,"20170111_150236.050/LogFile.txt","","",1
+2017-01-11 15:03:01.350 -0700,"Success",0:00:00,0,0,0,"20170111_150301.350/LogFile.txt","","",1

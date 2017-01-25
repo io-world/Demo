@@ -1,0 +1,4 @@
+﻿2016-09-28 18:49:55.261 -0600	START		Running TestA.script
+2016-09-28 18:49:55.369 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 18:49:55.908 -0600	EndTestCase		(Duration:"0.645608", Errors:"1", Exceptions:"0", StartTime:"2016-09-28 18:49:55 -0600", Successes:"0", TestCase:"TestA.script", Warnings:"0")
+2016-09-28 18:49:56.348 -0600	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Error Computing Rectangle: (1,1,500,500) -- Execution Time 0:00:00 TestA.script

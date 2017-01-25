@@ -1,6 +1,0 @@
-﻿
-
-put everyimagelocation ("Down Arror") into arrowlocation
-put item 1 of arrowlocation + (10,-10) into TL
-put item 1 of arrowlocation + (50,20) into BR
-LOG ReadText(TL,BR)

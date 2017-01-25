@@ -2,26 +2,26 @@
 <statistics>
  <script name="close">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>45</NumberOfRuns>
+  <NumberOfRuns>46</NumberOfRuns>
   <NumberOfFails>10</NumberOfFails>
   <FirstRun>2016-05-12 09:57:45 -0600</FirstRun>
-  <LastRun>2016-06-28 09:17:48 -0600</LastRun>
-  <TotalTimeOnSuccess>628.980231</TotalTimeOnSuccess>
+  <LastRun>2016-08-03 10:52:28 -0600</LastRun>
+  <TotalTimeOnSuccess>639.173486</TotalTimeOnSuccess>
  </script>
  <script name="close2">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfRuns>3</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-05-12 16:14:17 -0600</FirstRun>
-  <LastRun>2016-05-12 16:14:17 -0600</LastRun>
-  <TotalTimeOnSuccess>4.714206</TotalTimeOnSuccess>
+  <LastRun>2016-08-25 12:19:29 -0600</LastRun>
+  <TotalTimeOnSuccess>15.551864</TotalTimeOnSuccess>
  </script>
  <script name="index">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>54</NumberOfRuns>
+  <NumberOfRuns>58</NumberOfRuns>
   <NumberOfFails>19</NumberOfFails>
   <FirstRun>2016-05-11 14:13:25 -0600</FirstRun>
-  <LastRun>2016-07-25 10:44:31 -0600</LastRun>
-  <TotalTimeOnSuccess>3457.645221</TotalTimeOnSuccess>
+  <LastRun>2016-08-16 16:01:20 -0600</LastRun>
+  <TotalTimeOnSuccess>3900.678733</TotalTimeOnSuccess>
  </script>
 </statistics>

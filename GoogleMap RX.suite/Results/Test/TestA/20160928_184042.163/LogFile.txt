@@ -1,0 +1,9 @@
+﻿2016-09-28 18:40:42.164 -0600	START		Running TestA.script
+2016-09-28 18:40:42.256 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 18:40:42.796 -0600	imagefound	TestA/image0001	found at (787, 355)	7	on_imagec	verify.script
+2016-09-28 18:40:42.862 -0600	Log		Image was found: 	8	on_imagec	verify.script
+2016-09-28 18:40:42.863 -0600	Log		TestA/image0001	8	on_imagec	verify.script
+2016-09-28 18:40:49.716 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(0,0,1440,900), text:"Hello", TextPlatform:"Generic OCR", Waitfor:"3")	Unable to Find Image (TEXT:"Hello")	10	on_textc	verify.script
+2016-09-28 18:40:49.786 -0600	LogWarning		image was not found: Imagename	13	on_textc	verify.script
+2016-09-28 18:40:50.227 -0600	EndTestCase		(Duration:"8.062276", Errors:"0", Exceptions:"0", StartTime:"2016-09-28 18:40:42 -0600", Successes:"1", TestCase:"TestA.script", Warnings:"1")
+2016-09-28 18:40:50.233 -0600	SUCCESS		Execution Time 0:00:08 TestA.script

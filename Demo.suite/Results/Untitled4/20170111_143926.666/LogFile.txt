@@ -1,0 +1,5 @@
+﻿2017-01-11 14:39:26.667 -0700	START		Running Untitled4.script
+2017-01-11 14:39:26.964 -0700	readtext		(151,126,320,825)
+2017-01-11 14:39:26.964 -0700	Log		Tiger Nixon\nGarrett Winters\nAshton Cox\nCedric Kelly\nAiri Satou\nBrielle Williamson\nHerrod Chandler\nRhona Davidson\nColleen Hurst\nSonya Frost\nJena Gaines\nQuinn Flynn\nCharde Marshall\nHaley Kennedy\nTatyana Fitzpatrick\nMichael Silva\nPaul Byrd\nGloria Little\nBradley Greer\nDai Rios\nJenette Caldwell\nYuri Berry\nCaesar Vance\nDoris Wilder\nAngelica Ramos\nGavin Joyce	1	on_untitled4	Untitled4.script
+2017-01-11 14:39:27.252 -0700	EndTestCase		(Duration:"0.583831", Errors:"0", Exceptions:"0", StartTime:"2017-01-11 14:39:26 -0700", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-11 14:39:27.278 -0700	SUCCESS		Execution Time 0:00:00 Untitled4.script

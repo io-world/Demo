@@ -1,0 +1,4 @@
+﻿2016-07-13 09:09:09.044 -0600	START		Running Output.script
+2016-07-13 09:09:09.124 -0600	Log		 tests="1" successes="1" errors="0" time="0.303741">	8	on_output	Output.script
+2016-07-13 09:09:09.447 -0600	EndTestCase		(Duration:"0.401873", Errors:"0", Exceptions:"0", StartTime:"2016-07-13 09:09:09 -0600", Successes:"1", TestCase:"Output.script", Warnings:"0")
+2016-07-13 09:09:09.453 -0600	SUCCESS		Execution Time 0:00:00 Output.script

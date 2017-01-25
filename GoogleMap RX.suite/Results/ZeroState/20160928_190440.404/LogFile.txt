@@ -1,0 +1,3 @@
+﻿2016-09-28 19:04:40.405 -0600	START		Running Untitled.script
+2016-09-28 19:04:40.987 -0600	EndTestCase		(Duration:"0.580146", Errors:"1", Exceptions:"0", StartTime:"2016-09-28 19:04:40 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-09-28 19:04:41.425 -0600	FAILURE	Screen_Error.png	Error Running Script Command click Error - Error Computing Rectangle: (0,0,500,500) -- Execution Time 0:00:00 Untitled.script

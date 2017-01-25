@@ -1,0 +1,279 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index">
+ <run>
+  <RunDate>2016-08-04 08:11:54.519 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>40.765465</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160804_081154.519/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 08:12:39.798 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>49.511468</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_081239.798/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- readtext Error - Parameter Error - readtext called with absolute point (1945, 69) and other parameters</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 08:15:48.223 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>27.785695</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_081548.223/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;Bottom Buttons&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 08:17:38.925 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>18.177984</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_081738.925/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Bottom Buttons&quot; within 10.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 08:19:24.751 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.025874</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_081924.751/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;Albums&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 08:30:37.588 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.729450</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_083037.588/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- readtext Error - Parameter Error - readtext called with absolute point (1947, 70) and other parameters</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 08:31:25.732 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.485354</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_083125.732/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- readtext Error - Parameter Error - readtext called with absolute point (1945, 69) and other parameters</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 08:33:49.677 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>34.390811</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_083349.677/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- readtext Error - Parameter Error - readtext called with absolute point (1945, 69) and other parameters</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 08:35:30.763 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>40.217144</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160804_083530.763/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-24 16:07:02.245 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>35.988188</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160824_160702.245/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-25 08:01:12.914 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.133610</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160825_080112.914/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;SObj&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-25 08:01:28.857 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>24.683490</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160825_080128.857/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Play Button&quot; within 10.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-25 08:02:29.291 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>28.481981</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160825_080229.291/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Pause Button&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-25 08:03:19.730 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>31.727109</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160825_080319.730/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-25 08:04:17.802 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>33.082462</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160825_080417.802/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-25 08:05:42.853 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>31.308170</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160825_080542.853/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-25 08:06:24.491 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>30.859886</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160825_080624.491/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-26 08:20:32.121 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>31.606314</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160826_082032.121/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-26 08:25:38.322 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>34.455126</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160826_082538.322/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-26 14:47:16.203 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>34.575977</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160826_144716.203/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-26 14:48:17.862 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>31.839093</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160826_144817.862/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-08 07:59:32.370 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>33.022673</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160908_075932.370/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 09:15:15.832 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>18.601699</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160914_091515.832/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+</runHistory>

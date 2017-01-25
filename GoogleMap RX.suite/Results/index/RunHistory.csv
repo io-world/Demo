@@ -1,0 +1,12 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-09-28 18:12:25.225 -0600,"Success",0:00:00,0,0,0,"20160928_181225.225/LogFile.txt","","",1
+2016-09-28 18:28:41.298 -0600,"Success",0:00:00,0,0,0,"20160928_182841.298/LogFile.txt","","",1
+2016-09-28 18:32:07.068 -0600,"Success",0:00:01,0,0,0,"20160928_183207.068/LogFile.txt","","",1
+2016-09-28 18:40:17.620 -0600,"Failure",0:00:01,1,0,0,"20160928_184017.620/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (\n    0,\n    0,\n    ""(1440,900)""\n)",0
+2016-12-07 14:34:57.757 -0500,"Success",0:00:11,0,0,0,"20161207_143457.757/LogFile.txt","","",1
+2017-01-19 14:03:01.170 -0700,"Failure",0:00:21,1,1,1,"20170119_140301.170/LogFile.txt","","Error Running Script Command -- runwithnewresults Error - Unable to locate script named: TestB",0
+2017-01-19 14:04:53.596 -0700,"Failure",0:00:12,1,0,1,"20170119_140453.596/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: Title Bar Menu/Maximized",0
+2017-01-19 14:52:12.508 -0700,"Failure",0:00:42,1,0,1,"20170119_145212.508/LogFile.txt","","Error Running Script Command -- runwithnewresults Error - Unable to locate script named: TestB",0
+2017-01-19 14:54:05.591 -0700,"Success",0:00:42,0,0,0,"20170119_145405.591/LogFile.txt","","",1
+2017-01-23 10:42:26.133 -0700,"Success",0:00:40,0,0,0,"20170123_104226.133/LogFile.txt","","",1
+2017-01-23 12:39:44.284 -0700,"Success",0:00:44,0,0,0,"20170123_123944.284/LogFile.txt","","",1

@@ -1,5 +1,0 @@
-﻿2016-05-02 15:34:44.953 -0600	START		Running PageForm.script
-2016-05-02 15:34:45.748 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,107), ImageRectangle:(352,97,420,108), Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	at (502, 107)	25	on_pageform	PageForm.script
-2016-05-02 15:34:46.520 -0600	typetext		Bruce	27	on_pageform	PageForm.script
-2016-05-02 15:34:46.713 -0600	EndTestCase		(Duration:"1.758585", Errors:"0", Exceptions:"0", StartTime:"2016-05-02 15:34:44 -0600", Successes:"1", TestCase:"PageForm.script", Warnings:"0")
-2016-05-02 15:34:46.717 -0600	SUCCESS		Execution Time 0:00:01 PageForm.script

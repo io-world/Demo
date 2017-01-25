@@ -1,5 +1,0 @@
-﻿2016-04-19 14:02:02.755 -0600	START		Running Index.script
-2016-04-19 14:02:03.355 -0600	click	Windows/Start	at (43, 1406)	2	on_start	WindowsLib.script
-2016-04-19 14:02:39.405 -0600	Exception	Chrome Icons	No Image Found On Screen: "Chrome Icons"	8	on_index	Index.script
-2016-04-19 14:02:39.984 -0600	EndTestCase		(Duration:"37.228378", Errors:"1", Exceptions:"1", StartTime:"2016-04-19 14:02:02 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-04-19 14:02:39.985 -0600	ABORTED		Execution Time 0:00:37 Index.script

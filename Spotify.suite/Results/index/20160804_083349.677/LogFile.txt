@@ -1,0 +1,32 @@
+﻿2016-08-04 08:33:49.678 -0600	START		Running index.script
+2016-08-04 08:34:00.872 -0600	imagefound	VNC/Logo	Unable to Find Image VNC/Logo within 10.00 seconds	1	on_index	index.script
+2016-08-04 08:34:00.951 -0600	typetext		[windowsKey]r	2	on_open	spotify.script
+2016-08-04 08:34:02.420 -0600	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	spotify.script
+2016-08-04 08:34:05.770 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	spotify.script
+2016-08-04 08:34:05.794 -0600	Log		Top Portion load time:	4	on_openverify	spotify.script
+2016-08-04 08:34:05.795 -0600	Log		3.279025 seconds	4	on_openverify	spotify.script
+2016-08-04 08:34:08.993 -0600	waitfor	Bottom Buttons	found at (1162, 830)	7	on_openverify	spotify.script
+2016-08-04 08:34:09.018 -0600	Log		Bottom Portion Load time:	8	on_openverify	spotify.script
+2016-08-04 08:34:09.019 -0600	Log		3.171715 seconds	8	on_openverify	spotify.script
+2016-08-04 08:34:09.688 -0600	doubleclick	Search	at (169, 80)	2	on_findartist	spotify.script
+2016-08-04 08:34:10.468 -0600	typetext		Nicki[enter]	3	on_findartist	spotify.script
+2016-08-04 08:34:12.086 -0600	imagelocation	Albums	at (720, 200)	2	on_play	spotify.script
+2016-08-04 08:34:12.430 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(706,371), ImageRectangle:(693,367,719,376), Language:"English", searchRectangle:(670,220,820,400), Text:"Nicki", TextPlatform:"Generic OCR")	at (706, 371)	4	on_play	spotify.script
+2016-08-04 08:34:12.568 -0600	waitfor	Play Button	found at (82, 828)	10	on_play	spotify.script
+2016-08-04 08:34:12.592 -0600	Log		0.117689 seconds	11	on_play	spotify.script
+2016-08-04 08:34:13.402 -0600	click	Play Button	at (82, 828)	12	on_play	spotify.script
+2016-08-04 08:34:14.400 -0600	imagelocation	Bottom Buttons	at (1249, 830)	2	on_getsonglength	spotify.script
+2016-08-04 08:34:14.464 -0600	readtext		(1149,810,1199,850)
+2016-08-04 08:34:14.466 -0600	Log		The Sound Length is:	4	on_getsonglength	spotify.script
+2016-08-04 08:34:14.467 -0600	Log		3:39	4	on_getsonglength	spotify.script
+2016-08-04 08:34:17.641 -0600	imagefound	Popular	found at (263, 461)	2	on_getpopularlist	spotify.script
+2016-08-04 08:34:17.775 -0600	click		at (263, 461)	3	on_getpopularlist	spotify.script
+2016-08-04 08:34:17.778 -0600	Log		Found Popular List	4	on_getpopularlist	spotify.script
+2016-08-04 08:34:20.135 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1145,79), ImageRectangle:(1115,75,1176,83), Language:"English", SearchRectangle:(1008,0,1224,135), Text:"Upgrade", TextPlatform:"Generic OCR")	at (1145, 79)	4	on_gettrackinfo	spotify.script
+2016-08-04 08:34:22.888 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(235,199,295,659), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	5	on_gettrackinfo	spotify.script
+2016-08-04 08:34:22.925 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:34:22.928 -0600	Log		PageDown was pressed 1 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:34:23.725 -0600	readtext		(1215,69,1440,89)
+2016-08-04 08:34:23.731 -0600	Exception		Parameter Error - readtext called with absolute point (1945, 69) and other parameters	13	on_gettrackinfo	spotify.script
+2016-08-04 08:34:24.069 -0600	EndTestCase		(Duration:"34.3892", Errors:"1", Exceptions:"1", StartTime:"2016-08-04 08:33:49 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-04 08:34:24.252 -0600	FAILURE	Screen_Error.png	Error Running Script Command readtext Error - Parameter Error - readtext called with absolute point (1945, 69) and other parameters -- Execution Time 0:00:34 index.script

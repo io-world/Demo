@@ -1,0 +1,14 @@
+﻿2016-12-19 12:53:34.036 -0800	START		Running Master.script
+2016-12-19 12:53:34.198 -0800	typetext		[windowsKey]r	4	on_login	Modules/EMR.script
+2016-12-19 12:53:35.040 -0800	typetext		chrome.exe[returnKey]	5	on_login	Modules/EMR.script
+2016-12-19 12:53:35.323 -0800	waitfor	Chrome/Refresh Icon	found at (72, 47)	6	on_login	Modules/EMR.script
+2016-12-19 12:53:35.766 -0800	typetext		[controlKey]l	7	on_login	Modules/EMR.script
+2016-12-19 12:53:37.459 -0800	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	8	on_login	Modules/EMR.script
+2016-12-19 12:53:38.026 -0800	waitfor	Login/Logo	found at (524, 482)	9	on_login	Modules/EMR.script
+2016-12-19 12:53:38.034 -0800	Log		Login/logo was Booted 0.558571 seconds	10	on_login	Modules/EMR.script
+2016-12-19 12:53:38.273 -0800	typetext		username[tab]	12	on_login	Modules/EMR.script
+2016-12-19 12:53:39.089 -0800	typetext		password[enter]	13	on_login	Modules/EMR.script
+2016-12-19 12:53:45.804 -0800	waitfor	Chrome/Refresh Icon	found at (72, 47)	15	on_login	Modules/EMR.script
+2016-12-19 12:53:45.810 -0800	Log		EMR was loaded 0.704049 seconds	16	on_login	Modules/EMR.script
+2016-12-19 12:53:46.123 -0800	EndTestCase		(Duration:"12.085515", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 12:53:34 -0800", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2016-12-19 12:53:46.147 -0800	SUCCESS		Execution Time 0:00:12 Master.script

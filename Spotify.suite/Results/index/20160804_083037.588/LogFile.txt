@@ -1,0 +1,35 @@
+﻿2016-08-04 08:30:37.590 -0600	START		Running index.script
+2016-08-04 08:30:38.293 -0600	imagefound	VNC/Logo	found at (1154, 810)	1	on_index	index.script
+2016-08-04 08:30:38.630 -0600	click		at (1154, 810)	2	on_index	index.script
+2016-08-04 08:30:40.472 -0600	click	VNC/Cancel	at (920, 623)	4	on_index	index.script
+2016-08-04 08:30:41.200 -0600	typetext		[windowsKey]r	2	on_open	spotify.script
+2016-08-04 08:30:42.661 -0600	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	spotify.script
+2016-08-04 08:30:42.929 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	spotify.script
+2016-08-04 08:30:43.003 -0600	Log		Top Portion load time:	4	on_openverify	spotify.script
+2016-08-04 08:30:43.005 -0600	Log		0.170004 seconds	4	on_openverify	spotify.script
+2016-08-04 08:30:43.766 -0600	waitfor	Bottom Buttons	found at (1249, 830)	7	on_openverify	spotify.script
+2016-08-04 08:30:43.772 -0600	Log		Bottom Portion Load time:	8	on_openverify	spotify.script
+2016-08-04 08:30:43.773 -0600	Log		0.502706 seconds	8	on_openverify	spotify.script
+2016-08-04 08:30:44.397 -0600	doubleclick	Search	at (169, 80)	2	on_findartist	spotify.script
+2016-08-04 08:30:45.176 -0600	typetext		Nicki[enter]	3	on_findartist	spotify.script
+2016-08-04 08:30:46.438 -0600	imagelocation	Albums	at (720, 200)	2	on_play	spotify.script
+2016-08-04 08:30:51.135 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(670,220,820,400), Text:"Nicki", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"Nicki")"	4	on_play	spotify.script
+2016-08-04 08:30:51.947 -0600	click		at (720, 300)	6	on_play	spotify.script
+2016-08-04 08:30:51.973 -0600	Log		You May have misspelled the Artist's Name	7	on_play	spotify.script
+2016-08-04 08:30:52.126 -0600	waitfor	Play Button	found at (82, 828)	10	on_play	spotify.script
+2016-08-04 08:30:52.152 -0600	Log		0.141909 seconds	11	on_play	spotify.script
+2016-08-04 08:30:53.487 -0600	click	Play Button	at (82, 828)	12	on_play	spotify.script
+2016-08-04 08:30:54.439 -0600	imagelocation	Bottom Buttons	at (1249, 830)	2	on_getsonglength	spotify.script
+2016-08-04 08:30:54.501 -0600	readtext		(1149,810,1199,850)
+2016-08-04 08:30:54.504 -0600	Log		The Sound Length is:	4	on_getsonglength	spotify.script
+2016-08-04 08:30:54.505 -0600	Log		4:20	4	on_getsonglength	spotify.script
+2016-08-04 08:30:57.515 -0600	imagefound	Popular	Unable to Find Image Popular	2	on_getpopularlist	spotify.script
+2016-08-04 08:30:57.518 -0600	Log		Unable to Find Popular List	6	on_getpopularlist	spotify.script
+2016-08-04 08:30:59.753 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1147,80), ImageRectangle:(1117,76,1178,84), Language:"English", SearchRectangle:(1008,0,1224,135), Text:"Upgrade", TextPlatform:"Generic OCR")	at (1147, 80)	4	on_gettrackinfo	spotify.script
+2016-08-04 08:31:02.145 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(237,200,297,660), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	5	on_gettrackinfo	spotify.script
+2016-08-04 08:31:02.185 -0600	typetext		[pageDown]	6	on_gettrackinfo	spotify.script
+2016-08-04 08:31:02.190 -0600	Log		PageDown was pressed 1 Times	7	on_gettrackinfo	spotify.script
+2016-08-04 08:31:02.986 -0600	readtext		(1217,70,1440,90)
+2016-08-04 08:31:02.991 -0600	Exception		Parameter Error - readtext called with absolute point (1947, 70) and other parameters	13	on_gettrackinfo	spotify.script
+2016-08-04 08:31:03.318 -0600	EndTestCase		(Duration:"25.726755", Errors:"1", Exceptions:"2", StartTime:"2016-08-04 08:30:37 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-04 08:31:03.721 -0600	FAILURE	Screen_Error.png	Error Running Script Command readtext Error - Parameter Error - readtext called with absolute point (1947, 70) and other parameters -- Execution Time 0:00:25 index.script

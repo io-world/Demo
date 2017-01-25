@@ -1,0 +1,4 @@
+﻿2016-07-13 09:04:44.276 -0600	START		Running Output.script
+2016-07-13 09:04:44.390 -0600	Log		MyTree	8	on_output	Output.script
+2016-07-13 09:04:44.717 -0600	EndTestCase		(Duration:"0.438546", Errors:"0", Exceptions:"0", StartTime:"2016-07-13 09:04:44 -0600", Successes:"1", TestCase:"Output.script", Warnings:"0")
+2016-07-13 09:04:44.721 -0600	SUCCESS		Execution Time 0:00:00 Output.script

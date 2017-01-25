@@ -1,0 +1,31 @@
+﻿2017-01-19 14:03:01.170 -0700	START		Running index.script
+2017-01-19 14:03:01.297 -0700	typetext		[windowsKey]r	3	on_open	Libraries/Chrome.script
+2017-01-19 14:03:02.125 -0700	typetext		chrome.exe	4	on_open	Libraries/Chrome.script
+2017-01-19 14:03:02.842 -0700	typetext		[returnKey]	5	on_open	Libraries/Chrome.script
+2017-01-19 14:03:03.825 -0700	imagefound	Chrome/Refresh Icon	found at (256, 207)	7	on_imagec	Modules/Verify.script
+2017-01-19 14:03:03.826 -0700	Log		Image was found: Chrome/Refresh Icon	8	on_imagec	Modules/Verify.script
+2017-01-19 14:03:03.877 -0700	typetext		[controlKey]l	2	on_addressbar	Libraries/Chrome.script
+2017-01-19 14:03:04.765 -0700	typetext		maps.google.com	3	on_addressbar	Libraries/Chrome.script
+2017-01-19 14:03:05.482 -0700	typetext		[returnKey]	4	on_addressbar	Libraries/Chrome.script
+2017-01-19 14:03:05.571 -0700	imagefound	Chrome/Refresh Icon	found at (256, 207)	7	on_imagec	Modules/Verify.script
+2017-01-19 14:03:05.572 -0700	Log		Image was found: Chrome/Refresh Icon	8	on_imagec	Modules/Verify.script
+2017-01-19 14:03:07.571 -0700	click	GoogleMaps/Menu	at (303, 254)	2	on_enteraddress	Libraries/GoogleMaps.script
+2017-01-19 14:03:08.400 -0700	typetext		New Jersey	3	on_enteraddress	Libraries/GoogleMaps.script
+2017-01-19 14:03:09.117 -0700	typetext		[returnKey]	4	on_enteraddress	Libraries/GoogleMaps.script
+2017-01-19 14:03:11.166 -0700	imagefound	GoogleMaps/Right Menu Close	found at (605, 256)	13	on_test_testa	Test/TestA.script
+2017-01-19 14:03:11.392 -0700	click	GoogleMaps/Right Menu Close	at (605, 256)	14	on_test_testa	Test/TestA.script
+2017-01-19 14:03:12.642 -0700	click	GoogleMaps/Right Menu Open	at (193, 257)	15	on_test_testa	Test/TestA.script
+2017-01-19 14:03:13.897 -0700	click	GoogleMaps/Directions	at (539, 428)	2	on_directions	Libraries/GoogleMaps.script
+2017-01-19 14:03:14.437 -0700	waitfor	GoogleMaps/Menu Blue	found at (219, 257)	3	on_directions	Libraries/GoogleMaps.script
+2017-01-19 14:03:14.700 -0700	typetext		Colorado	4	on_directions	Libraries/GoogleMaps.script
+2017-01-19 14:03:15.416 -0700	typetext		[returnKey]	5	on_directions	Libraries/GoogleMaps.script
+2017-01-19 14:03:15.417 -0700	Log		code for Navigation for TestA 	28	on_test_testa	Test/TestA.script
+2017-01-19 14:03:18.638 -0700	imagefound	TestA/image0001	Unable to Find Image TestA/image0001	7	on_imagec	Modules/Verify.script
+2017-01-19 14:03:18.639 -0700	LogWarning		Image was not found: TestA/image0001	10	on_imagec	Modules/Verify.script
+2017-01-19 14:03:20.000 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(115,171), ImageRectangle:(104,167,126,176), Language:"English", searchRectangle:(0,0,500,500), text:"plan", TextPlatform:"Generic OCR", Waitfor:"5")	found at (115, 171)	11	on_textc	Modules/Verify.script
+2017-01-19 14:03:20.002 -0700	Log		Text was found: plan	12	on_textc	Modules/Verify.script
+2017-01-19 14:03:22.231 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(115,171), ImageRectangle:(104,167,126,176), Language:"English", searchRectangle:(0,0,1440,900), text:"plan", TextPlatform:"Generic OCR", Waitfor:"3")	found at (115, 171)	11	on_textc	Modules/Verify.script
+2017-01-19 14:03:22.233 -0700	Log		Text was found: plan	12	on_textc	Modules/Verify.script
+2017-01-19 14:03:22.258 -0700	Exception		Unable to locate script named: TestB	9	on_index	index.script
+2017-01-19 14:03:22.481 -0700	EndTestCase		(Duration:"21.309887", Errors:"1", Exceptions:"1", StartTime:"2017-01-19 14:03:01 -0700", Successes:"0", TestCase:"index.script", Warnings:"1")
+2017-01-19 14:03:23.005 -0700	FAILURE	Screen_Error.png	Error Running Script Command runwithnewresults Error - Unable to locate script named: TestB -- Execution Time 0:00:21 index.script

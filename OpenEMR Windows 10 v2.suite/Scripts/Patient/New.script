@@ -1,0 +1,100 @@
+﻿
+on create Prefix,Firstname , MiddleName, LastName , ExternalID,DOB,SS,Sex,Marital
+	
+	Click "PatientNew/New/New Patient Button"
+	WaitFor 10, "PatientNew/New/Name"
+	put FoundImageLocation() into FILName
+	click FILNAME
+	
+	if imagefound(text: Prefix,searchRectangle:(FILName+(-100,20),FILName+(0,100))) then
+		click FoundImageLocation()
+		log Prefix
+	end if
+	
+	
+	TypeText tabKey , Firstname , tabkey
+	TypeText MiddleName , tabKey
+	TypeText LastName , tabKey
+	TypeText ExternalID, tabkey
+	log Firstname
+	log MiddleName
+	log LastName
+	log ExternalID
+	Run "Modules/DOBMod".buttons (DOB)
+	
+	
+	Click "PatientNew/New/Social Security"
+	
+	TypeText SS
+	log SS
+	-----
+	Click "PatientNew/New/MaritalStatus"
+	put FoundImageLocation() into FILMS
+	put (FILMS+(-120,10),FILMS+(0,150)) into MSSquare
+	click (Text:Marital, searchRectangle:(MSSquare)) 
+	Click "PatientNew/New/Sex"
+	
+	if Sex = "Female" then
+		TypeText downarrow , returnkey
+	else
+		TypeText downarrow ,downarrow, returnkey
+	end if
+	
+	log Sex
+	Click "PatientNew/New/CreateNewPatient"
+end create
+
+
+on check
+	if  imagefound("PatientNew/Check/OK") then
+		if imagefound("PatientNew/Check/Error3") then
+			Log "ID Already Exist"
+		else
+			put ReadText("PatientNew/Check/Error1","PatientNew/Check/Error2") into MissingF
+			Repeat with each line  of MIssingF
+				log "You are missing" && line repeatindex() of MIssingF
+			End repeat
+		end if
+	else
+		if imagefound("PatientNew/New/ConfirmCreateNewPatient") then
+			click FoundImageLocation()
+			Log "New Patient has been created"
+			wait 3
+			if imagefound("PatientNew/New/NewDueClinicalReminders") then
+				click "PatientNew/Check/OK"
+			end if
+		else
+			Log "No Error Box on the Screen"
+		end if
+	end if
+	
+end check
+
+
+on fix
+	
+	if imagefound("PatientNew/Check/OK")
+	then
+		repeat 10 times
+			click "PatientNew/Check/OK"
+			click "PatientNew/Fix/Cancel"
+			put imagelocation("PatientNew/Fix/ExternalID") into ILEID
+			insert ILEID+ (45,-10) into ReadEID
+			insert ILEID+ (130,10) into ReadEID
+			put ReadText(READEID) into EID
+			DoubleClick image:"PatientNew/Fix/ExternalID", hotspot:(100,5)
+			TypeText (EID+1)
+			click "PatientNew/New/CreateNewPatient"
+			
+			if imagefound ("PatientNew/New/ConfirmCreateNewPatient") then
+				click FoundImageLocation()
+				Exit repeat
+			end if
+			put () into ReadEID
+			wait 2
+		end repeat
+	else
+		Log "Nothing to Fix"	
+	end if
+	
+end fix

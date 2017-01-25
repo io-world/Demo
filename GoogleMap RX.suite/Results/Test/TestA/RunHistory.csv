@@ -1,0 +1,28 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-09-28 18:29:50.714 -0600,"Failure",0:00:00,1,0,1,"20160928_182950.714/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: TestA/image00013",0
+2016-09-28 18:30:02.923 -0600,"Failure",0:00:00,1,0,1,"20160928_183002.923/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2016-09-28 18:30:22.631 -0600,"Failure",0:00:00,1,0,1,"20160928_183022.631/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2016-09-28 18:30:50.366 -0600,"Failure",0:00:00,1,0,1,"20160928_183050.366/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2016-09-28 18:31:18.961 -0600,"Success",0:00:01,0,0,0,"20160928_183118.961/LogFile.txt","","",1
+2016-09-28 18:32:18.687 -0600,"Success",0:00:01,0,0,0,"20160928_183218.687/LogFile.txt","","",1
+2016-09-28 18:32:38.920 -0600,"Success",0:00:01,0,0,0,"20160928_183238.920/LogFile.txt","","",1
+2016-09-28 18:39:55.904 -0600,"Failure",0:00:01,1,0,0,"20160928_183955.904/LogFile.txt","","SenseTalk Compiler Exception -- in textc:\nWarning at line 18: Warning - Non-matching handler name: imageC",0
+2016-09-28 18:40:42.163 -0600,"Success",0:00:08,0,1,0,"20160928_184042.163/LogFile.txt","","",1
+2016-09-28 18:40:57.671 -0600,"Success",0:00:02,0,0,0,"20160928_184057.671/LogFile.txt","","",1
+2016-09-28 18:44:02.571 -0600,"Success",0:00:02,0,0,0,"20160928_184402.571/LogFile.txt","","",1
+2016-09-28 18:45:06.850 -0600,"Failure",0:00:01,1,0,0,"20160928_184506.850/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (0,0,500,500)",0
+2016-09-28 18:45:36.186 -0600,"Failure",0:00:01,1,0,0,"20160928_184536.186/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (0,0,500,500)",0
+2016-09-28 18:49:44.620 -0600,"Failure",0:00:01,1,0,0,"20160928_184944.620/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (1,1,500,500)",0
+2016-09-28 18:49:55.260 -0600,"Failure",0:00:00,1,0,0,"20160928_184955.260/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (1,1,500,500)",0
+2016-09-28 18:52:48.154 -0600,"Failure",0:00:00,1,0,0,"20160928_185248.154/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (1,1,500,500)",0
+2016-09-28 18:57:01.343 -0600,"Success",0:00:01,0,0,0,"20160928_185701.343/LogFile.txt","","",1
+2016-09-28 18:57:12.259 -0600,"Success",0:00:01,0,0,0,"20160928_185712.259/LogFile.txt","","",1
+2016-09-28 19:01:30.802 -0600,"Success",0:00:01,0,0,0,"20160928_190130.802/LogFile.txt","","",1
+2016-09-28 19:01:45.748 -0600,"Failure",0:00:00,1,0,0,"20160928_190145.748/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (0,0,500,500)",0
+2016-09-28 19:02:26.282 -0600,"Failure",0:00:00,1,0,0,"20160928_190226.282/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (0,0,500,500)",0
+2016-09-28 19:05:20.241 -0600,"Success",0:00:06,0,1,0,"20160928_190520.241/LogFile.txt","","",1
+2016-09-28 19:05:49.798 -0600,"Success",0:00:05,0,1,0,"20160928_190549.798/LogFile.txt","","",1
+2016-09-28 19:06:14.816 -0600,"Success",0:00:08,0,1,0,"20160928_190614.816/LogFile.txt","","",1
+2016-12-07 14:34:57.931 -0500,"Success",0:00:10,0,3,0,"20161207_143457.931/LogFile.txt","","",1
+2017-01-19 14:46:29.417 -0700,"Success",0:00:24,0,0,0,"20170119_144629.417/LogFile.txt","","",1
+2017-01-23 10:41:34.571 -0700,"Failure",0:00:06,1,0,0,"20170123_104134.571/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0

@@ -1,0 +1,4 @@
+﻿2016-11-30 14:39:01.686 -0700	START		Running DNC.script
+2016-11-30 14:39:01.840 -0700	Log		twentythreethousandninehundredonepm	4	on_dnc	DNC.script
+2016-11-30 14:39:03.004 -0700	EndTestCase		(Duration:"1.31638", Errors:"0", Exceptions:"0", StartTime:"2016-11-30 14:39:01 -0700", Successes:"1", TestCase:"DNC.script", Warnings:"0")
+2016-11-30 14:39:03.013 -0700	SUCCESS		Execution Time 0:00:01 DNC.script

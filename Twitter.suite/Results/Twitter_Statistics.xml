@@ -1,35 +1,19 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="Master">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>105</NumberOfRuns>
-  <NumberOfFails>48</NumberOfFails>
-  <FirstRun>2016-04-19 09:20:38 -0600</FirstRun>
-  <LastRun>2016-07-27 09:51:58 -0600</LastRun>
-  <TotalTimeOnSuccess>3460.957582</TotalTimeOnSuccess>
- </script>
- <script name="Master2">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>16</NumberOfRuns>
-  <NumberOfFails>8</NumberOfFails>
-  <FirstRun>2016-05-09 13:36:51 -0600</FirstRun>
-  <LastRun>2016-06-23 15:49:51 -0600</LastRun>
-  <TotalTimeOnSuccess>113.719547</TotalTimeOnSuccess>
- </script>
- <script name="ePMMaster">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>15</NumberOfRuns>
-  <NumberOfFails>5</NumberOfFails>
-  <FirstRun>2016-05-17 12:20:05 -0600</FirstRun>
-  <LastRun>2016-06-17 13:24:07 -0600</LastRun>
-  <TotalTimeOnSuccess>654.903061</TotalTimeOnSuccess>
- </script>
- <script name="TwitterLib">
+ <script name="Libraries/Twitter">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>3</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-04-21 13:51:52 -0600</FirstRun>
-  <LastRun>2016-05-02 13:47:30 -0600</LastRun>
-  <TotalTimeOnSuccess>0.504199</TotalTimeOnSuccess>
+  <FirstRun>2017-01-03 14:49:20 -0700</FirstRun>
+  <LastRun>2017-01-04 11:18:36 -0700</LastRun>
+  <TotalTimeOnSuccess>0.005908</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-01-03 13:08:28 -0700</FirstRun>
+  <LastRun>2017-01-12 10:00:21 -0700</LastRun>
+  <TotalTimeOnSuccess>308.633402</TotalTimeOnSuccess>
  </script>
 </statistics>

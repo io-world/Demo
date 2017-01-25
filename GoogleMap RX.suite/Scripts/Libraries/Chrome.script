@@ -1,0 +1,21 @@
+﻿
+
+on Open
+
+	TypeText windowsKey &"r"
+	TypeText "chrome.exe"
+	TypeText returnKey
+end Open
+
+
+on addressbar
+	TypeText controlKey & "l"
+	TypeText "maps.google.com"
+	TypeText returnKey
+end addressbar
+
+on close
+	TypeText altKey & F4
+	
+	
+end close

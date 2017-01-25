@@ -1,0 +1,8 @@
+﻿2016-12-05 13:27:43.837 -0600	START		Running index.script
+2016-12-05 13:27:44.048 -0600	typetext		[windowsKey]r	10	on_index	index.script
+2016-12-05 13:27:44.874 -0600	typetext		chrome.exe	11	on_index	index.script
+2016-12-05 13:27:45.903 -0600	typetext		[returnKey]	13	on_index	index.script
+2016-12-05 13:27:48.014 -0600	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2016-12-05 13:28:03.291 -0600	Exception	Chrome Icon Logo	Unable To Find Image "Chrome Icon Logo"	15	on_index	index.script
+2016-12-05 13:28:04.217 -0600	EndTestCase		(Duration:"20.378023", Errors:"1", Exceptions:"1", StartTime:"2016-12-05 13:27:43 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-12-05 13:28:04.217 -0600	ABORTED		Execution Time 0:00:20 index.script

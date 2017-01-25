@@ -1,0 +1,4 @@
+﻿2016-09-28 19:02:19.136 -0600	START		Running TestB.script
+2016-09-28 19:02:19.249 -0600	Log		code for Navigation for TestB 	5	on_testb	TestB.script
+2016-09-28 19:02:19.681 -0600	EndTestCase		(Duration:"0.543541", Errors:"0", Exceptions:"0", StartTime:"2016-09-28 19:02:19 -0600", Successes:"1", TestCase:"TestB.script", Warnings:"0")
+2016-09-28 19:02:19.687 -0600	SUCCESS		Execution Time 0:00:00 TestB.script

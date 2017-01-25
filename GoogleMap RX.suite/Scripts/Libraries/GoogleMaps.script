@@ -1,0 +1,33 @@
+﻿on set SL , EL
+
+	put SL into my SL
+	
+	put EL into my EL
+end set
+
+
+on Directions
+	click "GoogleMaps/Directions"
+	WaitFor 30, "GoogleMaps/Menu Blue"
+	TypeText my SL
+	TypeText returnKey
+end Directions
+
+
+on EnterAddress
+	click image:"GoogleMaps/Menu", hotspot:(100,10)
+	TypeText my EL
+	TypeText returnKey
+end EnterAddress
+
+
+
+function grabdistance
+	waitfor 30, "GoogleMaps/Car"
+	put ImageLocation("GoogleMaps/Car") into CarL
+	insert Carl+(10,-10) into SR
+	insert Carl+(50,10) into SR
+	put ReadText(SR) into DriveTime
+	split DriveTime by " " 
+	return item 1 of DriveTime
+end grabdistance

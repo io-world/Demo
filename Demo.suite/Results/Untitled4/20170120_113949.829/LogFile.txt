@@ -1,0 +1,4 @@
+﻿2017-01-20 11:39:49.830 -0700	START		Running Untitled4.script
+2017-01-20 11:39:49.906 -0700	Exception		Remote Connection Unavailable	1	on_untitled4	Untitled4.script
+2017-01-20 11:39:50.175 -0700	EndTestCase		(Duration:"0.341095", Errors:"1", Exceptions:"1", StartTime:"2017-01-20 11:39:49 -0700", Successes:"0", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-20 11:39:50.193 -0700	FAILURE		No Remote Connection sutinfo Error - Remote Connection Unavailable -- Execution Time 0:00:00 Untitled4.script

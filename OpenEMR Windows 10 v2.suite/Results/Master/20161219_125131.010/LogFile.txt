@@ -1,0 +1,3 @@
+﻿2016-12-19 12:51:31.010 -0800	START		Running Master.script
+2016-12-19 12:51:31.374 -0800	EndTestCase		(Duration:"0.36257", Errors:"1", Exceptions:"0", StartTime:"2016-12-19 12:51:31 -0800", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2016-12-19 12:51:31.653 -0800	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR'. -- Execution Time 0:00:00 Master.script

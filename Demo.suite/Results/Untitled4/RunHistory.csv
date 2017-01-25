@@ -1,0 +1,10 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-01-11 14:39:26.666 -0700,"Success",0:00:00,0,0,0,"20170111_143926.666/LogFile.txt","","",1
+2017-01-11 14:39:56.456 -0700,"Success",0:00:00,0,0,0,"20170111_143956.456/LogFile.txt","","",1
+2017-01-11 14:40:49.037 -0700,"Success",0:00:02,0,0,0,"20170111_144049.037/LogFile.txt","","",1
+2017-01-11 14:41:39.333 -0700,"Success",0:00:02,0,0,0,"20170111_144139.333/LogFile.txt","","",1
+2017-01-11 14:46:50.018 -0700,"Running",0:00:00,0,0,0,"20170111_144650.018/LogFile.txt","","",0
+2017-01-11 14:47:03.228 -0700,"Success",0:00:15,0,0,0,"20170111_144703.228/LogFile.txt","","",1
+2017-01-20 11:39:49.829 -0700,"Failure",0:00:00,1,0,1,"20170120_113949.829/LogFile.txt","","No Remote Connection -- sutinfo Error - Remote Connection Unavailable",0
+2017-01-20 11:40:01.734 -0700,"Success",0:00:00,0,0,0,"20170120_114001.734/LogFile.txt","","",1
+2017-01-20 11:42:34.448 -0700,"Failure",0:00:00,1,0,0,"20170120_114234.448/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'info'",0

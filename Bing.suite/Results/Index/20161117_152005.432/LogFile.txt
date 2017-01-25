@@ -1,0 +1,15 @@
+﻿2016-11-17 15:20:05.433 -0700	START		Running Index.script
+2016-11-17 15:20:05.593 -0700	typetext		[windowsKey]r	5	on_index	Index.script
+2016-11-17 15:20:05.597 -0700	Log		Now Active: chrome.exe	6	on_index	Index.script
+2016-11-17 15:20:06.438 -0700	typetext		chrome.exe[returnKey]	7	on_index	Index.script
+2016-11-17 15:20:08.547 -0700	waitfor	Google Buttons	found at (1248, 99)	8	on_index	Index.script
+2016-11-17 15:20:08.552 -0700	Log		(Chrome/IE) Google Load Time: 2.089221 seconds	9	on_index	Index.script
+2016-11-17 15:20:08.729 -0700	typetext		Oatmeal[returnKey]	16	on_index	Index.script
+2016-11-17 15:20:08.818 -0700	waitfor	Refresh Icons	found at (74, 47)	17	on_index	Index.script
+2016-11-17 15:20:08.825 -0700	Log		Results Load Time: 0.080035 seconds	18	on_index	Index.script
+2016-11-17 15:20:12.873 -0700	typetext		[windowsKey]r	5	on_index	Index.script
+2016-11-17 15:20:12.878 -0700	Log		Now Active: iexplore.exe	6	on_index	Index.script
+2016-11-17 15:20:13.743 -0700	typetext		iexplore.exe[returnKey]	7	on_index	Index.script
+2016-11-17 15:20:36.798 -0700	Exception	Google Buttons	Unable To Find Any Image On Screen "Google Buttons" within 10.00 seconds	8	on_index	Index.script
+2016-11-17 15:20:37.009 -0700	EndTestCase		(Duration:"31.57242", Errors:"1", Exceptions:"1", StartTime:"2016-11-17 15:20:05 -0700", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-11-17 15:20:37.010 -0700	ABORTED		Execution Time 0:00:31 Index.script

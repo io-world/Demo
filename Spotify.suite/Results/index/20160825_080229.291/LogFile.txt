@@ -1,0 +1,38 @@
+﻿2016-08-25 08:02:29.292 -0600	START		Running index.script
+2016-08-25 08:02:29.513 -0600	typetext		[windowsKey]r	2	on_open	
+2016-08-25 08:02:30.986 -0600	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	
+2016-08-25 08:02:34.446 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	
+2016-08-25 08:02:34.457 -0600	Log		Top Portion load time:	4	on_openverify	
+2016-08-25 08:02:34.458 -0600	Log		3.388318 seconds	4	on_openverify	
+2016-08-25 08:02:37.780 -0600	waitfor	Bottom Buttons	found at (1245, 830)	7	on_openverify	
+2016-08-25 08:02:37.791 -0600	Log		Bottom Portion Load time:	8	on_openverify	
+2016-08-25 08:02:37.792 -0600	Log		3.303159 seconds	8	on_openverify	
+2016-08-25 08:02:38.475 -0600	doubleclick	Search	at (169, 80)	2	on_findartist	
+2016-08-25 08:02:39.256 -0600	typetext		Nicki[enter]	3	on_findartist	
+2016-08-25 08:02:41.283 -0600	imagelocation	Albums	at (716, 202)	2	on_play	
+2016-08-25 08:02:41.597 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(702,372), ImageRectangle:(689,368,715,377), Language:"English", searchRectangle:(666,222,816,402), Text:"Nicki", TextPlatform:"Generic OCR")	at (702, 372)	4	on_play	
+2016-08-25 08:02:41.804 -0600	waitfor	Play Button	found at (82, 828)	10	on_play	
+2016-08-25 08:02:41.814 -0600	Log		0.194872 seconds	11	on_play	
+2016-08-25 08:02:42.696 -0600	click	Play Button	at (82, 828)	12	on_play	
+2016-08-25 08:02:43.904 -0600	imagelocation	Bottom Buttons	at (1245, 830)	2	on_getsonglength	
+2016-08-25 08:02:43.958 -0600	readtext		(1145,810,1195,850)
+2016-08-25 08:02:43.960 -0600	Log		The Sound Length is:	4	on_getsonglength	
+2016-08-25 08:02:43.961 -0600	Log		3:18	4	on_getsonglength	
+2016-08-25 08:02:45.061 -0600	imagefound	Popular	found at (263, 597)	2	on_getpopularlist	
+2016-08-25 08:02:45.175 -0600	click		at (263, 597)	3	on_getpopularlist	
+2016-08-25 08:02:45.190 -0600	Log		Found Popular List	4	on_getpopularlist	
+2016-08-25 08:02:47.518 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1126,81), ImageRectangle:(1096,77,1157,85), Language:"English", SearchRectangle:(1008,0,1224,135), Text:"Upgrade", TextPlatform:"Generic OCR")	at (1126, 81)	4	on_gettrackinfo	
+2016-08-25 08:02:49.897 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(216,201,276,661), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	5	on_gettrackinfo	
+2016-08-25 08:02:49.945 -0600	typetext		[pageDown]	9	on_gettrackinfo	
+2016-08-25 08:02:49.949 -0600	Log		PageDown was pressed 1 Times	10	on_gettrackinfo	
+2016-08-25 08:02:52.734 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(216,201,276,661), text:"9", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"9") within 2.00 seconds	12	on_gettrackinfo	
+2016-08-25 08:02:52.775 -0600	typetext		[pageDown]	9	on_gettrackinfo	
+2016-08-25 08:02:52.779 -0600	Log		PageDown was pressed 2 Times	10	on_gettrackinfo	
+2016-08-25 08:02:53.775 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(247,641), ImageRectangle:(244,637,251,646), Language:"English", searchRectangle:(216,201,276,661), text:"9", TextPlatform:"Generic OCR")	found at (247, 641)	12	on_gettrackinfo	
+2016-08-25 08:02:53.875 -0600	readtext		(317,631,547,651)
+2016-08-25 08:02:53.921 -0600	readtext		(1047,631,1087,651)
+2016-08-25 08:02:53.926 -0600	Log		The Track Name is: Favorite - Jeremih	18	on_gettrackinfo	
+2016-08-25 08:02:53.936 -0600	Log		The Track Length  is: : 03 I	19	on_gettrackinfo	
+2016-08-25 08:02:56.752 -0600	Exception	Pause Button	No Image Found On Screen: "Pause Button"	2	on_close	
+2016-08-25 08:02:57.774 -0600	EndTestCase		(Duration:"28.479236", Errors:"1", Exceptions:"1", StartTime:"2016-08-25 08:02:29 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-25 08:02:57.870 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Pause Button" -- Execution Time 0:00:28 index.script

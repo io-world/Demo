@@ -1,0 +1,12 @@
+﻿2017-01-13 14:17:56.831 -0700	START		Running index.script
+2017-01-13 14:17:57.533 -0700	click	Windows Start	at (23, 879)	1	on_index	index.script
+2017-01-13 14:17:58.515 -0700	click	CHrome	at (461, 392)	2	on_index	index.script
+2017-01-13 14:18:00.824 -0700	click	Refresh Icon	at (275, 50)	3	on_index	index.script
+2017-01-13 14:18:01.821 -0700	typetext		https://vitalware.com/[returnKey]	4	on_index	index.script
+2017-01-13 14:18:07.294 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(483,95), ImageRectangle:(447,88,520,102), Language:"English", text:"intelligence", TextPlatform:"Generic OCR")	at (483, 95)	5	on_index	index.script
+2017-01-13 14:18:08.186 -0700	imagefound	Banner	found at (728, 623)	9	on_index	index.script
+2017-01-13 14:18:08.187 -0700	Log		image was found	10	on_index	index.script
+2017-01-13 14:18:08.189 -0700	Log		continue code	14	on_index	index.script
+2017-01-13 14:18:08.216 -0700	typetext		[windowsAltKey][F4]	16	on_index	index.script
+2017-01-13 14:18:08.645 -0700	EndTestCase		(Duration:"11.812885", Errors:"0", Exceptions:"0", StartTime:"2017-01-13 14:17:56 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-13 14:18:08.654 -0700	SUCCESS		Execution Time 0:00:11 index.script

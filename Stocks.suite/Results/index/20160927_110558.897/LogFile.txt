@@ -1,0 +1,48 @@
+﻿2016-09-27 11:05:58.898 -0600	START		Running index.script
+2016-09-27 11:05:59.012 -0600	Log		/Users/randyhesse/Documents/Demos/Stocks.suite/Resources/output.csv	4	on_index	index.script
+2016-09-27 11:05:59.075 -0600	typetext		[windowsKey]	14	on_index	index.script
+2016-09-27 11:06:00.837 -0600	click	Chrome	at (312, 611)	15	on_index	index.script
+2016-09-27 11:06:03.183 -0600	waitfor	Chrome Mic	found at (999, 405)	17	on_index	index.script
+2016-09-27 11:06:03.331 -0600	typetext		goog[enter]	23	on_index	index.script
+2016-09-27 11:06:04.466 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:04.580 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:05.634 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,336), ImageRectangle:(241,331,267,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 336)	24	on_index	index.script
+2016-09-27 11:06:05.691 -0600	readtext		(104,306,239,346)
+2016-09-27 11:06:06.341 -0600	doubleclick	Chrome/Search Icon	at (247, 94)	26	on_index	index.script
+2016-09-27 11:06:07.057 -0600	typetext		[backspace]	27	on_index	index.script
+2016-09-27 11:06:07.067 -0600	Log		Google:784.91	28	on_index	index.script
+2016-09-27 11:06:07.823 -0600	typetext		Aapl[enter]	23	on_index	index.script
+2016-09-27 11:06:09.377 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:09.853 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:10.750 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(252,336), ImageRectangle:(239,331,265,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (252, 336)	24	on_index	index.script
+2016-09-27 11:06:10.806 -0600	readtext		(102,306,237,346)
+2016-09-27 11:06:11.442 -0600	doubleclick	Chrome/Search Icon	at (247, 94)	26	on_index	index.script
+2016-09-27 11:06:12.156 -0600	typetext		[backspace]	27	on_index	index.script
+2016-09-27 11:06:12.181 -0600	Log		Apple:112.84	28	on_index	index.script
+2016-09-27 11:06:12.912 -0600	typetext		Wmt[enter]	23	on_index	index.script
+2016-09-27 11:06:13.805 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:14.072 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:15.015 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,336), ImageRectangle:(225,331,251,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 336)	24	on_index	index.script
+2016-09-27 11:06:15.064 -0600	readtext		(88,306,223,346)
+2016-09-27 11:06:15.711 -0600	doubleclick	Chrome/Search Icon	at (247, 94)	26	on_index	index.script
+2016-09-27 11:06:16.427 -0600	typetext		[backspace]	27	on_index	index.script
+2016-09-27 11:06:16.446 -0600	Log		Walmart:72.33	28	on_index	index.script
+2016-09-27 11:06:17.185 -0600	typetext		Xom[enter]	23	on_index	index.script
+2016-09-27 11:06:18.352 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:18.507 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:19.453 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,336), ImageRectangle:(225,331,251,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 336)	24	on_index	index.script
+2016-09-27 11:06:19.511 -0600	readtext		(88,306,223,346)
+2016-09-27 11:06:20.156 -0600	doubleclick	Chrome/Search Icon	at (247, 94)	26	on_index	index.script
+2016-09-27 11:06:20.871 -0600	typetext		[backspace]	27	on_index	index.script
+2016-09-27 11:06:20.883 -0600	Log		Exxon Mobile:83.23	28	on_index	index.script
+2016-09-27 11:06:21.641 -0600	typetext		 MCK[enter]	23	on_index	index.script
+2016-09-27 11:06:22.478 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:22.696 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-09-27 11:06:23.621 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,336), ImageRectangle:(241,331,267,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 336)	24	on_index	index.script
+2016-09-27 11:06:23.680 -0600	readtext		(104,306,239,346)
+2016-09-27 11:06:24.320 -0600	doubleclick	Chrome/Search Icon	at (247, 94)	26	on_index	index.script
+2016-09-27 11:06:25.034 -0600	typetext		[backspace]	27	on_index	index.script
+2016-09-27 11:06:25.051 -0600	Log		Mckesson:166.02	28	on_index	index.script
+2016-09-27 11:06:26.262 -0600	click	Close Chrome	at (1413, 9)	33	on_index	index.script
+2016-09-27 11:06:26.784 -0600	EndTestCase		(Duration:"27.884582", Errors:"0", Exceptions:"0", StartTime:"2016-09-27 11:05:58 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-09-27 11:06:26.804 -0600	SUCCESS		Execution Time 0:00:27 index.script

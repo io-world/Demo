@@ -1,0 +1,11 @@
+﻿2016-11-10 08:27:18.160 -0700	START		Running DOBMod.script
+2016-11-10 08:27:18.292 -0700	Log		2016-08-13	2	on_buttons	DOBMod.script
+2016-11-10 08:27:18.953 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	DOBMod.script
+2016-11-10 08:27:20.191 -0700	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	DOBMod.script
+2016-11-10 08:27:21.397 -0700	moveto	PatientNew/DOB/MonthBack	at (461, 286)	25	on_buttons	DOBMod.script
+2016-11-10 08:27:22.206 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-10 08:27:23.013 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-10 08:27:23.816 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-10 08:27:26.490 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(567,362), ImageRectangle:(561,357,573,367), Language:"English", searchRectangle:(421,305,687,437), text:"13", TextPlatform:"Generic OCR")	at (567, 362)	33	on_buttons	DOBMod.script
+2016-11-10 08:27:27.442 -0700	EndTestCase		(Duration:"9.280342", Errors:"0", Exceptions:"0", StartTime:"2016-11-10 08:27:18 -0700", Successes:"1", TestCase:"DOBMod.script", Warnings:"0")
+2016-11-10 08:27:27.462 -0700	SUCCESS		Execution Time 0:00:09 DOBMod.script

@@ -1,0 +1,27 @@
+﻿
+TypeText windowsKey & "r"
+TypeText "C:\Program Files\MicroDicom\mDicom.exe", returnkey
+Click "MicroDicom/Open Folder"
+DoubleClick "MicroDicom/DICOMDIR"
+Click "MicroDicom/Play Button"
+
+put ReadText((1147,127,1242,147)) into Date
+log Date
+
+put ReadText((1130,148,1248,166)) into Time
+log Time
+
+wait 10
+
+
+Click "MicroDicom/Stop Button"
+Click "MicroDicom/Measurement Icon"
+Drag (700,400)
+drop (800,500)
+log ReadText((803,494,866,506))
+wait 3
+Click "MicroDicom/Circle Button"
+Drag (900,200)
+drop (1100,400)
+wait 5
+TypeText altKey & F4

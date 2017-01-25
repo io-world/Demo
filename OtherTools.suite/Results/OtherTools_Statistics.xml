@@ -2,11 +2,11 @@
 <statistics>
  <script name="Output">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfRuns>25</NumberOfRuns>
   <NumberOfFails>2</NumberOfFails>
   <FirstRun>2016-07-13 08:59:07 -0600</FirstRun>
-  <LastRun>2016-07-13 09:16:23 -0600</LastRun>
-  <TotalTimeOnSuccess>8.717036</TotalTimeOnSuccess>
+  <LastRun>2016-09-27 11:56:17 -0600</LastRun>
+  <TotalTimeOnSuccess>10.187631</TotalTimeOnSuccess>
  </script>
  <script name="RESTful">
   <LastStatus>Success</LastStatus>
@@ -17,11 +17,11 @@
   <TotalTimeOnSuccess>3.966850</TotalTimeOnSuccess>
  </script>
  <script name="index">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>48</NumberOfRuns>
-  <NumberOfFails>12</NumberOfFails>
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>88</NumberOfRuns>
+  <NumberOfFails>17</NumberOfFails>
   <FirstRun>2016-06-23 13:14:01 -0600</FirstRun>
-  <LastRun>2016-07-29 12:44:35 -0600</LastRun>
-  <TotalTimeOnSuccess>89.951936</TotalTimeOnSuccess>
+  <LastRun>2017-01-19 10:38:46 -0700</LastRun>
+  <TotalTimeOnSuccess>371.926562</TotalTimeOnSuccess>
  </script>
 </statistics>

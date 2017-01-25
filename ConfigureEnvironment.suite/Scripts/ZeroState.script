@@ -1,0 +1,8 @@
+﻿
+moveto (900,900)
+
+CaptureScreen (name:"Before Zeroing")
+Browsers.check "Chrome"
+CaptureScreen (name:"Chrome is Finishing Zeroing")
+Browsers.check "Edge"
+CaptureScreen (name:"After Zeroing")

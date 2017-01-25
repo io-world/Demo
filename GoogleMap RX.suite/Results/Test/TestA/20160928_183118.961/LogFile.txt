@@ -1,0 +1,9 @@
+﻿2016-09-28 18:31:18.962 -0600	START		Running TestA.script
+2016-09-28 18:31:19.077 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 18:31:19.140 -0600	Log		TestA/image0001	2	on_imagec	verify.script
+2016-09-28 18:31:19.145 -0600	Log		3	3	on_imagec	verify.script
+2016-09-28 18:31:19.605 -0600	imagefound	TestA/image0001	found at (787, 355)	10	on_imagec	verify.script
+2016-09-28 18:31:19.676 -0600	Log		Image was found: 	11	on_imagec	verify.script
+2016-09-28 18:31:19.677 -0600	Log		TestA/image0001	11	on_imagec	verify.script
+2016-09-28 18:31:20.106 -0600	EndTestCase		(Duration:"1.142782", Errors:"0", Exceptions:"0", StartTime:"2016-09-28 18:31:18 -0600", Successes:"1", TestCase:"TestA.script", Warnings:"0")
+2016-09-28 18:31:20.112 -0600	SUCCESS		Execution Time 0:00:01 TestA.script

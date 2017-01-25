@@ -1,0 +1,32 @@
+﻿2017-01-04 09:09:03.086 -0700	START		Running index.script
+2017-01-04 09:09:03.223 -0700	typetext		[windowsKey]r	2	on_launch	
+2017-01-04 09:09:04.062 -0700	typetext		chrome.exe[returnKey]	3	on_launch	
+2017-01-04 09:09:06.196 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_launch	
+2017-01-04 09:09:06.372 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	2	on_search	
+2017-01-04 09:09:06.428 -0700	typetext		[controlKey]l	5	on_search	
+2017-01-04 09:09:07.312 -0700	typetext		www.twitter.com	6	on_search	
+2017-01-04 09:09:08.030 -0700	typetext		[returnKey]	7	on_search	
+2017-01-04 09:09:10.175 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	9	on_search	
+2017-01-04 09:09:10.800 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1242,105), ImageRectangle:(1230,98,1255,113), Language:"English", searchRectangle:(1152,54,1310.4,135), Text:"Log", TextPlatform:"Generic OCR")	at (1242, 105)	4	on_login	
+2017-01-04 09:09:11.988 -0700	waitfor	Twitter/Login/Logo	found at (717, 365)	5	on_login	
+2017-01-04 09:09:12.137 -0700	click		at (617, 395)	7	on_login	
+2017-01-04 09:09:12.975 -0700	typetext		iotestplant	8	on_login	
+2017-01-04 09:09:14.000 -0700	typetext		[tab]	10	on_login	
+2017-01-04 09:09:16.061 -0700	click	Twitter/Login/Login Button	at (726, 517)	15	on_login	
+2017-01-04 09:09:18.138 -0700	waitfor	Twitter/Tweet/New Tweet	found at (1267, 89)	3	on_tweet	
+2017-01-04 09:09:19.251 -0700	click		at (1267, 89)	5	on_tweet	
+2017-01-04 09:09:20.187 -0700	click	Twitter/Tweet/Compose New Tweet	at (534, 293)	6	on_tweet	
+2017-01-04 09:09:21.130 -0700	typetext		Hello From Testlant	7	on_tweet	
+2017-01-04 09:09:23.454 -0700	click	Twitter/Tweet/Post	at (952, 388)	9	on_tweet	
+2017-01-04 09:09:24.713 -0700	imagefound	Twitter/Tweet/Front Logo	found at (709, 89)	3	on_check	
+2017-01-04 09:09:25.006 -0700	click	Twitter/Tweet/New Tweet	at (1179, 87)	2	on_logoff	
+2017-01-04 09:09:25.022 -0700	Log		((1079,107),(1199,387))	5	on_logoff	
+2017-01-04 09:09:26.333 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1119,359), ImageRectangle:(1099,354,1139,365), Language:"English", searchRectangle:(1079,107,1199,387), text:"Log out", TextPlatform:"Generic OCR")	at (1119, 359)	6	on_logoff	
+2017-01-04 09:09:26.918 -0700	waitfor	Twitter/Logoff/Logo	found at (140, 89)	7	on_logoff	
+2017-01-04 09:09:26.927 -0700	LogSuccess		Logged out	8	on_logoff	
+2017-01-04 09:09:27.376 -0700	click	Chrome/Windows Buttons	at (1414, 12)	2	on_close	
+2017-01-04 09:09:27.382 -0700	Log		/Users/randyhesse/Documents/Demos/Twitter.suite/Images/Chrome/Windows Buttons/Default.png	3	on_close	
+2017-01-04 09:09:33.260 -0700	imagefound	Chrome/Refresh Icon	Unable to Find Image Chrome/Refresh Icon	4	on_close	
+2017-01-04 09:09:33.262 -0700	LogSuccess		Chrome Closed	7	on_close	
+2017-01-04 09:09:33.490 -0700	EndTestCase		(Duration:"30.403083", Errors:"0", Exceptions:"0", StartTime:"2017-01-04 09:09:03 -0700", Successes:"2", TestCase:"index.script", Warnings:"0")
+2017-01-04 09:09:33.509 -0700	SUCCESS		Execution Time 0:00:30 index.script

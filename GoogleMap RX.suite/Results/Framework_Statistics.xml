@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="TestB">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-09-28 19:02:19 -0600</FirstRun>
+  <LastRun>2016-12-07 14:35:08 -0500</LastRun>
+  <TotalTimeOnSuccess>0.572327</TotalTimeOnSuccess>
+ </script>
+ <script name="TestA">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>25</NumberOfRuns>
+  <NumberOfFails>12</NumberOfFails>
+  <FirstRun>2016-09-28 18:29:50 -0600</FirstRun>
+  <LastRun>2016-12-07 14:34:57 -0500</LastRun>
+  <TotalTimeOnSuccess>52.657296</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-09-28 18:12:25 -0600</FirstRun>
+  <LastRun>2016-12-07 14:34:57 -0500</LastRun>
+  <TotalTimeOnSuccess>14.483850</TotalTimeOnSuccess>
+ </script>
+</statistics>

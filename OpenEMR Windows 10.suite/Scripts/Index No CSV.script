@@ -1,0 +1,39 @@
+﻿
+ask "How Many Patient would you like to create?"
+put it into Max
+
+
+
+
+
+repeat Max Times  
+	
+	put ("Mr","Mrs","Ms","Dr") into Suffix
+	put item random(1, 4) of suffix into Suffix
+	------------------------------------------------------------------------------------------------
+	put DNC.WordDate & DNC.WordTime into FirstName
+	put any item of A..Z into MiddlName
+	put DNC.wordyear into LastName
+	put random(100000, 999999) into ExternalID
+	------------------------------------------------------------------------------------------------
+	put any item of "1950-01-01" to today into DOB
+	------------------------------------------------------------------------------------------------
+	put random(100000000, 999999999) into SocialSecurity
+	put  (chars 1 to 3 of SocialSecurity & "-" & chars 4 to 5 of SocialSecurity & "-" & chars 6 to 9 of SocialSecurity) into SocialSecurity
+	------------------------------------------------------------------------------------------------
+	put ("Male","Female") into Sex
+	put item random(1, 2) of Sex into Sex
+	------------------------------------------------------------------------------------------------
+	put ("Married","Single","Divorced","Widowed","Separated","Domestic") into Marital
+	put item random(1, 2) of Marital into Marital
+	
+	
+	PatientNew.create Suffix, FirstName , MiddlName , LastName,ExternalID,DOB,SocialSecurity,Sex,Marital
+	
+	--click "Chrome/Close"
+	PatientNew.check
+	PatientNew.fix
+end repeat
+
+
+

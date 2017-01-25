@@ -1,4 +1,0 @@
-﻿2016-05-09 13:12:41.227 -0600	START		Running Index.script
-2016-05-09 13:12:41.412 -0600	Exception	Chrome	Could Not Open Image: Chrome	2	on_open_c	Chrome.script
-2016-05-09 13:12:41.840 -0600	EndTestCase		(Duration:"0.611422", Errors:"1", Exceptions:"1", StartTime:"2016-05-09 13:12:41 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-05-09 13:12:42.202 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Chrome -- Execution Time 0:00:00 Index.script

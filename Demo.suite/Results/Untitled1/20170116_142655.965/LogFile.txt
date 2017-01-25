@@ -1,0 +1,36 @@
+﻿2017-01-16 14:26:55.966 -0700	START		Running Untitled1.script
+2017-01-16 14:26:56.511 -0700	click	NEWPATIENT	at (46, 80)	7	on_untitled1	Untitled1.script
+2017-01-16 14:26:57.391 -0700	click	Name	at (430, 205)	8	on_untitled1	Untitled1.script
+2017-01-16 14:26:58.146 -0700	typetext		john	14	on_untitled1	Untitled1.script
+2017-01-16 14:26:58.875 -0700	typetext		[tab][tab]	15	on_untitled1	Untitled1.script
+2017-01-16 14:26:59.618 -0700	typetext		doe	16	on_untitled1	Untitled1.script
+2017-01-16 14:27:00.865 -0700	click	NEWPATIENT	at (46, 80)	7	on_untitled1	Untitled1.script
+2017-01-16 14:27:01.745 -0700	click	Name	at (430, 205)	8	on_untitled1	Untitled1.script
+2017-01-16 14:27:02.500 -0700	typetext		john	14	on_untitled1	Untitled1.script
+2017-01-16 14:27:03.231 -0700	typetext		[tab][tab]	15	on_untitled1	Untitled1.script
+2017-01-16 14:27:03.974 -0700	typetext		doe	16	on_untitled1	Untitled1.script
+2017-01-16 14:27:05.220 -0700	click	NEWPATIENT	at (46, 80)	7	on_untitled1	Untitled1.script
+2017-01-16 14:27:06.145 -0700	click	Name	at (430, 205)	8	on_untitled1	Untitled1.script
+2017-01-16 14:27:06.899 -0700	typetext		john	14	on_untitled1	Untitled1.script
+2017-01-16 14:27:07.627 -0700	typetext		[tab][tab]	15	on_untitled1	Untitled1.script
+2017-01-16 14:27:08.370 -0700	typetext		doe	16	on_untitled1	Untitled1.script
+2017-01-16 14:27:09.608 -0700	click	NEWPATIENT	at (46, 80)	7	on_untitled1	Untitled1.script
+2017-01-16 14:27:10.484 -0700	click	Name	at (430, 205)	8	on_untitled1	Untitled1.script
+2017-01-16 14:27:11.242 -0700	typetext		john	14	on_untitled1	Untitled1.script
+2017-01-16 14:27:11.973 -0700	typetext		[tab][tab]	15	on_untitled1	Untitled1.script
+2017-01-16 14:27:12.715 -0700	typetext		doe	16	on_untitled1	Untitled1.script
+2017-01-16 14:27:13.953 -0700	click	NEWPATIENT	at (46, 80)	7	on_untitled1	Untitled1.script
+2017-01-16 14:27:14.827 -0700	click	Name	at (430, 205)	8	on_untitled1	Untitled1.script
+2017-01-16 14:27:15.583 -0700	typetext		john	14	on_untitled1	Untitled1.script
+2017-01-16 14:27:16.315 -0700	typetext		[tab][tab]	15	on_untitled1	Untitled1.script
+2017-01-16 14:27:17.058 -0700	typetext		doe	16	on_untitled1	Untitled1.script
+2017-01-16 14:27:18.357 -0700	click	NEWPATIENT	at (46, 80)	7	on_untitled1	Untitled1.script
+2017-01-16 14:27:19.281 -0700	click	Name	at (430, 205)	8	on_untitled1	Untitled1.script
+2017-01-16 14:27:20.037 -0700	typetext		john	14	on_untitled1	Untitled1.script
+2017-01-16 14:27:20.766 -0700	typetext		[tab][tab]	15	on_untitled1	Untitled1.script
+2017-01-16 14:27:21.508 -0700	typetext		doe	16	on_untitled1	Untitled1.script
+2017-01-16 14:27:22.749 -0700	click	NEWPATIENT	at (46, 80)	7	on_untitled1	Untitled1.script
+2017-01-16 14:27:23.623 -0700	click	Name	at (430, 205)	8	on_untitled1	Untitled1.script
+2017-01-16 14:27:24.380 -0700	typetext		john	14	on_untitled1	Untitled1.script
+2017-01-16 14:27:24.771 -0700	EndTestCase		(Duration:"28.804015", Errors:"1", Exceptions:"0", StartTime:"2017-01-16 14:26:55 -0700", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2017-01-16 14:27:24.772 -0700	ABORTED		Execution Time 0:00:28 Untitled1.script

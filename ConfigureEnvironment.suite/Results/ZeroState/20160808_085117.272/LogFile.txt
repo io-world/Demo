@@ -1,0 +1,13 @@
+﻿2016-08-08 08:51:17.273 -0600	START		Running ZeroState.script
+2016-08-08 08:51:21.488 -0600	imagefound	Chrome/Icon Open	Unable to Find Image Chrome/Icon Open	3	on_check	Chrome.script
+2016-08-08 08:51:21.498 -0600	Log		Windows is already been Maximized	8	on_check	Chrome.script
+2016-08-08 08:51:21.527 -0600	typetext		[windowsKey]r	13	on_check	Chrome.script
+2016-08-08 08:51:22.376 -0600	typetext		Chrome.exe[returnKey]	14	on_check	Chrome.script
+2016-08-08 08:51:25.542 -0600	imagefound	Title Bar Menu/Float	Unable to Find Image Title Bar Menu/Float	16	on_check	Chrome.script
+2016-08-08 08:51:25.551 -0600	Log		Windows is already been Maximized	20	on_check	Chrome.script
+2016-08-08 08:51:25.646 -0600	imagefound	Title Bar Menu/Maximized	found at (1414, 9)	24	on_check	Chrome.script
+2016-08-08 08:51:25.651 -0600	Log		Ready to Run	25	on_check	Chrome.script
+2016-08-08 08:51:25.858 -0600	click	Title Bar Menu/Maximized	at (1414, 9)	30	on_check	Chrome.script
+2016-08-08 08:51:25.924 -0600	Exception	VNC/Logo	Could Not Open Image: VNC/Logo	2	on_check	VNC.script
+2016-08-08 08:51:26.326 -0600	EndTestCase		(Duration:"9.052099", Errors:"1", Exceptions:"1", StartTime:"2016-08-08 08:51:17 -0600", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
+2016-08-08 08:51:26.674 -0600	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: VNC/Logo -- Execution Time 0:00:09 ZeroState.script

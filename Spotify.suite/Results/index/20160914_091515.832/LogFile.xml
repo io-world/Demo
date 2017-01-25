@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index.script" package="Spotify.suite" timestamp="2016-09-14 09:15:15.832 -0400"
+ tests="1" successes="0" errors="1" time="18.601699">
+  <properties>
+   <property name="RunDate" value="2016-09-14 09:15:15.832 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="index.script" assertions="1" successes="0" errors="1" time="18.598488">
+    <failure type="LogError">Spotify was left Opened</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

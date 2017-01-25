@@ -1,0 +1,5 @@
+﻿2016-12-19 15:28:56.630 -0800	START		Running Index Full Run.script
+2016-12-19 15:28:56.751 -0800	Log		Mr,Bruce,,Wayne,222222,2006-06-13,113-83-3798,Male,Single	10	on_index_full_run	Index Full Run.script
+2016-12-19 15:29:12.373 -0800	Exception	PatientNew/New/New Patient Button	No Image Found On Screen: "PatientNew/New/New Patient Button"	3	on_create	PatientNew.script
+2016-12-19 15:29:13.024 -0800	EndTestCase		(Duration:"16.392471", Errors:"1", Exceptions:"1", StartTime:"2016-12-19 15:28:56 -0800", Successes:"0", TestCase:"Index Full Run.script", Warnings:"0")
+2016-12-19 15:29:13.025 -0800	ABORTED		Execution Time 0:00:16 Index Full Run.script

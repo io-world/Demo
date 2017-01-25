@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[633, 5, 703, 35], command:@"RightClick", eventNum:2, hotSpot:[6.6855893800000001e+02, 8.7911843599999997e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[627, 6, 697, 36], command:@"RightClick", eventNum:4, hotSpot:[6.6288813800000003e+02, 8.7834042199999999e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[626, 7, 696, 37], command:@"RightClick", eventNum:6, hotSpot:[6.6178895299999999e+02, 8.7722540700000002e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[547, 59, 650, 75], command:@"Drag", eventNum:8, hotSpot:[6.3563332700000001e+02, 8.3950628700000004e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"XClosewindow", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[547, 59, 650, 75], command:@"Drop", eventNum:8, hotSpot:[6.3563332700000001e+02, 8.3922753299999999e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"XClosewindow_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[631, 7, 701, 37], command:@"RightClick", eventNum:10, hotSpot:[6.6688101400000005e+02, 8.7789940799999999e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {command:@"Click", eventNum:12, hotSpot:[7.4768366000000003e+02, 7.1666327699999999e+02], imageName:@"", screenShotFile:@"Screen0012.png"}, {command:@"Click", eventNum:14, hotSpot:[6.3049963000000002e+02, 8.3811667899999998e+02], imageName:@"", screenShotFile:@"Screen0014.png"}, {captureRect:[547, 59, 650, 75], command:@"Click", eventNum:16, hotSpot:[6.2747686899999997e+02, 8.3700166400000001e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"XClosewindow_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {command:@"Click", eventNum:18, hotSpot:[6.6096456300000000e+02, 8.7886048400000004e+02], imageName:@"", screenShotFile:@"Screen0018.png"}, {command:@"Click", eventNum:20, hotSpot:[6.4127081799999996e+02, 8.0473280299999999e+02], imageName:@"", screenShotFile:@"Screen0020.png"}, {command:@"Click", eventNum:22, hotSpot:[6.6616487800000004e+02, 8.7446699300000000e+02], imageName:@"", screenShotFile:@"Screen0022.png"}, {command:@"Click", eventNum:24, hotSpot:[6.2916312000000005e+02, 8.0701691900000003e+02], imageName:@"", screenShotFile:@"Screen0024.png"}, {command:@"Click", eventNum:26, hotSpot:[6.6440368200000000e+02, 8.8151488500000005e+02], imageName:@"", screenShotFile:@"Screen0026.png"}, {command:@"DoubleClick", eventNum:28, hotSpot:[3.0298390000000001e+01, 1.4738165699999999e+02], imageName:@"", screenShotFile:@"Screen0028.png"}, {command:@"Click", eventNum:32, hotSpot:[6.6420383000000004e+02, 8.7693001100000004e+02], imageName:@"", screenShotFile:@"Screen0032.png"}, {command:@"Click", eventNum:34, hotSpot:[6.6422048500000005e+02, 8.8077431600000000e+02], imageName:@"", screenShotFile:@"Screen0034.png"}, {command:@"Click", eventNum:36, hotSpot:[4.5181948599999998e+02, 2.3129068000000001e+02], imageName:@"", screenShotFile:@"Screen0036.png"}, {captureRect:[299, 661, 508, 681], command:@"Click", eventNum:38, hotSpot:[4.4769753900000001e+02, 2.2933940500000000e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"0Ahttpswvvvgopglecom", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0038.png"}, {captureRect:[299, 662, 509, 686], command:@"DoubleClick", eventNum:40, hotSpot:[4.4769753900000001e+02, 2.2933940500000000e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"0AhttpswwwgEoglecom", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0040.png"}, {captureRect:[479, 663, 508, 674], command:@"Click", eventNum:44, hotSpot:[5.1934863099999995e+02, 2.3201044700000000e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"com", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0044.png"}, {captureRect:[487, 654, 557, 684], command:@"Drag", eventNum:46, hotSpot:[5.2247964500000000e+02, 2.3005917199999999e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0046.png"}, {captureRect:[286, 658, 356, 688], command:@"Drop", eventNum:46, hotSpot:[3.2102886799999999e+02, 2.2690967100000000e+02], imageName:@"", infoDict:{folderPath:@"/IE", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0047.png"}, {command:@"TypeText", eventNum:48, screenShotFile:@"Screen0048.png", text:@"\"www.amazon.com\",Return"}, {command:@"Click", eventNum:78, hotSpot:[6.2361722799999995e+02, 3.3393860899999999e+02], imageName:@"", screenShotFile:@"Screen0078.png"}, {command:@"Click", eventNum:80, hotSpot:[6.1922048500000005e+02, 3.3198733399999998e+02], imageName:@"", screenShotFile:@"Screen0080.png"}, {command:@"Click", eventNum:82, hotSpot:[1.4203603810000000e+03, 1.7916789900000001e+02], imageName:@"", screenShotFile:@"Screen0082.png"}, {command:@"Click", eventNum:84, hotSpot:[1.4209183009999999e+03, 1.7944249300000001e+02], imageName:@"", screenShotFile:@"Screen0084.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>RightClick "IE/image0001"</string>
+		<string>RightClick "IE/image0002"</string>
+		<string>RightClick "IE/image0003"</string>
+		<string>Drag "IE/XClosewindow"</string>
+		<string>Drop "IE/XClosewindow_0001"</string>
+		<string>RightClick "IE/image0004"</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click "IE/XClosewindow_0002"</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>DoubleClick ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click "IE/0Ahttpswvvvgopglecom"</string>
+		<string>DoubleClick "IE/0AhttpswwwgEoglecom"</string>
+		<string>Click "IE/com"</string>
+		<string>Drag "IE/image0006"</string>
+		<string>Drop "IE/image0005"</string>
+		<string>TypeText "www.amazon.com",Return</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>IE</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>XClosewindow.png</string>
+			<string>XClosewindow_0001.png</string>
+			<string>image0004.png</string>
+			<string>XClosewindow_0002.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>com.png</string>
+			<string>0AhttpswwwgEoglecom.png</string>
+			<string>0Ahttpswvvvgopglecom.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>15</integer>
+</dict>
+</plist>

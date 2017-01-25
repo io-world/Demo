@@ -1,18 +1,17 @@
 ﻿{
-    CaptureDate = "2016-05-09 14:48:20 +0000";
-    CaptureHost = "Windows 2012 (VNC)";
+    CaptureDate = "2016-10-17 16:11:02 +0000";
+    CaptureHost = "Windows 2012";
     CaptureScreenSize =     (
         1440,
         900
     );
     HasAlpha = 1;
-    HotSpotX = 14;
-    HotSpotY = 10;
-    ImageDescription = <>;
+    HotSpotX = 15;
+    HotSpotY = 13;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 630;
-    OriginalLocationY = 265;
+    OriginalLocationX = 829;
+    OriginalLocationY = 343;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;

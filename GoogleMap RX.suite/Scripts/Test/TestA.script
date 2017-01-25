@@ -1,0 +1,22 @@
+﻿
+
+
+
+Run "Libraries/Chrome".Open
+Run "Modules/Verify".imageC "Chrome/Refresh Icon"
+Run "Libraries/Chrome".addressbar
+Run "Modules/Verify".imageC "Chrome/Refresh Icon"
+
+
+
+Run Global OGM.EnterAddress 
+if imagefound("GoogleMaps/Right Menu Close") then
+	click "GoogleMaps/Right Menu Close"
+	click "GoogleMaps/Right Menu Open"
+end if
+
+
+
+run Global OGM.Directions
+log Global OGM.GrabDistance
+Run "Libraries/Chrome".close

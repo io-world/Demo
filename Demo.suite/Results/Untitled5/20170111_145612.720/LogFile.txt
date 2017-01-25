@@ -1,0 +1,4 @@
+﻿2017-01-11 14:56:12.721 -0700	START		Running Untitled5.script
+2017-01-11 14:56:12.813 -0700	Log		3	9	on_untitled5	Untitled5.script
+2017-01-11 14:56:13.146 -0700	EndTestCase		(Duration:"0.424413", Errors:"0", Exceptions:"0", StartTime:"2017-01-11 14:56:12 -0700", Successes:"1", TestCase:"Untitled5.script", Warnings:"0")
+2017-01-11 14:56:13.193 -0700	SUCCESS		Execution Time 0:00:00 Untitled5.script

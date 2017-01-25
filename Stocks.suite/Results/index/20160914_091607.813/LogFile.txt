@@ -1,0 +1,18 @@
+﻿2016-09-14 09:16:07.814 -0400	START		Running index.script
+2016-09-14 09:16:07.967 -0400	typetext		[windowsKey]	9	on_index	index.script
+2016-09-14 09:16:09.846 -0400	click	Chrome	at (306, 599)	10	on_index	index.script
+2016-09-14 09:16:12.593 -0400	waitfor	Chrome Mic	found at (999, 402)	12	on_index	index.script
+2016-09-14 09:16:12.719 -0400	typetext		goog[enter]	18	on_index	index.script
+2016-09-14 09:16:13.780 -0400	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	19	on_index	index.script
+2016-09-14 09:16:13.903 -0400	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	19	on_index	index.script
+2016-09-14 09:16:15.048 -0400	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,331), ImageRectangle:(241,326,267,337), Language:"English", searchRectangle:(44,32,724,412), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 331)	19	on_index	index.script
+2016-09-14 09:16:15.093 -0400	readtext		(104,301,239,341)
+2016-09-14 09:16:15.752 -0400	doubleclick	Chrome/Search Icon	at (247, 89)	21	on_index	index.script
+2016-09-14 09:16:16.465 -0400	typetext		[backspace]	22	on_index	index.script
+2016-09-14 09:16:16.470 -0400	Log		Google:759.69	23	on_index	index.script
+2016-09-14 09:16:17.237 -0400	typetext		Appl[enter]	18	on_index	index.script
+2016-09-14 09:16:18.128 -0400	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	19	on_index	index.script
+2016-09-14 09:16:18.671 -0400	imagelocation	Chrome/Chrome Icon Logo	at (24, 12)	19	on_index	index.script
+2016-09-14 09:16:25.057 -0400	Exception		Searching For Image: OCR Error: OCR operation was aborted	19	on_index	index.script
+2016-09-14 09:16:25.660 -0400	EndTestCase		(Duration:"17.844479", Errors:"1", Exceptions:"1", StartTime:"2016-09-14 09:16:07 -0400", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-09-14 09:16:25.661 -0400	ABORTED		Execution Time 0:00:17 index.script

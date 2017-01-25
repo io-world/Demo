@@ -1,3 +1,0 @@
-﻿2016-05-02 14:40:39.070 -0600	START		Running Index.script
-2016-05-02 14:41:07.323 -0600	EndTestCase		(Duration:"28.251729", Errors:"1", Exceptions:"0", StartTime:"2016-05-02 14:40:39 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-05-02 14:41:07.324 -0600	ABORTED		Execution Time 0:00:28 Index.script

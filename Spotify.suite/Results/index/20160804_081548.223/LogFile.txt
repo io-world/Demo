@@ -1,0 +1,22 @@
+﻿2016-08-04 08:15:48.224 -0600	START		Running index.script
+2016-08-04 08:15:48.789 -0600	imagefound	VNC/Logo	found at (1154, 810)	1	on_index	index.script
+2016-08-04 08:15:48.899 -0600	click		at (1154, 810)	2	on_index	index.script
+2016-08-04 08:15:50.525 -0600	click	VNC/Cancel	at (920, 623)	4	on_index	index.script
+2016-08-04 08:15:51.249 -0600	typetext		[windowsKey]r	2	on_open	spotify.script
+2016-08-04 08:15:52.738 -0600	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	spotify.script
+2016-08-04 08:15:56.942 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	spotify.script
+2016-08-04 08:15:56.970 -0600	Log		Top Portion load time:	4	on_openverify	spotify.script
+2016-08-04 08:15:56.971 -0600	Log		4.119059 seconds	4	on_openverify	spotify.script
+2016-08-04 08:15:58.485 -0600	waitfor	Bottom Buttons	found at (1249, 830)	7	on_openverify	spotify.script
+2016-08-04 08:15:58.514 -0600	Log		Bottom Portion Load time:	8	on_openverify	spotify.script
+2016-08-04 08:15:58.515 -0600	Log		1.483308 seconds	8	on_openverify	spotify.script
+2016-08-04 08:15:58.861 -0600	doubleclick	Search	at (169, 80)	2	on_findartist	spotify.script
+2016-08-04 08:15:59.642 -0600	typetext		Nicki[enter]	3	on_findartist	spotify.script
+2016-08-04 08:16:01.601 -0600	imagelocation	Albums	at (720, 200)	2	on_play	spotify.script
+2016-08-04 08:16:02.432 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(706,371), ImageRectangle:(693,367,719,376), Language:"English", searchRectangle:(670,220,820,400), Text:"Nicki", TextPlatform:"Generic OCR")	at (706, 371)	4	on_play	spotify.script
+2016-08-04 08:16:02.857 -0600	waitfor	Play Button	found at (82, 828)	10	on_play	spotify.script
+2016-08-04 08:16:02.882 -0600	Log		0.39491 seconds	11	on_play	spotify.script
+2016-08-04 08:16:03.935 -0600	click	Play Button	at (82, 828)	12	on_play	spotify.script
+2016-08-04 08:16:15.715 -0600	Exception	Bottom Buttons	Unable To Find Image "Bottom Buttons"	2	on_getsonglength	spotify.script
+2016-08-04 08:16:16.009 -0600	EndTestCase		(Duration:"27.784079", Errors:"1", Exceptions:"1", StartTime:"2016-08-04 08:15:48 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-04 08:16:16.116 -0600	FAILURE	Screen_Error.png	Image Not Found imagelocation Error - Unable To Find Image "Bottom Buttons" -- Execution Time 0:00:27 index.script

@@ -1,0 +1,4 @@
+﻿2016-07-13 09:11:01.237 -0600	START		Running Output.script
+2016-07-13 09:11:01.317 -0600	Log		 <testsuite name="index.script" package="Command Line Internet.suite" timestamp="2016-06-23 13:14:01.341 -0600"	8	on_output	Output.script
+2016-07-13 09:11:01.647 -0600	EndTestCase		(Duration:"0.408798", Errors:"0", Exceptions:"0", StartTime:"2016-07-13 09:11:01 -0600", Successes:"1", TestCase:"Output.script", Warnings:"0")
+2016-07-13 09:11:01.653 -0600	SUCCESS		Execution Time 0:00:00 Output.script

@@ -1,0 +1,16 @@
+﻿2016-08-03 10:34:26.461 -0600	START		Running PatientAllergies.script
+2016-08-03 10:34:27.144 -0600	click	PatientAllergies/Allergies	at (895, 491)	1	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:28.433 -0600	click	PatientAllergies/Add	at (194, 183)	2	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:29.617 -0600	imagelocation	PatientAllergies/Type	at (63, 101)	4	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:30.409 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(140,171), ImageRectangle:(127,166,154,176), Language:"English", searchRectangle:(113,101,213,201), Text:"Sulfa", TextPlatform:"Generic OCR")	at (140, 171)	5	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:31.705 -0600	click	PatientAllergies/BeginDate	at (170, 268)	7	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:32.565 -0600	typetext		2016 - 8 - 3	8	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:33.897 -0600	click	PatientAllergies/Occurrence	at (317, 327)	9	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:34.653 -0600	typetext		[downArrow][downArrow][downArrow][returnKey]	10	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:35.933 -0600	click	PatientAllergies/Severity	at (277, 347)	11	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:36.691 -0600	typetext		[downArrow][downArrow][downArrow][returnKey]	12	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:37.976 -0600	click	PatientAllergies/Type	at (63, 101)	13	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:38.694 -0600	typetext		[pageDown]	14	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:39.965 -0600	click	PatientAllergies/Save	at (69, 466)	15	on_patientallergies	PatientAllergies.script
+2016-08-03 10:34:40.452 -0600	EndTestCase		(Duration:"13.989281", Errors:"0", Exceptions:"0", StartTime:"2016-08-03 10:34:26 -0600", Successes:"1", TestCase:"PatientAllergies.script", Warnings:"0")
+2016-08-03 10:34:40.460 -0600	SUCCESS		Execution Time 0:00:13 PatientAllergies.script

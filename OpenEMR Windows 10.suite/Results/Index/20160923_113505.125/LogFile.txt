@@ -1,0 +1,41 @@
+﻿2016-09-23 11:35:05.126 -0600	START		Running Index.script
+2016-09-23 11:35:05.239 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-09-23 11:35:06.090 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-09-23 11:35:06.819 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-09-23 11:35:09.506 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_login	Login.script
+2016-09-23 11:35:10.555 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-09-23 11:35:12.044 -0600	waitfor	Login/Logo	found at (524, 486)	6	on_login	Login.script
+2016-09-23 11:35:12.057 -0600	Log		Login/logo was Booted 1.485359 seconds	7	on_login	Login.script
+2016-09-23 11:35:12.144 -0600	typetext		admin[tab]	9	on_login	Login.script
+2016-09-23 11:35:12.913 -0600	typetext		pass[enter]	10	on_login	Login.script
+2016-09-23 11:35:20.002 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	12	on_login	Login.script
+2016-09-23 11:35:20.017 -0600	Log		EMR was loaded 1.08238 seconds	13	on_login	Login.script
+2016-09-23 11:35:20.709 -0600	click	PatientNew/New Patient Button	at (43, 80)	2	on_create	PatientNew.script
+2016-09-23 11:35:21.855 -0600	click	PatientNew/Name	at (379, 202)	3	on_create	PatientNew.script
+2016-09-23 11:35:23.124 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,236), ImageRectangle:(302,231,317,241), Language:"English", searchRectangle:(279,222,379,302), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 236)	7	on_create	PatientNew.script
+2016-09-23 11:35:23.246 -0600	click		at (309, 236)	8	on_create	PatientNew.script
+2016-09-23 11:35:24.012 -0600	readtext		(279,222,379,302)
+2016-09-23 11:35:24.013 -0600	Log		Date of Birth\nUnassigned	11	on_create	PatientNew.script
+2016-09-23 11:35:24.139 -0600	typetext		[tab]Dondald[tab]	13	on_create	PatientNew.script
+2016-09-23 11:35:24.869 -0600	typetext		A[tab]	14	on_create	PatientNew.script
+2016-09-23 11:35:25.652 -0600	typetext		Trump[tab]	15	on_create	PatientNew.script
+2016-09-23 11:35:26.450 -0600	typetext		123456[tab]	16	on_create	PatientNew.script
+2016-09-23 11:35:27.694 -0600	click	PatientNew/DateOfBirth	at (419, 237)	9	on_buttons	DOBMod.script
+2016-09-23 11:35:28.948 -0600	moveto	PatientNew/YearBack	at (429, 287)	15	on_buttons	DOBMod.script
+2016-09-23 11:35:30.193 -0600	moveto	PatientNew/MonthBack	at (464, 287)	24	on_buttons	DOBMod.script
+2016-09-23 11:35:31.008 -0600	click		at (464, 287)	27	on_buttons	DOBMod.script
+2016-09-23 11:35:32.724 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(636,324), ImageRectangle:(633,319,639,329), Language:"English", searchRectangle:(441,302,689,437), text:"5", TextPlatform:"Generic OCR")	at (636, 324)	35	on_buttons	DOBMod.script
+2016-09-23 11:35:34.085 -0600	click	Login/Social Security	at (333, 264)	21	on_create	PatientNew.script
+2016-09-23 11:35:34.931 -0600	typetext		123-05-2220	22	on_create	PatientNew.script
+2016-09-23 11:35:36.260 -0600	click	PatientNew/MaritalStatus	at (411, 288)	24	on_create	PatientNew.script
+2016-09-23 11:35:37.701 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(319,342), ImageRectangle:(302,336,337,349), Language:"English", searchRectangle:(291,298,411,438), Text:"Single", TextPlatform:"Generic OCR")	at (319, 342)	27	on_create	PatientNew.script
+2016-09-23 11:35:39.053 -0600	click	PatientNew/Sex	at (864, 233)	28	on_create	PatientNew.script
+2016-09-23 11:35:39.794 -0600	typetext		[downArrow][downArrow][returnKey]	33	on_create	PatientNew.script
+2016-09-23 11:35:41.126 -0600	click	PatientNew/CreateNewPatient	at (317, 529)	35	on_create	PatientNew.script
+2016-09-23 11:35:41.895 -0600	imagefound	PatientNew/OK	found at (543, 178)	3	on_check	PatientNew.script
+2016-09-23 11:35:42.033 -0600	imagefound	PatientNew/Error3	found at (278, 134)	4	on_check	PatientNew.script
+2016-09-23 11:35:42.045 -0600	Log		ID Already Exist	5	on_check	PatientNew.script
+2016-09-23 11:35:45.285 -0600	imagefound	PatientAllergies/Allergies	Unable to Find Image PatientAllergies/Allergies	4	on_patientallergies	PatientAllergies.script
+2016-09-23 11:36:10.839 -0600	Exception	PatientAllergies/Add	No Image Found On Screen: "PatientAllergies/Add"	10	on_patientallergies	PatientAllergies.script
+2016-09-23 11:36:11.292 -0600	EndTestCase		(Duration:"66.165002", Errors:"1", Exceptions:"1", StartTime:"2016-09-23 11:35:05 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-09-23 11:36:11.370 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "PatientAllergies/Add" -- Execution Time 0:01:06 Index.script

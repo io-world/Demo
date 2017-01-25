@@ -7,7 +7,7 @@ on DropBoxDelete FileName
 	SwipeDown 
 	wait 5
 	Click (Text: FileName, waitfor: 10)
-	waitfor 7,(image:"Android/Drop Box Back Button")
+	waitfor 10,(image:"Android/Drop Box Back Button", scale: (1,0.95))
 	wait 2
 	click (image:"Android/Drop Box Menu Icon", searchrectnagle:(700,40,800,100 ))
 	click "Android/Drop Box Quit"

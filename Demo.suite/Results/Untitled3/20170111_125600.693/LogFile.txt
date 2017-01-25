@@ -1,0 +1,6 @@
+﻿2017-01-11 12:56:00.694 -0700	START		Running Untitled3.script
+2017-01-11 12:56:00.947 -0700	readtext		(566,656,1144,814)
+2017-01-11 12:56:00.948 -0700	Log		First of all, just getting to the theater presents difficulties. Leaving a home equipped with a\nTV and a video recorder isn’t an attractive idea on a humid, cold, or rainy night. Even if the\nweather cooperates, there is still a thirty-minute drive to the theater down a congested\nhighway, followed by the hassle of looking for a parking space. And then there are the\nlines. After hooking yourself to the end of a human chain, you worry about whether there\nwill be enough tickets, whether you will get seats together, and whether many people will\nsneak into the line ahead of you.	3	on_untitled3	Untitled3.script
+2017-01-11 12:56:00.950 -0700	Log		weather cooperates, there is still a thirty-minute drive to the theater down a congested	6	on_untitled3	Untitled3.script
+2017-01-11 12:56:01.389 -0700	EndTestCase		(Duration:"0.69375", Errors:"0", Exceptions:"0", StartTime:"2017-01-11 12:56:00 -0700", Successes:"1", TestCase:"Untitled3.script", Warnings:"0")
+2017-01-11 12:56:01.432 -0700	SUCCESS		Execution Time 0:00:00 Untitled3.script

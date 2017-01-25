@@ -1,0 +1,3 @@
+﻿2017-01-04 09:02:42.248 -0700	START		Running Libraries/Twitter.script
+2017-01-04 09:02:42.249 -0700	EndTestCase		(Duration:"0.00017", Errors:"0", Exceptions:"0", StartTime:"2017-01-04 09:02:42 -0700", Successes:"1", TestCase:"Libraries/Twitter.script", Warnings:"0")
+2017-01-04 09:02:42.305 -0700	SUCCESS		Execution Time 0:00:00 Libraries/Twitter.script

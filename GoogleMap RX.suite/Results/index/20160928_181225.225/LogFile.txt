@@ -1,0 +1,5 @@
+﻿2016-09-28 18:12:25.226 -0600	START		Running index.script
+2016-09-28 18:12:25.420 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 18:12:25.479 -0600	Log		code for Navigation for TestB 	5	on_testb	TestB.script
+2016-09-28 18:12:25.962 -0600	EndTestCase		(Duration:"0.734317", Errors:"0", Exceptions:"0", StartTime:"2016-09-28 18:12:25 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-09-28 18:12:25.967 -0600	SUCCESS		Execution Time 0:00:00 index.script

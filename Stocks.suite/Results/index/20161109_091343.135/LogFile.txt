@@ -1,0 +1,7 @@
+﻿2016-11-09 09:13:43.136 -0700	START		Running index.script
+2016-11-09 09:13:43.321 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2016-11-09 09:13:44.154 -0700	typetext		chrome.exe	11	on_index	index.script
+2016-11-09 09:13:45.182 -0700	typetext		[returnKey]	13	on_index	index.script
+2016-11-09 09:13:47.597 -0700	waitfor	Refresh Icon	found at (92, 251)	14	on_index	index.script
+2016-11-09 09:13:48.973 -0700	EndTestCase		(Duration:"5.834163", Errors:"1", Exceptions:"0", StartTime:"2016-11-09 09:13:43 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-11-09 09:13:48.974 -0700	ABORTED		Execution Time 0:00:05 index.script

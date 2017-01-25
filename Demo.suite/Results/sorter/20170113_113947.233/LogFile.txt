@@ -1,0 +1,5 @@
+﻿2017-01-13 11:39:47.234 -0700	START		Running Untitled1.script
+2017-01-13 11:39:47.930 -0700	moveto	Logo	at (281, 110)	3	on_untitled1	Untitled1.script
+2017-01-13 11:39:48.034 -0700	capturescreen	test.png	(239,81,350,139)	5	on_untitled1	Untitled1.script
+2017-01-13 11:39:48.395 -0700	EndTestCase		(Duration:"1.159845", Errors:"0", Exceptions:"0", StartTime:"2017-01-13 11:39:47 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-01-13 11:39:48.425 -0700	SUCCESS		Execution Time 0:00:01 Untitled1.script

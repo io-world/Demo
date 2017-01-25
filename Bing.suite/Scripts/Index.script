@@ -1,0 +1,56 @@
+﻿put "Oatmeal" into SearchItem
+
+put ("chrome.exe","microsoft-edge:") into Browers
+Repeat 2 times
+	TypeText windowskey & "r"
+	Log "Now Active: " & item RepeatIndex() of Browers 
+	TypeText item RepeatIndex() of Browers
+	wait 1
+	TypeText  returnkey
+	if item RepeatIndex() of Browers = "chrome.exe" then
+		Log "Chrome is Opened"
+		waitfor 10,"Refresh Icons"
+		log "(Chrome/IE) Google Load Time: " & the result
+		typetext controlKey & "l"
+		typetext "www.bing.com" , returnkey
+		waitfor 10,"Bing/Menu Bar"
+		log "Bing Load Time: " & the result
+	else
+		log "bing"
+	end if
+	TypeText SearchItem , returnkey
+	waitfor 10,"Refresh Icons"
+	log "Results Load Time: " & the result
+	wait 4
+End repeat
+
+moveto (imagelocation("Edge"))
+click FoundImageLocation()+ (100,212)
+waitfor 10,"Refresh Icons"
+log "Page Load Time: " &the result
+
+wait 4
+delays.turnon
+TypeText altkey , tabkey
+delays.turnoff
+Log "Chrome Now Active"
+waitfor 20,(image:"Refresh Icons/Chrome")
+
+
+moveto (imagelocation("Chrome/Buttons"))
+click FoundImageLocation()+ (110,205)
+waitfor 10,"Refresh Icons"
+log "Page Load Time: " &the result
+
+delays.turnon
+TypeText altkey , tabkey
+delays.turnoff
+
+Log "IE Now Active"
+wait 1
+TypeText altkey, F4
+Log "IE Has Closed"
+wait 1
+waitfor 30, "Refresh Icons"
+TypeText altkey, F4
+Log "Chrome Has Closed"

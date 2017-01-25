@@ -1,0 +1,14 @@
+﻿2016-10-17 10:30:51.560 -0600	START		Running Login.script
+2016-10-17 10:30:51.693 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-10-17 10:30:52.538 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-10-17 10:30:53.267 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-10-17 10:30:55.377 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_login	Login.script
+2016-10-17 10:30:56.386 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-10-17 10:30:57.566 -0600	waitfor	Login/Logo	found at (524, 486)	6	on_login	Login.script
+2016-10-17 10:30:57.582 -0600	Log		Login/logo was Booted 1.177895 seconds	7	on_login	Login.script
+2016-10-17 10:30:57.680 -0600	typetext		admin[tab]	9	on_login	Login.script
+2016-10-17 10:30:58.443 -0600	typetext		pass[enter]	10	on_login	Login.script
+2016-10-17 10:31:05.398 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	12	on_login	Login.script
+2016-10-17 10:31:05.413 -0600	Log		EMR was loaded 0.929022 seconds	13	on_login	Login.script
+2016-10-17 10:31:05.914 -0600	EndTestCase		(Duration:"14.352098", Errors:"0", Exceptions:"0", StartTime:"2016-10-17 10:30:51 -0600", Successes:"1", TestCase:"Login.script", Warnings:"0")
+2016-10-17 10:31:05.932 -0600	SUCCESS		Execution Time 0:00:14 Login.script

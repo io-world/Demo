@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2016-09-28 18:12:25 -0600</FirstRun>
+  <LastRun>2017-01-23 12:39:44 -0700</LastRun>
+  <TotalTimeOnSuccess>126.425375</TotalTimeOnSuccess>
+ </script>
+ <script name="Test/TestA">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>27</NumberOfRuns>
+  <NumberOfFails>13</NumberOfFails>
+  <FirstRun>2016-09-28 18:29:50 -0600</FirstRun>
+  <LastRun>2017-01-23 10:41:34 -0700</LastRun>
+  <TotalTimeOnSuccess>24.537392</TotalTimeOnSuccess>
+ </script>
+ <script name="Test/TestB">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-09-28 19:02:19 -0600</FirstRun>
+  <LastRun>2016-12-07 14:35:08 -0500</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="GlobalDefine">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-01-19 14:50:51 -0700</FirstRun>
+  <LastRun>2017-01-19 14:51:15 -0700</LastRun>
+  <TotalTimeOnSuccess>0.861059</TotalTimeOnSuccess>
+ </script>
+</statistics>

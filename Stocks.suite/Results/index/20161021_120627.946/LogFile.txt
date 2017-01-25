@@ -1,0 +1,12 @@
+﻿2016-10-21 12:06:27.948 -0600	START		Running index.script
+2016-10-21 12:06:28.053 -0600	Log		/Users/randyhesse/Documents/Demos/Stocks.suite/Resources/output.csv	4	on_index	index.script
+2016-10-21 12:06:28.124 -0600	typetext		[windowsKey]	14	on_index	index.script
+2016-10-21 12:06:29.678 -0600	click	Chrome	at (312, 355)	15	on_index	index.script
+2016-10-21 12:06:55.328 -0600	waitfor	Chrome Mic	found at (930, 322)	17	on_index	index.script
+2016-10-21 12:06:55.454 -0600	typetext		goog[enter]	23	on_index	index.script
+2016-10-21 12:06:56.399 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-10-21 12:06:56.733 -0600	imagelocation	Chrome/Chrome Icon Logo	at (27, 14)	24	on_index	index.script
+2016-10-21 12:06:58.004 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,269), ImageRectangle:(181,265,202,273), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 269)	24	on_index	index.script
+2016-10-21 12:06:58.131 -0600	readtext		(41,239,176,279)
+2016-10-21 12:07:39.266 -0600	EndTestCase		(Duration:"71.317313", Errors:"1", Exceptions:"0", StartTime:"2016-10-21 12:06:27 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-10-21 12:07:39.267 -0600	ABORTED		Execution Time 0:01:11 index.script

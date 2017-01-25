@@ -1,4 +1,16 @@
-﻿on verify
+﻿
+on open
+
+	typetext windowsKey & "r"
+	
+	
+	typetext "calc" & Enter
+	
+	
+end open
+
+
+on verify
 	if ImageFound(4, "Calculator/Calculator Icon")
 		log "Open Calculator"
 	else
@@ -9,19 +21,19 @@ end verify
 on math buttons
 	put ImageLocation("Calculator/MC Icon") into TL
 	put ImageLocation("Operators/Equals Sign") into BR
-	put TL + (-18,50) into TL
-	put BR + (-55,30) into BR
-	insert TL into boxsearch
-	insert BR into boxsearch
+	insert TL + (-18,65) into boxsearch
+	insert BR + (-50,25) into boxsearch
 	log readtext (boxsearch)
 	
-	split buttons using " " 
-	delete " " in buttons
-	put each character of buttons into clicky
-	put number of items of buttons into Max
+	delete " " from buttons
+	put each character of buttons into clickyString
+	put number of items of clickyString into Max
+	
+	log clickyString
+	
 	
 	repeat Max Times
-		put item repeatindex() of buttons into clicky
+		put item repeatindex() of clickyString into clicky
 		log Clicky & " was Clicked"
 		if clicky = "+" then
 			click "Operators/Add"
@@ -39,26 +51,31 @@ on math buttons
 	end repeat
 	
 	MoveTo ("Calculator/Calculator Icon")
+	
+	
 end math
 
 
 on answer
-
-	put imagelocation ("Calculator/Calculator Icon") into XY
-	put XY + (0,50) into TL
-	put XY + (200,100) into BR
-	insert TL into boxsearch
-	insert BR into boxsearch
+	put imagelocation ("Calculator/Calculator Icon") into TL
+	put ImageLocation("Operators/Equals Sign") into BR
+	insert TL + (-35,80) into boxsearch
+	insert BR + (40,-340) into boxsearch
 	log readtext (boxsearch)
+	wait 5
 	
-	put boxsearch + (0,0,190,0) into CapSR
-	CaptureScreen (Name: "Results", Rectangle: (CapSR))
-	
+	CaptureScreen (Name: "Results", Rectangle: (boxsearch))
 end answer
 
 
-
 on close
-	click "Calculator/Close Icon"
+	put imagelocation("Calculator/Calculator Icon") into CI
+	click (image:"Calculator/Close Icon",searchRectangle:(CI+(150,-20),CI+(290,20)))
+	wait 2	
 end close
+
+
+
+
+
 

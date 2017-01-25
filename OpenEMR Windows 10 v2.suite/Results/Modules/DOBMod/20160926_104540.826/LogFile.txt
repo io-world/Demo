@@ -1,0 +1,3 @@
+﻿2016-09-26 10:45:40.828 -0600	START		Running DOBMod.script
+2016-09-26 10:45:41.195 -0600	EndTestCase		(Duration:"0.366089", Errors:"0", Exceptions:"0", StartTime:"2016-09-26 10:45:40 -0600", Successes:"1", TestCase:"DOBMod.script", Warnings:"0")
+2016-09-26 10:45:41.205 -0600	SUCCESS		Execution Time 0:00:00 DOBMod.script

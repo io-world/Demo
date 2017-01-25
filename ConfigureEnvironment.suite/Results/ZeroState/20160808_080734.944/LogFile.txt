@@ -1,0 +1,11 @@
+﻿2016-08-08 08:07:34.946 -0600	START		Running ZeroState.script
+2016-08-08 08:07:35.034 -0600	typetext		[windowsKey]r	3	on_zerostate	ZeroState.script
+2016-08-08 08:07:35.884 -0600	typetext		Chrome.exe[returnKey]	4	on_zerostate	ZeroState.script
+2016-08-08 08:07:36.714 -0600	imagefound	Title Bar Menu/Float	found at (1344, 347)	6	on_zerostate	ZeroState.script
+2016-08-08 08:07:36.847 -0600	click		at (1344, 347)	7	on_zerostate	ZeroState.script
+2016-08-08 08:07:36.850 -0600	Log		Click Maximixed	8	on_zerostate	ZeroState.script
+2016-08-08 08:07:37.962 -0600	imagefound	Title Bar Menu/Maximized	found at (1414, 9)	14	on_zerostate	ZeroState.script
+2016-08-08 08:07:37.965 -0600	Log		Ready to Run	15	on_zerostate	ZeroState.script
+2016-08-08 08:07:38.291 -0600	click	Title Bar Menu/Maximized	at (1414, 9)	20	on_zerostate	ZeroState.script
+2016-08-08 08:07:38.647 -0600	EndTestCase		(Duration:"3.698964", Errors:"0", Exceptions:"0", StartTime:"2016-08-08 08:07:34 -0600", Successes:"1", TestCase:"ZeroState.script", Warnings:"0")
+2016-08-08 08:07:38.650 -0600	SUCCESS		Execution Time 0:00:03 ZeroState.script

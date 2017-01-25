@@ -1,31 +1,27 @@
-﻿if ImageFound(10, "VNC/Logo") then
-	click foundimagelocation()
-	wait 1
-	Click "VNC/Cancel"
+﻿set SObj to a new Spotify
+
+
+(SObj).DefineArtist "Nicki"
+Try
+	(SObj).Open
+	(SObj).OpenVerify
+	(SObj). FindArtist 
+	(SObj).Play
+	(SObj).GetSongLength
+	(SObj).GetPopularList
+	(SObj).GetTrackInfo "9"
+	(SObj).close
+Catch exception
+	if imagefound ("Spotify Open Icon") Then
+		CaptureScreen (Name: "ErrorImage")
+		
+		logerror "Spotify was left Opened"
+		TypeText altKey & F4
+		Log "Spotify has been closed"
+	else
+		logerror "Something Went Wrong"
+	end if
 	
-end if
-
-Spotify. DefineArtist "Nicki"
-
-
-
---------------Open Spotify and Verify---------------
-Spotify.Open
-Spotify.OpenVerify
-------------------------------------------------------------
-
-------------------------------------------------------------
-Spotify. FindArtist 
-Spotify.Play
-Spotify.GetSongLength
-------------------------------------------------------------
-
-
-
---------------Artist's Page-------------------
-Spotify.GetPopularList
-Spotify.GetTrackInfo "9"
-Spotify.close
-------------------------------------------------------------
+End try
 
 

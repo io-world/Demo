@@ -1,0 +1,5 @@
+﻿2016-11-17 08:31:11.442 -0700	START		Running Barcode.script
+2016-11-17 08:31:11.549 -0700	readtext		(67,185,689,284)
+2016-11-17 08:31:11.549 -0700	Log		123456	1	on_barcode	Barcode.script
+2016-11-17 08:31:16.841 -0700	EndTestCase		(Duration:"5.397827", Errors:"0", Exceptions:"0", StartTime:"2016-11-17 08:31:11 -0700", Successes:"1", TestCase:"Barcode.script", Warnings:"0")
+2016-11-17 08:31:16.860 -0700	SUCCESS		Execution Time 0:00:05 Barcode.script

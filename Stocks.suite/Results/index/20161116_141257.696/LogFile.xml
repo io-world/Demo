@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index.script" package="Stocks.suite" timestamp="2016-11-16 14:12:57.696 -0700"
+ tests="1" successes="1" errors="0" time="46.107404">
+  <properties>
+   <property name="RunDate" value="2016-11-16 14:12:57.696 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="index.script" assertions="1" successes="1" errors="0" time="46.10552">
+  </testcase>
+ </testsuite>
+</testsuites>

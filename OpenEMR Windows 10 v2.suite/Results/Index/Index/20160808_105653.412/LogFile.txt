@@ -1,0 +1,48 @@
+﻿2016-08-08 10:56:53.412 -0600	START		Running Index.script
+2016-08-08 10:56:53.559 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-08-08 10:56:54.407 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-08-08 10:56:55.135 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-08-08 10:56:56.733 -0600	waitfor	Chrome/Refresh Icon	found at (76, 41)	4	on_login	Login.script
+2016-08-08 10:56:57.780 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-08-08 10:56:59.462 -0600	waitfor	Login/Logo	found at (524, 484)	9	on_login	Login.script
+2016-08-08 10:56:59.487 -0600	Log		1.674636 seconds	10	on_login	Login.script
+2016-08-08 10:56:59.589 -0600	typetext		admin[tab]	12	on_login	Login.script
+2016-08-08 10:57:00.363 -0600	typetext		pass[enter]	13	on_login	Login.script
+2016-08-08 10:57:06.947 -0600	click	PatientNew/New Patient Button	at (43, 75)	5	on_patientnew	PatientNew.script
+2016-08-08 10:57:07.856 -0600	click	PatientNew/Name	at (379, 197)	6	on_patientnew	PatientNew.script
+2016-08-08 10:57:09.141 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,231), ImageRectangle:(302,226,316,236), Language:"English", searchRectangle:(279,217,379,297), text:"Mr", TextPlatform:"Generic OCR")	at (309, 231)	9	on_patientnew	PatientNew.script
+2016-08-08 10:57:09.938 -0600	typetext		[tab]Warrn[tab]	10	on_patientnew	PatientNew.script
+2016-08-08 10:57:10.673 -0600	typetext		A[tab]	11	on_patientnew	PatientNew.script
+2016-08-08 10:57:11.506 -0600	typetext		Henderson[tab]	12	on_patientnew	PatientNew.script
+2016-08-08 10:57:12.332 -0600	typetext		123456789[tab]	13	on_patientnew	PatientNew.script
+2016-08-08 10:57:13.530 -0600	click	PatientNew/DateOfBirth	at (419, 232)	14	on_patientnew	PatientNew.script
+2016-08-08 10:57:14.663 -0600	moveto	PatientNew/MonthBack	at (464, 282)	19	on_patientnew	PatientNew.script
+2016-08-08 10:57:15.480 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-08 10:57:16.298 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-08 10:57:17.111 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-08 10:57:17.927 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-08 10:57:18.740 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-08 10:57:19.544 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-08 10:57:20.669 -0600	moveto	PatientNew/YearBack	at (429, 282)	25	on_patientnew	PatientNew.script
+2016-08-08 10:57:21.484 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-08 10:57:22.294 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-08 10:57:23.099 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-08 10:57:23.916 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-08 10:57:24.724 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-08 10:57:25.533 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-08 10:57:27.010 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(566,338), ImageRectangle:(561,333,572,343), Language:"English", searchRectangle:(441,297,689,432), text:"10", TextPlatform:"Generic OCR")	at (566, 338)	33	on_patientnew	PatientNew.script
+2016-08-08 10:57:28.253 -0600	click	Login/Social Security	at (333, 259)	35	on_patientnew	PatientNew.script
+2016-08-08 10:57:29.100 -0600	typetext		555-33-7777	36	on_patientnew	PatientNew.script
+2016-08-08 10:57:30.351 -0600	click	PatientNew/MaritalStatus	at (411, 283)	38	on_patientnew	PatientNew.script
+2016-08-08 10:57:31.654 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(327,353), ImageRectangle:(302,348,353,358), Language:"English", searchRectangle:(291,293,411,433), Text:"Divorced", TextPlatform:"Generic OCR")	at (327, 353)	41	on_patientnew	PatientNew.script
+2016-08-08 10:57:32.908 -0600	click	PatientNew/CreateNewPatient	at (317, 524)	42	on_patientnew	PatientNew.script
+2016-08-08 10:57:38.459 -0600	click	PatientNew/OK	at (880, 219)	45	on_patientnew	PatientNew.script
+2016-08-08 10:57:39.692 -0600	click	PatientNew/Sex	at (864, 228)	46	on_patientnew	PatientNew.script
+2016-08-08 10:57:40.417 -0600	typetext		[downArrow][returnKey]	47	on_patientnew	PatientNew.script
+2016-08-08 10:57:41.625 -0600	click	PatientNew/CreateNewPatient	at (317, 524)	48	on_patientnew	PatientNew.script
+2016-08-08 10:57:42.921 -0600	click	PatientNew/ConfirmCreateNewPatient	at (142, 544)	49	on_patientnew	PatientNew.script
+2016-08-08 10:57:44.818 -0600	click	PatientAllergies/Allergies	at (895, 443)	1	on_patientallergies	PatientAllergies.script
+2016-08-08 10:57:46.064 -0600	click	PatientAllergies/Add	at (897, 311)	2	on_patientallergies	PatientAllergies.script
+2016-08-08 10:57:51.071 -0600	Exception	PatientAllergies/Type	Unable To Find Image "PatientAllergies/Type"	4	on_patientallergies	PatientAllergies.script
+2016-08-08 10:57:51.580 -0600	EndTestCase		(Duration:"58.166146", Errors:"1", Exceptions:"1", StartTime:"2016-08-08 10:56:53 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-08-08 10:57:51.657 -0600	FAILURE	Screen_Error.png	Image Not Found imagelocation Error - Unable To Find Image "PatientAllergies/Type" -- Execution Time 0:00:58 Index.script

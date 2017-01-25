@@ -1,0 +1,39 @@
+﻿2016-11-29 09:19:16.626 -0700	START		Running index.script
+2016-11-29 09:19:16.880 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2016-11-29 09:19:17.704 -0700	typetext		chrome.exe	11	on_index	index.script
+2016-11-29 09:19:18.731 -0700	typetext		[returnKey]	13	on_index	index.script
+2016-11-29 09:19:20.935 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2016-11-29 09:19:21.044 -0700	imagelocation	Chrome Icon Logo	at (27, 14)	15	on_index	index.script
+2016-11-29 09:19:21.167 -0700	typetext		goog[enter]	20	on_index	index.script
+2016-11-29 09:19:23.136 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,336), ImageRectangle:(241,331,267,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 336)	21	on_index	index.script
+2016-11-29 09:19:23.194 -0700	readtext		(104,306,239,346)
+2016-11-29 09:19:23.370 -0700	doubleclick		at (227, 94)	23	on_index	index.script
+2016-11-29 09:19:24.086 -0700	typetext		[backspace]	24	on_index	index.script
+2016-11-29 09:19:24.094 -0700	Log		Google:774.35	25	on_index	index.script
+2016-11-29 09:19:24.854 -0700	typetext		Aapl[enter]	20	on_index	index.script
+2016-11-29 09:19:27.395 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(249,336), ImageRectangle:(236,331,262,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (249, 336)	21	on_index	index.script
+2016-11-29 09:19:27.455 -0700	readtext		(99,306,234,346)
+2016-11-29 09:19:27.629 -0700	doubleclick		at (227, 94)	23	on_index	index.script
+2016-11-29 09:19:28.344 -0700	typetext		[backspace]	24	on_index	index.script
+2016-11-29 09:19:28.352 -0700	Log		Apple:111.02	25	on_index	index.script
+2016-11-29 09:19:29.097 -0700	typetext		Wmt[enter]	20	on_index	index.script
+2016-11-29 09:19:30.614 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,336), ImageRectangle:(225,331,251,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 336)	21	on_index	index.script
+2016-11-29 09:19:30.673 -0700	readtext		(88,306,223,346)
+2016-11-29 09:19:30.851 -0700	doubleclick		at (227, 94)	23	on_index	index.script
+2016-11-29 09:19:31.564 -0700	typetext		[backspace]	24	on_index	index.script
+2016-11-29 09:19:31.574 -0700	Log		Walmart:71.60	25	on_index	index.script
+2016-11-29 09:19:32.320 -0700	typetext		Xom[enter]	20	on_index	index.script
+2016-11-29 09:19:33.966 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,336), ImageRectangle:(225,331,251,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 336)	21	on_index	index.script
+2016-11-29 09:19:34.027 -0700	readtext		(88,306,223,346)
+2016-11-29 09:19:34.203 -0700	doubleclick		at (227, 94)	23	on_index	index.script
+2016-11-29 09:19:34.921 -0700	typetext		[backspace]	24	on_index	index.script
+2016-11-29 09:19:34.929 -0700	Log		Exxon Mobile:85.58	25	on_index	index.script
+2016-11-29 09:19:35.691 -0700	typetext		 MCK[enter]	20	on_index	index.script
+2016-11-29 09:19:37.414 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,336), ImageRectangle:(241,331,267,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 336)	21	on_index	index.script
+2016-11-29 09:19:37.472 -0700	readtext		(104,306,239,346)
+2016-11-29 09:19:37.673 -0700	doubleclick		at (227, 94)	23	on_index	index.script
+2016-11-29 09:19:38.390 -0700	typetext		[backspace]	24	on_index	index.script
+2016-11-29 09:19:38.397 -0700	Log		Mckesson:142.23	25	on_index	index.script
+2016-11-29 09:19:46.319 -0700	Exception	Close Chrome	No Image Found On Screen: "Close Chrome"	29	on_index	index.script
+2016-11-29 09:19:46.557 -0700	EndTestCase		(Duration:"29.928087", Errors:"1", Exceptions:"1", StartTime:"2016-11-29 09:19:16 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-11-29 09:19:46.557 -0700	ABORTED		Execution Time 0:00:29 index.script

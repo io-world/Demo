@@ -1,0 +1,4 @@
+﻿2016-12-21 09:14:46.264 -0700	START		Running Index/Index Full Run.script
+2016-12-21 09:14:46.368 -0700	Log		Mr,Bruce,,Wayne,222222,2006-06-13,113-83-3798,Male,Single	9	on_index_index_full_run	Index/Index Full Run.script
+2016-12-21 09:14:46.742 -0700	EndTestCase		(Duration:"0.47678", Errors:"1", Exceptions:"0", StartTime:"2016-12-21 09:14:46 -0700", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2016-12-21 09:14:47.169 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'PatientNew'. -- Execution Time 0:00:00 Index/Index Full Run.script

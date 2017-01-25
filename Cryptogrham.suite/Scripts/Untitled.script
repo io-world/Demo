@@ -1,0 +1,59 @@
+﻿put(A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z) into alphabet
+
+put the number of items of alphabet into max
+
+--put ("HVL","VMKZQ","CZUL","VZN","FQL","CLZPPD","LYYLUHXAL","BLZIFQ","ZQO","HVZH","XN","PZMTVHLC","KZCR","HBZXQ") into DC
+put ("HVL") into DC
+put the number of items of DC into maxDC
+
+repeat maxDC times
+	
+	
+	put item repeatindex() of DC into wordDC
+	put the number of characters of wordDC into maxword
+	repeat maxword times
+		put 	character repeatindex() of wordDC into LDC
+		repeat max times
+			put item repeatindex() of alphabet into SS
+			if LDC = SS then
+				insert repeatindex() into GOO
+				Exit repeat
+			end if
+		end repeat
+	end repeat
+end repeat
+
+----
+
+put GOO into AP
+
+----
+put the number of items of AP into MAX
+
+
+
+repeat 26 times
+	put repeatindex()-1 into UU
+	
+	repeat MAX times
+		
+		put item repeatindex() of AP into Gii
+		put GII+UU  into SD
+		
+		if SD > 26 then
+			put SD-26 into SD
+		end if
+		
+		
+		insert item SD of alphabet into BOO
+		
+	end repeat
+	
+	log boo
+	put () into boo
+	
+end repeat
+
+
+
+

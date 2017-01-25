@@ -1,0 +1,14 @@
+﻿2016-09-08 14:26:54.553 -0600	START		Running DOBMod.script
+2016-09-08 14:26:55.073 -0600	click	PatientNew/DateOfBirth	at (419, 232)	20	on_dobmod	DOBMod.script
+2016-09-08 14:26:56.372 -0600	moveto	PatientNew/MonthBack	at (464, 282)	27	on_dobmod	DOBMod.script
+2016-09-08 14:26:57.184 -0600	click		at (464, 282)	29	on_dobmod	DOBMod.script
+2016-09-08 14:26:58.444 -0600	moveto	PatientNew/YearBack	at (429, 282)	35	on_dobmod	DOBMod.script
+2016-09-08 14:26:59.256 -0600	click		at (429, 282)	37	on_dobmod	DOBMod.script
+2016-09-08 14:27:00.065 -0600	click		at (429, 282)	37	on_dobmod	DOBMod.script
+2016-09-08 14:27:00.874 -0600	click		at (429, 282)	37	on_dobmod	DOBMod.script
+2016-09-08 14:27:01.687 -0600	click		at (429, 282)	37	on_dobmod	DOBMod.script
+2016-09-08 14:27:02.504 -0600	click		at (429, 282)	37	on_dobmod	DOBMod.script
+2016-09-08 14:27:03.319 -0600	click		at (429, 282)	37	on_dobmod	DOBMod.script
+2016-09-08 14:27:05.021 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(603,319), ImageRectangle:(600,314,606,324), Language:"English", searchRectangle:(441,297,689,432), text:"5", TextPlatform:"Generic OCR")	at (603, 319)	43	on_dobmod	DOBMod.script
+2016-09-08 14:27:05.726 -0600	EndTestCase		(Duration:"11.172327", Errors:"0", Exceptions:"0", StartTime:"2016-09-08 14:26:54 -0600", Successes:"1", TestCase:"DOBMod.script", Warnings:"0")
+2016-09-08 14:27:05.746 -0600	SUCCESS		Execution Time 0:00:11 DOBMod.script

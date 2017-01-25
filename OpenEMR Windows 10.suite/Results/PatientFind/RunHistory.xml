@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="PatientFind">
+ <run>
+  <RunDate>2016-11-21 11:42:37.119 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>4.843757</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161121_114237.119/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

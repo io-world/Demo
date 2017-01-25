@@ -1,0 +1,46 @@
+﻿2016-11-30 12:07:34.331 -0700	START		Running index.script
+2016-11-30 12:07:34.536 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2016-11-30 12:07:35.369 -0700	typetext		chrome.exe	11	on_index	index.script
+2016-11-30 12:07:36.399 -0700	typetext		[returnKey]	13	on_index	index.script
+2016-11-30 12:07:38.764 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2016-11-30 12:07:38.873 -0700	imagelocation	Chrome Icon Logo	at (27, 14)	15	on_index	index.script
+2016-11-30 12:07:38.984 -0700	imagelocation	Chrome Icon Logo	at (27, 14)	16	on_index	index.script
+2016-11-30 12:07:38.996 -0700	moveto		at (627, 14)	16	on_index	index.script
+2016-11-30 12:07:39.765 -0700	typetext		goog[enter]	21	on_index	index.script
+2016-11-30 12:07:40.925 -0700	waitfor	Refresh Icon	found at (73, 46)	23	on_index	index.script
+2016-11-30 12:07:41.638 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,336), ImageRectangle:(242,331,267,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 336)	24	on_index	index.script
+2016-11-30 12:07:41.701 -0700	readtext		(104,306,239,346)
+2016-11-30 12:07:41.872 -0700	doubleclick		at (227, 94)	26	on_index	index.script
+2016-11-30 12:07:42.589 -0700	typetext		[backspace]	27	on_index	index.script
+2016-11-30 12:07:42.596 -0700	Log		Google:759.94	28	on_index	index.script
+2016-11-30 12:07:43.361 -0700	typetext		Aapl[enter]	21	on_index	index.script
+2016-11-30 12:07:44.694 -0700	waitfor	Refresh Icon	found at (73, 46)	23	on_index	index.script
+2016-11-30 12:07:46.908 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(252,336), ImageRectangle:(239,331,265,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (252, 336)	24	on_index	index.script
+2016-11-30 12:07:46.979 -0700	readtext		(102,306,237,346)
+2016-11-30 12:07:47.176 -0700	doubleclick		at (227, 94)	26	on_index	index.script
+2016-11-30 12:07:47.893 -0700	typetext		[backspace]	27	on_index	index.script
+2016-11-30 12:07:47.900 -0700	Log		Apple:110.73	28	on_index	index.script
+2016-11-30 12:07:48.648 -0700	typetext		Wmt[enter]	21	on_index	index.script
+2016-11-30 12:07:49.747 -0700	waitfor	Refresh Icon	found at (73, 46)	23	on_index	index.script
+2016-11-30 12:07:50.767 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,336), ImageRectangle:(225,331,251,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 336)	24	on_index	index.script
+2016-11-30 12:07:50.834 -0700	readtext		(88,306,223,346)
+2016-11-30 12:07:51.010 -0700	doubleclick		at (227, 94)	26	on_index	index.script
+2016-11-30 12:07:51.727 -0700	typetext		[backspace]	27	on_index	index.script
+2016-11-30 12:07:51.733 -0700	Log		Walmart:70.56	28	on_index	index.script
+2016-11-30 12:07:52.484 -0700	typetext		Xom[enter]	21	on_index	index.script
+2016-11-30 12:07:53.614 -0700	waitfor	Refresh Icon	found at (73, 46)	23	on_index	index.script
+2016-11-30 12:07:55.712 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(238,336), ImageRectangle:(225,331,251,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (238, 336)	24	on_index	index.script
+2016-11-30 12:07:55.776 -0700	readtext		(88,306,223,346)
+2016-11-30 12:07:55.955 -0700	doubleclick		at (227, 94)	26	on_index	index.script
+2016-11-30 12:07:56.671 -0700	typetext		[backspace]	27	on_index	index.script
+2016-11-30 12:07:56.678 -0700	Log		Exxon Mobile:87.70	28	on_index	index.script
+2016-11-30 12:07:57.444 -0700	typetext		 MCK[enter]	21	on_index	index.script
+2016-11-30 12:07:58.714 -0700	waitfor	Refresh Icon	found at (73, 46)	23	on_index	index.script
+2016-11-30 12:07:59.487 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(254,336), ImageRectangle:(241,331,267,342), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (254, 336)	24	on_index	index.script
+2016-11-30 12:07:59.554 -0700	readtext		(104,306,239,346)
+2016-11-30 12:07:59.740 -0700	doubleclick		at (227, 94)	26	on_index	index.script
+2016-11-30 12:08:00.458 -0700	typetext		[backspace]	27	on_index	index.script
+2016-11-30 12:08:00.465 -0700	Log		Mckesson:144.00	28	on_index	index.script
+2016-11-30 12:08:01.716 -0700	click	Close Chrome	at (1415, 13)	32	on_index	index.script
+2016-11-30 12:08:02.405 -0700	EndTestCase		(Duration:"28.072687", Errors:"0", Exceptions:"0", StartTime:"2016-11-30 12:07:34 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-11-30 12:08:02.424 -0700	SUCCESS		Execution Time 0:00:28 index.script

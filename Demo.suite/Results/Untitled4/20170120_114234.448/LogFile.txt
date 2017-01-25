@@ -1,0 +1,3 @@
+﻿2017-01-20 11:42:34.448 -0700	START		Running Untitled4.script
+2017-01-20 11:42:34.808 -0700	EndTestCase		(Duration:"0.358368", Errors:"1", Exceptions:"0", StartTime:"2017-01-20 11:42:34 -0700", Successes:"0", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-20 11:42:34.945 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'info' -- Execution Time 0:00:00 Untitled4.script

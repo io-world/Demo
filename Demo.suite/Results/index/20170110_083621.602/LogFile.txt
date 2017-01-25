@@ -1,0 +1,13 @@
+﻿2017-01-10 08:36:21.602 -0700	START		Running index.script
+2017-01-10 08:36:22.396 -0700	click	Windows StArt	at (24, 725)	1	on_index	index.script
+2017-01-10 08:36:23.275 -0700	click	Google Chrome	at (467, 234)	2	on_index	index.script
+2017-01-10 08:36:25.665 -0700	click	Refresh icon	at (282, 48)	3	on_index	index.script
+2017-01-10 08:36:26.505 -0700	typetext		pw.utc.com[returnKey]	4	on_index	index.script
+2017-01-10 08:36:28.132 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(387,194), ImageRectangle:(357,190,418,198), Language:"English", text:"prodUctS", TextPlatform:"Generic OCR")	at (387, 194)	5	on_index	index.script
+2017-01-10 08:36:35.955 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(408,338), ImageRectangle:(359,333,457,343), Language:"English", text:"pw4000-100 Engine", TextPlatform:"Generic OCR")	at (408, 338)	6	on_index	index.script
+2017-01-10 08:36:36.897 -0700	imagefound	Banner	found at (833, 461)	9	on_index	index.script
+2017-01-10 08:36:36.897 -0700	Log		image was found	10	on_index	index.script
+2017-01-10 08:36:36.900 -0700	Log		continue Code	15	on_index	index.script
+2017-01-10 08:36:36.926 -0700	typetext		[windowsAltKey][F4]	19	on_index	index.script
+2017-01-10 08:36:37.600 -0700	EndTestCase		(Duration:"15.996125", Errors:"0", Exceptions:"0", StartTime:"2017-01-10 08:36:21 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-10 08:36:37.621 -0700	SUCCESS		Execution Time 0:00:15 index.script

@@ -1,0 +1,86 @@
+﻿2017-01-09 11:57:33.091 -0700	START		Running Index/Index Full Run.script
+2017-01-09 11:57:33.199 -0700	Log		Mr,Bruce,,Wayne,222222,2006-06-13,113-83-3798,Male,Single	9	on_index_index_full_run	Index/Index Full Run.script
+2017-01-09 11:57:34.010 -0700	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2017-01-09 11:57:34.966 -0700	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2017-01-09 11:57:35.124 -0700	click		at (378, 201)	6	on_create	Patient/New.script
+2017-01-09 11:57:36.667 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,236), ImageRectangle:(302,231,316,241), Language:"English", searchRectangle:(278,221,378,301), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 236)	8	on_create	Patient/New.script
+2017-01-09 11:57:36.799 -0700	click		at (309, 236)	9	on_create	Patient/New.script
+2017-01-09 11:57:36.805 -0700	Log		Mr	10	on_create	Patient/New.script
+2017-01-09 11:57:37.592 -0700	typetext		[tab]Bruce[tab]	14	on_create	Patient/New.script
+2017-01-09 11:57:38.309 -0700	typetext		[tab]	15	on_create	Patient/New.script
+2017-01-09 11:57:39.086 -0700	typetext		Wayne[tab]	16	on_create	Patient/New.script
+2017-01-09 11:57:39.880 -0700	typetext		222222[tab]	17	on_create	Patient/New.script
+2017-01-09 11:57:39.886 -0700	Log		Bruce	18	on_create	Patient/New.script
+2017-01-09 11:57:39.901 -0700	Log			19	on_create	Patient/New.script
+2017-01-09 11:57:39.918 -0700	Log		Wayne	20	on_create	Patient/New.script
+2017-01-09 11:57:39.932 -0700	Log		222222	21	on_create	Patient/New.script
+2017-01-09 11:57:39.990 -0700	Log		2006-06-13	2	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:41.107 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:42.473 -0700	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:43.286 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:44.101 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:44.910 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:45.726 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:46.540 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:47.356 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:48.165 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:48.975 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:49.792 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:50.608 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:51.421 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:52.753 -0700	moveto	PatientNew/DOB/MonthFoward	at (624, 286)	23	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:53.567 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:54.381 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:55.198 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:56.007 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:56.821 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-09 11:57:59.737 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(534,362), ImageRectangle:(528,357,540,367), Language:"English", searchRectangle:(446,317,676,427), text:"13", TextPlatform:"Generic OCR")	at (534, 362)	31	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:01.208 -0700	click	PatientNew/New/Social Security	at (335, 260)	26	on_create	Patient/New.script
+2017-01-09 11:58:02.058 -0700	typetext		113-83-3798	28	on_create	Patient/New.script
+2017-01-09 11:58:02.065 -0700	Log		113-83-3798	29	on_create	Patient/New.script
+2017-01-09 11:58:03.340 -0700	click	PatientNew/New/MaritalStatus	at (411, 288)	31	on_create	Patient/New.script
+2017-01-09 11:58:04.877 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(319,342), ImageRectangle:(302,336,337,349), Language:"English", searchRectangle:(291,298,411,438), Text:"Single", TextPlatform:"Generic OCR")	at (319, 342)	34	on_create	Patient/New.script
+2017-01-09 11:58:05.750 -0700	click	PatientNew/New/Sex	at (864, 232)	35	on_create	Patient/New.script
+2017-01-09 11:58:06.492 -0700	typetext		[downArrow][downArrow][returnKey]	40	on_create	Patient/New.script
+2017-01-09 11:58:06.499 -0700	Log		Male	43	on_create	Patient/New.script
+2017-01-09 11:58:07.921 -0700	click	PatientNew/New/CreateNewPatient	at (317, 529)	44	on_create	Patient/New.script
+2017-01-09 11:58:14.298 -0700	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	2	on_check	Patient/New.script
+2017-01-09 11:58:14.971 -0700	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	12	on_check	Patient/New.script
+2017-01-09 11:58:15.082 -0700	click		at (142, 545)	13	on_check	Patient/New.script
+2017-01-09 11:58:15.087 -0700	Log		New Patient has been created	14	on_check	Patient/New.script
+2017-01-09 11:58:20.516 -0700	imagefound	PatientNew/New/NewDueClinicalReminders	found at (642, 121)	16	on_check	Patient/New.script
+2017-01-09 11:58:21.231 -0700	click	PatientNew/Check/OK	at (882, 305)	17	on_check	Patient/New.script
+2017-01-09 11:58:26.963 -0700	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	3	on_fix	Patient/New.script
+2017-01-09 11:58:26.987 -0700	Log		Nothing to Fix	24	on_fix	Patient/New.script
+2017-01-09 11:58:27.016 -0700	Log		Mrs,Carrie,,Underwood,333333,2014-03-16,583-00-6387,Female,Married	9	on_index_index_full_run	Index/Index Full Run.script
+2017-01-09 11:58:27.781 -0700	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2017-01-09 11:58:28.286 -0700	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2017-01-09 11:58:28.591 -0700	click		at (378, 201)	6	on_create	Patient/New.script
+2017-01-09 11:58:30.026 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(312,253), ImageRectangle:(302,248,322,258), Language:"English", searchRectangle:(278,221,378,301), text:"Mrs", TextPlatform:"Generic OCR")	found at (312, 253)	8	on_create	Patient/New.script
+2017-01-09 11:58:30.159 -0700	click		at (312, 253)	9	on_create	Patient/New.script
+2017-01-09 11:58:30.166 -0700	Log		Mrs	10	on_create	Patient/New.script
+2017-01-09 11:58:30.971 -0700	typetext		[tab]Carrie[tab]	14	on_create	Patient/New.script
+2017-01-09 11:58:31.690 -0700	typetext		[tab]	15	on_create	Patient/New.script
+2017-01-09 11:58:32.525 -0700	typetext		Underwood[tab]	16	on_create	Patient/New.script
+2017-01-09 11:58:33.323 -0700	typetext		333333[tab]	17	on_create	Patient/New.script
+2017-01-09 11:58:33.328 -0700	Log		Carrie	18	on_create	Patient/New.script
+2017-01-09 11:58:33.341 -0700	Log			19	on_create	Patient/New.script
+2017-01-09 11:58:33.349 -0700	Log		Underwood	20	on_create	Patient/New.script
+2017-01-09 11:58:33.370 -0700	Log		333333	21	on_create	Patient/New.script
+2017-01-09 11:58:33.423 -0700	Log		2014-03-16	2	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:34.579 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:35.850 -0700	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:36.664 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:37.477 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:38.292 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:39.584 -0700	moveto	PatientNew/DOB/MonthFoward	at (624, 286)	23	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:40.399 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:41.214 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:43.948 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(468,381), ImageRectangle:(462,376,474,386), Language:"English", searchRectangle:(446,317,676,427), text:"16", TextPlatform:"Generic OCR")	at (468, 381)	31	on_buttons	Modules/DOBMod.script
+2017-01-09 11:58:45.355 -0700	click	PatientNew/New/Social Security	at (335, 260)	26	on_create	Patient/New.script
+2017-01-09 11:58:46.200 -0700	typetext		583-00-6387	28	on_create	Patient/New.script
+2017-01-09 11:58:46.208 -0700	Log		583-00-6387	29	on_create	Patient/New.script
+2017-01-09 11:58:47.472 -0700	click	PatientNew/New/MaritalStatus	at (411, 288)	31	on_create	Patient/New.script
+2017-01-09 11:58:48.842 -0700	Exception		Searching For Image: OCR Error: OCR operation was aborted	34	on_create	Patient/New.script
+2017-01-09 11:58:49.307 -0700	EndTestCase		(Duration:"76.214992", Errors:"1", Exceptions:"1", StartTime:"2017-01-09 11:57:33 -0700", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-01-09 11:58:49.308 -0700	ABORTED		Execution Time 0:01:16 Index/Index Full Run.script

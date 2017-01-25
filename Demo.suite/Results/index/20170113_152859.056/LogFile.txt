@@ -1,0 +1,10 @@
+﻿2017-01-13 15:28:59.057 -0700	START		Running index.script
+2017-01-13 15:28:59.096 -0700	startmovie		/Users/randyhesse/Documents/Demos/Demo.suite/Results/index/20170113_152859.056/test.mkv	2	on_index	index.script
+2017-01-13 15:28:59.750 -0700	click	Windows Start	at (23, 879)	9	on_index	index.script
+2017-01-13 15:29:00.657 -0700	click	CHrome	at (461, 423)	10	on_index	index.script
+2017-01-13 15:29:03.273 -0700	click	Refresh Icon	at (275, 50)	11	on_index	index.script
+2017-01-13 15:29:04.265 -0700	typetext		https://vitalware.com/[returnKey]	12	on_index	index.script
+2017-01-13 15:29:05.197 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(456,96), ImageRectangle:(416,89,497,103), Language:"English", searchRectangle:(397,42,560,161), text:"intelligence", TextPlatform:"Generic OCR")	at (456, 96)	13	on_index	index.script
+2017-01-13 15:29:16.584 -0700	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(328,341,475,457), text:"intelligence", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"intelligence")"	15	on_index	index.script
+2017-01-13 15:29:17.505 -0700	EndTestCase		(Duration:"18.446205", Errors:"1", Exceptions:"1", StartTime:"2017-01-13 15:28:59 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-01-13 15:29:17.505 -0700	ABORTED		Execution Time 0:00:18 index.script

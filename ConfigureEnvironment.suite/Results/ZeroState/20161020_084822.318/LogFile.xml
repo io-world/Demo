@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ZeroState.script" package="ConfigureEnvironment.suite" timestamp="2016-10-20 08:48:22.318 -0600"
+ tests="1" successes="0" errors="1" time="10.507315">
+  <properties>
+   <property name="RunDate" value="2016-10-20 08:48:22.318 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="ZeroState.script" assertions="1" successes="0" errors="1" time="10.505908">
+  </testcase>
+ </testsuite>
+</testsuites>

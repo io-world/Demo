@@ -1,0 +1,17 @@
+﻿2017-01-19 14:04:53.597 -0700	START		Running index.script
+2017-01-19 14:04:53.717 -0700	moveto		at (400, 400)	2	on_check	ZeroState.script
+2017-01-19 14:04:53.826 -0700	imagefound	Chrome/Icon Open	found at (663, 880)	4	on_check	ZeroState.script
+2017-01-19 14:04:53.827 -0700	Log		Chrome was Left Open	5	on_check	ZeroState.script
+2017-01-19 14:04:54.530 -0700	rightclick		at (663, 880)	6	on_check	ZeroState.script
+2017-01-19 14:04:55.801 -0700	click	Chrome/Close Windows	at (556, 835)	7	on_check	ZeroState.script
+2017-01-19 14:04:56.670 -0700	imagefound	Chrome/Icon Normal	found at (663, 880)	13	on_check	ZeroState.script
+2017-01-19 14:04:56.671 -0700	Log		 No instance of Chrome Opened	14	on_check	ZeroState.script
+2017-01-19 14:04:59.697 -0700	typetext		[windowsKey]r	22	on_check	ZeroState.script
+2017-01-19 14:05:00.547 -0700	typetext		Chrome.exe[returnKey]	23	on_check	ZeroState.script
+2017-01-19 14:05:02.658 -0700	waitfor	Chrome/Refresh Icon	found at (246, 197)	24	on_check	ZeroState.script
+2017-01-19 14:05:02.767 -0700	imagefound	Windows/Title Bar Menu/Float	found at (1073, 147)	26	on_check	ZeroState.script
+2017-01-19 14:05:02.875 -0700	click		at (1073, 147)	27	on_check	ZeroState.script
+2017-01-19 14:05:02.875 -0700	Log		Click Maximixed	28	on_check	ZeroState.script
+2017-01-19 14:05:05.882 -0700	Exception	Title Bar Menu/Maximized	Could Not Open Image: Title Bar Menu/Maximized	34	on_check	ZeroState.script
+2017-01-19 14:05:06.152 -0700	EndTestCase		(Duration:"12.553949", Errors:"1", Exceptions:"1", StartTime:"2017-01-19 14:04:53 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-01-19 14:05:06.633 -0700	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: Title Bar Menu/Maximized -- Execution Time 0:00:12 index.script

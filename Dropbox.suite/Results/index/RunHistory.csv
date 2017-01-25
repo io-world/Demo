@@ -90,3 +90,10 @@
 2016-07-20 09:22:28.933 -0600,"Success",0:02:07,0,0,0,"20160720_092228.933/LogFile.txt","","",1
 2016-07-20 12:42:34.055 -0600,"Success",0:02:04,0,0,0,"20160720_124234.055/LogFile.txt","","",1
 2016-07-20 16:20:06.541 -0600,"Failure",0:01:54,1,0,1,"20160720_162006.541/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Some File"")""",0
+2016-08-04 10:10:59.400 -0600,"Failure",0:00:28,1,0,1,"20160804_101059.400/LogFile.txt","","Image Not Found -- rightclick Error - No Image Found On Screen: ""Windows/Note File Icon""",0
+2016-08-04 10:11:40.745 -0600,"Failure",0:01:27,1,0,1,"20160804_101140.745/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Android/Drop Box Icon""",0
+2016-08-10 11:00:27.326 -0600,"Failure",0:01:36,1,0,1,"20160810_110027.326/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Android/Drop Box Icon""",0
+2016-08-17 15:54:36.274 -0600,"Failure",0:01:53,1,0,1,"20160817_155436.274/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""(TEXT:""Some File"")""",0
+2016-08-30 13:05:20.783 -0600,"Failure",0:00:32,1,0,1,"20160830_130520.783/LogFile.txt","","Image Not Found -- rightclick Error - No Image Found On Screen: ""Windows/Note File Icon""",0
+2016-08-30 13:06:20.539 -0600,"Failure",0:00:14,1,0,1,"20160830_130620.539/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Windows/Close""",0
+2016-08-30 13:06:42.359 -0600,"Failure",0:01:43,1,0,1,"20160830_130642.359/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Android/Drop Box Back Button"" within 7.00 seconds",0

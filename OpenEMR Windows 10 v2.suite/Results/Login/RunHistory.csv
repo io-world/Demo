@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-08-04 12:29:31.110 -0600,"Failure",0:00:02,1,0,1,"20160804_122931.110/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2016-09-08 14:07:33.174 -0600,"Success",0:00:14,0,0,0,"20160908_140733.174/LogFile.txt","","",1
+2016-10-17 10:30:51.558 -0600,"Success",0:00:14,0,0,0,"20161017_103051.558/LogFile.txt","","",1

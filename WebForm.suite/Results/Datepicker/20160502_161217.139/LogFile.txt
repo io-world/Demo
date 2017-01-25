@@ -1,4 +1,0 @@
-﻿2016-05-02 16:12:17.140 -0600	START		Running Datepicker.script
-2016-05-02 16:12:17.282 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
-2016-05-02 16:12:17.491 -0600	EndTestCase		(Duration:"0.350185", Errors:"0", Exceptions:"0", StartTime:"2016-05-02 16:12:17 -0600", Successes:"1", TestCase:"Datepicker.script", Warnings:"0")
-2016-05-02 16:12:17.497 -0600	SUCCESS		Execution Time 0:00:00 Datepicker.script

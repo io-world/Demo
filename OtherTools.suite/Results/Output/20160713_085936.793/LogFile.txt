@@ -1,0 +1,4 @@
+﻿2016-07-13 08:59:36.793 -0600	START		Running Output.script
+2016-07-13 08:59:36.897 -0600	Log		/Users/randyhesse/Documents/Demos/OtherTools.suite/Resources/Users/randyhesse/Documents/Demos/OtherTools.suite/Results/index/20160623_131401.341/LogFile.xml	6	on_output	Output.script
+2016-07-13 08:59:37.178 -0600	EndTestCase		(Duration:"0.383779", Errors:"0", Exceptions:"0", StartTime:"2016-07-13 08:59:36 -0600", Successes:"1", TestCase:"Output.script", Warnings:"0")
+2016-07-13 08:59:37.183 -0600	SUCCESS		Execution Time 0:00:00 Output.script

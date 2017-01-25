@@ -1,0 +1,4 @@
+﻿2017-01-23 12:48:28.956 -0700	START		Running Modules/GetAllStates.script
+2017-01-23 12:48:29.180 -0700	Log			4	on_modules_getallstates	Modules/GetAllStates.script
+2017-01-23 12:48:29.379 -0700	EndTestCase		(Duration:"0.422337", Errors:"0", Exceptions:"0", StartTime:"2017-01-23 12:48:28 -0700", Successes:"1", TestCase:"Modules/GetAllStates.script", Warnings:"0")
+2017-01-23 12:48:29.393 -0700	SUCCESS		Execution Time 0:00:00 Modules/GetAllStates.script

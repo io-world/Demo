@@ -1,0 +1,75 @@
+﻿on Login Username, Password
+
+	
+	click Text:"Log", searchRectangle: (RemoteScreensize()*(0.80,0.06),RemoteScreenSize()*(0.91,0.15))
+	waitfor 10, "Twitter/Login/Logo"
+	put FoundImageLocation() into Logo
+	click Logo+(-100,30)
+	TypeText Username
+	wait 1
+	TypeText tabKey
+	Set the scriptlogging to Off
+	TypeText Password
+	Set the scriptlogging to On
+	
+	click "Twitter/Login/Login Button"
+	
+end Login
+
+on tweet tweet
+	put tweet into my tweet
+	WaitFor 10, "Twitter/Tweet/New Tweet"
+	wait 1
+	click FoundImageLocation()
+	click image:"Twitter/Tweet/Compose New Tweet", hotspot:(-100,60)
+	TypeText my tweet --&& the date  && the Time
+	wait 2
+	click "Twitter/Tweet/Post"
+end tweet	
+
+
+on check
+	repeat until imagefound("Twitter/Tweet/Front Logo")
+		if imagefound ("Twitter/Tweet/Error") then
+			Logwarning "Tweet has already Been Posted"
+			put imagelocation(image:"Twitter/Tweet/Compose New Tweet") + (-260,55) into TC
+			Run "Modules/TripleClick" TC
+			TypeText deleteKey
+			wait 1
+			TypeText my tweet && the date  && the Time
+			click "Twitter/Tweet/Post"
+			LogSuccess "Re-Tweeted"
+		else
+			LogSuccess "Tweeted"
+			Exit repeat
+		end if		
+	end repeat
+	
+end check
+
+on read
+	put ImageLocation("Twitter/Read/Tweets") into aPoint
+	put (apoint+(30,105),apoint+(500,800)) into SR	
+	put EveryImageLocation(text:"iotestplant", searchRectangle:(SR)) into TLA
+	put EveryImageLocation(image: "Twitter/Read/Buttons") into BRA
+	put the number of items of TLA into Max
+	repeat max times		
+		put readtext(item repeatindex() of TLA+(-90,10) , item repeatindex() of BRA + (370,-20)) into TwitterPost
+		put the number of lines of TwitterPost into MaxLine
+		repeat maxLine
+			log line repeatIndex() of TwitterPost 
+		end repeat
+	end repeat		
+end read
+
+
+on logoff
+	click image:"Twitter/Tweet/New Tweet" , hotspot:(-50,10)
+	put FoundImageLocation() into apoint
+	put (apoint+(-100,20),apoint+(20,300)) into SR
+	click text:"Log out", searchRectangle: (SR)
+	waitfor 20, "Twitter/Logoff/Logo"
+	LogSuccess "Logged out"
+end logoff
+
+

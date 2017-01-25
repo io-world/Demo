@@ -1,0 +1,3 @@
+﻿2016-11-29 15:47:47.274 -0700	START		Running Index No CSV.script
+2016-11-29 15:47:51.803 -0700	EndTestCase		(Duration:"4.527322", Errors:"1", Exceptions:"0", StartTime:"2016-11-29 15:47:47 -0700", Successes:"0", TestCase:"Index No CSV.script", Warnings:"0")
+2016-11-29 15:47:52.419 -0700	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: '' -- Execution Time 0:00:04 Index No CSV.script

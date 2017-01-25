@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[0, 6, 61, 36], command:@"Click", eventNum:2, hotSpot:[2.6738586000000002e+01, 8.7852392599999996e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0002.png"}, {captureRect:[0, 4, 58, 34], command:@"Click", eventNum:4, hotSpot:[2.3965767000000000e+01, 8.8006256099999996e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0004.png"}, {captureRect:[275, 521, 345, 551], command:@"Click", eventNum:6, hotSpot:[3.1000518799999998e+02, 3.6340557899999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0006.png"}, {captureRect:[101, 846, 273, 864], command:@"Click", eventNum:8, hotSpot:[2.7855651899999998e+02, 4.6728943000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ihttpswwwgooglecom", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0008.png"}, {command:@"TypeText", eventNum:10, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0010.png", text:@"\"www.\""}, {command:@"TypeText", eventNum:18, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0018.png", text:@"\"health\""}, {command:@"TypeText", eventNum:30, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0030.png", text:@"\"0first\",Backspace,Backspace,Backspace,Backspace,Backspace,Backspace"}, {command:@"TypeText", eventNum:54, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0054.png", text:@"DownArrow"}, {command:@"TypeText", eventNum:56, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0054.png", text:@"Return"}, {captureRect:[588, 742, 668, 756], command:@"Click", eventNum:58, hotSpot:[6.2777331500000003e+02, 1.5126049800000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HOSPITALS", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0058.png"}, {captureRect:[561, 706, 741, 725], command:@"Click", eventNum:60, hotSpot:[6.2427697799999999e+02, 1.8729797400000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"CapeCanaveralHospital", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0060.png"}, {captureRect:[1380, 872, 1440, 900], command:@"Click", eventNum:62, hotSpot:[1.4157493899999999e+03, 1.2425964000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/Demo.suite/Sessions/20161031_115444.249/Screen0062.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0001"</string>
+		<string>Click "image0002"</string>
+		<string>Click "image0003"</string>
+		<string>Click "ihttpswwwgooglecom"</string>
+		<string>TypeText "www."</string>
+		<string>TypeText "health"</string>
+		<string>TypeText "0first",Backspace,Backspace,Backspace,Backspace,Backspace,Backspace</string>
+		<string>TypeText DownArrow</string>
+		<string>TypeText Return</string>
+		<string>Click "HOSPITALS"</string>
+		<string>Click "CapeCanaveralHospital"</string>
+		<string>Click "image0004"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>ihttpswwwgooglecom.png</string>
+			<string>ihttpswwwgooglecom.png</string>
+			<string>HOSPITALS.png</string>
+			<string>HOSPITALS.png</string>
+			<string>CapeCanaveralHospital.png</string>
+			<string>CapeCanaveralHospital.png</string>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

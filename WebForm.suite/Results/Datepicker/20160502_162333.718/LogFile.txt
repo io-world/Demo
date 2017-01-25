@@ -1,5 +1,0 @@
-﻿2016-05-02 16:23:33.719 -0600	START		Running Datepicker.script
-2016-05-02 16:23:33.851 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
-2016-05-02 16:23:42.263 -0600	Exception	YearPicker	No Image Found On Screen: "YearPicker"	16	on_datepicker	Datepicker.script
-2016-05-02 16:23:42.507 -0600	EndTestCase		(Duration:"8.786284", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 16:23:33 -0600", Successes:"0", TestCase:"Datepicker.script", Warnings:"0")
-2016-05-02 16:23:42.508 -0600	ABORTED		Execution Time 0:00:08 Datepicker.script

@@ -1,0 +1,6 @@
+﻿2016-10-19 08:13:00.760 -0600	START		Running Index.script
+2016-10-19 08:13:00.885 -0600	typetext		[windowsKey]r	3	on_emr	Login.script
+2016-10-19 08:13:01.723 -0600	typetext		chrome.exe[returnKey]	4	on_emr	Login.script
+2016-10-19 08:13:02.452 -0600	typetext		[controlKey]l	5	on_emr	Login.script
+2016-10-19 08:13:03.098 -0600	EndTestCase		(Duration:"2.336347", Errors:"1", Exceptions:"0", StartTime:"2016-10-19 08:13:00 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-10-19 08:13:03.099 -0600	ABORTED		Execution Time 0:00:02 Index.script

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="MicroDicom.script" package="OpenEMR Windows 10.suite" timestamp="2016-11-28 10:20:30.925 -0700"
+ tests="1" successes="1" errors="0" time="33.259597">
+  <properties>
+   <property name="RunDate" value="2016-11-28 10:20:30.925 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="MicroDicom.script" assertions="1" successes="1" errors="0" time="33.257049">
+  </testcase>
+ </testsuite>
+</testsuites>

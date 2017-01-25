@@ -1,7 +1,0 @@
-﻿2016-06-07 10:31:51.265 -0600	START		Running Index2.script
-2016-06-07 10:31:51.423 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
-2016-06-07 10:31:51.425 -0600	Log		Windws 2012 R2 1440 X 900	4	on_start	WindowsLib.script
-2016-06-07 10:31:53.884 -0600	click	Chrome Icons	at (180, 605)	2	on_launch	ChromeLib.script
-2016-06-07 10:31:53.887 -0600	LogSuccess		Chrome has Been Launched	3	on_launch	ChromeLib.script
-2016-06-07 10:31:54.189 -0600	EndTestCase		(Duration:"2.923551", Errors:"1", Exceptions:"0", StartTime:"2016-06-07 10:31:51 -0600", Successes:"1", TestCase:"Index2.script", Warnings:"0")
-2016-06-07 10:31:54.381 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'brower' -- Execution Time 0:00:02 Index2.script

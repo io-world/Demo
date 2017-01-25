@@ -1,0 +1,33 @@
+﻿
+
+EMR.Login "admin", "pass"
+PatientNew.create "Mr", "John" , "A" , "Doe","123756","2016-08-05","423-05-1210","Male","Single"
+PatientNew.check
+PatientSelect "423-05-1210"
+PatientAllergies "penicillin" //----- "iodine"
+PatientVisit.create "2016-11-29"
+PatientVisit.delete "2016-11-29"
+
+
+EMR.Logout
+
+
+-------------------------------------------------------------
+
+
+EMR.Login "admin", "pass"
+open file "//Users/randyhesse/Documents/Demos/OpenEMR.suite/Resources/WebFormData.CSV" 
+put file openfiles() into PatientFile 
+
+put the number of  lines of PatientFile  - 1 into Max
+repeat Max Times  
+	put line repeatindex()+1 of PatientFile into PatientInfo
+	log PatientInfo
+	split PatientInfo by ","
+	PatientNew.create PatientInfo as parameters
+	click "Chrome/Close"
+end repeat
+
+
+
+------------------------

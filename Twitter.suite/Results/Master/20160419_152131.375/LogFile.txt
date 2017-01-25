@@ -1,9 +1,0 @@
-﻿2016-04-19 15:21:31.376 -0600	START		Running Index.script
-2016-04-19 15:21:31.507 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
-2016-04-19 15:21:33.843 -0600	click	Chrome Icons	at (244, 869)	2	on_launch	ChromeLib.script
-2016-04-19 15:21:36.286 -0600	click	Chrome Search Icons	at (751, 802)	2	on_search	ChromeLib.script
-2016-04-19 15:21:37.217 -0600	typetext		mobile.twitter.com	3	on_search	ChromeLib.script
-2016-04-19 15:21:38.400 -0600	click	Chrome Enter	at (1470, 181)	4	on_search	ChromeLib.script
-2016-04-19 15:21:58.100 -0600	Exception	Twitter/Log In/Logo	No Image Found On Screen: "Twitter/Log In/Logo"	3	on_twitterlogin	TwitterLib.script
-2016-04-19 15:21:58.674 -0600	EndTestCase		(Duration:"27.29725", Errors:"1", Exceptions:"1", StartTime:"2016-04-19 15:21:31 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-04-19 15:21:58.675 -0600	ABORTED		Execution Time 0:00:27 Index.script

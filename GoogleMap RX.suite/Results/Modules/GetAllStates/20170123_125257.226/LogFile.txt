@@ -1,0 +1,4 @@
+﻿2017-01-23 12:52:57.226 -0700	START		Running Modules/GetAllStates.script
+2017-01-23 12:52:57.305 -0700	Log		<states nation="United States of America" nation-abbreviation="USA" nation-capital="Washington, D.C.">	4	on_modules_getallstates	Modules/GetAllStates.script
+2017-01-23 12:52:57.535 -0700	EndTestCase		(Duration:"0.307428", Errors:"0", Exceptions:"0", StartTime:"2017-01-23 12:52:57 -0700", Successes:"1", TestCase:"Modules/GetAllStates.script", Warnings:"0")
+2017-01-23 12:52:57.561 -0700	SUCCESS		Execution Time 0:00:00 Modules/GetAllStates.script

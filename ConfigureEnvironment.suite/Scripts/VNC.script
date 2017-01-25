@@ -1,0 +1,14 @@
+﻿
+
+on check
+	if ImageFound(10, "VNC/Logo") then
+		click foundimagelocation()
+		wait 1
+		Click "VNC/Cancel"
+		log "VNC Dialog Box was Closed"
+	else
+		Log "VNC Dialog box is not Displayed"
+	end if
+	
+end check
+

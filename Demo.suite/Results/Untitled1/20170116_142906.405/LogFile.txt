@@ -1,0 +1,28 @@
+﻿2017-01-16 14:29:06.406 -0700	START		Running Untitled1.script
+2017-01-16 14:29:06.909 -0700	click	NEWPATIENT	at (46, 80)	9	on_untitled1	Untitled1.script
+2017-01-16 14:29:07.838 -0700	click	Name	at (430, 205)	10	on_untitled1	Untitled1.script
+2017-01-16 14:29:08.555 -0700	typetext		x	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:09.273 -0700	typetext		p	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:09.990 -0700	typetext		b	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:10.705 -0700	typetext		g	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:11.529 -0700	typetext		FirstName	21	on_untitled1	Untitled1.script
+2017-01-16 14:29:12.257 -0700	typetext		[tab][tab]	22	on_untitled1	Untitled1.script
+2017-01-16 14:29:13.000 -0700	typetext		doe	23	on_untitled1	Untitled1.script
+2017-01-16 14:29:14.242 -0700	click	NEWPATIENT	at (46, 80)	9	on_untitled1	Untitled1.script
+2017-01-16 14:29:15.167 -0700	click	Name	at (430, 205)	10	on_untitled1	Untitled1.script
+2017-01-16 14:29:15.884 -0700	typetext		v	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:16.602 -0700	typetext		c	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:17.320 -0700	typetext		i	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:18.038 -0700	typetext		d	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:18.860 -0700	typetext		FirstName	21	on_untitled1	Untitled1.script
+2017-01-16 14:29:19.592 -0700	typetext		[tab][tab]	22	on_untitled1	Untitled1.script
+2017-01-16 14:29:20.332 -0700	typetext		doe	23	on_untitled1	Untitled1.script
+2017-01-16 14:29:21.576 -0700	click	NEWPATIENT	at (46, 80)	9	on_untitled1	Untitled1.script
+2017-01-16 14:29:22.505 -0700	click	Name	at (430, 205)	10	on_untitled1	Untitled1.script
+2017-01-16 14:29:23.221 -0700	typetext		v	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:23.939 -0700	typetext		g	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:24.654 -0700	typetext		h	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:25.372 -0700	typetext		s	13	on_untitled1	Untitled1.script
+2017-01-16 14:29:26.193 -0700	typetext		FirstName	21	on_untitled1	Untitled1.script
+2017-01-16 14:29:26.495 -0700	EndTestCase		(Duration:"20.088129", Errors:"1", Exceptions:"0", StartTime:"2017-01-16 14:29:06 -0700", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2017-01-16 14:29:26.495 -0700	ABORTED		Execution Time 0:00:20 Untitled1.script

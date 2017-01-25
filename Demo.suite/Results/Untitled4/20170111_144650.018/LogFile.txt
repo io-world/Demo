@@ -1,0 +1,23 @@
+﻿2017-01-11 14:46:50.018 -0700	START		Running Untitled4.script
+2017-01-11 14:46:50.301 -0700	readtext		(151,126,320,825)
+2017-01-11 14:46:50.981 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(213,143), ImageRectangle:(160,136,266,151), Language:"English", searchRectangle:(151,126,320,825), text:"Jennifer Chang", TextPlatform:"Generic OCR")	at (213, 143)	9	on_untitled4	Untitled4.script
+2017-01-11 14:46:50.984 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:46:51.698 -0700	typetext		[pageDown]	16	on_untitled4	Untitled4.script
+2017-01-11 14:46:52.621 -0700	readtext		(151,126,320,825)
+2017-01-11 14:46:53.298 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(206,157), ImageRectangle:(160,151,252,163), Language:"English", searchRectangle:(151,126,320,825), text:"Gavin Cortez", TextPlatform:"Generic OCR")	at (206, 157)	9	on_untitled4	Untitled4.script
+2017-01-11 14:46:53.301 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:46:54.014 -0700	typetext		[pageDown]	16	on_untitled4	Untitled4.script
+2017-01-11 14:46:54.933 -0700	readtext		(151,126,320,825)
+2017-01-11 14:46:55.623 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(217,185), ImageRectangle:(160,178,274,193), Language:"English", searchRectangle:(151,126,320,825), text:"Martena Mccray", TextPlatform:"Generic OCR")	at (217, 185)	9	on_untitled4	Untitled4.script
+2017-01-11 14:46:55.625 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:46:56.337 -0700	typetext		[pageDown]	16	on_untitled4	Untitled4.script
+2017-01-11 14:46:57.259 -0700	readtext		(151,126,320,825)
+2017-01-11 14:46:57.937 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(201,212), ImageRectangle:(160,205,242,220), Language:"English", searchRectangle:(151,126,320,825), text:"Unity Butler", TextPlatform:"Generic OCR")	at (201, 212)	9	on_untitled4	Untitled4.script
+2017-01-11 14:46:57.939 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:46:58.654 -0700	typetext		[pageDown]	16	on_untitled4	Untitled4.script
+2017-01-11 14:46:59.577 -0700	readtext		(151,126,320,825)
+2017-01-11 14:47:00.255 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(216,238), ImageRectangle:(160,232,272,244), Language:"English", searchRectangle:(151,126,320,825), text:"Howard Hatfield", TextPlatform:"Generic OCR")	at (216, 238)	9	on_untitled4	Untitled4.script
+2017-01-11 14:47:00.258 -0700	Log		26	14	on_untitled4	Untitled4.script
+2017-01-11 14:47:00.974 -0700	typetext		[pageDown]	16	on_untitled4	Untitled4.script
+2017-01-11 14:47:01.260 -0700	EndTestCase		(Duration:"11.240656", Errors:"1", Exceptions:"0", StartTime:"2017-01-11 14:46:50 -0700", Successes:"0", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-11 14:47:01.261 -0700	ABORTED		Execution Time 0:00:11 Untitled4.script

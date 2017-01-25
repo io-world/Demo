@@ -1,0 +1,5 @@
+﻿2017-01-24 13:12:02.542 -0700	START		Running index.script
+2017-01-24 13:12:03.400 -0700	readtext		(296,140,433,156)
+2017-01-24 13:12:03.401 -0700	Log		Gift Cards & Registry	1	on_index	index.script
+2017-01-24 13:12:03.741 -0700	EndTestCase		(Duration:"1.197383", Errors:"0", Exceptions:"0", StartTime:"2017-01-24 13:12:02 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-24 13:12:03.754 -0700	SUCCESS		Execution Time 0:00:01 index.script

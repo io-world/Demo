@@ -1,0 +1,4 @@
+﻿2017-01-13 15:28:07.718 -0700	START		Running cross.script
+2017-01-13 15:28:07.768 -0700	startmovie		/Users/randyhesse/Documents/Demos/Demo.suite/Results/cross/20170113_152807.718/test.mkv	2	on_cross	cross.script
+2017-01-13 15:28:08.701 -0700	EndTestCase		(Duration:"0.980986", Errors:"0", Exceptions:"0", StartTime:"2017-01-13 15:28:07 -0700", Successes:"1", TestCase:"cross.script", Warnings:"0")
+2017-01-13 15:28:08.708 -0700	SUCCESS		Execution Time 0:00:00 cross.script

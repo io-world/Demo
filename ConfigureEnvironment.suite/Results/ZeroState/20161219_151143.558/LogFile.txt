@@ -1,0 +1,18 @@
+﻿2016-12-19 15:11:43.559 -0800	START		Running ZeroState.script
+2016-12-19 15:11:44.318 -0800	capturescreen	().png		4	on_zerostate	ZeroState.script
+2016-12-19 15:11:44.362 -0800	moveto		at (400, 400)	2	on_check	Chrome.script
+2016-12-19 15:11:49.965 -0800	imagefound	Chrome/Icon Open	Unable to Find Image Chrome/Icon Open within 5.00 seconds	4	on_check	Chrome.script
+2016-12-19 15:11:49.977 -0800	Log		Found No Open Instance of Chrome	9	on_check	Chrome.script
+2016-12-19 15:11:50.659 -0800	imagefound	Chrome/Icon Normal	found at (663, 880)	13	on_check	Chrome.script
+2016-12-19 15:11:50.683 -0800	Log		 No instance of Chrome Opened	14	on_check	Chrome.script
+2016-12-19 15:11:53.720 -0800	typetext		[windowsKey]r	22	on_check	Chrome.script
+2016-12-19 15:11:54.560 -0800	typetext		Chrome.exe[returnKey]	23	on_check	Chrome.script
+2016-12-19 15:11:57.115 -0800	waitfor	Chrome/Refresh Icon	found at (72, 47)	24	on_check	Chrome.script
+2016-12-19 15:12:02.349 -0800	imagefound	Title Bar Menu/Float	Unable to Find Image Title Bar Menu/Float	26	on_check	Chrome.script
+2016-12-19 15:12:02.357 -0800	Log		Windows is already been Maximized	30	on_check	Chrome.script
+2016-12-19 15:12:05.945 -0800	imagefound	Title Bar Menu/Maximized	found at (1414, 13)	34	on_check	Chrome.script
+2016-12-19 15:12:05.952 -0800	Log		Ready to Run	35	on_check	Chrome.script
+2016-12-19 15:12:06.578 -0800	click	Title Bar Menu/Maximized	at (1414, 13)	40	on_check	Chrome.script
+2016-12-19 15:12:06.812 -0800	capturescreen	().png		7	on_zerostate	ZeroState.script
+2016-12-19 15:12:07.698 -0800	EndTestCase		(Duration:"24.138161", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 15:11:43 -0800", Successes:"1", TestCase:"ZeroState.script", Warnings:"0")
+2016-12-19 15:12:07.735 -0800	SUCCESS		Execution Time 0:00:24 ZeroState.script

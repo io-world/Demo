@@ -1,6 +1,0 @@
-﻿2016-05-02 13:00:54.839 -0600	START		Running Index.script
-2016-05-02 13:00:55.198 -0600	imagefound	Windows/Start	found at (26, 881)	2	on_index	Index.script
-2016-05-02 13:00:55.230 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
-2016-05-02 13:00:55.232 -0600	Log		Windws 2012 R2 1440 X 900	5	on_index	Index.script
-2016-05-02 13:02:05.518 -0600	EndTestCase		(Duration:"70.676734", Errors:"1", Exceptions:"0", StartTime:"2016-05-02 13:00:54 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-05-02 13:02:05.519 -0600	ABORTED		Execution Time 0:01:10 Index.script

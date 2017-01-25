@@ -1,24 +1,17 @@
 ﻿{
-    CaptureDate = "2016-06-10 20:21:37 +0000";
+    CaptureDate = "2016-08-04 16:19:25 +0000";
     CaptureHost = "Samsung Tablet";
     CaptureScreenSize =     (
         800,
         1280
     );
     HasAlpha = 1;
-    HotSpotX = 44;
-    HotSpotY = 41;
-    IgnoreColor =     (
-        "#646464"
-    );
-    IgnoreColorTolerance =     (
-        100
-    );
-    ImageDescription = <>;
+    HotSpotX = 16;
+    HotSpotY = 16;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 29;
-    OriginalLocationY = 696;
+    OriginalLocationX = 54;
+    OriginalLocationY = 725;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;

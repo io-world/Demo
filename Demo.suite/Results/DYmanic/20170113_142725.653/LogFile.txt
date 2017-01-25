@@ -1,0 +1,5 @@
+﻿2017-01-13 14:27:25.654 -0700	START		Running DYmanic.script
+2017-01-13 14:27:25.708 -0700	readtext		(160,321,242,349)
+2017-01-13 14:27:25.708 -0700	Log		807.8!	3	on_dymanic	DYmanic.script
+2017-01-13 14:27:26.142 -0700	EndTestCase		(Duration:"0.487286", Errors:"0", Exceptions:"0", StartTime:"2017-01-13 14:27:25 -0700", Successes:"1", TestCase:"DYmanic.script", Warnings:"0")
+2017-01-13 14:27:26.152 -0700	SUCCESS		Execution Time 0:00:00 DYmanic.script

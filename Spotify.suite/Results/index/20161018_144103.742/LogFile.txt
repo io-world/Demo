@@ -1,0 +1,9 @@
+﻿2016-10-18 14:41:03.743 -0600	START		Running index.script
+2016-10-18 14:41:04.003 -0600	typetext		[windowsKey]r	2	on_open	
+2016-10-18 14:41:05.462 -0600	typetext		C:\Users\Administrator\AppData\Roaming\Spotify\Spotify.exe[returnKey]	3	on_open	
+2016-10-18 14:41:08.429 -0600	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(719,20), ImageRectangle:(680,13,758,27), Language:"English", searchRectangle:(576,0,864,90), text:"Spotify Free", TextPlatform:"Generic OCR")	found at (719, 20)	3	on_openverify	
+2016-10-18 14:41:08.456 -0600	Log		Top Portion load time:	4	on_openverify	
+2016-10-18 14:41:08.456 -0600	Log		2.872847 seconds	4	on_openverify	
+2016-10-18 14:41:34.247 -0600	Exception	Pause Button	Unable To Find Any Image On Screen "Pause Button" within 10.00 seconds	7	on_openverify	
+2016-10-18 14:41:34.611 -0600	EndTestCase		(Duration:"30.866228", Errors:"1", Exceptions:"1", StartTime:"2016-10-18 14:41:03 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-10-18 14:41:34.611 -0600	ABORTED		Execution Time 0:00:30 index.script

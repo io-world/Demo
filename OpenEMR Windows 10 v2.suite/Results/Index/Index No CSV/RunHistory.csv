@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-11-29 15:33:08.109 -0700,"Running",0:00:00,0,0,0,"20161129_153308.109/LogFile.txt","","",0
+2016-11-29 15:45:48.402 -0700,"Running",0:00:00,0,0,0,"20161129_154548.402/LogFile.txt","","",0
+2016-11-29 15:47:47.273 -0700,"Failure",0:00:04,1,0,0,"20161129_154747.273/LogFile.txt","","STInvalidNumber -- Value is not a number: ''",0
+2016-11-29 15:48:00.579 -0700,"Success",0:06:03,0,0,0,"20161129_154800.579/LogFile.txt","","",1
+2016-12-21 09:03:50.911 -0700,"Failure",0:00:12,1,0,0,"20161221_090350.911/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'DOBMod'.",0
+2016-12-21 09:05:19.868 -0700,"Failure",0:00:36,1,0,0,"20161221_090519.868/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'PatientNew'.",0
+2016-12-21 09:07:19.309 -0700,"Failure",0:01:04,1,0,0,"20161221_090719.309/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Patient\\New'.",0
+2016-12-21 09:09:50.551 -0700,"Success",0:02:39,0,0,0,"20161221_090950.551/LogFile.txt","","",1

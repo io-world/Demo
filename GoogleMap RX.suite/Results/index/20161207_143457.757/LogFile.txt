@@ -1,0 +1,7 @@
+﻿2016-12-07 14:34:57.758 -0500	START		Running index.script
+2016-12-07 14:34:57.932 -0500	runwithnewresults		TestA.script (/Users/randyhesse/Documents/Simple Examples/Framework.suite/Results/TestA/20161207_143457.931/LogFile.txt)	8	on_index	index.script
+2016-12-07 14:35:08.927 -0500	runwithnewresults		TestB.script (/Users/randyhesse/Documents/Simple Examples/Framework.suite/Results/TestB/20161207_143508.927/LogFile.txt)	9	on_index	index.script
+2016-12-07 14:35:09.000 -0500	BeginTestCase		A	15	on_index	index.script
+2016-12-07 14:35:09.004 -0500	EndTestCase		(Duration:"0.003403", Errors:"0", Exceptions:"0", StartTime:"2016-12-07 14:35:09 -0500", Successes:"0", TestCase:"A", Warnings:"0")	20	on_index	index.script
+2016-12-07 14:35:09.387 -0500	EndTestCase		(Duration:"11.627123", Errors:"0", Exceptions:"0", StartTime:"2016-12-07 14:34:57 -0500", Successes:"3", TestCase:"index.script", Warnings:"3")
+2016-12-07 14:35:09.403 -0500	SUCCESS		Execution Time 0:00:11 index.script

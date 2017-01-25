@@ -1,0 +1,13 @@
+﻿2017-01-23 10:41:34.572 -0700	START		Running Test/TestA.script
+2017-01-23 10:41:34.646 -0700	typetext		[windowsKey]r	3	on_open	Libraries/Chrome.script
+2017-01-23 10:41:35.483 -0700	typetext		chrome.exe	4	on_open	Libraries/Chrome.script
+2017-01-23 10:41:36.201 -0700	typetext		[returnKey]	5	on_open	Libraries/Chrome.script
+2017-01-23 10:41:38.541 -0700	imagefound	Chrome/Refresh Icon	found at (73, 48)	7	on_imagec	Modules/Verify.script
+2017-01-23 10:41:38.543 -0700	Log		Image was found: Chrome/Refresh Icon	8	on_imagec	Modules/Verify.script
+2017-01-23 10:41:38.594 -0700	typetext		[controlKey]l	2	on_addressbar	Libraries/Chrome.script
+2017-01-23 10:41:39.485 -0700	typetext		maps.google.com	3	on_addressbar	Libraries/Chrome.script
+2017-01-23 10:41:40.204 -0700	typetext		[returnKey]	4	on_addressbar	Libraries/Chrome.script
+2017-01-23 10:41:40.303 -0700	imagefound	Chrome/Refresh Icon	found at (73, 48)	7	on_imagec	Modules/Verify.script
+2017-01-23 10:41:40.305 -0700	Log		Image was found: Chrome/Refresh Icon	8	on_imagec	Modules/Verify.script
+2017-01-23 10:41:40.703 -0700	EndTestCase		(Duration:"6.130283", Errors:"1", Exceptions:"0", StartTime:"2017-01-23 10:41:34 -0700", Successes:"0", TestCase:"Test/TestA.script", Warnings:"0")
+2017-01-23 10:41:40.850 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got ''. -- Execution Time 0:00:06 Test/TestA.script

@@ -1,0 +1,10 @@
+﻿2017-01-10 09:38:39.757 -0700	START		Running index.script
+2017-01-10 09:38:39.986 -0700	connect		Windows 10:(null)	3	on_index	index.script
+2017-01-10 09:38:40.012 -0700	typetext		[windowsKey]r	13	on_index	index.script
+2017-01-10 09:38:40.812 -0700	typetext		notepad[enter]	14	on_index	index.script
+2017-01-10 09:38:43.079 -0700	typetext		Hello From Test Plant	16	on_index	index.script
+2017-01-10 09:38:43.795 -0700	typetext		[enter]	17	on_index	index.script
+2017-01-10 09:38:44.632 -0700	typetext		second Line	18	on_index	index.script
+2017-01-10 09:38:48.853 -0700	Exception	Close	No Image Found On Screen: "Close"	22	on_index	index.script
+2017-01-10 09:38:48.898 -0700	EndTestCase		(Duration:"9.137903", Errors:"1", Exceptions:"1", StartTime:"2017-01-10 09:38:39 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-01-10 09:38:48.920 -0700	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Close" -- Execution Time 0:00:09 index.script

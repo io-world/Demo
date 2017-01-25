@@ -1,4 +1,0 @@
-﻿2016-04-19 14:31:25.261 -0600	START		Running Index.script
-2016-04-19 14:31:25.348 -0600	typetext		[windowsKey]	3	on_start	WindowsLib.script
-2016-04-19 14:31:26.921 -0600	EndTestCase		(Duration:"1.658297", Errors:"1", Exceptions:"0", StartTime:"2016-04-19 14:31:25 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-04-19 14:31:26.921 -0600	ABORTED		Execution Time 0:00:01 Index.script

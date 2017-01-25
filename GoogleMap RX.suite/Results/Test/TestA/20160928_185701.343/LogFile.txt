@@ -1,0 +1,11 @@
+﻿2016-09-28 18:57:01.343 -0600	START		Running TestA.script
+2016-09-28 18:57:01.456 -0600	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-09-28 18:57:01.527 -0600	Log		plan	2	on_textc	verify.script
+2016-09-28 18:57:01.535 -0600	Log			3	on_textc	verify.script
+2016-09-28 18:57:01.542 -0600	Log		(1,1,500,500)	4	on_textc	verify.script
+2016-09-28 18:57:02.498 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(116,64), ImageRectangle:(105,60,127,69), Language:"English", searchRectangle:(0,0,500,500), text:"plan", TextPlatform:"Generic OCR", Waitfor:"3")	found at (116, 64)	16	on_textc	verify.script
+2016-09-28 18:57:02.570 -0600	Log		Text was found: 	17	on_textc	verify.script
+2016-09-28 18:57:02.571 -0600	Log		plan	17	on_textc	verify.script
+2016-09-28 18:57:02.653 -0600	Log		(0,0,500,500)	23	on_textc	verify.script
+2016-09-28 18:57:03.105 -0600	EndTestCase		(Duration:"1.760341", Errors:"0", Exceptions:"0", StartTime:"2016-09-28 18:57:01 -0600", Successes:"1", TestCase:"TestA.script", Warnings:"0")
+2016-09-28 18:57:03.111 -0600	SUCCESS		Execution Time 0:00:01 TestA.script

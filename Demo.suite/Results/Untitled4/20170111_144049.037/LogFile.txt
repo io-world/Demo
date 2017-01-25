@@ -1,0 +1,12 @@
+﻿2017-01-11 14:40:49.038 -0700	START		Running Untitled4.script
+2017-01-11 14:40:49.313 -0700	readtext		(151,126,320,825)
+2017-01-11 14:40:49.314 -0700	Log		26	10	on_untitled4	Untitled4.script
+2017-01-11 14:40:49.328 -0700	typetext		[pageDown]	12	on_untitled4	Untitled4.script
+2017-01-11 14:40:50.270 -0700	readtext		(151,126,320,825)
+2017-01-11 14:40:50.271 -0700	Log		26	10	on_untitled4	Untitled4.script
+2017-01-11 14:40:50.287 -0700	typetext		[pageDown]	12	on_untitled4	Untitled4.script
+2017-01-11 14:40:51.238 -0700	readtext		(151,126,320,825)
+2017-01-11 14:40:51.239 -0700	Log		26	10	on_untitled4	Untitled4.script
+2017-01-11 14:40:51.252 -0700	typetext		[pageDown]	12	on_untitled4	Untitled4.script
+2017-01-11 14:40:51.573 -0700	EndTestCase		(Duration:"2.534346", Errors:"0", Exceptions:"0", StartTime:"2017-01-11 14:40:49 -0700", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-11 14:40:51.633 -0700	SUCCESS		Execution Time 0:00:02 Untitled4.script

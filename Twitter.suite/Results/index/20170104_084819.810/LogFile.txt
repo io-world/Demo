@@ -1,0 +1,11 @@
+﻿2017-01-04 08:48:19.811 -0700	START		Running index.script
+2017-01-04 08:48:19.912 -0700	typetext		[windowsKey]r	2	on_launch	
+2017-01-04 08:48:20.750 -0700	typetext		chrome.exe[returnKey]	3	on_launch	
+2017-01-04 08:48:22.910 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_launch	
+2017-01-04 08:48:23.072 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	2	on_search	
+2017-01-04 08:48:23.098 -0700	typetext		[controlKey]l	5	on_search	
+2017-01-04 08:48:23.978 -0700	typetext		www.twitter.com	6	on_search	
+2017-01-04 08:48:24.694 -0700	typetext		[returnKey]	7	on_search	
+2017-01-04 08:48:27.924 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	9	on_search	
+2017-01-04 08:48:40.304 -0700	EndTestCase		(Duration:"20.492463", Errors:"1", Exceptions:"0", StartTime:"2017-01-04 08:48:19 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-01-04 08:48:40.305 -0700	ABORTED		Execution Time 0:00:20 index.script

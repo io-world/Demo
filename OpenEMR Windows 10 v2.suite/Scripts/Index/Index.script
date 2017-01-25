@@ -1,0 +1,11 @@
+﻿
+"Modules/EMR".Login "admin", "pass"
+"Patient/New".create "Mr", "John" , "A" , "Doe","123756","2016-08-05","423-05-1210","Male","Single"
+"Patient/New".check
+run "Patient/Select"  "423-05-1210"
+run "Patient/Allergies" "penicillin"//----- "iodine"
+"Patient/Visit".create "2016-11-29"
+"Patient/Visit".delete "2016-11-29"
+"Modules/EMR".Logout
+
+

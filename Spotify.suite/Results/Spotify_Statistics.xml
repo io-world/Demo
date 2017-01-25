@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="index">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfFails>11</NumberOfFails>
+  <FirstRun>2016-08-04 08:11:54 -0600</FirstRun>
+  <LastRun>2016-09-14 09:15:15 -0400</LastRun>
+  <TotalTimeOnSuccess>409.447607</TotalTimeOnSuccess>
+ </script>
+ <script name="spotify">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-08-04 11:48:48 -0600</FirstRun>
+  <LastRun>2016-10-20 10:15:05 -0600</LastRun>
+  <TotalTimeOnSuccess>0.021402</TotalTimeOnSuccess>
+ </script>
+</statistics>

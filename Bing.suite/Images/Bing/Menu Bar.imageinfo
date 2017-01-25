@@ -1,6 +1,6 @@
 ﻿{
-    CaptureDate = "2016-07-07 20:46:35 +0000";
-    CaptureHost = "Windows 2012";
+    CaptureDate = "2016-11-17 22:34:27 +0000";
+    CaptureHost = "WIndows 10";
     CaptureScreenSize =     (
         1440,
         900
@@ -10,10 +10,9 @@
     HotSpotY = 12;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 135;
-    OriginalLocationY = 149;
+    OriginalLocationX = 37;
+    OriginalLocationY = 76;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
-    SearchAlgorithm = TextSmoothSquare;
 }

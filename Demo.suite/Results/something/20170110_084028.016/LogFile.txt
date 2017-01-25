@@ -1,0 +1,4 @@
+﻿2017-01-10 08:40:28.017 -0700	START		Running something.script
+2017-01-10 08:40:28.667 -0700	moveto	Logo	at (257, 125)	3	on_something	something.script
+2017-01-10 08:40:29.325 -0700	EndTestCase		(Duration:"1.306739", Errors:"0", Exceptions:"0", StartTime:"2017-01-10 08:40:28 -0700", Successes:"1", TestCase:"something.script", Warnings:"0")
+2017-01-10 08:40:29.372 -0700	SUCCESS		Execution Time 0:00:01 something.script

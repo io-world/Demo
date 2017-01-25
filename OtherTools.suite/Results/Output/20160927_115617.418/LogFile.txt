@@ -1,0 +1,5 @@
+﻿2016-09-27 11:56:17.419 -0600	START		Running Output.script
+2016-09-27 11:56:17.496 -0600	Log		<testsuites>\n<testsuite name="index.script" package="OtherTools.suite" timestamp="2016-07-13 09:15:15.911 -0600" tests="1" successes="1" errors="0" time="7.687737">\n    <properties>\n        <property name="RunDate" value="2016-07-13 09:15:15.911 -0600"></property>\n        <property name="Status" value="Success"></property>\n    </properties>\n    <testcase name="index.script" assertions="1" successes="1" errors="0" time="7.686236"></testcase>\n</testsuite>\n</testsuites>	7	on_output	Output.script
+2016-09-27 11:56:17.501 -0600	Log		    <testsuite name="index.script" package="OtherTools.suite" timestamp="2016-07-13 09:15:15.911 -0600" tests="1" successes="1" errors="0" time="7.687737">	10	on_output	Output.script
+2016-09-27 11:56:18.249 -0600	EndTestCase		(Duration:"0.829339", Errors:"0", Exceptions:"0", StartTime:"2016-09-27 11:56:17 -0600", Successes:"1", TestCase:"Output.script", Warnings:"0")
+2016-09-27 11:56:18.259 -0600	SUCCESS		Execution Time 0:00:00 Output.script

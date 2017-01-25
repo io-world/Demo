@@ -1,0 +1,10 @@
+﻿2016-12-07 14:34:57.933 -0500	START		Running TestA.script	8	on_index	index.script
+2016-12-07 14:34:57.950 -0500	Log		code for Navigation for TestA 	4	on_testa	TestA.script
+2016-12-07 14:35:01.030 -0500	imagefound	TestA/image0001	Unable to Find Image TestA/image0001	7	on_imagec	verify.script
+2016-12-07 14:35:01.035 -0500	LogWarning		image was not found: TestA/image0001	10	on_imagec	verify.script
+2016-12-07 14:35:05.118 -0500	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(0,0,427,500), text:"plan", TextPlatform:"Generic OCR", Waitfor:"3")	Unable to Find Image (TEXT:"plan")	11	on_textc	verify.script
+2016-12-07 14:35:05.123 -0500	LogWarning		Text was not found: plan	14	on_textc	verify.script
+2016-12-07 14:35:08.885 -0500	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(0,0,427,640), text:"plan", TextPlatform:"Generic OCR", Waitfor:"3")	Unable to Find Image (TEXT:"plan")	11	on_textc	verify.script
+2016-12-07 14:35:08.891 -0500	LogWarning		Text was not found: plan	14	on_textc	verify.script
+2016-12-07 14:35:08.901 -0500	EndTestCase		(Duration:"10.966607", Errors:"0", Exceptions:"0", StartTime:"2016-12-07 14:34:57 -0500", Successes:"1", TestCase:"TestA.script", Warnings:"3")	8	on_index	index.script
+2016-12-07 14:35:08.913 -0500	SUCCESS		Execution Time 0:00:10 TestA.script	8	on_index	index.script

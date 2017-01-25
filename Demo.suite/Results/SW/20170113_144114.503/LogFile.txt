@@ -1,0 +1,4 @@
+﻿2017-01-13 14:41:14.504 -0700	START		Running Untitled.script
+2017-01-13 14:41:14.553 -0700	Exception	ChromeI/MI	Could Not Open Image: ChromeI/MI	2	on_untitled	Untitled.script
+2017-01-13 14:41:15.014 -0700	EndTestCase		(Duration:"0.508904", Errors:"1", Exceptions:"1", StartTime:"2017-01-13 14:41:14 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-01-13 14:41:15.554 -0700	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: ChromeI/MI -- Execution Time 0:00:00 Untitled.script

@@ -8,12 +8,20 @@
   <LastRun>2016-07-15 13:57:45 -0600</LastRun>
   <TotalTimeOnSuccess>4.148888</TotalTimeOnSuccess>
  </script>
+ <script name="Windows">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-08-29 11:13:38 -0600</FirstRun>
+  <LastRun>2016-08-29 11:13:38 -0600</LastRun>
+  <TotalTimeOnSuccess>0.465241</TotalTimeOnSuccess>
+ </script>
  <script name="index">
   <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>79</NumberOfRuns>
-  <NumberOfFails>40</NumberOfFails>
+  <NumberOfRuns>86</NumberOfRuns>
+  <NumberOfFails>47</NumberOfFails>
   <FirstRun>2016-05-17 15:44:03 -0600</FirstRun>
-  <LastRun>2016-07-20 16:20:06 -0600</LastRun>
+  <LastRun>2016-08-30 13:06:42 -0600</LastRun>
   <TotalTimeOnSuccess>2658.327244</TotalTimeOnSuccess>
  </script>
 </statistics>

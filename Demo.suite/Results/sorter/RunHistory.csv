@@ -1,0 +1,12 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-01-09 15:47:20.688 -0700,"Success",0:00:00,0,0,0,"20170109_154720.688/LogFile.txt","","",1
+2017-01-10 07:55:07.507 -0700,"Success",0:00:00,0,0,0,"20170110_075507.507/LogFile.txt","","",1
+2017-01-10 07:55:21.880 -0700,"Success",0:00:00,0,0,0,"20170110_075521.880/LogFile.txt","","",1
+2017-01-10 07:57:41.062 -0700,"Success",0:00:00,0,0,0,"20170110_075741.062/LogFile.txt","","",1
+2017-01-10 08:09:47.211 -0700,"Success",0:00:00,0,0,0,"20170110_080947.211/LogFile.txt","","",1
+2017-01-10 08:56:40.124 -0700,"Success",0:00:01,0,0,0,"20170110_085640.124/LogFile.txt","","",1
+2017-01-13 11:39:47.233 -0700,"Success",0:00:01,0,0,0,"20170113_113947.233/LogFile.txt","","",1
+2017-01-16 08:51:32.148 -0700,"Failure",0:00:00,1,0,0,"20170116_085132.148/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'sortme'",0
+2017-01-16 08:52:07.503 -0700,"Success",0:00:00,0,0,0,"20170116_085207.503/LogFile.txt","","",1
+2017-01-16 08:53:32.811 -0700,"Failure",0:00:00,1,0,0,"20170116_085332.811/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '(bug,beg,bag)'.",0
+2017-01-16 08:54:03.611 -0700,"Success",0:00:00,0,0,0,"20170116_085403.611/LogFile.txt","","",1

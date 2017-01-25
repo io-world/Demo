@@ -8,6 +8,8 @@
     HasAlpha = 0;
     HotSpotX = 14;
     HotSpotY = 12;
+    ImageDescription = <>;
+    ImageTolerance = 16;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 535;

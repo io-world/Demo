@@ -1,0 +1,15 @@
+﻿2016-11-21 11:26:32.786 -0700	START		Running Index Full Run.script
+2016-11-21 11:26:32.961 -0700	typetext		[windowsKey]r	3	on_login	EMR.script
+2016-11-21 11:26:33.800 -0700	typetext		chrome.exe[returnKey]	4	on_login	EMR.script
+2016-11-21 11:26:35.743 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	EMR.script
+2016-11-21 11:26:35.770 -0700	typetext		[controlKey]l	6	on_login	EMR.script
+2016-11-21 11:26:37.468 -0700	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	EMR.script
+2016-11-21 11:26:37.974 -0700	waitfor	Login/Logo	found at (524, 486)	8	on_login	EMR.script
+2016-11-21 11:26:37.976 -0700	Log		Login/logo was Booted 0.502563 seconds	9	on_login	EMR.script
+2016-11-21 11:26:38.243 -0700	typetext		admin[tab]	11	on_login	EMR.script
+2016-11-21 11:26:39.007 -0700	typetext		pass[enter]	12	on_login	EMR.script
+2016-11-21 11:26:45.673 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	14	on_login	EMR.script
+2016-11-21 11:26:45.677 -0700	Log		EMR was loaded 0.649814 seconds	15	on_login	EMR.script
+2016-11-21 11:26:45.756 -0700	Log		Mr,Bruce,,Wayne,222222,2006-06-13,113-83-3798,Male,Single	10	on_index_full_run	Index Full Run.script
+2016-11-21 11:26:46.143 -0700	EndTestCase		(Duration:"13.355736", Errors:"1", Exceptions:"0", StartTime:"2016-11-21 11:26:32 -0700", Successes:"0", TestCase:"Index Full Run.script", Warnings:"0")
+2016-11-21 11:26:46.500 -0700	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in create:\nSyntax Error at line 48: Syntax Error - can't understand "if" at or near character 1118 -- Execution Time 0:00:13 Index Full Run.script

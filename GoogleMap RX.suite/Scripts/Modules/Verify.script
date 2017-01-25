@@ -1,0 +1,35 @@
+﻿
+on ImageC ImageName ,WFV
+	if WFV is empty then
+		put 3 into WFV
+	end if
+	
+	
+	if imagefound (image: ImageName, Waitfor: WFV) then
+		log "Image was found:" && Imagename
+	else
+		logwarning "Image was not found:"&& imagename
+	end if
+	
+end imageC
+
+
+
+on TextC TextName ,WFV, SR
+	if WFV is empty then
+		put 3 into WFV
+	end if
+	
+	if SR is empty then
+		put ((0,0),RemoteScreenSize()) into SR
+	end if
+	
+	
+	if imagefound(text: TextName, Waitfor: WFV, searchRectangle: SR) then 
+		log "Text was found:" && TextName
+	else
+		logwarning "Text was not found:"&& TextName
+	end if	
+	
+	
+end TextC

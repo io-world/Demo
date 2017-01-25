@@ -1,0 +1,22 @@
+﻿2016-08-17 13:32:41.941 -0600	START		Running MicroDicom.script
+2016-08-17 13:32:42.059 -0600	typetext		[windowsKey]r	1	on_microdicom	MicroDicom.script
+2016-08-17 13:32:43.277 -0600	typetext		C:\Program Files\MicroDicom\mDicom.exe[returnKey]	2	on_microdicom	MicroDicom.script
+2016-08-17 13:32:44.831 -0600	click	MicroDicom/Open Folder	at (26, 70)	3	on_microdicom	MicroDicom.script
+2016-08-17 13:32:45.898 -0600	doubleclick	MicroDicom/DICOMDIR	at (618, 335)	4	on_microdicom	MicroDicom.script
+2016-08-17 13:32:47.905 -0600	click	MicroDicom/Play Button	at (23, 105)	5	on_microdicom	MicroDicom.script
+2016-08-17 13:32:48.687 -0600	readtext		(1147,127,1242,147)
+2016-08-17 13:32:48.690 -0600	Log		6/24/2006	11	on_microdicom	MicroDicom.script
+2016-08-17 13:32:48.744 -0600	readtext		(1137,148,1248,166)
+2016-08-17 13:32:48.746 -0600	Log		9:28:50 AM	14	on_microdicom	MicroDicom.script
+2016-08-17 13:32:54.002 -0600	click	MicroDicom/Stop Button	at (85, 104)	19	on_microdicom	MicroDicom.script
+2016-08-17 13:32:55.499 -0600	click	MicroDicom/Measurement Icon	at (484, 69)	20	on_microdicom	MicroDicom.script
+2016-08-17 13:32:56.267 -0600	drag		at (700, 400)	21	on_microdicom	MicroDicom.script
+2016-08-17 13:32:57.454 -0600	drop		at (800, 500)	22	on_microdicom	MicroDicom.script
+2016-08-17 13:32:58.209 -0600	readtext		(803,494,866,506)
+2016-08-17 13:32:58.209 -0600	Log		119.68	23	on_microdicom	MicroDicom.script
+2016-08-17 13:33:01.983 -0600	click	MicroDicom/Circle Button	at (574, 70)	25	on_microdicom	MicroDicom.script
+2016-08-17 13:33:02.753 -0600	drag		at (900, 200)	26	on_microdicom	MicroDicom.script
+2016-08-17 13:33:04.101 -0600	drop		at (1100, 400)	27	on_microdicom	MicroDicom.script
+2016-08-17 13:33:06.137 -0600	typetext		[windowsAltKey][F4]	29	on_microdicom	MicroDicom.script
+2016-08-17 13:33:06.694 -0600	EndTestCase		(Duration:"24.751225", Errors:"0", Exceptions:"0", StartTime:"2016-08-17 13:32:41 -0600", Successes:"1", TestCase:"MicroDicom.script", Warnings:"0")
+2016-08-17 13:33:06.705 -0600	SUCCESS		Execution Time 0:00:24 MicroDicom.script

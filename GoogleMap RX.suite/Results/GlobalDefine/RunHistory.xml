@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="GlobalDefine">
+ <run>
+  <RunDate>2017-01-19 14:50:51.440 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.432882</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_145051.440/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-19 14:51:15.238 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.428177</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_145115.238/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

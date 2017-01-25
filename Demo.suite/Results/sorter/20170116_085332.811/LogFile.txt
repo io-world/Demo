@@ -1,0 +1,3 @@
+﻿2017-01-16 08:53:32.812 -0700	START		Running sorter.script
+2017-01-16 08:53:33.204 -0700	EndTestCase		(Duration:"0.391283", Errors:"1", Exceptions:"0", StartTime:"2017-01-16 08:53:32 -0700", Successes:"0", TestCase:"sorter.script", Warnings:"0")
+2017-01-16 08:53:33.681 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got '(bug,beg,bag)'. -- Execution Time 0:00:00 sorter.script

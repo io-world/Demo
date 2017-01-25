@@ -1,0 +1,17 @@
+﻿2016-12-21 09:03:50.913 -0700	START		Running Index/Index No CSV.script
+2016-12-21 09:03:55.835 -0700	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2016-12-21 09:03:56.736 -0700	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2016-12-21 09:03:56.887 -0700	click		at (378, 201)	6	on_create	Patient/New.script
+2016-12-21 09:04:00.008 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(312,253), ImageRectangle:(302,248,322,258), Language:"English", searchRectangle:(278,221,378,301), text:"Mrs", TextPlatform:"Generic OCR")	found at (312, 253)	8	on_create	Patient/New.script
+2016-12-21 09:04:00.140 -0700	click		at (312, 253)	9	on_create	Patient/New.script
+2016-12-21 09:04:00.148 -0700	Log		Mrs	10	on_create	Patient/New.script
+2016-12-21 09:04:00.924 -0700	typetext		[tab]ICDL[tab]	14	on_create	Patient/New.script
+2016-12-21 09:04:01.657 -0700	typetext		X[tab]	15	on_create	Patient/New.script
+2016-12-21 09:04:02.454 -0700	typetext		AVHSQD[tab]	16	on_create	Patient/New.script
+2016-12-21 09:04:03.241 -0700	typetext		807984[tab]	17	on_create	Patient/New.script
+2016-12-21 09:04:03.246 -0700	Log		ICDL	18	on_create	Patient/New.script
+2016-12-21 09:04:03.260 -0700	Log		X	19	on_create	Patient/New.script
+2016-12-21 09:04:03.277 -0700	Log		AVHSQD	20	on_create	Patient/New.script
+2016-12-21 09:04:03.289 -0700	Log		807984	21	on_create	Patient/New.script
+2016-12-21 09:04:03.635 -0700	EndTestCase		(Duration:"12.72024", Errors:"1", Exceptions:"0", StartTime:"2016-12-21 09:03:50 -0700", Successes:"0", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2016-12-21 09:04:03.854 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'DOBMod'. -- Execution Time 0:00:12 Index/Index No CSV.script

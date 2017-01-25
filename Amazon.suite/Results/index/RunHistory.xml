@@ -954,4 +954,198 @@ Syntax Error at line 11: Syntax Error - can&#x27;t understand [end of line] at o
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2016-08-03 12:39:10.447 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>46.846577</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160803_123910.447/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-08 08:43:30.808 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.359718</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160808_084330.808/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;(TEXT:&quot;Deal&quot;)&quot;  Restricted Search Rectangle ((0,90),(720,360))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-08 08:47:56.595 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.919971</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160808_084756.595/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Browsers Icon/Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-08 08:48:18.402 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>50.160345</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160808_084818.402/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;(TEXT:&quot;Deal&quot;)&quot;  Restricted Search Rectangle ((234,139),(484,189))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 11:42:47.455 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.990975</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160923_114247.455/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Hot Spot Off Screen -- click Error - Hot Spot Off Screen For Image &quot;indicators&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 11:43:58.346 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.798112</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160923_114358.346/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Hot Spot Off Screen -- click Error - Hot Spot Off Screen For Image &quot;indicators&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 11:44:57.597 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>51.367156</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_114457.597/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-18 14:48:14.717 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>51.392572</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161018_144814.717/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-19 07:53:13.439 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>53.862182</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161019_075313.439/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-02 14:03:27.041 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>51.025318</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161102_140327.041/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-04 14:15:10.520 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>54.125043</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161104_141510.520/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 08:12:58.377 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>50.608330</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161109_081258.377/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-14 11:58:20.110 -0700</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20161114_115820.110/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-14 11:59:22.584 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>84.344657</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161114_115922.584/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-16 14:11:05.883 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>54.260784</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161116_141105.883/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-13 11:47:22.495 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>49.312069</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170113_114722.495/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

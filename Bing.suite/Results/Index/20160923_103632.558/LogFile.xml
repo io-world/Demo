@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master.script" package="Bing.suite" timestamp="2016-09-23 10:36:32.558 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-09-23 10:36:32.558 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="Master.script" assertions="1" successes="0" errors="1" time="8.26352">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,18 @@
+﻿open file "//Users/randyhesse/Documents/Demos/OpenEMR Windows 10.suite/Resources/WebFormData.CSV" 
+put file openfiles() into PatientFile 
+
+
+EMR.Login "admin", "pass"
+
+put the number of  lines of PatientFile  - 1 into Max
+repeat MAX Times  
+	put line repeatindex()+1 of PatientFile into PatientInfo
+	log PatientInfo
+	split PatientInfo by ","
+	PatientNew.create PatientInfo as parameters
+	PatientNew.check
+	PatientNew.fix
+end repeat
+
+EMR.Logout
+

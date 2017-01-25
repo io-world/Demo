@@ -1,0 +1,58 @@
+﻿2016-08-23 13:50:28.561 -0600	START		Running Index.script
+2016-08-23 13:50:28.729 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-08-23 13:50:29.575 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-08-23 13:50:30.301 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-08-23 13:50:31.995 -0600	waitfor	Chrome/Refresh Icon	found at (76, 41)	4	on_login	Login.script
+2016-08-23 13:50:33.049 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-08-23 13:50:34.488 -0600	waitfor	Login/Logo	found at (524, 484)	9	on_login	Login.script
+2016-08-23 13:50:34.495 -0600	Log		1.435235 seconds	10	on_login	Login.script
+2016-08-23 13:50:34.601 -0600	typetext		admin[tab]	12	on_login	Login.script
+2016-08-23 13:50:35.366 -0600	typetext		pass[enter]	13	on_login	Login.script
+2016-08-23 13:50:42.163 -0600	click	PatientNew/New Patient Button	at (43, 75)	5	on_patientnew	PatientNew.script
+2016-08-23 13:50:44.051 -0600	click	PatientNew/Name	at (379, 197)	6	on_patientnew	PatientNew.script
+2016-08-23 13:50:47.024 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,231), ImageRectangle:(302,226,317,236), Language:"English", searchRectangle:(279,217,379,297), text:"Mr", TextPlatform:"Generic OCR")	at (309, 231)	9	on_patientnew	PatientNew.script
+2016-08-23 13:50:47.846 -0600	typetext		[tab]Richard[tab]	10	on_patientnew	PatientNew.script
+2016-08-23 13:50:48.578 -0600	typetext		A[tab]	11	on_patientnew	PatientNew.script
+2016-08-23 13:50:49.353 -0600	typetext		Ward[tab]	12	on_patientnew	PatientNew.script
+2016-08-23 13:50:50.190 -0600	typetext		123456789[tab]	13	on_patientnew	PatientNew.script
+2016-08-23 13:50:51.474 -0600	click	PatientNew/DateOfBirth	at (419, 232)	14	on_patientnew	PatientNew.script
+2016-08-23 13:50:52.881 -0600	moveto	PatientNew/MonthBack	at (464, 282)	19	on_patientnew	PatientNew.script
+2016-08-23 13:50:53.694 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-23 13:50:54.508 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-23 13:50:55.320 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-23 13:50:56.131 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-23 13:50:56.946 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-23 13:50:57.756 -0600	click		at (464, 282)	21	on_patientnew	PatientNew.script
+2016-08-23 13:50:59.122 -0600	moveto	PatientNew/YearBack	at (429, 282)	25	on_patientnew	PatientNew.script
+2016-08-23 13:50:59.930 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-23 13:51:00.742 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-23 13:51:01.556 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-23 13:51:02.371 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-23 13:51:03.187 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-23 13:51:04.003 -0600	click		at (429, 282)	27	on_patientnew	PatientNew.script
+2016-08-23 13:51:05.923 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(566,338), ImageRectangle:(561,333,572,343), Language:"English", searchRectangle:(441,297,689,432), text:"10", TextPlatform:"Generic OCR")	at (566, 338)	33	on_patientnew	PatientNew.script
+2016-08-23 13:51:07.428 -0600	click	Login/Social Security	at (333, 259)	35	on_patientnew	PatientNew.script
+2016-08-23 13:51:08.275 -0600	typetext		555-33-7777	36	on_patientnew	PatientNew.script
+2016-08-23 13:51:09.628 -0600	click	PatientNew/MaritalStatus	at (411, 283)	38	on_patientnew	PatientNew.script
+2016-08-23 13:51:11.235 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(327,353), ImageRectangle:(302,348,353,358), Language:"English", searchRectangle:(291,293,411,433), Text:"Divorced", TextPlatform:"Generic OCR")	at (327, 353)	41	on_patientnew	PatientNew.script
+2016-08-23 13:51:12.803 -0600	click	PatientNew/CreateNewPatient	at (317, 524)	42	on_patientnew	PatientNew.script
+2016-08-23 13:51:18.595 -0600	click	PatientNew/OK	at (880, 219)	45	on_patientnew	PatientNew.script
+2016-08-23 13:51:20.094 -0600	click	PatientNew/Sex	at (864, 228)	46	on_patientnew	PatientNew.script
+2016-08-23 13:51:20.823 -0600	typetext		[downArrow][returnKey]	47	on_patientnew	PatientNew.script
+2016-08-23 13:51:22.302 -0600	click	PatientNew/CreateNewPatient	at (317, 524)	48	on_patientnew	PatientNew.script
+2016-08-23 13:51:23.854 -0600	click	PatientNew/ConfirmCreateNewPatient	at (142, 544)	49	on_patientnew	PatientNew.script
+2016-08-23 13:51:25.604 -0600	click	PatientAllergies/Allergies	at (895, 443)	1	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:28.443 -0600	click	PatientAllergies/Add	at (194, 183)	3	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:29.900 -0600	imagelocation	PatientAllergies/Type	at (63, 101)	5	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:30.970 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(140,171), ImageRectangle:(127,166,154,176), Language:"English", searchRectangle:(113,101,213,201), Text:"Sulfa", TextPlatform:"Generic OCR")	at (140, 171)	6	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:32.533 -0600	click	PatientAllergies/BeginDate	at (170, 268)	8	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:33.409 -0600	typetext		2016 - 8 - 23	9	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:34.720 -0600	click	PatientAllergies/Occurrence	at (317, 327)	10	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:35.477 -0600	typetext		[downArrow][downArrow][downArrow][returnKey]	11	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:37.070 -0600	click	PatientAllergies/Severity	at (277, 347)	12	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:37.829 -0600	typetext		[downArrow][downArrow][downArrow][returnKey]	13	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:39.366 -0600	click	PatientAllergies/Type	at (63, 101)	14	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:40.085 -0600	typetext		[pageDown]	15	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:41.637 -0600	click	PatientAllergies/Save	at (69, 466)	16	on_patientallergies	PatientAllergies.script
+2016-08-23 13:51:42.042 -0600	EndTestCase		(Duration:"73.478927", Errors:"0", Exceptions:"0", StartTime:"2016-08-23 13:50:28 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-08-23 13:51:42.069 -0600	SUCCESS		Execution Time 0:01:13 Index.script

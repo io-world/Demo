@@ -1,0 +1,7 @@
+﻿2017-01-10 08:30:22.195 -0700	START		Running index.script
+2017-01-10 08:30:22.977 -0700	click	Windows Start	at (24, 725)	1	on_index	index.script
+2017-01-10 08:30:23.898 -0700	click	Google Chrome	at (467, 225)	2	on_index	index.script
+2017-01-10 08:30:26.360 -0700	click	Refresh icon	at (282, 48)	3	on_index	index.script
+2017-01-10 08:30:27.206 -0700	typetext		pw.utc.com[returnKey]	4	on_index	index.script
+2017-01-10 08:30:28.075 -0700	EndTestCase		(Duration:"5.878304", Errors:"0", Exceptions:"0", StartTime:"2017-01-10 08:30:22 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-10 08:30:28.081 -0700	SUCCESS		Execution Time 0:00:05 index.script

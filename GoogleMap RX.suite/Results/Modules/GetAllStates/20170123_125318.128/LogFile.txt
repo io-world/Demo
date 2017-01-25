@@ -1,0 +1,5 @@
+﻿2017-01-23 12:53:18.129 -0700	START		Running Modules/GetAllStates.script
+2017-01-23 12:53:18.197 -0700	Log		  <state name="Alabama" abbreviation="AL" capital="Montgomery" date="1819-12-14" most-populous-city="Birmingham" population="4708708" square-miles="52423" time-zone-1="CST (UTC-06)" time-zone-2="EST (UTC-05)" dst="Yes"/>	4	on_modules_getallstates	Modules/GetAllStates.script
+2017-01-23 12:53:18.200 -0700	Log		  <state name="Wyoming" abbreviation="WY" capital="Cheyenne" date="1890-07-10" most-populous-city="Cheyenne" population="544270" square-miles="97818" time-zone-1="MT (UTC-07)" dst="Yes"/>	5	on_modules_getallstates	Modules/GetAllStates.script
+2017-01-23 12:53:18.426 -0700	EndTestCase		(Duration:"0.295905", Errors:"0", Exceptions:"0", StartTime:"2017-01-23 12:53:18 -0700", Successes:"1", TestCase:"Modules/GetAllStates.script", Warnings:"0")
+2017-01-23 12:53:18.444 -0700	SUCCESS		Execution Time 0:00:00 Modules/GetAllStates.script

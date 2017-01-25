@@ -1,0 +1,8 @@
+﻿2016-10-14 16:33:47.014 -0600	START		Running Index.script
+2016-10-14 16:33:47.215 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-10-14 16:33:48.062 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-10-14 16:33:48.789 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-10-14 16:33:49.021 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_login	Login.script
+2016-10-14 16:33:50.528 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-10-14 16:33:51.295 -0600	EndTestCase		(Duration:"4.27891", Errors:"1", Exceptions:"0", StartTime:"2016-10-14 16:33:47 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-10-14 16:33:51.296 -0600	ABORTED		Execution Time 0:00:04 Index.script

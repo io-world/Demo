@@ -1,8 +1,0 @@
-﻿2016-05-04 15:39:41.754 -0600	START		Running Index.script
-2016-05-04 15:39:43.315 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,107), ImageRectangle:(352,97,420,108), Language:"English", searchRectangle:(317,73,1116,461), text:"First Name", TextPlatform:"Generic OCR")	at (502, 107)	30	on_index	Index.script
-2016-05-04 15:39:44.078 -0600	typetext		Bruce	31	on_index	Index.script
-2016-05-04 15:39:45.798 -0600	click	(CaseSensitive:"No", Contrast:"On", ContrastColor:"AutoDetect", hotspot:(150,10), IgnoreSpaces:"No", ImageLocation:(502,159), ImageRectangle:(352,149,418,160), Language:"English", searchRectangle:(317,73,1116,461), text:"Last Name", TextPlatform:"Generic OCR")	at (502, 159)	30	on_index	Index.script
-2016-05-04 15:39:46.569 -0600	typetext		Wayne	31	on_index	Index.script
-2016-05-04 15:40:04.819 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	20	on_index	Index.script
-2016-05-04 15:40:05.098 -0600	EndTestCase		(Duration:"23.342506", Errors:"1", Exceptions:"1", StartTime:"2016-05-04 15:39:41 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-05-04 15:40:05.098 -0600	ABORTED		Execution Time 0:00:23 Index.script

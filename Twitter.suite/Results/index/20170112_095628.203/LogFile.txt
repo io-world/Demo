@@ -1,0 +1,66 @@
+﻿2017-01-12 09:56:28.204 -0700	START		Running index.script
+2017-01-12 09:56:28.299 -0700	typetext		[windowsKey]r	2	on_launch	
+2017-01-12 09:56:29.139 -0700	typetext		chrome.exe[returnKey]	3	on_launch	
+2017-01-12 09:56:31.625 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_launch	
+2017-01-12 09:56:31.734 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	2	on_search	
+2017-01-12 09:56:31.757 -0700	typetext		[controlKey]l	5	on_search	
+2017-01-12 09:56:32.641 -0700	typetext		www.twitter.com	6	on_search	
+2017-01-12 09:56:33.359 -0700	typetext		[returnKey]	7	on_search	
+2017-01-12 09:56:35.233 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	9	on_search	
+2017-01-12 09:56:35.975 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1242,105), ImageRectangle:(1230,98,1255,113), Language:"English", searchRectangle:(1152,54,1310.4,135), Text:"Log", TextPlatform:"Generic OCR")	at (1242, 105)	4	on_login	
+2017-01-12 09:56:36.855 -0700	waitfor	Twitter/Login/Logo	found at (717, 365)	5	on_login	
+2017-01-12 09:56:36.964 -0700	click		at (617, 395)	7	on_login	
+2017-01-12 09:56:37.801 -0700	typetext		iotestplant	8	on_login	
+2017-01-12 09:56:38.817 -0700	typetext		[tab]	10	on_login	
+2017-01-12 09:56:40.813 -0700	click	Twitter/Login/Login Button	at (726, 517)	15	on_login	
+2017-01-12 09:56:42.453 -0700	waitfor	Twitter/Tweet/New Tweet	found at (1267, 89)	3	on_tweet	
+2017-01-12 09:56:43.561 -0700	click		at (1267, 89)	5	on_tweet	
+2017-01-12 09:56:44.468 -0700	click	Twitter/Tweet/Compose New Tweet	at (534, 293)	6	on_tweet	
+2017-01-12 09:56:45.402 -0700	typetext		Hello From Testlant	7	on_tweet	
+2017-01-12 09:56:47.612 -0700	click	Twitter/Tweet/Post	at (952, 388)	9	on_tweet	
+2017-01-12 09:56:50.758 -0700	imagefound	Twitter/Tweet/Front Logo	Unable to Find Image Twitter/Tweet/Front Logo	2	on_check	
+2017-01-12 09:56:50.983 -0700	imagefound	Twitter/Tweet/Error	found at (721, 92)	3	on_check	
+2017-01-12 09:56:50.983 -0700	LogWarning		Tweet has already Been Posted	4	on_check	
+2017-01-12 09:56:51.108 -0700	imagelocation	Twitter/Tweet/Compose New Tweet	at (721, 245)	5	on_check	
+2017-01-12 09:56:51.126 -0700	set		REMOTEWORKINTERVAL = 0.01	5	on_modules_tripleclick	Modules/TripleClick.script
+2017-01-12 09:56:51.229 -0700	click		at (461, 300)	6	on_modules_tripleclick	Modules/TripleClick.script
+2017-01-12 09:56:51.343 -0700	click		at current mouse point (461, 300)	7	on_modules_tripleclick	Modules/TripleClick.script
+2017-01-12 09:56:51.464 -0700	click		at current mouse point (461, 300)	8	on_modules_tripleclick	Modules/TripleClick.script
+2017-01-12 09:56:51.464 -0700	set		REMOTEWORKINTERVAL = 0.7	9	on_modules_tripleclick	Modules/TripleClick.script
+2017-01-12 09:56:52.180 -0700	typetext		[deleteKey]	7	on_check	
+2017-01-12 09:56:53.651 -0700	typetext		Hello From Testlant 01/12/17 09:56 AM	9	on_check	
+2017-01-12 09:56:54.536 -0700	click	Twitter/Tweet/Post	at (952, 388)	10	on_check	
+2017-01-12 09:56:54.538 -0700	LogSuccess		Re-Tweeted	11	on_check	
+2017-01-12 09:56:55.738 -0700	imagefound	Twitter/Tweet/Front Logo	found at (709, 89)	16	on_check	
+2017-01-12 09:56:55.955 -0700	click	Twitter/Tweet/New Tweet	at (1179, 87)	2	on_logoff	
+2017-01-12 09:56:55.956 -0700	Log		((1079,107),(1199,387))	5	on_logoff	
+2017-01-12 09:56:57.138 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1119,359), ImageRectangle:(1099,354,1139,365), Language:"English", searchRectangle:(1079,107,1199,387), text:"Log out", TextPlatform:"Generic OCR")	at (1119, 359)	6	on_logoff	
+2017-01-12 09:56:58.014 -0700	waitfor	Twitter/Logoff/Logo	found at (140, 89)	7	on_logoff	
+2017-01-12 09:56:58.015 -0700	LogSuccess		Logged out	8	on_logoff	
+2017-01-12 09:56:58.343 -0700	click	Chrome/Windows Buttons	at (1414, 12)	2	on_close	
+2017-01-12 09:56:58.345 -0700	Log		/Users/randyhesse/Documents/Demos/Twitter.suite/Images/Chrome/Windows Buttons/Default.png	3	on_close	
+2017-01-12 09:57:02.774 -0700	imagefound	Chrome/Refresh Icon	Unable to Find Image Chrome/Refresh Icon	4	on_close	
+2017-01-12 09:57:02.774 -0700	LogSuccess		Chrome Closed	7	on_close	
+2017-01-12 09:57:07.800 -0700	typetext		[windowsKey]r	2	on_launch	
+2017-01-12 09:57:08.644 -0700	typetext		chrome.exe[returnKey]	3	on_launch	
+2017-01-12 09:57:10.845 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_launch	
+2017-01-12 09:57:11.006 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	2	on_search	
+2017-01-12 09:57:11.031 -0700	typetext		[controlKey]l	5	on_search	
+2017-01-12 09:57:12.052 -0700	typetext		www.twitter.com/iotestplant	6	on_search	
+2017-01-12 09:57:12.769 -0700	typetext		[returnKey]	7	on_search	
+2017-01-12 09:57:15.905 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	9	on_search	
+2017-01-12 09:57:16.240 -0700	imagelocation	Twitter/Read/Tweets	at (455, 306)	2	on_read	
+2017-01-12 09:57:17.660 -0700	everyimagelocation	(TEXT:"iotestplant")	found 3 images	4	on_read	
+2017-01-12 09:57:17.990 -0700	everyimagelocation	Twitter/Read/Buttons	found 3 images	5	on_read	
+2017-01-12 09:57:18.033 -0700	readtext		(488,431,994,464)
+2017-01-12 09:57:18.035 -0700	Log		Hello From Testlant 01/12/17 09:56 AM	11	on_read	
+2017-01-12 09:57:18.079 -0700	readtext		(488,532,994,565)
+2017-01-12 09:57:18.080 -0700	Log		Hello From Testlant 01/12/17 09:49 AM	11	on_read	
+2017-01-12 09:57:18.123 -0700	readtext		(488,633,994,666)
+2017-01-12 09:57:18.124 -0700	Log		Hello From Testlant 01/12/17 09:31 AM	11	on_read	
+2017-01-12 09:57:18.515 -0700	click	Chrome/Windows Buttons	at (1414, 12)	2	on_close	
+2017-01-12 09:57:18.517 -0700	Log		/Users/randyhesse/Documents/Demos/Twitter.suite/Images/Chrome/Windows Buttons/Close.png	3	on_close	
+2017-01-12 09:57:23.100 -0700	imagefound	Chrome/Refresh Icon	Unable to Find Image Chrome/Refresh Icon	4	on_close	
+2017-01-12 09:57:23.101 -0700	LogSuccess		Chrome Closed	7	on_close	
+2017-01-12 09:57:23.341 -0700	EndTestCase		(Duration:"55.135897", Errors:"0", Exceptions:"0", StartTime:"2017-01-12 09:56:28 -0700", Successes:"4", TestCase:"index.script", Warnings:"1")
+2017-01-12 09:57:23.385 -0700	SUCCESS		Execution Time 0:00:55 index.script

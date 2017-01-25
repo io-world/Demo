@@ -1,0 +1,19 @@
+﻿2016-08-08 10:56:26.580 -0600	START		Running PatientDelete.script
+2016-08-08 10:56:26.721 -0600	typetext		[windowsKey]r	1	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:27.570 -0600	typetext		chrome.exe[returnKey]	2	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:29.859 -0600	waitfor	Chrome/Refresh Icon	found at (76, 41)	6	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:29.906 -0600	typetext		[controlKey]l	7	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:32.157 -0600	typetext		http://127.0.0.1/phpmyadmin/sql.php?server=1&db=openemr&table=patient_data&pos=0&token=ff2c171ae4caad36f9173ee501240841[enter]	9	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:36.041 -0600	everyimagelocation	phpmyadmin/Pencil	found 4 images	12	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:36.507 -0600	everyimagelocation	phpmyadmin/Pencil	found 4 images	17	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:36.616 -0600	click		at (263, 434)	17	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:37.721 -0600	everyimagelocation	phpmyadmin/Pencil	found 3 images	17	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:37.828 -0600	click		at (486, 499)	17	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:38.971 -0600	everyimagelocation	phpmyadmin/Pencil	found 3 images	17	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:39.080 -0600	click		at (487, 499)	17	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:40.181 -0600	everyimagelocation	phpmyadmin/Pencil	found 3 images	17	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:40.289 -0600	click		at current mouse point (487, 499)	17	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:41.549 -0600	click	phpmyadmin/With Selected	at (684, 497)	21	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:42.833 -0600	click	phpmyadmin/Yes	at (628, 154)	22	on_patientdelete	PatientDelete.script
+2016-08-08 10:56:43.378 -0600	EndTestCase		(Duration:"16.797094", Errors:"0", Exceptions:"0", StartTime:"2016-08-08 10:56:26 -0600", Successes:"1", TestCase:"PatientDelete.script", Warnings:"0")
+2016-08-08 10:56:43.388 -0600	SUCCESS		Execution Time 0:00:16 PatientDelete.script

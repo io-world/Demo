@@ -1,6 +1,0 @@
-﻿2016-05-04 13:17:14.313 -0600	START		Running Datepicker.script
-2016-05-04 13:17:14.450 -0600	Log		(3,13,06)	13	on_datepicker	Datepicker.script
-2016-05-04 13:17:15.290 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1031,137), ImageRectangle:(1010,131,1052,144), Language:"English", searchRectangle:(857,122,1156,351), Text:"2016", TextPlatform:"Generic OCR")	at (1031, 137)	16	on_datepicker	Datepicker.script
-2016-05-04 13:17:16.895 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1031,369), ImageRectangle:(1010,363,1052,376), Language:"English", searchRectangle:(1007,153,1067,616), Text:"2006", TextPlatform:"Generic OCR")	at (1031, 369)	17	on_datepicker	Datepicker.script
-2016-05-04 13:17:17.162 -0600	EndTestCase		(Duration:"2.847794", Errors:"0", Exceptions:"0", StartTime:"2016-05-04 13:17:14 -0600", Successes:"1", TestCase:"Datepicker.script", Warnings:"0")
-2016-05-04 13:17:17.167 -0600	SUCCESS		Execution Time 0:00:02 Datepicker.script
