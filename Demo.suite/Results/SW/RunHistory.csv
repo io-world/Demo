@@ -1,3 +1,5 @@
 ﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
 2017-01-13 14:41:14.503 -0700,"Failure",0:00:00,1,0,1,"20170113_144114.503/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: ChromeI/MI",0
 2017-01-13 14:41:23.521 -0700,"Success",0:00:02,0,0,0,"20170113_144123.521/LogFile.txt","","",1
+2017-01-25 15:20:48.144 -0700,"Success",0:00:02,0,0,0,"20170125_152048.144/LogFile.txt","","",1
+2017-01-25 15:21:02.528 -0700,"Success",0:00:02,0,0,0,"20170125_152102.528/LogFile.txt","","",1

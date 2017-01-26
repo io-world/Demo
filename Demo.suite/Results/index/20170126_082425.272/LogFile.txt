@@ -1,0 +1,8 @@
+﻿2017-01-26 08:24:25.272 -0700	START		Running index.script
+2017-01-26 08:24:25.870 -0700	click	Windows Start	at (26, 881)	1	on_index	index.script
+2017-01-26 08:24:26.965 -0700	click	Chrome Icon	at (461, 377)	2	on_index	index.script
+2017-01-26 08:24:29.910 -0700	click	Refresh Icon	at (254, 48)	3	on_index	index.script
+2017-01-26 08:24:30.827 -0700	typetext		www.goodyear.com[returnKey]	4	on_index	index.script
+2017-01-26 08:24:37.016 -0700	Exception	ABOUTUS	No Image Found On Screen: "ABOUTUS"	5	on_index	index.script
+2017-01-26 08:24:37.377 -0700	EndTestCase		(Duration:"12.10344", Errors:"1", Exceptions:"1", StartTime:"2017-01-26 08:24:25 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-01-26 08:24:37.378 -0700	ABORTED		Execution Time 0:00:12 index.script

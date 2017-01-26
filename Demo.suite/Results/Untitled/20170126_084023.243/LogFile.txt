@@ -1,0 +1,4 @@
+﻿2017-01-26 08:40:23.245 -0700	START		Running Untitled.script
+2017-01-26 08:40:23.302 -0700	Exception	r	Could Not Open Image: r	1	on_untitled	Untitled.script
+2017-01-26 08:40:23.687 -0700	EndTestCase		(Duration:"0.440473", Errors:"1", Exceptions:"1", StartTime:"2017-01-26 08:40:23 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-01-26 08:40:24.166 -0700	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: r -- Execution Time 0:00:00 Untitled.script

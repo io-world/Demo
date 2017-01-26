@@ -1,0 +1,5 @@
+﻿2017-01-26 08:53:09.501 -0700	START		Running Untitled1.script
+2017-01-26 08:53:09.898 -0700	everyimagelocation	Good	found 2 images	3	on_untitled1	Untitled1.script
+2017-01-26 08:53:09.900 -0700	Log		((162,128),(129,356))	6	on_untitled1	Untitled1.script
+2017-01-26 08:53:10.328 -0700	EndTestCase		(Duration:"0.825712", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 08:53:09 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-01-26 08:53:10.343 -0700	SUCCESS		Execution Time 0:00:00 Untitled1.script

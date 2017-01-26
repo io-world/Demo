@@ -1,0 +1,10 @@
+﻿
+
+put EveryImageLocation("Good") into Var
+
+
+moveto item 2 of var
+
+
+Click "image0001"
+Click "image0002"

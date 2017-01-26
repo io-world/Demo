@@ -7,8 +7,5 @@
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
-                {
-            filePath = "/Users/randyhesse/Documents/Demos/Spotify.suite";
-        }
     );
 }

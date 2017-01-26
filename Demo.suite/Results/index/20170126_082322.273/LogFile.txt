@@ -1,0 +1,7 @@
+﻿2017-01-26 08:23:22.274 -0700	START		Running index.script
+2017-01-26 08:23:22.867 -0700	click	Windows Start	at (26, 881)	1	on_index	index.script
+2017-01-26 08:23:23.928 -0700	click	Chrome Icon	at (461, 393)	2	on_index	index.script
+2017-01-26 08:23:26.292 -0700	click	Refresh Icon	at (254, 48)	3	on_index	index.script
+2017-01-26 08:23:27.214 -0700	typetext		www.goodyear.com[returnKey]	4	on_index	index.script
+2017-01-26 08:23:27.677 -0700	EndTestCase		(Duration:"5.401568", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 08:23:22 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-26 08:23:27.706 -0700	SUCCESS		Execution Time 0:00:05 index.script

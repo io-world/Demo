@@ -1,0 +1,13 @@
+﻿click "Windows Start"
+TypeText "mspaint"
+Click "Paint"
+
+SetOption MouseMoveSpeed, 5
+SetOption NextKeyDelay, .08
+SetOption RemoteWorkInterval, 2
+
+
+put 150 into var
+
+drag (var,300)
+drop (var+150,600)

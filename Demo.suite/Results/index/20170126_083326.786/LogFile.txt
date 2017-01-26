@@ -1,0 +1,13 @@
+﻿2017-01-26 08:33:26.787 -0700	START		Running index.script
+2017-01-26 08:33:27.371 -0700	click	Windows Start	at (26, 881)	1	on_index	index.script
+2017-01-26 08:33:28.294 -0700	click	Chrome Icon	at (461, 420)	2	on_index	index.script
+2017-01-26 08:33:31.072 -0700	waitfor	Refresh Icon	found at (254, 48)	3	on_index	index.script
+2017-01-26 08:33:31.289 -0700	click	Refresh Icon	at (254, 48)	5	on_index	index.script
+2017-01-26 08:33:32.215 -0700	typetext		www.goodyear.com[returnKey]	8	on_index	index.script
+2017-01-26 08:33:37.375 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(689,133), ImageRectangle:(662,128,717,139), Language:"English", text:"AbouT Us", TextPlatform:"Generic OCR")	at (689, 133)	9	on_index	index.script
+2017-01-26 08:33:38.532 -0700	click	TheBlimp	at (760, 205)	10	on_index	index.script
+2017-01-26 08:33:40.062 -0700	imagefound	tire	found at (372, 263)	15	on_index	index.script
+2017-01-26 08:33:40.063 -0700	Log		image was found	16	on_index	index.script
+2017-01-26 08:33:40.092 -0700	typetext		[windowsAltKey][F4]	22	on_index	index.script
+2017-01-26 08:33:40.548 -0700	EndTestCase		(Duration:"13.760186", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 08:33:26 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-26 08:33:40.586 -0700	SUCCESS		Execution Time 0:00:13 index.script

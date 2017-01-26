@@ -1,30 +1,26 @@
-﻿log ReadText("0001","0002")
+﻿SetOption MouseMoveSpeed, 5
+SetOption NextKeyDelay, .08
+SetOption RemoteWorkInterval, 2
+
+Click "Windows Start"
+Click "Chrome Icon"
+waitfor 30 , Image:"Refresh Icon"
+
+Click (Image:"Refresh Icon")
 
 
-put imagelocation("0003") into GIL
-insert GIL +(60,-10) into RR
-insert GIL +(200,10) into RR
-log ReadText(RR)
-wait 3
-
-
-put imagelocation("0003") into GIL
-log ReadText(GIL+(60,-10),GIL+(200,10))
-
-
-put RemoteScreenSize() into RSS
-put item 1 of RSS into XX
-put item 2 of RSS into YY
-click text:"whatever", searchRectangle:(0,0,XX *0.5,YY *0.5)
-
-
-log ReadText(imagelocation("0003")+(RSS*0.1,-RSS*0.2),imagelocation("0003")+(200,10))
+TypeText "www.goodyear.com", returnkey
+Click text:"AbouT Us"
+Click "TheBlimp"
 
 
 
 
-click image: "0003", hotspot:(120,10)
+If imagefound("tire") then
+	log "image was found"
+Else
+	log "image was not found"
+End if
 
 
-TypeText controlKey & "C"
-log RemoteClipboard()
+TypeText altKey & F4

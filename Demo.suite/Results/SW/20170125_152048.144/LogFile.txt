@@ -1,0 +1,4 @@
+﻿2017-01-25 15:20:48.145 -0700	START		Running SW.script
+2017-01-25 15:20:50.863 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(453,133), ImageRectangle:(432,128,474,139), Language:"English", text:"offers", TextPlatform:"Generic OCR")	at (453, 133)	1	on_sw	SW.script
+2017-01-25 15:20:51.087 -0700	EndTestCase		(Duration:"2.939281", Errors:"0", Exceptions:"0", StartTime:"2017-01-25 15:20:48 -0700", Successes:"1", TestCase:"SW.script", Warnings:"0")
+2017-01-25 15:20:51.098 -0700	SUCCESS		Execution Time 0:00:02 SW.script
