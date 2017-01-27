@@ -1048,4 +1048,16 @@ Connection Timed Out - Unable to Connect to Host</ErrorMessage>
   <ErrorMessage>Connection Failed -- Unable to connect to Server:172.16.229.147 on port:5900
 Connection Timed Out - Unable to Connect to Host</ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-01-26 14:52:35.533 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>8.815988</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170126_145235.533/LogFile.txt</LogFile>
+  <ReturnValue>Hello From Test Plant</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

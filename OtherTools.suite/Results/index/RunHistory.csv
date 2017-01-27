@@ -86,3 +86,4 @@
 2017-01-10 09:39:45.848 -0700,"Success",0:00:07,0,0,0,"20170110_093945.848/LogFile.txt","Hello From Test Plant","",1
 2017-01-19 09:17:28.736 -0700,"Failure",0:00:10,1,0,0,"20170119_091728.736/LogFile.txt","","Connection Failed -- Unable to connect to Server:172.16.229.147 on port:5900\nConnection Timed Out - Unable to Connect to Host",0
 2017-01-19 10:38:46.232 -0700,"Failure",0:00:10,1,0,0,"20170119_103846.232/LogFile.txt","","Connection Failed -- Unable to connect to Server:172.16.229.147 on port:5900\nConnection Timed Out - Unable to Connect to Host",0
+2017-01-26 14:52:35.533 -0700,"Success",0:00:08,0,0,0,"20170126_145235.533/LogFile.txt","Hello From Test Plant","",1

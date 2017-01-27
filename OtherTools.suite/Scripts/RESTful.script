@@ -19,7 +19,7 @@ put url "http://maps.googleapis.com/maps/api/geocode/xml?address=3000%20Pearl%20
 repeat with item of myTree --read each line of the file
 
 	put item repeatindex() of myTree into output
-	log output
-	
-	
+TypeText output
+
+
 end repeat
