@@ -244,4 +244,16 @@ Syntax Error at line 25: Syntax Error - can&#x27;t understand &quot;end&quot; at
   <ErrorMessage>SenseTalk Compiler Exception -- in index_index:
 Syntax Error at line 7: Syntax Error - can&#x27;t understand &quot;penicillin&quot; at or near character 214</ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-01-26 11:57:10.815 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>66.920188</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170126_115710.815/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PatientSelect/Patients&quot;</ErrorMessage>
+ </run>
 </runHistory>

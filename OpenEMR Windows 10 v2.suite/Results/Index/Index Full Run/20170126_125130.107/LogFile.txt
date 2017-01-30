@@ -1,0 +1,20 @@
+﻿2017-01-26 12:51:30.108 -0700	START		Running Index/Index Full Run.script
+2017-01-26 12:51:30.164 -0700	Log		Mr,Bruce,,Wayne,222222,2006-06-13,113-83-3798,Male,Single	9	on_index_index_full_run	Index/Index Full Run.script
+2017-01-26 12:51:30.713 -0700	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2017-01-26 12:51:31.664 -0700	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2017-01-26 12:51:31.774 -0700	click		at (378, 201)	6	on_create	Patient/New.script
+2017-01-26 12:51:33.066 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,236), ImageRectangle:(302,231,316,241), Language:"English", searchRectangle:(278,221,378,301), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 236)	8	on_create	Patient/New.script
+2017-01-26 12:51:33.180 -0700	click		at (309, 236)	9	on_create	Patient/New.script
+2017-01-26 12:51:33.181 -0700	Log		Mr	10	on_create	Patient/New.script
+2017-01-26 12:51:33.977 -0700	typetext		[tab]Bruce[tab]	14	on_create	Patient/New.script
+2017-01-26 12:51:34.697 -0700	typetext		[tab]	15	on_create	Patient/New.script
+2017-01-26 12:51:35.482 -0700	typetext		Wayne[tab]	16	on_create	Patient/New.script
+2017-01-26 12:51:36.273 -0700	typetext		222222[tab]	17	on_create	Patient/New.script
+2017-01-26 12:51:36.273 -0700	Log		Bruce	18	on_create	Patient/New.script
+2017-01-26 12:51:36.275 -0700	Log			19	on_create	Patient/New.script
+2017-01-26 12:51:36.277 -0700	Log		Wayne	20	on_create	Patient/New.script
+2017-01-26 12:51:36.278 -0700	Log		222222	21	on_create	Patient/New.script
+2017-01-26 12:51:36.289 -0700	Log		2006-06-13	2	on_buttons	Modules/DOBMod.script
+2017-01-26 12:51:37.515 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-01-26 12:51:43.541 -0700	EndTestCase		(Duration:"13.431779", Errors:"1", Exceptions:"0", StartTime:"2017-01-26 12:51:30 -0700", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-01-26 12:51:43.542 -0700	ABORTED		Execution Time 0:00:13 Index/Index Full Run.script

@@ -1,0 +1,8 @@
+﻿2017-01-26 12:46:39.956 -0700	START		Running Index/Index.script
+2017-01-26 12:46:40.048 -0700	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-01-26 12:46:40.889 -0700	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-01-26 12:46:42.927 -0700	waitfor	Chrome/Refresh Icon	found at (188, 262)	5	on_login	Modules/EMR.script
+2017-01-26 12:46:42.955 -0700	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-01-26 12:46:44.681 -0700	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-01-26 12:46:45.193 -0700	EndTestCase		(Duration:"5.236408", Errors:"1", Exceptions:"0", StartTime:"2017-01-26 12:46:39 -0700", Successes:"0", TestCase:"Index/Index.script", Warnings:"0")
+2017-01-26 12:46:45.194 -0700	ABORTED		Execution Time 0:00:05 Index/Index.script

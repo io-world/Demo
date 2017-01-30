@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Index/Index.script" package="OpenEMR Windows 10 v2.suite" timestamp="2017-01-26 11:57:10.815 -0700"
+ tests="1" successes="0" errors="1" time="66.920188">
+  <properties>
+   <property name="RunDate" value="2017-01-26 11:57:10.815 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Index/Index.script" assertions="1" successes="0" errors="1" time="66.91729">
+  </testcase>
+ </testsuite>
+</testsuites>
