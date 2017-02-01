@@ -4,8 +4,8 @@
 "Patient/New".check
 run "Patient/Select"  "423-05-1210"
 run "Patient/Allergies" "penicillin"//----- "iodine"
-"Patient/Visit".create "2017-01-26"
-"Patient/Visit".delete "2017-01-26"
+"Patient/Visit".create "2017-01-30"
+"Patient/Visit".delete "2017-01-30"
 "Modules/EMR".Logout
 
 

@@ -17,3 +17,4 @@
 2016-12-21 09:14:46.263 -0700,"Failure",0:00:00,1,0,0,"20161221_091446.263/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'PatientNew'.",0
 2016-12-21 09:15:27.242 -0700,"Success",0:08:27,0,0,0,"20161221_091527.242/LogFile.txt","","",1
 2016-12-21 09:24:34.295 -0700,"Failure",0:00:00,1,0,0,"20161221_092434.295/LogFile.txt","","SenseTalk Compiler Exception -- in index_index_full_run:\nSyntax Error at line 11: Syntax Error - can't understand ""PatientInfo"" at or near character 364",0
+2017-02-01 14:36:18.393 -0700,"Success",0:08:45,0,0,0,"20170201_143618.393/LogFile.txt","","",1

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index/Index Dub Patient">
+ <run>
+  <RunDate>2017-02-01 14:50:34.855 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>155.305278</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_145034.855/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;n&#x27;</ErrorMessage>
+ </run>
+</runHistory>

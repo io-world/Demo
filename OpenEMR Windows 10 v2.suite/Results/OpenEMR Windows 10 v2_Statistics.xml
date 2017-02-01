@@ -10,19 +10,19 @@
  </script>
  <script name="Library/MicroDicom">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>25</NumberOfRuns>
+  <NumberOfRuns>26</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-08-03 12:30:06 -0600</FirstRun>
-  <LastRun>2017-01-26 12:56:32 -0700</LastRun>
-  <TotalTimeOnSuccess>32.477640</TotalTimeOnSuccess>
+  <LastRun>2017-01-30 14:45:21 -0700</LastRun>
+  <TotalTimeOnSuccess>65.344813</TotalTimeOnSuccess>
  </script>
  <script name="Patient/New">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfRuns>4</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-11-10 08:08:18 -0700</FirstRun>
-  <LastRun>2016-11-21 11:27:20 -0700</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+  <LastRun>2017-02-01 16:03:28 -0700</LastRun>
+  <TotalTimeOnSuccess>0.281283</TotalTimeOnSuccess>
  </script>
  <script name="Modules/DNC">
   <LastStatus>Success</LastStatus>
@@ -30,6 +30,14 @@
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-11-29 16:08:32 -0700</FirstRun>
   <LastRun>2016-11-30 14:39:01 -0700</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Index/Index Dub Patient">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-02-01 14:50:34 -0700</FirstRun>
+  <LastRun>2017-02-01 14:50:34 -0700</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
  <script name="Modules/DOBMod">
@@ -41,12 +49,12 @@
   <TotalTimeOnSuccess>14.440048</TotalTimeOnSuccess>
  </script>
  <script name="Index/Index Full Run">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>12</NumberOfRuns>
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
   <NumberOfFails>4</NumberOfFails>
   <FirstRun>2016-11-17 11:25:15 -0700</FirstRun>
-  <LastRun>2016-12-21 09:24:34 -0700</LastRun>
-  <TotalTimeOnSuccess>507.701370</TotalTimeOnSuccess>
+  <LastRun>2017-02-01 14:36:18 -0700</LastRun>
+  <TotalTimeOnSuccess>1033.077293</TotalTimeOnSuccess>
  </script>
  <script name="Patient/Allergies">
   <LastStatus>Success</LastStatus>

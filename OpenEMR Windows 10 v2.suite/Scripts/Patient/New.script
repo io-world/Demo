@@ -71,6 +71,7 @@ on check
 end check
 
 
+
 on fix
 	
 	if imagefound("PatientNew/Check/OK")
@@ -78,10 +79,16 @@ on fix
 		repeat 10 times
 			click "PatientNew/Check/OK"
 			click "PatientNew/Fix/Cancel"
-			put imagelocation("PatientNew/Fix/ExternalID") into ILEID
-			insert ILEID+ (45,-10) into ReadEID
-			insert ILEID+ (130,10) into ReadEID
-			put ReadText(READEID) into EID
+			//put imagelocation("PatientNew/Fix/ExternalID") into ILEID
+			//insert ILEID+ (55,-5) into ReadEID
+			//insert ILEID+ (130,10) into ReadEID
+			//put ReadText(READEID) into EID
+			DoubleClick image:"PatientNew/Fix/ExternalID", hotspot:(100,5)
+			TypeText controlKey & "c"
+			put RemoteClipboard() into EID
+			//--------------------------------------------------------
+			wait 2
+			log "Read EID as " & EID
 			DoubleClick image:"PatientNew/Fix/ExternalID", hotspot:(100,5)
 			TypeText (EID+1)
 			click "PatientNew/New/CreateNewPatient"
