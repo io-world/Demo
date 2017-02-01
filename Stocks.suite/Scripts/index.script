@@ -15,10 +15,13 @@ waitfor 10,(image:  "Refresh Icon")
 put ImageLocation("Chrome Icon Logo") into CIL
 moveto imagelocation("Chrome Icon Logo") + (600,0)
 
+
 repeat Max-1 Times	
 	put item 1 of line repeatindex() +1 of file CSV into Company_name
 	put item 2 of line repeatindex() +1 of file CSV into Stock_name
-	TypeText Stock_name , Enter
+	click CIL+(600,390)
+	TypeText Stock_name , enterKey
+	CaptureScreen (Name: Stock_name)
 	Wait 1
 	WaitFor 10, "Refresh Icon"
 	WaitFor 10,(Text: "USD",searchRectangle: (CIL+(20,20),CIL+(700,400)))
