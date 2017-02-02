@@ -1,0 +1,12 @@
+﻿2017-01-30 14:24:45.331 -0700	START		Running index.script
+2017-01-30 14:24:46.209 -0700	click	Windows Icon	at (25, 880)	1	on_index	index.script
+2017-01-30 14:24:47.549 -0700	click	Chrome Icon	at (465, 378)	2	on_index	index.script
+2017-01-30 14:24:49.969 -0700	click	Refresh Icon	at (276, 48)	3	on_index	index.script
+2017-01-30 14:24:50.975 -0700	typetext		www.ketteringhealth.org[returnKey]	4	on_index	index.script
+2017-01-30 14:24:56.434 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(257,272), ImageRectangle:(217,266,297,279), Language:"English", text:"directions", TextPlatform:"Generic OCR")	at (257, 272)	5	on_index	index.script
+2017-01-30 14:24:57.240 -0700	imagefound	banner	found at (590, 564)	8	on_index	index.script
+2017-01-30 14:24:57.240 -0700	Log		we have found the image	9	on_index	index.script
+2017-01-30 14:24:57.243 -0700	Log		continue foward	18	on_index	index.script
+2017-01-30 14:24:57.270 -0700	typetext		[controlKey][F4]	20	on_index	index.script
+2017-01-30 14:24:57.864 -0700	EndTestCase		(Duration:"12.530484", Errors:"0", Exceptions:"0", StartTime:"2017-01-30 14:24:45 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-30 14:24:57.911 -0700	SUCCESS		Execution Time 0:00:12 index.script

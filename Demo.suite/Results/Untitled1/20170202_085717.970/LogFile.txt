@@ -1,0 +1,4 @@
+﻿2017-02-02 08:57:17.971 -0700	START		Running Untitled1.script
+2017-02-02 08:57:18.225 -0700	moveto	image0001	at (624, 294)	1	on_untitled1	Untitled1.script
+2017-02-02 08:57:18.629 -0700	EndTestCase		(Duration:"0.655754", Errors:"0", Exceptions:"0", StartTime:"2017-02-02 08:57:17 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-02 08:57:18.656 -0700	SUCCESS		Execution Time 0:00:00 Untitled1.script

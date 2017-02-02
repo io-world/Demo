@@ -1,0 +1,7 @@
+﻿2017-01-26 12:44:49.564 -0700	START		Running Untitled2.script
+2017-01-26 12:44:49.616 -0700	connect		Windows 10:(null)	2	on_untitled2	Untitled2.script
+2017-01-26 12:44:50.580 -0700	click	Chrome	at (662, 878)	5	on_untitled2	Untitled2.script
+2017-01-26 12:44:50.581 -0700	connect		iPhone 6s:(null)	6	on_untitled2	Untitled2.script
+2017-01-26 12:44:51.547 -0700	click	Chrome	at (629, 641)	8	on_untitled2	Untitled2.script
+2017-01-26 12:44:52.036 -0700	EndTestCase		(Duration:"2.470828", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 12:44:49 -0700", Successes:"1", TestCase:"Untitled2.script", Warnings:"0")
+2017-01-26 12:44:52.059 -0700	SUCCESS		Execution Time 0:00:02 Untitled2.script

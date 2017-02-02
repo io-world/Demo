@@ -1,0 +1,8 @@
+﻿2017-01-27 12:06:24.970 -0700	START		Running Untitled1.script
+2017-01-27 12:06:25.044 -0700	typetext		[windowsKey]r	1	on_untitled1	Untitled1.script
+2017-01-27 12:06:25.891 -0700	typetext		chrome.exe[returnKey]	2	on_untitled1	Untitled1.script
+2017-01-27 12:06:28.374 -0700	click	Refresh Icon	at (285, 49)	3	on_untitled1	Untitled1.script
+2017-01-27 12:06:29.309 -0700	typetext		localhost/openemr[returnKey]	4	on_untitled1	Untitled1.script
+2017-01-27 12:06:29.312 -0700	Exception	/Username	Could Not Open Image: /Username	5	on_untitled1	Untitled1.script
+2017-01-27 12:06:29.789 -0700	EndTestCase		(Duration:"4.817478", Errors:"1", Exceptions:"1", StartTime:"2017-01-27 12:06:24 -0700", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2017-01-27 12:06:29.885 -0700	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: /Username -- Execution Time 0:00:04 Untitled1.script

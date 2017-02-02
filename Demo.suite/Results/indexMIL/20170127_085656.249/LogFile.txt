@@ -1,0 +1,6 @@
+﻿2017-01-27 08:56:56.250 -0700	START		Running indexMIL.script
+2017-01-27 08:56:56.304 -0700	setoption		MouseMoveSpeed = 5	1	on_indexmil	indexMIL.script
+2017-01-27 08:56:56.305 -0700	setoption		NextKeyDelay = 0.08	2	on_indexmil	indexMIL.script
+2017-01-27 08:56:56.305 -0700	setoption		RemoteWorkInterval = 2	3	on_indexmil	indexMIL.script
+2017-01-27 08:56:56.967 -0700	EndTestCase		(Duration:"0.716218", Errors:"1", Exceptions:"0", StartTime:"2017-01-27 08:56:56 -0700", Successes:"0", TestCase:"indexMIL.script", Warnings:"0")
+2017-01-27 08:56:57.774 -0700	FAILURE	Screen_Error.png	STInvalidParameters Command startmovie should be called with between 1 and 2 parameters -- Execution Time 0:00:00 indexMIL.script

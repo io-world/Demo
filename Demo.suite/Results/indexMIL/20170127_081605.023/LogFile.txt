@@ -1,0 +1,7 @@
+﻿2017-01-27 08:16:05.024 -0700	START		Running indexMIL.script
+2017-01-27 08:16:06.225 -0700	click	Windows Icon	at (29, 880)	1	on_indexmil	indexMIL.script
+2017-01-27 08:16:07.155 -0700	click	Google Chrome	at (462, 378)	2	on_indexmil	indexMIL.script
+2017-01-27 08:16:09.290 -0700	click	Refresh Icon	at (282, 48)	3	on_indexmil	indexMIL.script
+2017-01-27 08:16:10.160 -0700	typetext		www.army.mil[returnKey]	4	on_indexmil	indexMIL.script
+2017-01-27 08:16:10.975 -0700	EndTestCase		(Duration:"5.949906", Errors:"0", Exceptions:"0", StartTime:"2017-01-27 08:16:05 -0700", Successes:"1", TestCase:"indexMIL.script", Warnings:"0")
+2017-01-27 08:16:11.011 -0700	SUCCESS		Execution Time 0:00:05 indexMIL.script

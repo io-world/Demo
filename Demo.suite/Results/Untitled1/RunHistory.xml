@@ -1,38 +1,74 @@
 ﻿<?xml version="1.0"?>
 <runHistory script="Untitled1">
  <run>
-  <RunDate>2017-01-16 14:22:13.132 -0700</RunDate>
+  <RunDate>2017-01-27 12:03:28.413 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>1.952706</Duration>
+  <Duration>0.467899</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170116_142213.132/LogFile.txt</LogFile>
+  <LogFile>20170127_120328.413/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-01-16 14:23:02.133 -0700</RunDate>
+  <RunDate>2017-01-27 12:06:24.969 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.819168</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170127_120624.969/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: /Username</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 15:45:39.991 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>1.988637</Duration>
+  <Duration>1.302658</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170116_142302.133/LogFile.txt</LogFile>
+  <LogFile>20170201_154539.991/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-01-26 08:53:09.500 -0700</RunDate>
+  <RunDate>2017-02-01 15:49:10.271 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>0.827571</Duration>
+  <Duration>0.985479</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170126_085309.500/LogFile.txt</LogFile>
+  <LogFile>20170201_154910.271/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-02 08:57:17.970 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.658181</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170202_085717.970/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-02 08:58:54.057 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.930053</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170202_085854.057/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>

@@ -1,0 +1,6 @@
+﻿2017-01-26 13:14:24.330 -0700	START		Running Untitled3.script
+2017-01-26 13:14:24.898 -0700	rightclick	image0001	at (1167, 879)	1	on_untitled3	Untitled3.script
+2017-01-26 13:14:26.184 -0700	click	OpenNetw	at (1231, 865)	2	on_untitled3	Untitled3.script
+2017-01-26 13:14:27.068 -0700	click	Changeadaptersettings	at (217, 295)	3	on_untitled3	Untitled3.script
+2017-01-26 13:14:27.642 -0700	EndTestCase		(Duration:"3.310076", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 13:14:24 -0700", Successes:"1", TestCase:"Untitled3.script", Warnings:"0")
+2017-01-26 13:14:27.682 -0700	SUCCESS		Execution Time 0:00:03 Untitled3.script

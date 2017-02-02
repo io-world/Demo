@@ -1,26 +1,13 @@
-﻿SetOption MouseMoveSpeed, 5
-SetOption NextKeyDelay, .08
-SetOption RemoteWorkInterval, 2
-
-Click "Windows Start"
-Click "Chrome Icon"
-waitfor 30 , Image:"Refresh Icon"
-
-Click (Image:"Refresh Icon")
-
-
-TypeText "www.goodyear.com", returnkey
-Click text:"AbouT Us"
-Click "TheBlimp"
+﻿
+DoubleClick "MicroDicom"
+Click "Open Folder"
+Click "DICOMDIR"
+Click "Open"
 
 
 
-
-If imagefound("tire") then
-	log "image was found"
+If imagefound("date") then
+	log "Hey we found the image"
 Else
-	log "image was not found"
+	log "Image does not exsist"
 End if
-
-
-TypeText altKey & F4

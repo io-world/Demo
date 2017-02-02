@@ -1,0 +1,5 @@
+﻿2017-01-26 12:28:26.562 -0700	START		Running index.script
+2017-01-26 12:28:27.149 -0700	click	Windows Icon	at (23, 880)	1	on_index	index.script
+2017-01-26 12:28:28.122 -0700	click	Chrome Icon	at (464, 381)	2	on_index	index.script
+2017-01-26 12:28:28.588 -0700	EndTestCase		(Duration:"2.023651", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 12:28:26 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-26 12:28:28.611 -0700	SUCCESS		Execution Time 0:00:02 index.script

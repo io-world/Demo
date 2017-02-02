@@ -1,0 +1,7 @@
+﻿2017-01-30 14:17:50.896 -0700	START		Running index.script
+2017-01-30 14:17:51.903 -0700	click	Windows Icon	at (25, 880)	1	on_index	index.script
+2017-01-30 14:17:53.277 -0700	click	Chrome Icon	at (465, 378)	2	on_index	index.script
+2017-01-30 14:17:55.711 -0700	click	Refresh Icon	at (276, 48)	3	on_index	index.script
+2017-01-30 14:17:56.724 -0700	typetext		www.ketteringhealth.org[returnKey]	4	on_index	index.script
+2017-01-30 14:17:57.459 -0700	EndTestCase		(Duration:"6.56254", Errors:"0", Exceptions:"0", StartTime:"2017-01-30 14:17:50 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-30 14:17:57.473 -0700	SUCCESS		Execution Time 0:00:06 index.script

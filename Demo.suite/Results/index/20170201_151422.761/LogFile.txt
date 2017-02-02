@@ -1,0 +1,6 @@
+﻿2017-02-01 15:14:22.761 -0700	START		Running index.script
+2017-02-01 15:14:22.802 -0700	Log		Randy	4	on_mod1	mod1.script
+2017-02-01 15:14:22.805 -0700	Log		(Randy,Fred)	4	on_mod2	mod2.script
+2017-02-01 15:14:22.809 -0700	Log		FINAL GLOBAL(Randy,Fred,Joe)	8	on_index	index.script
+2017-02-01 15:14:23.008 -0700	EndTestCase		(Duration:"0.245048", Errors:"0", Exceptions:"0", StartTime:"2017-02-01 15:14:22 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-01 15:14:23.031 -0700	SUCCESS		Execution Time 0:00:00 index.script

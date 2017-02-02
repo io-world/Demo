@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[0, 4, 61, 34], command:@"Click", eventNum:2, hotSpot:[2.6239525000000000e+01, 8.8046425999999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[0, 5, 59, 35], command:@"Click", eventNum:4, hotSpot:[2.4165503000000001e+01, 8.7956178199999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[0, 8, 61, 38], command:@"Click", eventNum:6, hotSpot:[2.6194633000000000e+01, 8.7648617100000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[412, 492, 482, 522], command:@"Drag", eventNum:8, hotSpot:[4.4718974500000002e+02, 3.9240750700000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[412, 492, 482, 522], command:@"Drop", eventNum:8, hotSpot:[4.4718974500000002e+02, 3.9210668099999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[223, 841, 332, 858], command:@"Click", eventNum:10, hotSpot:[2.5975558699999999e+02, 4.7018678000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"wvvvgooglecom", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {command:@"TypeText", eventNum:12, screenShotFile:@"Screen0012.png", text:@"\"www.amazon.com\",Return"}, {captureRect:[199, 746, 516, 763], command:@"Click", eventNum:42, hotSpot:[2.5246957300000000e+02, 1.4941630699999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"TodaysDealsGiftCardsRegistrySe", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0042.png"}, {captureRect:[1381, 868, 1440, 898], command:@"Click", eventNum:44, hotSpot:[1.4164764570000000e+03, 1.6639727000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0044.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0001"</string>
+		<string>Click "image0002"</string>
+		<string>Click "image0003"</string>
+		<string>Drag "image0004"</string>
+		<string>Drop "image0005"</string>
+		<string>Click "wvvvgooglecom"</string>
+		<string>TypeText "www.amazon.com",Return</string>
+		<string>Click "TodaysDealsGiftCardsRegistrySe"</string>
+		<string>Click "image0006"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>wvvvgooglecom.png</string>
+			<string>TodaysDealsGiftCardsRegistrySe.png</string>
+			<string>image0006.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>wvvvgooglecom.png</string>
+			<string>TodaysDealsGiftCardsRegistrySe.png</string>
+			<string>image0006.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

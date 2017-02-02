@@ -1,0 +1,7 @@
+﻿2017-02-02 08:26:29.173 -0700	START		Running index.script
+2017-02-02 08:26:30.222 -0700	doubleclick	MicroDicom	at (934, 351)	2	on_index	index.script
+2017-02-02 08:26:31.711 -0700	click	Open Folder	at (25, 70)	3	on_index	index.script
+2017-02-02 08:26:32.643 -0700	click	DICOMDIR	at (227, 184)	4	on_index	index.script
+2017-02-02 08:26:34.170 -0700	click	Open	at (544, 469)	5	on_index	index.script
+2017-02-02 08:26:34.444 -0700	EndTestCase		(Duration:"5.269122", Errors:"0", Exceptions:"0", StartTime:"2017-02-02 08:26:29 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-02 08:26:34.467 -0700	SUCCESS		Execution Time 0:00:05 index.script

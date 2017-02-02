@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="iphone">
+ <run>
+  <RunDate>2017-01-27 12:10:29.773 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>8.449876</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170127_121029.773/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

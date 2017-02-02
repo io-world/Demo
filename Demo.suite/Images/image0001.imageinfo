@@ -1,18 +1,18 @@
 ﻿{
-    CaptureDate = "2017-01-26 15:55:54 +0000";
+    CaptureDate = "2017-02-02 15:57:02 +0000";
     CaptureHost = "Windows 10";
     CaptureScreenSize =     (
         1440,
         900
     );
-    HasAlpha = 0;
-    HotSpotX = 55;
-    HotSpotY = 11;
+    HasAlpha = 1;
+    HotSpotX = 76;
+    HotSpotY = 59;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 1267;
-    OriginalLocationY = 1;
-    Precise = 1;
+    OriginalLocationX = 548;
+    OriginalLocationY = 235;
+    Precise = 0;
     Pulsing = 0;
     Scale = 1;
 }

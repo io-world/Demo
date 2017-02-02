@@ -1,0 +1,4 @@
+﻿2017-02-01 15:12:11.977 -0700	START		Running index.script
+2017-02-01 15:12:12.018 -0700	Log		Randy	4	on_index	index.script
+2017-02-01 15:12:12.178 -0700	EndTestCase		(Duration:"0.200001", Errors:"0", Exceptions:"0", StartTime:"2017-02-01 15:12:11 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-01 15:12:12.189 -0700	SUCCESS		Execution Time 0:00:00 index.script

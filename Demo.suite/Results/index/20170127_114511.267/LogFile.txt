@@ -1,0 +1,7 @@
+﻿2017-01-27 11:45:11.268 -0700	START		Running index.script
+2017-01-27 11:45:12.266 -0700	click	Windows Icon	at (24, 881)	1	on_index	index.script
+2017-01-27 11:45:13.159 -0700	click	Chrome Icon	at (462, 398)	2	on_index	index.script
+2017-01-27 11:45:15.820 -0700	click	Refresh Icon	at (285, 49)	3	on_index	index.script
+2017-01-27 11:45:16.776 -0700	typetext		www.centurylink.com[returnKey]	4	on_index	index.script
+2017-01-27 11:45:17.163 -0700	EndTestCase		(Duration:"5.892578", Errors:"0", Exceptions:"0", StartTime:"2017-01-27 11:45:11 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-27 11:45:17.173 -0700	SUCCESS		Execution Time 0:00:05 index.script

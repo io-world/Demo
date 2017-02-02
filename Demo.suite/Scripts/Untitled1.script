@@ -1,10 +1,6 @@
-﻿
+﻿put everyimagelocation("image0001") into var
 
-put EveryImageLocation("Good") into Var
+log var
 
 
 moveto item 2 of var
-
-
-Click "image0001"
-Click "image0002"

@@ -1,0 +1,9 @@
+﻿2017-01-27 12:10:29.774 -0700	START		Running iphone.script
+2017-01-27 12:10:30.264 -0700	click	messenger	at (111, 112)	1	on_iphone	iphone.script
+2017-01-27 12:10:31.499 -0700	click	Newmessage	at (688, 83)	2	on_iphone	iphone.script
+2017-01-27 12:10:32.634 -0700	typetext		6146572613	4	on_iphone	iphone.script
+2017-01-27 12:10:34.159 -0700	click	SendButon	at (457, 867)	5	on_iphone	iphone.script
+2017-01-27 12:10:35.237 -0700	typetext		Randy from TestPLant says HI	6	on_iphone	iphone.script
+2017-01-27 12:10:37.819 -0700	click	BlueSend	at (679, 772)	8	on_iphone	iphone.script
+2017-01-27 12:10:38.223 -0700	EndTestCase		(Duration:"8.447997", Errors:"0", Exceptions:"0", StartTime:"2017-01-27 12:10:29 -0700", Successes:"1", TestCase:"iphone.script", Warnings:"0")
+2017-01-27 12:10:38.233 -0700	SUCCESS		Execution Time 0:00:08 iphone.script

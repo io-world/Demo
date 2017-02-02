@@ -1,0 +1,7 @@
+﻿2017-01-26 12:30:06.394 -0700	START		Running index.script
+2017-01-26 12:30:06.986 -0700	click	Windows Icon	at (23, 880)	1	on_index	index.script
+2017-01-26 12:30:08.330 -0700	click	Chrome Icon	at (464, 378)	2	on_index	index.script
+2017-01-26 12:30:10.912 -0700	click	Refresh Icon	at (276, 50)	3	on_index	index.script
+2017-01-26 12:30:11.837 -0700	typetext		localhost/openemr[returnKey]	4	on_index	index.script
+2017-01-26 12:30:12.290 -0700	EndTestCase		(Duration:"5.894582", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 12:30:06 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-26 12:30:12.328 -0700	SUCCESS		Execution Time 0:00:05 index.script

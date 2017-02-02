@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2017-01-26 08:40:23.243 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.442733</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170126_084023.243/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: r</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-26 08:40:49.835 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.428005</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170126_084049.835/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: r</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-26 08:41:02.898 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.050475</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170126_084102.898/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-26 08:41:29.909 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.784215</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170126_084129.909/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-26 12:36:34.271 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>4.071211</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170126_123634.271/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-27 08:16:05.023 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.951396</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170127_081605.023/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-27 08:17:09.754 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>15.830893</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170127_081709.754/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-27 08:29:08.421 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>27.685555</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170127_082908.421/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-27 08:56:56.249 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.717944</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170127_085656.249/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidParameters -- Command startmovie should be called with between 1 and 2 parameters</ErrorMessage>
+ </run>
+</runHistory>

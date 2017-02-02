@@ -1,0 +1,5 @@
+﻿2017-02-01 15:27:26.559 -0700	START		Running mod2.script
+2017-02-01 15:27:28.161 -0700	readtext		(65,218,191,299)
+2017-02-01 15:27:28.162 -0700	Log		John Doe	3	on_mod2	mod2.script
+2017-02-01 15:27:28.366 -0700	EndTestCase		(Duration:"1.805373", Errors:"0", Exceptions:"0", StartTime:"2017-02-01 15:27:26 -0700", Successes:"1", TestCase:"mod2.script", Warnings:"0")
+2017-02-01 15:27:28.377 -0700	SUCCESS		Execution Time 0:00:01 mod2.script

@@ -1,0 +1,10 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-01-26 08:40:23.243 -0700,"Failure",0:00:00,1,0,1,"20170126_084023.243/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: r",0
+2017-01-26 08:40:49.835 -0700,"Failure",0:00:00,1,0,1,"20170126_084049.835/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: r",0
+2017-01-26 08:41:02.898 -0700,"Success",0:00:01,0,0,0,"20170126_084102.898/LogFile.txt","","",1
+2017-01-26 08:41:29.909 -0700,"Success",0:00:02,0,0,0,"20170126_084129.909/LogFile.txt","","",1
+2017-01-26 12:36:34.271 -0700,"Success",0:00:04,0,0,0,"20170126_123634.271/LogFile.txt","","",1
+2017-01-27 08:16:05.023 -0700,"Success",0:00:05,0,0,0,"20170127_081605.023/LogFile.txt","","",1
+2017-01-27 08:17:09.754 -0700,"Success",0:00:15,0,0,0,"20170127_081709.754/LogFile.txt","","",1
+2017-01-27 08:29:08.421 -0700,"Success",0:00:27,0,0,0,"20170127_082908.421/LogFile.txt","","",1
+2017-01-27 08:56:56.249 -0700,"Failure",0:00:00,1,0,0,"20170127_085656.249/LogFile.txt","","STInvalidParameters -- Command startmovie should be called with between 1 and 2 parameters",0

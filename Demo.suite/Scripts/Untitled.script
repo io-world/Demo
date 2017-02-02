@@ -1,13 +1,36 @@
-﻿click "Windows Start"
-TypeText "mspaint"
-Click "Paint"
-
-SetOption MouseMoveSpeed, 5
-SetOption NextKeyDelay, .08
-SetOption RemoteWorkInterval, 2
+﻿DoubleClick "CHrome Image"
+Click (Image:"ltpswwvgooglecom", WaitFor:3.8)
+TypeText "www.amazon.com", returnKey
+Click "TodaysDeals"
 
 
-put 150 into var
+If ImageFound("camera") then
+	log "found camera"
+Else
+	log "cound not find camera"
+End if
 
-drag (var,300)
-drop (var+150,600)
+
+If ImageFound("banner") then
+	click "on whatever "
+	Else
+	click "on something else"
+End if
+
+
+MoveTo "HoverMe"
+Click "Link1"
+
+
+TypeText altKey & F4
+
+
+
+
+TypeText controlKey & "a"
+TypeText controlKey & "c"
+
+TypeText controlKey & "v"
+
+
+log RemoteClipboard()
