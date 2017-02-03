@@ -1,7 +1,7 @@
 ﻿put  file "//Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Resources/WebFormData.CSV"  into PatientFile 
 
 
---run "Modules/EMR".Login "admin", "pass"
+run "Modules/EMR".Login "admin", "pass"
 
 put the number of  lines of PatientFile  - 1 into Max
 repeat MAX Times  

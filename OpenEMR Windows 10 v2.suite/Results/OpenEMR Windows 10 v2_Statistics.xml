@@ -10,11 +10,11 @@
  </script>
  <script name="Library/MicroDicom">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>26</NumberOfRuns>
+  <NumberOfRuns>29</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-08-03 12:30:06 -0600</FirstRun>
-  <LastRun>2017-01-30 14:45:21 -0700</LastRun>
-  <TotalTimeOnSuccess>65.344813</TotalTimeOnSuccess>
+  <LastRun>2017-02-02 13:46:41 -0700</LastRun>
+  <TotalTimeOnSuccess>167.256559</TotalTimeOnSuccess>
  </script>
  <script name="Patient/New">
   <LastStatus>Success</LastStatus>
