@@ -1,3 +1,0 @@
-﻿2016-04-21 15:29:38.631 -0600	START		Running index.script
-2016-04-21 15:29:39.039 -0600	EndTestCase		(Duration:"0.406835", Errors:"1", Exceptions:"0", StartTime:"2016-04-21 15:29:38 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-04-21 15:29:39.550 -0600	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in <do>:\nSyntax Error at line 1: Syntax Error - can't understand "Name" at or near character 13 -- Execution Time 0:00:00 index.script

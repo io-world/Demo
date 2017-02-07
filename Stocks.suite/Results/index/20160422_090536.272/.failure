@@ -1,1 +1,0 @@
-2016-04-22 09:05:36.272 -0600,Failure,0:00:01,1,0,0,20160422_090536.272/LogFile.txt,"","NSInvalidArgumentException -- -[TestOCRText hotSpot]: unrecognized selector sent to instance 0x7fb3beb0",0

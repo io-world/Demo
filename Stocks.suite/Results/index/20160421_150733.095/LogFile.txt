@@ -1,9 +1,0 @@
-﻿2016-04-21 15:07:33.096 -0600	START		Running index.script
-2016-04-21 15:07:33.151 -0600	Log		Stock Name	14	on_index	index.script
-2016-04-21 15:07:33.154 -0600	Log		goog	14	on_index	index.script
-2016-04-21 15:07:33.156 -0600	Log		Appl	14	on_index	index.script
-2016-04-21 15:07:33.159 -0600	Log		Wmt	14	on_index	index.script
-2016-04-21 15:07:33.161 -0600	Log		Xom	14	on_index	index.script
-2016-04-21 15:07:33.163 -0600	Log		(Company Name,Google,Apple,Walmart,Exxon Mobile)	19	on_index	index.script
-2016-04-21 15:07:33.617 -0600	EndTestCase		(Duration:"0.519586", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 15:07:33 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-04-21 15:07:33.620 -0600	SUCCESS		Execution Time 0:00:00 index.script

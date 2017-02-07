@@ -1,3 +1,0 @@
-﻿2016-04-21 15:37:12.461 -0600	START		Running index.script
-2016-04-21 15:37:13.016 -0600	EndTestCase		(Duration:"0.553716", Errors:"1", Exceptions:"0", StartTime:"2016-04-21 15:37:12 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-04-21 15:37:13.495 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 't' -- Execution Time 0:00:00 index.script

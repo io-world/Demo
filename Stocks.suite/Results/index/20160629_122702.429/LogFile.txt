@@ -1,6 +1,0 @@
-﻿2016-06-29 12:27:02.430 -0600	START		Running index.script
-2016-06-29 12:27:02.629 -0600	typetext		[windowsKey]	10	on_index	index.script
-2016-06-29 12:27:04.258 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
-2016-06-29 12:27:14.795 -0600	Exception	Chrome Mic	Unable To Find Any Image On Screen "Chrome Mic" within 10.00 seconds	13	on_index	index.script
-2016-06-29 12:27:15.353 -0600	EndTestCase		(Duration:"12.921249", Errors:"1", Exceptions:"1", StartTime:"2016-06-29 12:27:02 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-06-29 12:27:15.430 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Chrome Mic" within 10.00 seconds -- Execution Time 0:00:12 index.script

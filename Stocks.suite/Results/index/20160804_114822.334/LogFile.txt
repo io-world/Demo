@@ -1,5 +1,0 @@
-﻿2016-08-04 11:48:22.335 -0600	START		Running index.script
-2016-08-04 11:48:22.485 -0600	typetext		[windowsKey]	9	on_index	index.script
-2016-08-04 11:48:24.509 -0600	click	Chrome	at (306, 343)	10	on_index	index.script
-2016-08-04 11:48:26.785 -0600	EndTestCase		(Duration:"4.448769", Errors:"1", Exceptions:"0", StartTime:"2016-08-04 11:48:22 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-08-04 11:48:26.786 -0600	ABORTED		Execution Time 0:00:04 index.script

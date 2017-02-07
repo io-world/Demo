@@ -1,6 +1,0 @@
-﻿2016-05-02 14:25:15.299 -0600	START		Running index.script
-2016-05-02 14:25:15.367 -0600	typetext		[windowsKey]	6	on_index	index.script
-2016-05-02 14:25:17.029 -0600	click	Chrome	at (178, 599)	7	on_index	index.script
-2016-05-02 14:25:27.280 -0600	Exception	Chrome Mic	Unable To Find Any Image On Screen "Chrome Mic" within 4.00 seconds	9	on_index	index.script
-2016-05-02 14:25:27.577 -0600	EndTestCase		(Duration:"12.276394", Errors:"1", Exceptions:"1", StartTime:"2016-05-02 14:25:15 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-02 14:25:27.578 -0600	ABORTED		Execution Time 0:00:12 index.script

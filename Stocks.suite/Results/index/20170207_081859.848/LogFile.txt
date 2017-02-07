@@ -1,0 +1,11 @@
+﻿2017-02-07 08:18:59.849 -0700	START		Running index.script
+2017-02-07 08:18:59.944 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-02-07 08:19:00.772 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-02-07 08:19:01.792 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-02-07 08:19:04.325 -0700	waitfor	Refresh Icon	found at (539, 374)	14	on_index	index.script
+2017-02-07 08:19:04.812 -0700	imagelocation	Chrome Icon Logo	at (493, 342)	15	on_index	index.script
+2017-02-07 08:19:05.346 -0700	imagelocation	Chrome Icon Logo	at (493, 342)	16	on_index	index.script
+2017-02-07 08:19:05.357 -0700	moveto		at (1093, 342)	16	on_index	index.script
+2017-02-07 08:19:06.167 -0700	click		at (1093, 732)	22	on_index	index.script
+2017-02-07 08:19:10.442 -0700	EndTestCase		(Duration:"10.592036", Errors:"1", Exceptions:"0", StartTime:"2017-02-07 08:18:59 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-07 08:19:10.443 -0700	ABORTED		Execution Time 0:00:10 index.script

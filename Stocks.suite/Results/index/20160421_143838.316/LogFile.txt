@@ -1,4 +1,0 @@
-﻿2016-04-21 14:38:38.317 -0600	START		Running index.script
-2016-04-21 14:38:38.366 -0600	Log		Google	8	on_index	index.script
-2016-04-21 14:38:38.929 -0600	EndTestCase		(Duration:"0.611335", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 14:38:38 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-04-21 14:38:38.933 -0600	SUCCESS		Execution Time 0:00:00 index.script

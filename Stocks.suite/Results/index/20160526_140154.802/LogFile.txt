@@ -1,4 +1,0 @@
-﻿2016-05-26 14:01:54.803 -0600	START		Running index.script
-2016-05-26 14:01:55.039 -0600	typetext		[windowsKey]	10	on_index	index.script
-2016-05-26 14:02:00.134 -0600	EndTestCase		(Duration:"5.329822", Errors:"1", Exceptions:"0", StartTime:"2016-05-26 14:01:54 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-26 14:02:00.135 -0600	ABORTED		Execution Time 0:00:05 index.script

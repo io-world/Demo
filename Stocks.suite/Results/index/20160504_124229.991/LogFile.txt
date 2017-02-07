@@ -1,3 +1,0 @@
-﻿2016-05-04 12:42:29.993 -0600	START		Running index.script
-2016-05-04 12:42:30.551 -0600	EndTestCase		(Duration:"0.556349", Errors:"1", Exceptions:"0", StartTime:"2016-05-04 12:42:29 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-04 12:42:31.051 -0600	FAILURE	Screen_Error.png	STInvalidApplication no such application -- Execution Time 0:00:00 index.script

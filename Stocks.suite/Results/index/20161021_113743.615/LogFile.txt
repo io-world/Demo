@@ -1,6 +1,0 @@
-﻿2016-10-21 11:37:43.616 -0600	START		Running index.script
-2016-10-21 11:37:43.739 -0600	Log		/Users/randyhesse/Documents/Demos/Stocks.suite/Resources/output.csv	4	on_index	index.script
-2016-10-21 11:37:43.797 -0600	typetext		[windowsKey]	14	on_index	index.script
-2016-10-21 11:38:31.323 -0600	Exception	Chrome	No Image Found On Screen: "Chrome"	15	on_index	index.script
-2016-10-21 11:38:31.866 -0600	EndTestCase		(Duration:"48.248207", Errors:"1", Exceptions:"1", StartTime:"2016-10-21 11:37:43 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-10-21 11:38:31.867 -0600	ABORTED		Execution Time 0:00:48 index.script

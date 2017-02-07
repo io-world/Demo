@@ -1,3 +1,0 @@
-﻿2016-04-21 15:02:45.554 -0600	START		Running index.script
-2016-04-21 15:02:46.073 -0600	EndTestCase		(Duration:"0.51818", Errors:"1", Exceptions:"0", StartTime:"2016-04-21 15:02:45 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-04-21 15:02:46.545 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'stocklist' -- Execution Time 0:00:00 index.script

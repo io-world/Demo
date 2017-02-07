@@ -1,8 +1,0 @@
-﻿2016-07-05 14:45:17.628 -0600	START		Running index.script
-2016-07-05 14:45:17.822 -0600	typetext		[windowsKey]	10	on_index	index.script
-2016-07-05 14:45:19.066 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
-2016-07-05 14:45:19.303 -0600	waitfor	Chrome Mic	found at (1008, 484)	13	on_index	index.script
-2016-07-05 14:45:19.827 -0600	typetext		goog[enter]	19	on_index	index.script
-2016-07-05 14:45:27.892 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	20	on_index	index.script
-2016-07-05 14:45:28.182 -0600	EndTestCase		(Duration:"10.553414", Errors:"1", Exceptions:"1", StartTime:"2016-07-05 14:45:17 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-07-05 14:45:28.188 -0600	ABORTED		Execution Time 0:00:10 index.script

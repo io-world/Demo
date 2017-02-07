@@ -1,0 +1,21 @@
+﻿2017-02-07 10:14:24.648 -0700	START		Running index.script
+2017-02-07 10:14:24.759 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-02-07 10:14:25.584 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-02-07 10:14:26.603 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-02-07 10:14:28.924 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-02-07 10:14:29.078 -0700	imagelocation	Chrome Icon Logo	at (27, 14)	15	on_index	index.script
+2017-02-07 10:14:29.185 -0700	imagelocation	Chrome Icon Logo	at (27, 14)	16	on_index	index.script
+2017-02-07 10:14:29.198 -0700	moveto		at (627, 14)	16	on_index	index.script
+2017-02-07 10:14:30.007 -0700	click		at (627, 404)	22	on_index	index.script
+2017-02-07 10:14:30.774 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-02-07 10:14:40.546 -0700	capturescreen	goog.png		24	on_index	index.script
+2017-02-07 10:14:42.087 -0700	waitfor	Refresh Icon	found at (73, 46)	26	on_index	index.script
+2017-02-07 10:14:42.812 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(270,339), ImageRectangle:(259,335,282,344), Language:"English", searchRectangle:(47,34,727,414), Text:"USD", TextPlatform:"Generic OCR")	found at (270, 339)	27	on_index	index.script
+2017-02-07 10:14:42.842 -0700	readtext		(120,309,255,349)
+2017-02-07 10:14:43.007 -0700	doubleclick		at (227, 94)	29	on_index	index.script
+2017-02-07 10:14:43.724 -0700	typetext		[backspace]	30	on_index	index.script
+2017-02-07 10:14:43.725 -0700	Log		Google:808.07	31	on_index	index.script
+2017-02-07 10:14:44.530 -0700	click		at (627, 404)	22	on_index	index.script
+2017-02-07 10:14:45.299 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-02-07 10:14:59.480 -0700	EndTestCase		(Duration:"34.830674", Errors:"1", Exceptions:"0", StartTime:"2017-02-07 10:14:24 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-07 10:14:59.480 -0700	ABORTED		Execution Time 0:00:34 index.script

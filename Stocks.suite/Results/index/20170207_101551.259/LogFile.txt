@@ -1,0 +1,10 @@
+﻿2017-02-07 10:15:51.260 -0700	START		Running index.script
+2017-02-07 10:15:51.349 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-02-07 10:15:52.178 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-02-07 10:15:53.198 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-02-07 10:15:55.361 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-02-07 10:15:55.424 -0700	typetext		goog[enter]	22	on_index	index.script
+2017-02-07 10:15:55.540 -0700	capturescreen	goog.png		23	on_index	index.script
+2017-02-07 10:15:56.661 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-02-07 10:15:57.054 -0700	EndTestCase		(Duration:"5.792427", Errors:"1", Exceptions:"0", StartTime:"2017-02-07 10:15:51 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-07 10:15:57.197 -0700	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got '(20,20)' and 'CIL' -- Execution Time 0:00:05 index.script

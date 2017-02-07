@@ -1,8 +1,0 @@
-﻿2016-04-21 14:43:12.218 -0600	START		Running index.script
-2016-04-21 14:43:12.267 -0600	Log		5	9	on_index	index.script
-2016-04-21 14:43:12.270 -0600	Log		5	9	on_index	index.script
-2016-04-21 14:43:12.272 -0600	Log		5	9	on_index	index.script
-2016-04-21 14:43:12.274 -0600	Log		5	9	on_index	index.script
-2016-04-21 14:43:12.276 -0600	Log		5	9	on_index	index.script
-2016-04-21 14:43:12.740 -0600	EndTestCase		(Duration:"0.521123", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 14:43:12 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-04-21 14:43:12.744 -0600	SUCCESS		Execution Time 0:00:00 index.script

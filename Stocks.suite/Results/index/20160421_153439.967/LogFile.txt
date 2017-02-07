@@ -1,4 +1,0 @@
-﻿2016-04-21 15:34:39.968 -0600	START		Running index.script
-2016-04-21 15:34:40.039 -0600	Log		stocklist	15	on_index	index.script
-2016-04-21 15:34:40.547 -0600	EndTestCase		(Duration:"0.577487", Errors:"0", Exceptions:"0", StartTime:"2016-04-21 15:34:39 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-04-21 15:34:40.551 -0600	SUCCESS		Execution Time 0:00:00 index.script

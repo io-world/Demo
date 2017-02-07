@@ -1,7 +1,0 @@
-﻿2016-06-30 13:53:30.338 -0600	START		Running index.script
-2016-06-30 13:53:30.526 -0600	typetext		[windowsKey]	10	on_index	index.script
-2016-06-30 13:53:31.923 -0600	click	Chrome	at (178, 599)	11	on_index	index.script
-2016-06-30 13:53:34.244 -0600	waitfor	Chrome Mic	found at (1016, 486)	13	on_index	index.script
-2016-06-30 13:53:34.378 -0600	typetext		goog[enter]	19	on_index	index.script
-2016-06-30 13:53:41.650 -0600	EndTestCase		(Duration:"11.309934", Errors:"1", Exceptions:"0", StartTime:"2016-06-30 13:53:30 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-06-30 13:53:41.650 -0600	ABORTED		Execution Time 0:00:11 index.script
