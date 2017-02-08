@@ -1,0 +1,9 @@
+﻿2017-01-26 14:30:20.056 -0700	START		Running index.script
+2017-01-26 14:30:20.104 -0700	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2017-01-26 14:30:20.104 -0700	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2017-01-26 14:30:20.105 -0700	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2017-01-26 14:30:22.996 -0700	click	Browsers Icon/Chrome	at (663, 881)	17	on_index	index.script
+2017-01-26 14:30:28.821 -0700	click	indicators	at (74, 45)	18	on_index	index.script
+2017-01-26 14:30:33.112 -0700	typetext		www.amazon.com[returnKey]	20	on_index	index.script
+2017-01-26 14:30:33.823 -0700	EndTestCase		(Duration:"13.766109", Errors:"1", Exceptions:"0", StartTime:"2017-01-26 14:30:20 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-01-26 14:30:33.824 -0700	ABORTED		Execution Time 0:00:13 index.script

@@ -1,0 +1,26 @@
+﻿2017-02-08 09:56:44.348 -0700	START		Running index.script
+2017-02-08 09:56:44.395 -0700	setoption		MouseMoveSpeed = 5	1	on_index	index.script
+2017-02-08 09:56:44.395 -0700	setoption		NextKeyDelay = 0.08	2	on_index	index.script
+2017-02-08 09:56:44.395 -0700	setoption		RemoteWorkInterval = 2	3	on_index	index.script
+2017-02-08 09:56:47.610 -0700	click	Browsers Icon/Chrome	at (663, 881)	17	on_index	index.script
+2017-02-08 09:56:52.193 -0700	click	indicators	at (233, 47)	18	on_index	index.script
+2017-02-08 09:56:56.450 -0700	typetext		www.amazon.com[returnKey]	20	on_index	index.script
+2017-02-08 09:56:57.480 -0700	waitfor	indicators	found at (233, 47)	21	on_index	index.script
+2017-02-08 09:57:01.942 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(388,146), ImageRectangle:(376,141,401,151), Language:"English", Text:"Deal", TextPlatform:"Generic OCR", waitfor:"10")	at (388, 146)	23	on_index	index.script
+2017-02-08 09:57:05.467 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(332,623), ImageRectangle:(284,619,381,627), Language:"English", searchRectangle:(244.8,450,504,810), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR", waitfor:"10")	at (332, 623)	27	on_index	index.script
+2017-02-08 09:57:05.469 -0700	Log		Deal of the Day is Located Here:(332,623)	28	on_index	index.script
+2017-02-08 09:57:05.495 -0700	readtext		(252,631,422,663)
+2017-02-08 09:57:05.496 -0700	Log		$19.99	33	on_index	index.script
+2017-02-08 09:57:08.043 -0700	click	Browser Close	at (1414, 13)	38	on_index	index.script
+2017-02-08 09:57:13.728 -0700	click	Browsers Icon/Microsoft Edge	at (420, 880)	17	on_index	index.script
+2017-02-08 09:57:18.398 -0700	click	indicators	at (257, 56)	18	on_index	index.script
+2017-02-08 09:57:22.659 -0700	typetext		www.amazon.com[returnKey]	20	on_index	index.script
+2017-02-08 09:57:22.893 -0700	waitfor	indicators	found at (257, 56)	21	on_index	index.script
+2017-02-08 09:57:27.728 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(390,158), ImageRectangle:(378,153,403,163), Language:"English", Text:"Deal", TextPlatform:"Generic OCR", waitfor:"10")	at (390, 158)	23	on_index	index.script
+2017-02-08 09:57:31.255 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(333,634), ImageRectangle:(284,630,382,638), Language:"English", searchRectangle:(244.8,450,504,810), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR", waitfor:"10")	at (333, 634)	27	on_index	index.script
+2017-02-08 09:57:31.258 -0700	Log		Deal of the Day is Located Here:(333,634)	28	on_index	index.script
+2017-02-08 09:57:31.293 -0700	readtext		(253,642,423,674)
+2017-02-08 09:57:31.294 -0700	Log		$19.99	33	on_index	index.script
+2017-02-08 09:57:34.477 -0700	click	Browser Close	at (1418, 15)	38	on_index	index.script
+2017-02-08 09:57:34.975 -0700	EndTestCase		(Duration:"50.625872", Errors:"0", Exceptions:"0", StartTime:"2017-02-08 09:56:44 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-08 09:57:35.018 -0700	SUCCESS		Execution Time 0:00:50 index.script

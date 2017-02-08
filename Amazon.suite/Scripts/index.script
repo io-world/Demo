@@ -2,10 +2,8 @@
 SetOption NextKeyDelay, .08
 SetOption RemoteWorkInterval, 2
 
-put ("Chrome","Microsoft Edge") into browsers
---put ("Chrome","Internet Explorer") into browsers
+put ("Chrome","Microsoft Edge","Internet Explorer") into browsers
 
---put ("Microsoft Edge","Chrome") into browsers
 
 
 put the number of items in browsers into Max
@@ -14,17 +12,16 @@ put RemoteScreensize() into RSS
 repeat Max Times
 	
 	put item repeatindex() of browsers into sBrowse
-	click ("Browsers Icon/" & sBrowse)
+	doubleclick ("Browsers Icon/" & sBrowse)
 	Click "indicators"
 	wait 3
 	typetext "www.amazon.com" , ReturnKey
 	WaitFor 10 , "indicators"
-	
 	click (Text:"Deal", waitfor: 10)
 	wait 3
 	--------------------------
 	Try
-		put imagelocation(text: "DEAL OF THE DAY",searchRectangle: (RSS*(0.15,0.4),RSS*(0.35,1)), waitfor: 10) into HS
+		put imagelocation(text: "DEAL OF THE DAY",searchRectangle: (RSS*(0.17,0.5),RSS*(0.35,0.9)), waitfor: 10) into HS
 		Log "Deal of the Day is Located Here:" & HS
 		put HS + (-80,8) into UL
 		put HS + (90,40) into BR

@@ -8,4 +8,12 @@
   <LastRun>2017-01-13 11:47:22 -0700</LastRun>
   <TotalTimeOnSuccess>2184.950880</TotalTimeOnSuccess>
  </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-01-27 08:49:45 -0700</FirstRun>
+  <LastRun>2017-02-08 10:06:09 -0700</LastRun>
+  <TotalTimeOnSuccess>226.442318</TotalTimeOnSuccess>
+ </script>
 </statistics>
