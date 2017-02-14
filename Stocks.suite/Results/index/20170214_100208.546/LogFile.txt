@@ -1,0 +1,8 @@
+﻿2017-02-14 10:02:08.548 -0700	START		Running index.script
+2017-02-14 10:02:08.675 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-02-14 10:02:09.505 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-02-14 10:02:10.519 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-02-14 10:02:14.260 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-02-14 10:02:14.325 -0700	typetext		goog[enter]	20	on_index	index.script
+2017-02-14 10:03:19.592 -0700	EndTestCase		(Duration:"71.03346", Errors:"1", Exceptions:"0", StartTime:"2017-02-14 10:02:08 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-14 10:03:19.592 -0700	ABORTED		Execution Time 0:01:11 index.script

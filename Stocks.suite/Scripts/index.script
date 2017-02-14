@@ -12,18 +12,15 @@ TypeText "chrome.exe"
 wait 1
 TypeText returnKey
 waitfor 10,(image:  "Refresh Icon")
+wait 1
 put FoundImageLocation() into RIL
-log RIL
-
+click RIL+(450,360)
 repeat Max-1 Times	
 	put item 1 of line repeatindex() +1 of file CSV into Company_name
 	put item 2 of line repeatindex() +1 of file CSV into Stock_name
-	
 	TypeText Stock_name , enterKey
-	CaptureScreen (Name: Stock_name)
 	Wait 1
 	WaitFor 10, "Refresh Icon"
-	put FoundImageLocation() into RIL
 	WaitFor 10,(Text: "USD",searchRectangle: (RIL+(20,100),RIL+(700,400)))
 	put ReadText((FoundImageLocation()+(-150,-30)), (FoundImageLocation()+(-15,10))) into price
 	DoubleClick RIL+(150,60)
@@ -31,7 +28,6 @@ repeat Max-1 Times
 	log Company_name &":"& price
 	write price  & "," to file output
 end repeat
-
 
 Click "Close Chrome"
 close file output
