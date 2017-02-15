@@ -1,0 +1,9 @@
+﻿2017-02-07 10:44:35.103 -0700	START		Running Index/Index Dub Patient.script
+2017-02-07 10:44:35.237 -0700	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-02-07 10:44:36.071 -0700	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-02-07 10:44:38.270 -0700	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Modules/EMR.script
+2017-02-07 10:44:38.295 -0700	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-02-07 10:44:39.991 -0700	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-02-07 10:45:16.433 -0700	Exception	Login/Logo	Unable To Find Any Image On Screen "Login/Logo" within 15.00 seconds	8	on_login	Modules/EMR.script
+2017-02-07 10:45:16.891 -0700	EndTestCase		(Duration:"41.786864", Errors:"1", Exceptions:"1", StartTime:"2017-02-07 10:44:35 -0700", Successes:"0", TestCase:"Index/Index Dub Patient.script", Warnings:"0")
+2017-02-07 10:45:16.962 -0700	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Login/Logo" within 15.00 seconds -- Execution Time 0:00:41 Index/Index Dub Patient.script

@@ -6,7 +6,7 @@ put "NO" into RG --//Generates Radom Letters
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-
+put (a to z) into alphabet
 
 repeat Max Times  
 	
@@ -19,13 +19,16 @@ repeat Max Times
 		put any item of A..Z into MiddlName
 		put DNC.wordyear into LastName
 	else
+		
 		put (a to z) into alphabet
 		repeat 4 times
 			put item random(1, 26) of alphabet into alphaletter
 			put alphaletter after FirstName
 		end repeat
+		
 		put item random(1, 26) of alphabet into alphaletter
 		put alphaletter after MiddlName
+		
 		repeat 6 times
 			put item random(1, 26) of alphabet into alphaletter
 			put alphaletter after LastName
@@ -47,16 +50,14 @@ repeat Max Times
 	
 	
 	Run "Patient/New".create Suffix, FirstName , MiddlName , LastName,ExternalID,DOB,SocialSecurity,Sex,Marital
-	
-	
-	--click "Chrome/Close"
-	RunWithNewResults "Patient/New".check
+	Run "Patient/New".check
 	Run "Patient/New".fix
 	
+	
 	put () into Suffix
-	put () into FirstName
-	put () into MiddlName
-	put () into LastName
+	put "" into FirstName
+	put "" into MiddlName
+	put "" into LastName
 	put () into ExternalID
 	put () into SocialSecurity
 	put () into Sex

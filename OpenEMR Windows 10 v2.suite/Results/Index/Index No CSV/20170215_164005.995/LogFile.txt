@@ -1,0 +1,19 @@
+﻿2017-02-15 16:40:05.997 -0700	START		Running Index/Index No CSV.script
+2017-02-15 16:40:07.053 -0700	Log		Mr	59	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.058 -0700	Log		sors	60	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.060 -0700	Log		r	61	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.061 -0700	Log		rpbopf	62	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.063 -0700	Log		954374	63	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.064 -0700	Log		156-17-7244	64	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.066 -0700	Log		Male	65	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.068 -0700	Log		Married	66	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.125 -0700	Log		Dr	59	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.128 -0700	Log		etao	60	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.130 -0700	Log		o	61	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.131 -0700	Log		eepute	62	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.133 -0700	Log		744614	63	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.134 -0700	Log		256-27-8518	64	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.135 -0700	Log		Male	65	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.137 -0700	Log		Married	66	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:40:07.610 -0700	EndTestCase		(Duration:"1.611708", Errors:"0", Exceptions:"0", StartTime:"2017-02-15 16:40:05 -0700", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-02-15 16:40:07.671 -0700	SUCCESS		Execution Time 0:00:01 Index/Index No CSV.script

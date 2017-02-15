@@ -7,3 +7,20 @@
 2016-12-21 09:05:19.868 -0700,"Failure",0:00:36,1,0,0,"20161221_090519.868/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'PatientNew'.",0
 2016-12-21 09:07:19.309 -0700,"Failure",0:01:04,1,0,0,"20161221_090719.309/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Patient\\New'.",0
 2016-12-21 09:09:50.551 -0700,"Success",0:02:39,0,0,0,"20161221_090950.551/LogFile.txt","","",1
+2017-02-15 16:27:12.667 -0700,"Failure",0:01:02,1,0,1,"20170215_162712.667/LogFile.txt","","Error Running Script Command -- runwithnewresults Error - Unable to locate script named: ",0
+2017-02-15 16:30:50.371 -0700,"Running",0:00:00,0,0,0,"20170215_163050.371/LogFile.txt","","",0
+2017-02-15 16:33:16.484 -0700,"Failure",0:00:01,1,0,0,"20170215_163316.484/LogFile.txt","","STInvalidNumber -- Value is not a number: ''",0
+2017-02-15 16:33:31.161 -0700,"Success",0:00:02,0,0,0,"20170215_163331.161/LogFile.txt","","",1
+2017-02-15 16:33:49.378 -0700,"Success",0:00:02,0,0,0,"20170215_163349.378/LogFile.txt","","",1
+2017-02-15 16:33:59.902 -0700,"Success",0:00:02,0,0,0,"20170215_163359.902/LogFile.txt","","",1
+2017-02-15 16:34:09.933 -0700,"Running",0:00:00,0,0,0,"20170215_163409.933/LogFile.txt","","",0
+2017-02-15 16:34:47.670 -0700,"Success",0:00:02,0,0,0,"20170215_163447.670/LogFile.txt","","",1
+2017-02-15 16:35:15.644 -0700,"Success",0:00:02,0,0,0,"20170215_163515.644/LogFile.txt","","",1
+2017-02-15 16:35:48.649 -0700,"Success",0:00:01,0,0,0,"20170215_163548.649/LogFile.txt","","",1
+2017-02-15 16:36:30.208 -0700,"Success",0:00:02,0,0,0,"20170215_163630.208/LogFile.txt","","",1
+2017-02-15 16:36:55.326 -0700,"Success",0:00:02,0,0,0,"20170215_163655.326/LogFile.txt","","",1
+2017-02-15 16:37:10.846 -0700,"Failure",0:00:00,1,0,0,"20170215_163710.846/LogFile.txt","","SenseTalk Compiler Exception -- in index_index_no_csv:\nSyntax Error at line 57: Syntax Error - can't understand ""-"" at or near character 2290",0
+2017-02-15 16:37:14.947 -0700,"Failure",0:00:00,1,0,0,"20170215_163714.947/LogFile.txt","","SenseTalk Compiler Exception -- in index_index_no_csv:\nSyntax Error at line 57: Syntax Error - can't understand ""-"" at or near character 2290",0
+2017-02-15 16:37:30.648 -0700,"Success",0:00:02,0,0,0,"20170215_163730.648/LogFile.txt","","",1
+2017-02-15 16:37:49.047 -0700,"Success",0:00:01,0,0,0,"20170215_163749.047/LogFile.txt","","",1
+2017-02-15 16:40:05.995 -0700,"Success",0:00:01,0,0,0,"20170215_164005.995/LogFile.txt","","",1

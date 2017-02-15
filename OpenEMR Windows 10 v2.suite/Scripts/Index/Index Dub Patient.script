@@ -1,10 +1,12 @@
-﻿__DUPLICCATED PATIENT
+﻿--__DUPLICCATED PATIENT
 
 
 put  file "//Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Resources/WebFormData.CSV"  into PatientFile 
 
 
-repeat 10 Times  
+run "Modules/EMR".Login "admin", "pass"
+
+repeat 5 Times  
 	put line 2 of PatientFile into PatientInfo
 	log PatientInfo
 	split PatientInfo by ","
@@ -13,5 +15,5 @@ repeat 10 Times
 	Run "Patient/New".fix
 end repeat
 
---run "Modules/EMR".logout
+run "Modules/EMR".logout
 

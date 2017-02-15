@@ -87,9 +87,8 @@ on fix
 			TypeText controlKey & "c"
 			put RemoteClipboard() into EID
 			//--------------------------------------------------------
-			wait 2
 			log "Read EID as " & EID
-			DoubleClick image:"PatientNew/Fix/ExternalID", hotspot:(100,5)
+			--DoubleClick image:"PatientNew/Fix/ExternalID", hotspot:(100,5)
 			TypeText (EID+1)
 			click "PatientNew/New/CreateNewPatient"
 			

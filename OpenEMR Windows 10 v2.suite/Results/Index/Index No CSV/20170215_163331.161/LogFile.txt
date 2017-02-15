@@ -1,0 +1,3 @@
+﻿2017-02-15 16:33:31.162 -0700	START		Running Index/Index No CSV.script
+2017-02-15 16:33:33.382 -0700	EndTestCase		(Duration:"2.217947", Errors:"0", Exceptions:"0", StartTime:"2017-02-15 16:33:31 -0700", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-02-15 16:33:33.412 -0700	SUCCESS		Execution Time 0:00:02 Index/Index No CSV.script

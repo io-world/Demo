@@ -1,11 +1,27 @@
 ﻿<?xml version="1.0"?>
 <statistics>
+ <script name="Library/Barcode">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>15</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-11-10 09:57:39 -0700</FirstRun>
+  <LastRun>2016-11-17 10:22:37 -0700</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
  <script name="Patient/Find">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>1</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-11-21 11:42:37 -0700</FirstRun>
   <LastRun>2016-11-21 11:42:37 -0700</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Index/Clear Patients">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-08-08 10:56:26 -0600</FirstRun>
+  <LastRun>2016-09-20 13:53:59 -0600</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
  <script name="Library/MicroDicom">
@@ -15,6 +31,46 @@
   <FirstRun>2016-08-03 12:30:06 -0600</FirstRun>
   <LastRun>2017-02-02 13:46:41 -0700</LastRun>
   <TotalTimeOnSuccess>167.256559</TotalTimeOnSuccess>
+ </script>
+ <script name="Modules/DOBMod">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>31</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-09-08 14:12:07 -0600</FirstRun>
+  <LastRun>2017-01-30 09:31:22 -0700</LastRun>
+  <TotalTimeOnSuccess>14.440048</TotalTimeOnSuccess>
+ </script>
+ <script name="Patient/Visit">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-09-26 08:16:45 -0600</FirstRun>
+  <LastRun>2016-09-26 08:20:13 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Patient/Allergies">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-08-03 10:34:26 -0600</FirstRun>
+  <LastRun>2016-08-03 10:34:26 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Index/Index Dub Patient">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-02-01 14:50:34 -0700</FirstRun>
+  <LastRun>2017-02-07 10:47:22 -0700</LastRun>
+  <TotalTimeOnSuccess>432.747876</TotalTimeOnSuccess>
+ </script>
+ <script name="Index/Index Full Run">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2016-11-17 11:25:15 -0700</FirstRun>
+  <LastRun>2017-02-01 14:36:18 -0700</LastRun>
+  <TotalTimeOnSuccess>1033.077293</TotalTimeOnSuccess>
  </script>
  <script name="Patient/New">
   <LastStatus>Success</LastStatus>
@@ -32,53 +88,13 @@
   <LastRun>2016-11-30 14:39:01 -0700</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
- <script name="Index/Index Dub Patient">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>1</NumberOfFails>
-  <FirstRun>2017-02-01 14:50:34 -0700</FirstRun>
-  <LastRun>2017-02-01 14:50:34 -0700</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
- <script name="Modules/DOBMod">
+ <script name="Index/Index No CSV">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>31</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-09-08 14:12:07 -0600</FirstRun>
-  <LastRun>2017-01-30 09:31:22 -0700</LastRun>
-  <TotalTimeOnSuccess>14.440048</TotalTimeOnSuccess>
- </script>
- <script name="Index/Index Full Run">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>13</NumberOfRuns>
-  <NumberOfFails>4</NumberOfFails>
-  <FirstRun>2016-11-17 11:25:15 -0700</FirstRun>
-  <LastRun>2017-02-01 14:36:18 -0700</LastRun>
-  <TotalTimeOnSuccess>1033.077293</TotalTimeOnSuccess>
- </script>
- <script name="Patient/Allergies">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-08-03 10:34:26 -0600</FirstRun>
-  <LastRun>2016-08-03 10:34:26 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
- <script name="Patient/Delete">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>6</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2016-08-08 10:56:26 -0600</FirstRun>
-  <LastRun>2016-09-20 13:53:59 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
- <script name="Patient/Visit">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>5</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2016-09-26 08:16:45 -0600</FirstRun>
-  <LastRun>2016-09-26 08:20:13 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+  <NumberOfRuns>21</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2016-11-29 15:47:47 -0700</FirstRun>
+  <LastRun>2017-02-15 16:40:05 -0700</LastRun>
+  <TotalTimeOnSuccess>182.434568</TotalTimeOnSuccess>
  </script>
  <script name="Index/Index">
   <LastStatus>Failure</LastStatus>
@@ -87,21 +103,5 @@
   <FirstRun>2016-08-03 10:11:29 -0600</FirstRun>
   <LastRun>2017-01-26 11:57:10 -0700</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
- <script name="Library/Barcode">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>15</NumberOfRuns>
-  <NumberOfFails>1</NumberOfFails>
-  <FirstRun>2016-11-10 09:57:39 -0700</FirstRun>
-  <LastRun>2016-11-17 10:22:37 -0700</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
- <script name="Index/Index No CSV">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>6</NumberOfRuns>
-  <NumberOfFails>4</NumberOfFails>
-  <FirstRun>2016-11-29 15:47:47 -0700</FirstRun>
-  <LastRun>2016-12-21 09:09:50 -0700</LastRun>
-  <TotalTimeOnSuccess>159.176261</TotalTimeOnSuccess>
  </script>
 </statistics>
