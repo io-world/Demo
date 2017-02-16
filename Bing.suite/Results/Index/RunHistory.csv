@@ -33,3 +33,10 @@
 2016-11-29 09:14:36.131 -0700,"Success",0:00:40,0,0,0,"20161129_091436.131/LogFile.txt","","",1
 2017-01-12 09:20:48.189 -0700,"Failure",0:00:20,1,0,1,"20170112_092048.189/LogFile.txt","","File Not Found -- imagelocation Error - Could Not Open Image: Edge/Navigation",0
 2017-01-12 09:28:44.855 -0700,"Success",0:00:38,0,0,0,"20170112_092844.855/LogFile.txt","","",1
+2017-02-14 10:09:11.859 -0700,"Failure",0:00:37,1,0,1,"20170214_100911.859/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Bing/Menu Bar"" within 10.00 seconds",0
+2017-02-14 10:13:19.976 -0700,"Running",0:00:00,0,0,0,"20170214_101319.976/LogFile.txt","","",0
+2017-02-14 10:14:40.708 -0700,"Success",0:00:33,0,0,0,"20170214_101440.708/LogFile.txt","","",1
+2017-02-14 10:16:28.581 -0700,"Running",0:00:00,0,0,0,"20170214_101628.581/LogFile.txt","","",0
+2017-02-14 10:19:43.797 -0700,"Failure",0:00:14,1,0,1,"20170214_101943.797/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Edge/Refresh Icon",0
+2017-02-14 10:22:13.500 -0700,"Success",0:00:41,0,0,0,"20170214_102213.500/LogFile.txt","","",1
+2017-02-14 10:23:53.240 -0700,"Success",0:00:54,0,0,0,"20170214_102353.240/LogFile.txt","","",1
