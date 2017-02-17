@@ -17,8 +17,11 @@ Repeat 2 times
 		
 		waitfor 10,"Refresh Icons"
 		put FoundImageLocation() into RIL
-		waitfor 10,text:"image",searchRectangle:(RIL+(-100,20),RIL+(600,70))
-		log "Bing Load Time: " & the result
+		put readtext((RIL+(-100,20),RIL+(600,70))) into MenuRead
+		put the number of lines of MenuRead into MaxMenuRead
+		repeat MaxMenuRead times
+			log line repeatindex() of MenuRead
+		end repeat
 	else
 		click "Refresh Icons" 
 		wait 1

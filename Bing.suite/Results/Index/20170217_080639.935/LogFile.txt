@@ -1,0 +1,14 @@
+﻿2017-02-17 08:06:39.936 -0700	START		Running Index.script
+2017-02-17 08:06:40.004 -0700	typetext		[windowsKey]r	5	on_index	Index.script
+2017-02-17 08:06:40.005 -0700	Log		Now Active: chrome.exe	6	on_index	Index.script
+2017-02-17 08:06:40.827 -0700	typetext		chrome.exe	7	on_index	Index.script
+2017-02-17 08:06:41.843 -0700	typetext		[returnKey]	9	on_index	Index.script
+2017-02-17 08:06:41.844 -0700	Log		Chrome is Opened	11	on_index	Index.script
+2017-02-17 08:06:45.274 -0700	waitfor	Refresh Icons	found at (74, 47)	12	on_index	Index.script
+2017-02-17 08:06:45.277 -0700	Log		(Chrome/IE) Google Load Time: 3.421937 seconds	13	on_index	Index.script
+2017-02-17 08:06:45.300 -0700	typetext		[controlKey]l	14	on_index	Index.script
+2017-02-17 08:06:46.162 -0700	typetext		www.bing.com[returnKey]	15	on_index	Index.script
+2017-02-17 08:06:46.278 -0700	waitfor	Refresh Icons	found at (74, 47)	18	on_index	Index.script
+2017-02-17 08:07:30.671 -0700	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(0,67,674,117), text:"image", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"image")" within 10.00 seconds	20	on_index	Index.script
+2017-02-17 08:07:30.993 -0700	EndTestCase		(Duration:"51.055003", Errors:"1", Exceptions:"1", StartTime:"2017-02-17 08:06:39 -0700", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2017-02-17 08:07:30.993 -0700	ABORTED		Execution Time 0:00:51 Index.script
