@@ -19,6 +19,7 @@ Repeat 2 times
 		put FoundImageLocation() into RIL
 		put readtext((RIL+(-100,20),RIL+(600,70))) into MenuRead
 		put the number of lines of MenuRead into MaxMenuRead
+		Log "Item Menus Read:" && MaxMenuRead
 		repeat MaxMenuRead times
 			log line repeatindex() of MenuRead
 		end repeat
