@@ -1,0 +1,4 @@
+﻿2017-02-17 11:58:04.576 -0700	START		Running index.script
+2017-02-17 11:58:05.786 -0700	click	Password	at (401, 472)	1	on_index	index.script
+2017-02-17 11:58:05.952 -0700	EndTestCase		(Duration:"1.371889", Errors:"0", Exceptions:"0", StartTime:"2017-02-17 11:58:04 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-17 11:58:06.037 -0700	SUCCESS		Execution Time 0:00:01 index.script

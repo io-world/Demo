@@ -1,0 +1,6 @@
+﻿2017-02-09 09:32:01.448 -0700	START		Running Untitled1.script
+2017-02-09 09:32:02.068 -0700	moveto	InternetExplorer	at (818, 249)	1	on_untitled1	Untitled1.script
+2017-02-09 09:32:03.451 -0700	everyimagelocation	(TEXT:"orange")	found 3 images	4	on_untitled1	Untitled1.script
+2017-02-09 09:32:03.562 -0700	click		at (762, 319)	6	on_untitled1	Untitled1.script
+2017-02-09 09:32:03.809 -0700	EndTestCase		(Duration:"2.35916", Errors:"0", Exceptions:"0", StartTime:"2017-02-09 09:32:01 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-09 09:32:03.820 -0700	SUCCESS		Execution Time 0:00:02 Untitled1.script

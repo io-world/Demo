@@ -1,0 +1,8 @@
+﻿2017-02-22 12:56:32.394 -0700	START		Running Untitled1.script
+2017-02-22 12:56:32.442 -0700	Log		140	11	on_untitled1	Untitled1.script
+2017-02-22 12:56:32.445 -0700	Log		Randy	11	on_untitled1	Untitled1.script
+2017-02-22 12:56:32.447 -0700	Log		John Doe	11	on_untitled1	Untitled1.script
+2017-02-22 12:56:32.450 -0700	Log		Hello	11	on_untitled1	Untitled1.script
+2017-02-22 12:56:32.451 -0700	Log		Carrie, Underwood	11	on_untitled1	Untitled1.script
+2017-02-22 12:56:33.080 -0700	EndTestCase		(Duration:"0.68429", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 12:56:32 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-22 12:56:33.120 -0700	SUCCESS		Execution Time 0:00:00 Untitled1.script

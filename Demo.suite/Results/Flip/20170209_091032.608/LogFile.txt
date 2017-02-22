@@ -1,0 +1,5 @@
+﻿2017-02-09 09:10:32.609 -0700	START		Running Flip.script
+2017-02-09 09:10:33.006 -0700	click	Float	at (921, 197)	1	on_flip	Flip.script
+2017-02-09 09:10:34.035 -0700	click	Max	at (1171, 14)	3	on_flip	Flip.script
+2017-02-09 09:10:34.255 -0700	EndTestCase		(Duration:"1.644738", Errors:"0", Exceptions:"0", StartTime:"2017-02-09 09:10:32 -0700", Successes:"1", TestCase:"Flip.script", Warnings:"0")
+2017-02-09 09:10:34.265 -0700	SUCCESS		Execution Time 0:00:01 Flip.script

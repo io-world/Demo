@@ -1,0 +1,5 @@
+﻿2017-02-03 07:47:45.407 -0700	START		Running index.script
+2017-02-03 07:47:45.512 -0700	Log			1	on_index	index.script
+2017-02-03 07:47:45.615 -0700	Log		Amazon.suite\nBing.suite\nCalculator.suite\nConfigureEnvironment.suite\nCryptogrham.suite\nDemo.suite\nDropbox.suite\nGoogle Maps.suite\nGoogleMap RX.suite\nOpenEMR Windows 10 v2.suite\nOpenEMR Windows 10.suite\nOtherTools.suite\nSpotify.suite\nStocks.suite\nText Message.suite\nTwitter.suite\neggDrive.suite\n	2	on_index	index.script
+2017-02-03 07:47:45.798 -0700	EndTestCase		(Duration:"0.389234", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 07:47:45 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-03 07:47:45.805 -0700	SUCCESS		Execution Time 0:00:00 index.script

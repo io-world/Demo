@@ -1,0 +1,5 @@
+﻿2017-02-07 11:27:09.403 -0700	START		Running Untitled2.script
+2017-02-07 11:27:10.058 -0700	drag	CPU	at (376, 150)	4	on_untitled2	Untitled2.script
+2017-02-07 11:27:10.061 -0700	Exception	image:CPU	Could Not Open Image: image:CPU	5	on_untitled2	Untitled2.script
+2017-02-07 11:27:10.560 -0700	EndTestCase		(Duration:"1.156045", Errors:"1", Exceptions:"1", StartTime:"2017-02-07 11:27:09 -0700", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2017-02-07 11:27:11.094 -0700	FAILURE	Screen_Error.png	File Not Found drop Error - Could Not Open Image: image:CPU -- Execution Time 0:00:01 Untitled2.script

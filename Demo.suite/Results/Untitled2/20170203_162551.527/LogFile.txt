@@ -1,0 +1,8 @@
+﻿2017-02-03 16:25:51.528 -0700	START		Running Untitled2.script
+2017-02-03 16:25:51.639 -0700	readtext		(288,99,506,124)
+2017-02-03 16:25:51.640 -0700	Log		TESTPTSSC, UHCAIBTHREE	4	on_untitled2	Untitled2.script
+2017-02-03 16:25:51.728 -0700	readtext		(524,578,693,595)
+2017-02-03 16:25:51.729 -0700	Log		TESTPTSSC, UHCAIBTHREE	10	on_untitled2	Untitled2.script
+2017-02-03 16:25:51.730 -0700	Log		GO	14	on_untitled2	Untitled2.script
+2017-02-03 16:25:51.887 -0700	EndTestCase		(Duration:"0.357935", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 16:25:51 -0700", Successes:"1", TestCase:"Untitled2.script", Warnings:"0")
+2017-02-03 16:25:51.896 -0700	SUCCESS		Execution Time 0:00:00 Untitled2.script

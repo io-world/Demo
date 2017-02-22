@@ -1,0 +1,7 @@
+﻿2017-02-03 09:23:27.722 -0700	START		Running index.script
+2017-02-03 09:23:28.565 -0700	click	Windows Start	at (27, 879)	1	on_index	index.script
+2017-02-03 09:23:29.510 -0700	click	Chrome Icon	at (467, 398)	2	on_index	index.script
+2017-02-03 09:23:33.114 -0700	click	Refresh Icon	at (276, 46)	3	on_index	index.script
+2017-02-03 09:23:34.022 -0700	typetext		www.informa.com[returnKey]	4	on_index	index.script
+2017-02-03 09:23:34.321 -0700	EndTestCase		(Duration:"6.59701", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 09:23:27 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-03 09:23:34.328 -0700	SUCCESS		Execution Time 0:00:06 index.script

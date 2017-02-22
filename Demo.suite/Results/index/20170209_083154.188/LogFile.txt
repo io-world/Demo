@@ -1,0 +1,7 @@
+﻿2017-02-09 08:31:54.189 -0700	START		Running index.script
+2017-02-09 08:31:54.900 -0700	click	windows Icon	at (27, 879)	1	on_index	index.script
+2017-02-09 08:31:57.418 -0700	click	Chrome Icon	at (465, 379)	2	on_index	index.script
+2017-02-09 08:32:01.651 -0700	click	Refresh Icon	at (282, 49)	3	on_index	index.script
+2017-02-09 08:32:02.718 -0700	typetext		http://phoenix-opsgroup.com/[returnKey]	4	on_index	index.script
+2017-02-09 08:32:02.954 -0700	EndTestCase		(Duration:"8.763918", Errors:"0", Exceptions:"0", StartTime:"2017-02-09 08:31:54 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-09 08:32:02.971 -0700	SUCCESS		Execution Time 0:00:08 index.script

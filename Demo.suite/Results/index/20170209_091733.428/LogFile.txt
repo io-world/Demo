@@ -1,0 +1,6 @@
+﻿2017-02-09 09:17:33.429 -0700	START		Running index.script
+2017-02-09 09:17:33.500 -0700	startmovie		/Users/randyhesse/Documents/Demos/Demo.suite/Results/index/20170209_091733.428/test.mkv	1	on_index	index.script
+2017-02-09 09:17:34.310 -0700	click	Windows Icon	at (25, 884)	4	on_index	index.script
+2017-02-09 09:17:41.755 -0700	Exception	Chrome	No Image Found On Screen: "Chrome"	5	on_index	index.script
+2017-02-09 09:17:42.359 -0700	EndTestCase		(Duration:"8.929129", Errors:"1", Exceptions:"1", StartTime:"2017-02-09 09:17:33 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-09 09:17:42.360 -0700	ABORTED		Execution Time 0:00:08 index.script

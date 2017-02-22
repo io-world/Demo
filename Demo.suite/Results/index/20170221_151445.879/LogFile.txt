@@ -1,0 +1,9 @@
+﻿2017-02-21 15:14:45.881 -0700	START		Running index.script
+2017-02-21 15:14:46.638 -0700	click	CNN Logo	at (636, 822)	1	on_index	index.script
+2017-02-21 15:14:48.166 -0700	click	Menu	at (38, 100)	2	on_index	index.script
+2017-02-21 15:14:49.618 -0700	click	Tech	at (127, 759)	3	on_index	index.script
+2017-02-21 15:14:50.529 -0700	imagefound	banner	found at (517, 981)	6	on_index	index.script
+2017-02-21 15:14:50.529 -0700	Log		We found the Image	7	on_index	index.script
+2017-02-21 15:14:50.531 -0700	Log		continue our code	13	on_index	index.script
+2017-02-21 15:14:50.833 -0700	EndTestCase		(Duration:"4.950739", Errors:"0", Exceptions:"0", StartTime:"2017-02-21 15:14:45 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-21 15:14:50.871 -0700	SUCCESS		Execution Time 0:00:04 index.script

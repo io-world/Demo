@@ -1,0 +1,7 @@
+﻿2017-02-22 10:13:47.438 -0700	START		Running Untitled2.script
+2017-02-22 10:13:47.488 -0700	setoption		MouseMoveSpeed = 5	1	on_untitled2	Untitled2.script
+2017-02-22 10:13:47.488 -0700	setoption		NextKeyDelay = 0.08	2	on_untitled2	Untitled2.script
+2017-02-22 10:13:47.489 -0700	setoption		RemoteWorkInterval = 2	3	on_untitled2	Untitled2.script
+2017-02-22 10:13:49.020 -0700	typetext		4bidd3n 3ggplant3!	5	on_untitled2	Untitled2.script
+2017-02-22 10:13:49.350 -0700	EndTestCase		(Duration:"1.910651", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 10:13:47 -0700", Successes:"1", TestCase:"Untitled2.script", Warnings:"0")
+2017-02-22 10:13:49.372 -0700	SUCCESS		Execution Time 0:00:01 Untitled2.script

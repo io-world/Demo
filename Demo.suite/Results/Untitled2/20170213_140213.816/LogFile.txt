@@ -1,0 +1,3 @@
+﻿2017-02-13 14:02:13.816 -0700	START		Running Untitled2.script
+2017-02-13 14:02:14.060 -0700	EndTestCase		(Duration:"0.241942", Errors:"1", Exceptions:"0", StartTime:"2017-02-13 14:02:13 -0700", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2017-02-13 14:02:14.785 -0700	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid type identifier for 'is a' operator: don't know how to test whether a non-object value is a 'word' -- Execution Time 0:00:00 Untitled2.script

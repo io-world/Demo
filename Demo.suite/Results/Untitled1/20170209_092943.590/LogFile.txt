@@ -1,0 +1,4 @@
+﻿2017-02-09 09:29:43.591 -0700	START		Running Untitled1.script
+2017-02-09 09:29:44.419 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(762,295), ImageRectangle:(742,289,782,301), Language:"English", searchRectangle:(737,239,899,353), text:"orange", TextPlatform:"Generic OCR")	at (762, 295)	1	on_untitled1	Untitled1.script
+2017-02-09 09:29:44.664 -0700	EndTestCase		(Duration:"1.071428", Errors:"0", Exceptions:"0", StartTime:"2017-02-09 09:29:43 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-09 09:29:44.676 -0700	SUCCESS		Execution Time 0:00:01 Untitled1.script

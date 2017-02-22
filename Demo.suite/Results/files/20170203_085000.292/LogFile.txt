@@ -1,0 +1,13 @@
+﻿2017-02-03 08:50:00.293 -0700	START		Running files.script
+2017-02-03 08:50:00.560 -0700	typetext		1,2,71,45,Joe	9	on_files	files.script
+2017-02-03 08:50:01.276 -0700	typetext		[returnKey]	10	on_files	files.script
+2017-02-03 08:50:02.018 -0700	typetext		3,4	9	on_files	files.script
+2017-02-03 08:50:02.736 -0700	typetext		[returnKey]	10	on_files	files.script
+2017-02-03 08:50:03.518 -0700	typetext		90,123	9	on_files	files.script
+2017-02-03 08:50:04.236 -0700	typetext		[returnKey]	10	on_files	files.script
+2017-02-03 08:50:05.007 -0700	typetext		12,88	9	on_files	files.script
+2017-02-03 08:50:05.722 -0700	typetext		[returnKey]	10	on_files	files.script
+2017-02-03 08:50:06.482 -0700	typetext		Mike	9	on_files	files.script
+2017-02-03 08:50:07.197 -0700	typetext		[returnKey]	10	on_files	files.script
+2017-02-03 08:50:07.399 -0700	EndTestCase		(Duration:"7.105268", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 08:50:00 -0700", Successes:"1", TestCase:"files.script", Warnings:"0")
+2017-02-03 08:50:07.407 -0700	SUCCESS		Execution Time 0:00:07 files.script

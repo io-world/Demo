@@ -1,0 +1,3 @@
+﻿2017-02-03 10:42:39.721 -0700	START		Running Untitled1.script
+2017-02-03 10:42:40.050 -0700	EndTestCase		(Duration:"0.327758", Errors:"1", Exceptions:"0", StartTime:"2017-02-03 10:42:39 -0700", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-03 10:42:40.611 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'repeaindex' -- Execution Time 0:00:00 Untitled1.script

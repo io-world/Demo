@@ -1,0 +1,4 @@
+﻿2017-02-22 09:06:38.691 -0700	START		Running Untitled1.script
+2017-02-22 09:06:38.743 -0700	startmovie		/Users/randyhesse/Documents/Demos/Demo.suite/Results/Untitled1/20170222_090638.690/test.mkv	1	on_untitled1	Untitled1.script
+2017-02-22 09:06:39.661 -0700	EndTestCase		(Duration:"0.968746", Errors:"1", Exceptions:"0", StartTime:"2017-02-22 09:06:38 -0700", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-22 09:06:39.931 -0700	FAILURE	Screen_Error.png	MovieError Switching connections is not yet supported for movie recording -- Execution Time 0:00:00 Untitled1.script

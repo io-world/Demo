@@ -1,36 +1,3 @@
-﻿DoubleClick "CHrome Image"
-Click (Image:"ltpswwvgooglecom", WaitFor:3.8)
-TypeText "www.amazon.com", returnKey
-Click "TodaysDeals"
+﻿
 
-
-If ImageFound("camera") then
-	log "found camera"
-Else
-	log "cound not find camera"
-End if
-
-
-If ImageFound("banner") then
-	click "on whatever "
-	Else
-	click "on something else"
-End if
-
-
-MoveTo "HoverMe"
-Click "Link1"
-
-
-TypeText altKey & F4
-
-
-
-
-TypeText controlKey & "a"
-TypeText controlKey & "c"
-
-TypeText controlKey & "v"
-
-
-log RemoteClipboard()
+moveto image:"GoogleBanner", scale:(1,0.8)

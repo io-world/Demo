@@ -1,0 +1,12 @@
+﻿2017-02-03 09:36:44.255 -0700	START		Running index.script
+2017-02-03 09:36:44.978 -0700	click	Windows Start	at (27, 879)	1	on_index	index.script
+2017-02-03 09:36:46.869 -0700	click	Chrome Icon	at (467, 378)	2	on_index	index.script
+2017-02-03 09:36:50.184 -0700	click	Refresh Icon	at (276, 46)	3	on_index	index.script
+2017-02-03 09:36:51.095 -0700	typetext		www.informa.com[returnKey]	4	on_index	index.script
+2017-02-03 09:36:55.038 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1321,175), ImageRectangle:(1294,169,1348,181), Language:"English", text:"media", TextPlatform:"Generic OCR")	at (1321, 175)	5	on_index	index.script
+2017-02-03 09:36:57.017 -0700	imagefound	banner	found at (163, 325)	9	on_index	index.script
+2017-02-03 09:36:57.017 -0700	Log		image was found	10	on_index	index.script
+2017-02-03 09:36:57.018 -0700	Log		Perform workflow 1	11	on_index	index.script
+2017-02-03 09:36:57.045 -0700	typetext		[windowsAltKey][F4]	27	on_index	index.script
+2017-02-03 09:36:57.335 -0700	EndTestCase		(Duration:"13.078854", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 09:36:44 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-03 09:36:57.361 -0700	SUCCESS		Execution Time 0:00:13 index.script

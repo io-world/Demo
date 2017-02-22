@@ -1,0 +1,4 @@
+﻿2017-02-03 08:30:17.794 -0700	START		Running index.script
+2017-02-03 08:30:23.396 -0700	Exception	Modzilla	No Image Found On Screen: "Modzilla"	1	on_index	index.script
+2017-02-03 08:30:23.751 -0700	EndTestCase		(Duration:"5.95612", Errors:"1", Exceptions:"1", StartTime:"2017-02-03 08:30:17 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-03 08:30:23.752 -0700	ABORTED		Execution Time 0:00:05 index.script

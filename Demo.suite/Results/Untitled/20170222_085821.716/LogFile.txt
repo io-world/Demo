@@ -1,0 +1,33 @@
+﻿2017-02-22 08:58:21.717 -0700	START		Running Untitled.script
+2017-02-22 08:58:22.527 -0700	readtext		(248,446,1171,770)
+2017-02-22 08:58:22.528 -0700	Log		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui massa, dignissim ut nulla non, sagittis iaculis magna. Integer eros	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.530 -0700	Log		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dui massa, dignissim ut nulla non, sagittis iaculis magna. Integer eros	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.531 -0700	Log		nibh, viverra eget neque a, ultrices efficitur metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.532 -0700	Log		nibh, viverra eget neque a, ultrices efficitur metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.534 -0700	Log		Fusee sed venenatis tortor. nec ultrices nisi. Donee quis tempus tellus, vel efficitur massa. Quisque ut luctus odio. Aliquam erat volutpat.	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.535 -0700	Log		Fusee sed venenatis tortor. nec ultrices nisi. Donee quis tempus tellus, vel efficitur massa. Quisque ut luctus odio. Aliquam erat volutpat.	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.536 -0700	Log		Duis non quam eros. Maecenas nec neque pellentesque, mollis ante nec, euismod tellus. Nam eget felis porta, luctus lectus nec, ultrices	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.537 -0700	Log		Duis non quam eros. Maecenas nec neque pellentesque, mollis ante nec, euismod tellus. Nam eget felis porta, luctus lectus nec, ultrices	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.539 -0700	Log		ante. In id neque tempus, commodo arcu in, volutpat diam.	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.540 -0700	Log		ante. In id neque tempus, commodo arcu in, volutpat diam.	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.541 -0700	Log		In dictum mollis felis sit amet luctus. Seel eget dictum augue, vel hendrerit ante. Orci varius natoque penatibus et magnis dis parturient	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.542 -0700	Log		In dictum mollis felis sit amet luctus. Seel eget dictum augue, vel hendrerit ante. Orci varius natoque penatibus et magnis dis parturient	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.544 -0700	Log		montes, nascetur ridiculus mus. Nam gravida porta sem sit amet fringilla. Nulla quis justo maximus, luctus arcu sed, laoreet diam. Seel	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.545 -0700	Log		montes, nascetur ridiculus mus. Nam gravida porta sem sit amet fringilla. Nulla quis justo maximus, luctus arcu sed, laoreet diam. Seel	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.546 -0700	Log		eget bibendum ligula. Etiam odio elit, mollis eu dolor eget, venenatis placerat quam. Donee nec sem id tortor] commodo pellentesque.	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.547 -0700	Log		eget bibendum ligula. Etiam odio elit, mollis eu dolor eget, venenatis placerat quam. Donee nec sem id tortor] commodo pellentesque.	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.548 -0700	Log		Phasellus mi ante, vulputate sed urna quis, consectetur mollis tortor. Vivamus ut ligula eros. Nullam eget justo id nulla convallis	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.549 -0700	Log		Phasellus mi ante, vulputate sed urna quis, consectetur mollis tortor. Vivamus ut ligula eros. Nullam eget justo id nulla convallis	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.550 -0700	Log		consectetur. Fusee facilisis nec orci sed facilisis.	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.552 -0700	Log		consectetur. Fusee facilisis nec orci sed facilisis.	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.553 -0700	Log		Mauris lobortis vulputate blandit. Curabitur mattis a risus ut suscipit. Nunc vestibulum feugiat fermentum. Aenean a risus purus.	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.554 -0700	Log		Mauris lobortis vulputate blandit. Curabitur mattis a risus ut suscipit. Nunc vestibulum feugiat fermentum. Aenean a risus purus.	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.555 -0700	Log		Vestibulum eu erat ut sem condimentum euismod. Vivamus molestie accumsan suscipit. Sed ullamcorper mollis felis, ac tristique ligula	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.556 -0700	Log		Vestibulum eu erat ut sem condimentum euismod. Vivamus molestie accumsan suscipit. Sed ullamcorper mollis felis, ac tristique ligula	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.557 -0700	Log		pharetra et. Vestibulum imperdiet nibh quis aliquet venenatis. Aenean at ipsum non sem porta finibus eu id nisi. Mauris accumsan sem id	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.558 -0700	Log		pharetra et. Vestibulum imperdiet nibh quis aliquet venenatis. Aenean at ipsum non sem porta finibus eu id nisi. Mauris accumsan sem id	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.559 -0700	Log		commodo pharetra.	9	on_untitled	Untitled.script
+2017-02-22 08:58:22.560 -0700	Log		commodo pharetra.	11	on_untitled	Untitled.script
+2017-02-22 08:58:22.561 -0700	Log		ListOStuff	15	on_untitled	Untitled.script
+2017-02-22 08:58:22.869 -0700	EndTestCase		(Duration:"1.150663", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 08:58:21 -0700", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-02-22 08:58:22.902 -0700	SUCCESS		Execution Time 0:00:01 Untitled.script

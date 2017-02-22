@@ -1,0 +1,4 @@
+﻿2017-02-15 15:33:28.316 -0700	START		Running index.script
+2017-02-15 15:33:30.481 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(1338,108), ImageRectangle:(1311,102,1365,115), Language:"English", text:"menu", TextPlatform:"Generic OCR")	at (1338, 108)	1	on_index	index.script
+2017-02-15 15:33:30.694 -0700	EndTestCase		(Duration:"2.376417", Errors:"0", Exceptions:"0", StartTime:"2017-02-15 15:33:28 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-15 15:33:30.704 -0700	SUCCESS		Execution Time 0:00:02 index.script

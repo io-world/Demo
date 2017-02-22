@@ -1,0 +1,8 @@
+﻿2017-02-08 13:08:33.495 -0700	START		Running index.script
+2017-02-08 13:08:34.148 -0700	click	CHrome	at (664, 575)	2	on_index	index.script
+2017-02-08 13:08:36.732 -0700	click	Refresh Icon	at (280, 47)	3	on_index	index.script
+2017-02-08 13:08:37.634 -0700	typetext		www.yankees.com[returnKey]	4	on_index	index.script
+2017-02-08 13:08:40.759 -0700	imagefound	banner	Unable to Find Image banner	7	on_index	index.script
+2017-02-08 13:08:40.760 -0700	Log		did not find image	10	on_index	index.script
+2017-02-08 13:08:41.271 -0700	EndTestCase		(Duration:"7.774923", Errors:"1", Exceptions:"0", StartTime:"2017-02-08 13:08:33 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-08 13:08:41.391 -0700	FAILURE	Screen_Error.png	Invalid Parameter The allKeys, allModifierKeys, and allNonModifierKeys values may only be used with the KeyUp command -- Execution Time 0:00:07 index.script

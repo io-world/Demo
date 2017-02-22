@@ -1,0 +1,7 @@
+9/20/16, 1:21:38 PM	START		Running index.script
+9/20/16, 1:21:38 PM	connect		Windows 2012:(null)
+9/20/16, 1:21:39 PM	typetext		[windowsKey]r
+9/20/16, 1:21:39 PM	typetext		notepad[enter]
+9/20/16, 1:21:42 PM	typetext		Hello From Test Plant
+9/20/16, 1:21:42 PM	typetext		[enter]
+9/20/16, 1:21:43 PM	typetext		second Line

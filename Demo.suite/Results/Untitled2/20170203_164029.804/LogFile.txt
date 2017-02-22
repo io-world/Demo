@@ -1,0 +1,10 @@
+﻿2017-02-03 16:40:29.805 -0700	START		Running Untitled2.script
+2017-02-03 16:40:29.913 -0700	readtext		(288,99,506,124)
+2017-02-03 16:40:29.915 -0700	Log		(TESTPTSSC,UHCAIBTHREE)	5	on_untitled2	Untitled2.script
+2017-02-03 16:40:29.916 -0700	Log		TESTPTSSC	6	on_untitled2	Untitled2.script
+2017-02-03 16:40:30.008 -0700	readtext		(524,578,693,595)
+2017-02-03 16:40:30.009 -0700	Log		(TESTPTSSC,UHCAIBTHREE)	10	on_untitled2	Untitled2.script
+2017-02-03 16:40:30.010 -0700	Log		WE MATCH Last Name	13	on_untitled2	Untitled2.script
+2017-02-03 16:40:30.011 -0700	Log		WE MATCH First Name	19	on_untitled2	Untitled2.script
+2017-02-03 16:40:30.173 -0700	EndTestCase		(Duration:"0.366349", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 16:40:29 -0700", Successes:"1", TestCase:"Untitled2.script", Warnings:"0")
+2017-02-03 16:40:30.191 -0700	SUCCESS		Execution Time 0:00:00 Untitled2.script

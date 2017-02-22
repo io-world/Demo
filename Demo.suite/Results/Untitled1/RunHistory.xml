@@ -1,74 +1,218 @@
 ﻿<?xml version="1.0"?>
 <runHistory script="Untitled1">
  <run>
-  <RunDate>2017-01-27 12:03:28.413 -0700</RunDate>
+  <RunDate>2017-02-09 09:28:34.301 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>0.467899</Duration>
+  <Duration>1.087532</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170127_120328.413/LogFile.txt</LogFile>
+  <LogFile>20170209_092834.301/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-01-27 12:06:24.969 -0700</RunDate>
+  <RunDate>2017-02-09 09:29:43.590 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.073288</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170209_092943.590/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-09 09:32:01.447 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.360527</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170209_093201.447/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 09:06:13.335 -0700</RunDate>
   <Status>Failure</Status>
-  <Duration>4.819168</Duration>
+  <Duration>1.025281</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
+  <Exceptions>0</Exceptions>
   <Successes>0</Successes>
-  <LogFile>20170127_120624.969/LogFile.txt</LogFile>
+  <LogFile>20170222_090613.335/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
-  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: /Username</ErrorMessage>
+  <ErrorMessage>MovieError -- Switching connections is not yet supported for movie recording</ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-02-01 15:45:39.991 -0700</RunDate>
+  <RunDate>2017-02-22 09:06:38.690 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.970789</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170222_090638.690/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>MovieError -- Switching connections is not yet supported for movie recording</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 09:06:49.741 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.992753</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170222_090649.741/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>MovieError -- Switching connections is not yet supported for movie recording</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 09:13:48.781 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.979434</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170222_091348.781/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>MovieError -- Switching connections is not yet supported for movie recording</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 09:14:00.493 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>1.302658</Duration>
+  <Duration>15.768451</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170201_154539.991/LogFile.txt</LogFile>
+  <LogFile>20170222_091400.493/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-02-01 15:49:10.271 -0700</RunDate>
+  <RunDate>2017-02-22 09:15:26.757 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>0.985479</Duration>
+  <Duration>26.757744</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170201_154910.271/LogFile.txt</LogFile>
+  <LogFile>20170222_091526.757/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-02-02 08:57:17.970 -0700</RunDate>
+  <RunDate>2017-02-22 12:50:36.199 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>0.658181</Duration>
+  <Duration>2.467619</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170202_085717.970/LogFile.txt</LogFile>
+  <LogFile>20170222_125036.199/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-02-02 08:58:54.057 -0700</RunDate>
+  <RunDate>2017-02-22 12:50:43.176 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>0.930053</Duration>
+  <Duration>1.208306</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170202_085854.057/LogFile.txt</LogFile>
+  <LogFile>20170222_125043.176/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 12:51:12.607 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.422113</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170222_125112.607/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 12:55:34.417 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.753400</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170222_125534.417/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 12:56:03.738 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.720789</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170222_125603.738/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 12:56:08.509 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.689375</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170222_125608.509/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 12:56:32.393 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.685952</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170222_125632.393/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 12:56:47.226 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.681574</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170222_125647.226/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-22 12:57:50.149 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.715039</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170222_125750.149/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>

@@ -1,0 +1,4 @@
+﻿2017-02-03 07:41:10.214 -0700	START		Running index.script
+2017-02-03 07:41:10.282 -0700	typetext		[windowsKey]	1	on_index	index.script
+2017-02-03 07:41:10.479 -0700	EndTestCase		(Duration:"0.262905", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 07:41:10 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-03 07:41:10.494 -0700	SUCCESS		Execution Time 0:00:00 index.script

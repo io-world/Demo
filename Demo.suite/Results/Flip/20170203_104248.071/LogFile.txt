@@ -1,0 +1,8 @@
+﻿2017-02-03 10:42:48.072 -0700	START		Running Untitled1.script
+2017-02-03 10:42:48.679 -0700	capturescreen	asdasd1.png		6	on_untitled1	Untitled1.script
+2017-02-03 10:42:49.267 -0700	capturescreen	asdasd2.png		6	on_untitled1	Untitled1.script
+2017-02-03 10:42:49.857 -0700	capturescreen	asdasd3.png		6	on_untitled1	Untitled1.script
+2017-02-03 10:42:50.443 -0700	capturescreen	asdasd4.png		6	on_untitled1	Untitled1.script
+2017-02-03 10:42:51.026 -0700	capturescreen	asdasd5.png		6	on_untitled1	Untitled1.script
+2017-02-03 10:42:51.283 -0700	EndTestCase		(Duration:"3.209612", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 10:42:48 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-03 10:42:51.291 -0700	SUCCESS		Execution Time 0:00:03 Untitled1.script

@@ -1,0 +1,4 @@
+﻿2017-02-15 16:01:39.826 -0700	START		Running Untitled.script
+2017-02-15 16:02:21.759 -0700	Exception	GoogleBanner	No Image Found On Screen: "GoogleBanner"	1	on_untitled	Untitled.script
+2017-02-15 16:02:22.094 -0700	EndTestCase		(Duration:"42.266507", Errors:"1", Exceptions:"1", StartTime:"2017-02-15 16:01:39 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-02-15 16:02:22.095 -0700	ABORTED		Execution Time 0:00:42 Untitled.script

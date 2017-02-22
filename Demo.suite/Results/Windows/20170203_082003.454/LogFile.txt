@@ -1,0 +1,4 @@
+﻿2017-02-03 08:20:03.454 -0700	START		Running Windows.script
+2017-02-03 08:20:06.302 -0700	doubleclick	Chrome	at (39, 141)	1	on_windows	Windows.script
+2017-02-03 08:20:06.729 -0700	EndTestCase		(Duration:"3.272534", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 08:20:03 -0700", Successes:"1", TestCase:"Windows.script", Warnings:"0")
+2017-02-03 08:20:06.737 -0700	SUCCESS		Execution Time 0:00:03 Windows.script

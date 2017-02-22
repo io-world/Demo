@@ -1,0 +1,5 @@
+﻿2017-02-22 09:14:00.494 -0700	START		Running Untitled1.script
+2017-02-22 09:14:00.534 -0700	connect		Windows 10:(null)	2	on_untitled1	Untitled1.script
+2017-02-22 09:14:00.536 -0700	startmovie		/Users/randyhesse/Documents/Demos/Demo.suite/Results/Untitled1/20170222_091400.493/test.mkv	3	on_untitled1	Untitled1.script
+2017-02-22 09:14:16.262 -0700	EndTestCase		(Duration:"15.766908", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 09:14:00 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-22 09:14:16.270 -0700	SUCCESS		Execution Time 0:00:15 Untitled1.script

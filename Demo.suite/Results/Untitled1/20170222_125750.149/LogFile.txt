@@ -1,0 +1,18 @@
+﻿2017-02-22 12:57:50.150 -0700	START		Running Untitled1.script
+2017-02-22 12:57:50.220 -0700	Log		1,2,71,45,Joe	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.222 -0700	Log		3,4	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.224 -0700	Log		90,123	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.227 -0700	Log		12,88	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.230 -0700	Log		Mike	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.232 -0700	Log		Ashley Milne	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.234 -0700	Log		my name is what?	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.236 -0700	Log		my name is what?	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.238 -0700	Log		my name is what?	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.241 -0700	Log		my name is what?	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.242 -0700	Log		my name is what?	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.244 -0700	Log		my name is what?	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.246 -0700	Log		GIO NOWbanana	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.248 -0700	Log		pear	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.249 -0700	Log		strawberry	11	on_untitled1	Untitled1.script
+2017-02-22 12:57:50.864 -0700	EndTestCase		(Duration:"0.713428", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 12:57:50 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-22 12:57:50.889 -0700	SUCCESS		Execution Time 0:00:00 Untitled1.script

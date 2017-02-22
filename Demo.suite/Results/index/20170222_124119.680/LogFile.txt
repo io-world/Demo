@@ -1,0 +1,14 @@
+﻿2017-02-22 12:41:19.681 -0700	START		Running index.script
+2017-02-22 12:41:20.535 -0700	click	Windows Icon	at (26, 878)	1	on_index	index.script
+2017-02-22 12:41:22.423 -0700	click	Chrome Icon	at (462, 376)	2	on_index	index.script
+2017-02-22 12:41:25.728 -0700	click	Refresh Icon	at (283, 47)	3	on_index	index.script
+2017-02-22 12:41:26.623 -0700	typetext		www.sandia.gov[returnKey]	4	on_index	index.script
+2017-02-22 12:41:31.636 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(476,125), ImageRectangle:(449,119,504,132), Language:"English", text:"about", TextPlatform:"Generic OCR")	at (476, 125)	5	on_index	index.script
+2017-02-22 12:41:33.283 -0700	click	Leadership	at (481, 170)	6	on_index	index.script
+2017-02-22 12:41:34.282 -0700	imagefound	Banner	found at (729, 457)	9	on_index	index.script
+2017-02-22 12:41:34.283 -0700	Log		this image exist	10	on_index	index.script
+2017-02-22 12:41:34.484 -0700	readtext		(210,670,1208,832)
+2017-02-22 12:41:34.484 -0700	Log		Throughout its history, Sandia has been guided by the core principle of— in the\nwords of President Harry Truman — providing "exceptional service in the national\ninterest."	15	on_index	index.script
+2017-02-22 12:41:34.510 -0700	typetext		[windowsAltKey][F4]	17	on_index	index.script
+2017-02-22 12:41:35.196 -0700	EndTestCase		(Duration:"15.512745", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 12:41:19 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-22 12:41:35.204 -0700	SUCCESS		Execution Time 0:00:15 index.script

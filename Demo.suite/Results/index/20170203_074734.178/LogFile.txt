@@ -1,0 +1,4 @@
+﻿2017-02-03 07:47:34.178 -0700	START		Running index.script
+2017-02-03 07:47:34.281 -0700	Log			1	on_index	index.script
+2017-02-03 07:47:34.498 -0700	EndTestCase		(Duration:"0.318814", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 07:47:34 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-03 07:47:34.506 -0700	SUCCESS		Execution Time 0:00:00 index.script

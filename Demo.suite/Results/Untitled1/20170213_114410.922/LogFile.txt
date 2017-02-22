@@ -1,0 +1,4 @@
+﻿2017-02-13 11:44:10.923 -0700	START		Running Untitled1.script
+2017-02-13 11:44:16.899 -0700	Exception		Searching For Image: OCR Error: OCR operation was aborted	3	on_untitled1	Untitled1.script
+2017-02-13 11:44:17.056 -0700	EndTestCase		(Duration:"6.129827", Errors:"1", Exceptions:"1", StartTime:"2017-02-13 11:44:10 -0700", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-13 11:44:17.057 -0700	ABORTED		Execution Time 0:00:06 Untitled1.script

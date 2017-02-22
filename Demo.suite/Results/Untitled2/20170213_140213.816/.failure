@@ -1,0 +1,1 @@
+2017-02-13 14:02:13.816 -0700,Failure,0:00:00,1,0,0,20170213_140213.816/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid type identifier for 'is a' operator: don't know how to test whether a non-object value is a 'word'",0

@@ -1,0 +1,6 @@
+﻿2017-02-21 15:11:08.568 -0700	START		Running index.script
+2017-02-21 15:11:08.897 -0700	click	CNN Logo	at (636, 822)	1	on_index	index.script
+2017-02-21 15:11:10.553 -0700	click	Menu	at (38, 100)	2	on_index	index.script
+2017-02-21 15:11:11.576 -0700	click	Tech	at (127, 759)	3	on_index	index.script
+2017-02-21 15:11:11.869 -0700	EndTestCase		(Duration:"3.299838", Errors:"0", Exceptions:"0", StartTime:"2017-02-21 15:11:08 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-21 15:11:11.896 -0700	SUCCESS		Execution Time 0:00:03 index.script

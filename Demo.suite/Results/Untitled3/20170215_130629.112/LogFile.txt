@@ -1,0 +1,4 @@
+﻿2017-02-15 13:06:29.113 -0700	START		Running Untitled3.script
+2017-02-15 13:06:31.208 -0700	Log		Hello World!\nUp\nDown\nfinish\n	3	on_untitled3	Untitled3.script
+2017-02-15 13:06:31.323 -0700	EndTestCase		(Duration:"2.208555", Errors:"0", Exceptions:"0", StartTime:"2017-02-15 13:06:29 -0700", Successes:"1", TestCase:"Untitled3.script", Warnings:"0")
+2017-02-15 13:06:31.336 -0700	SUCCESS		Execution Time 0:00:02 Untitled3.script

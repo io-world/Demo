@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-01-27 12:03:28.413 -0700,"Success",0:00:00,0,0,0,"20170127_120328.413/LogFile.txt","","",1
+2017-01-27 12:06:24.969 -0700,"Failure",0:00:04,1,0,1,"20170127_120624.969/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: /Username",0
+2017-02-01 15:45:39.991 -0700,"Success",0:00:01,0,0,0,"20170201_154539.991/LogFile.txt","","",1
+2017-02-01 15:49:10.271 -0700,"Success",0:00:00,0,0,0,"20170201_154910.271/LogFile.txt","","",1
+2017-02-02 08:57:17.970 -0700,"Success",0:00:00,0,0,0,"20170202_085717.970/LogFile.txt","","",1
+2017-02-02 08:58:54.057 -0700,"Success",0:00:00,0,0,0,"20170202_085854.057/LogFile.txt","","",1
+2017-02-03 10:42:39.720 -0700,"Failure",0:00:00,1,0,0,"20170203_104239.720/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'repeaindex'",0
+2017-02-03 10:42:48.071 -0700,"Success",0:00:03,0,0,0,"20170203_104248.071/LogFile.txt","","",1
+2017-02-07 07:59:30.987 -0700,"Success",0:00:00,0,0,0,"20170207_075930.987/LogFile.txt","","",1
+2017-02-07 08:01:14.601 -0700,"Success",0:00:00,0,0,0,"20170207_080114.601/LogFile.txt","","",1
+2017-02-07 08:02:00.561 -0700,"Failure",0:00:00,1,0,0,"20170207_080200.561/LogFile.txt","","STIncompatibleValue -- Class STFileValue can't become a list",0
+2017-02-07 08:02:11.707 -0700,"Failure",0:00:00,1,0,0,"20170207_080211.707/LogFile.txt","","STIncompatibleValue -- Class STFileValue can't become a list",0
+2017-02-07 08:04:14.915 -0700,"Failure",0:00:00,1,0,0,"20170207_080414.915/LogFile.txt","","STFileException -- Attempt to access unopened file: output",0
+2017-02-07 08:04:26.625 -0700,"Success",0:00:00,0,0,0,"20170207_080426.625/LogFile.txt","","",1
+2017-02-09 09:10:13.642 -0700,"Success",0:00:00,0,0,0,"20170209_091013.642/LogFile.txt","","",1
+2017-02-09 09:10:32.608 -0700,"Success",0:00:01,0,0,0,"20170209_091032.608/LogFile.txt","","",1
+2017-02-09 09:14:13.019 -0700,"Success",0:00:01,0,0,0,"20170209_091413.019/LogFile.txt","","",1

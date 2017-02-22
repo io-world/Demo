@@ -1,0 +1,7 @@
+﻿2017-02-03 08:16:51.489 -0700	START		Running index.script
+2017-02-03 08:16:53.239 -0700	click	Modzilla	at (34, 232)	1	on_index	index.script
+2017-02-03 08:16:55.493 -0700	waitfor	Google Image	found at (583, 281)	2	on_index	index.script
+2017-02-03 08:16:55.715 -0700	click	Address Bar	at (196, 75)	3	on_index	index.script
+2017-02-03 08:16:56.651 -0700	typetext		www.wikiedpia.org[returnKey]	4	on_index	index.script
+2017-02-03 08:16:56.978 -0700	EndTestCase		(Duration:"5.486866", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 08:16:51 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-03 08:16:56.997 -0700	SUCCESS		Execution Time 0:00:05 index.script

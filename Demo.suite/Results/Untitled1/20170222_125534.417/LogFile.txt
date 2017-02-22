@@ -1,0 +1,4 @@
+﻿2017-02-22 12:55:34.418 -0700	START		Running Untitled1.script
+2017-02-22 12:55:34.520 -0700	Log		140\nRandy\nJohn Doe\nHello\nCarrie, Underwood	4	on_untitled1	Untitled1.script
+2017-02-22 12:55:35.171 -0700	EndTestCase		(Duration:"0.75156", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 12:55:34 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-22 12:55:35.188 -0700	SUCCESS		Execution Time 0:00:00 Untitled1.script

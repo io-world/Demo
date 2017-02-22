@@ -1,0 +1,4 @@
+﻿2017-02-15 15:31:42.129 -0700	START		Running index.script
+2017-02-15 15:32:02.621 -0700	Exception		Searching For Image: OCR Error: OCR operation was aborted	1	on_index	index.script
+2017-02-15 15:32:02.786 -0700	EndTestCase		(Duration:"20.655612", Errors:"1", Exceptions:"1", StartTime:"2017-02-15 15:31:42 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-15 15:32:02.786 -0700	ABORTED		Execution Time 0:00:20 index.script

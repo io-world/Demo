@@ -1,0 +1,7 @@
+﻿2017-02-22 09:15:26.758 -0700	START		Running Untitled1.script
+2017-02-22 09:15:26.815 -0700	connect		Windows 10:(null)	2	on_untitled1	Untitled1.script
+2017-02-22 09:15:26.817 -0700	startmovie		/Users/randyhesse/Documents/Demos/Demo.suite/Results/Untitled1/20170222_091526.757/test.mkv	3	on_untitled1	Untitled1.script
+2017-02-22 09:15:42.621 -0700	connect		iPhone 6s:(null)	8	on_untitled1	Untitled1.script
+2017-02-22 09:15:42.624 -0700	startmovie		/Users/randyhesse/Documents/Demos/Demo.suite/Results/Untitled1/20170222_091526.757/test2.mkv	9	on_untitled1	Untitled1.script
+2017-02-22 09:15:53.516 -0700	EndTestCase		(Duration:"26.756253", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 09:15:26 -0700", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-02-22 09:15:53.525 -0700	SUCCESS		Execution Time 0:00:26 Untitled1.script

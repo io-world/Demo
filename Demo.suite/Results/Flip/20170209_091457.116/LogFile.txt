@@ -1,0 +1,4 @@
+﻿2017-02-09 09:14:57.117 -0700	START		Running Flip.script
+2017-02-09 09:15:24.868 -0700	Exception		Searching For Image: OCR Error: OCR operation was aborted	1	on_flip	Flip.script
+2017-02-09 09:15:25.047 -0700	EndTestCase		(Duration:"27.929357", Errors:"1", Exceptions:"1", StartTime:"2017-02-09 09:14:57 -0700", Successes:"0", TestCase:"Flip.script", Warnings:"0")
+2017-02-09 09:15:25.048 -0700	ABORTED		Execution Time 0:00:27 Flip.script

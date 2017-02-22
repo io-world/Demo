@@ -1,0 +1,7 @@
+﻿2017-02-15 16:15:47.719 -0700	START		Running index.script
+2017-02-15 16:15:48.548 -0700	click	Windows Icon	at (24, 876)	1	on_index	index.script
+2017-02-15 16:15:50.202 -0700	waitfor	chrome icon	found at (464, 377)	4	on_index	index.script
+2017-02-15 16:15:50.203 -0700	Log		1.653111 seconds	5	on_index	index.script
+2017-02-15 16:15:58.321 -0700	Exception	Refresh Icon	No Image Found On Screen: "Refresh Icon"	8	on_index	index.script
+2017-02-15 16:15:58.703 -0700	EndTestCase		(Duration:"10.982392", Errors:"1", Exceptions:"1", StartTime:"2017-02-15 16:15:47 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-02-15 16:15:58.704 -0700	ABORTED		Execution Time 0:00:10 index.script

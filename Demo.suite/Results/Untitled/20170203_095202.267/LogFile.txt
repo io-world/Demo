@@ -1,0 +1,5 @@
+﻿2017-02-03 09:52:02.268 -0700	START		Running Untitled.script
+2017-02-03 09:52:03.008 -0700	rightclick	image0001	at (1168, 880)	1	on_untitled	Untitled.script
+2017-02-03 09:52:04.392 -0700	click	OpenNetworkandSharingCenter	at (1291, 865)	2	on_untitled	Untitled.script
+2017-02-03 09:52:04.682 -0700	EndTestCase		(Duration:"2.41281", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 09:52:02 -0700", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-02-03 09:52:04.709 -0700	SUCCESS		Execution Time 0:00:02 Untitled.script

@@ -1,6 +1,13 @@
-﻿put everyimagelocation("image0001") into var
+﻿
+put file ResourcePath("TestRead") into Readfile
 
-log var
+--log Readfile
+
+put the number of lines of Readfile into max
 
 
-moveto item 2 of var
+repeat max times
+	
+	log line repeatindex() of Readfile
+	
+end repeat

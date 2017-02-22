@@ -1,0 +1,4 @@
+﻿2017-02-03 08:47:55.429 -0700	START		Running files.script
+2017-02-03 08:47:55.475 -0700	Log		1,2,71,45,Joe	6	on_files	files.script
+2017-02-03 08:47:55.669 -0700	EndTestCase		(Duration:"0.238672", Errors:"0", Exceptions:"0", StartTime:"2017-02-03 08:47:55 -0700", Successes:"1", TestCase:"files.script", Warnings:"0")
+2017-02-03 08:47:55.676 -0700	SUCCESS		Execution Time 0:00:00 files.script

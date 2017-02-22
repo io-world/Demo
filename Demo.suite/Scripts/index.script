@@ -1,13 +1,20 @@
-﻿
-DoubleClick "MicroDicom"
-Click "Open Folder"
-Click "DICOMDIR"
-Click "Open"
+﻿Click "Windows Icon"
+Click "Chrome Icon"
+Click (Image:"Refresh Icon")
+TypeText "www.sandia.gov", returnkey
+click text:"about"
+Click "Leadership"
 
 
-
-If imagefound("date") then
-	log "Hey we found the image"
+If imagefound("Banner") then
+	log "this image exist"
 Else
-	log "Image does not exsist"
+	log "this image does not exist"
 End if
+
+log readtext((210,670,1208,832))
+
+TypeText altKey &F4
+
+
+click "Brower"

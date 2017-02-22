@@ -1,0 +1,9 @@
+﻿2017-02-17 14:45:09.566 -0700	START		Running Untitled.script
+2017-02-17 14:45:11.187 -0700	Log		Start\n164\nFinish\n\n	7	on_untitled	Untitled.script
+2017-02-17 14:45:12.744 -0700	Log		Start\n172\nFinish\n\n	7	on_untitled	Untitled.script
+2017-02-17 14:45:14.308 -0700	Log		Start\n205\nFinish\n\n	7	on_untitled	Untitled.script
+2017-02-17 14:45:15.866 -0700	Log		Start\n57\nFinish\n\n	7	on_untitled	Untitled.script
+2017-02-17 14:45:17.421 -0700	Log		Start\n112\nFinish\n\n	7	on_untitled	Untitled.script
+2017-02-17 14:45:17.475 -0700	Log		Start\n0\nFinish\n\n	14	on_untitled	Untitled.script
+2017-02-17 14:45:17.640 -0700	EndTestCase		(Duration:"8.072282", Errors:"0", Exceptions:"0", StartTime:"2017-02-17 14:45:09 -0700", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-02-17 14:45:17.656 -0700	SUCCESS		Execution Time 0:00:08 Untitled.script

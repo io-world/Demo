@@ -1,0 +1,7 @@
+﻿2017-02-22 12:31:43.976 -0700	START		Running index.script
+2017-02-22 12:31:45.064 -0700	click	Windows Icon	at (26, 878)	1	on_index	index.script
+2017-02-22 12:31:46.447 -0700	click	Chrome Icon	at (462, 376)	2	on_index	index.script
+2017-02-22 12:31:50.004 -0700	click	Refresh Icon	at (283, 47)	3	on_index	index.script
+2017-02-22 12:31:50.900 -0700	typetext		www.sandia.gov[returnKey]	4	on_index	index.script
+2017-02-22 12:31:51.722 -0700	EndTestCase		(Duration:"7.743643", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 12:31:43 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-22 12:31:51.751 -0700	SUCCESS		Execution Time 0:00:07 index.script

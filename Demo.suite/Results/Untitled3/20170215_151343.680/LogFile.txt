@@ -1,0 +1,18 @@
+﻿2017-02-15 15:13:43.681 -0700	START		Running Untitled3.script
+2017-02-15 15:13:44.771 -0700	Log		Start\n150\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:45.828 -0700	Log		Start\n105\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:46.886 -0700	Log		Start\n56\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:47.943 -0700	Log		Start\n95\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:48.998 -0700	Log		Start\n142\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:50.054 -0700	Log		Start\n233\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:51.112 -0700	Log		Start\n110\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:52.167 -0700	Log		Start\n71\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:53.224 -0700	Log		Start\n207\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:54.280 -0700	Log		Start\n140\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:55.337 -0700	Log		Start\n45\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:56.396 -0700	Log		Start\n90\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:57.454 -0700	Log		Start\n161\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:58.508 -0700	Log		Start\n20\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:59.562 -0700	Log		Start\n101\nFinish\n	9	on_untitled3	Untitled3.script
+2017-02-15 15:13:59.941 -0700	EndTestCase		(Duration:"16.258665", Errors:"1", Exceptions:"0", StartTime:"2017-02-15 15:13:43 -0700", Successes:"0", TestCase:"Untitled3.script", Warnings:"0")
+2017-02-15 15:13:59.941 -0700	ABORTED		Execution Time 0:00:16 Untitled3.script

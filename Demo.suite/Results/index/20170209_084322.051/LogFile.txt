@@ -1,0 +1,11 @@
+﻿2017-02-09 08:43:22.052 -0700	START		Running index.script
+2017-02-09 08:43:22.925 -0700	click	windows Icon	at (27, 879)	1	on_index	index.script
+2017-02-09 08:43:24.621 -0700	click	Chrome Icon	at (465, 379)	2	on_index	index.script
+2017-02-09 08:43:28.831 -0700	click	Refresh Icon	at (282, 49)	3	on_index	index.script
+2017-02-09 08:43:29.897 -0700	typetext		http://phoenix-opsgroup.com/[returnKey]	4	on_index	index.script
+2017-02-09 08:43:35.732 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(921,134), ImageRectangle:(891,126,951,142), Language:"English", text:"services", TextPlatform:"Generic OCR")	at (921, 134)	5	on_index	index.script
+2017-02-09 08:43:37.392 -0700	imagefound	banner	found at (1052, 443)	10	on_index	index.script
+2017-02-09 08:43:37.393 -0700	Log		image was found	11	on_index	index.script
+2017-02-09 08:43:37.418 -0700	typetext		[windowsAltKey][F4]	16	on_index	index.script
+2017-02-09 08:43:37.686 -0700	EndTestCase		(Duration:"15.633034", Errors:"0", Exceptions:"0", StartTime:"2017-02-09 08:43:22 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-02-09 08:43:37.694 -0700	SUCCESS		Execution Time 0:00:15 index.script

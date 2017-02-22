@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Windows.script" package="Demo.suite" timestamp="2017-02-03 08:20:03.454 -0700"
+ tests="1" successes="1" errors="0" time="3.273835">
+  <properties>
+   <property name="RunDate" value="2017-02-03 08:20:03.454 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Windows.script" assertions="1" successes="1" errors="0" time="3.272534">
+  </testcase>
+ </testsuite>
+</testsuites>
