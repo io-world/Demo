@@ -48,7 +48,7 @@ waitfor 20,(image:"Refresh Icons/Chrome")
 
 moveto (imagelocation("Chrome/Buttons"))
 click FoundImageLocation()+ (110,205)
-waitfor 10,"Refresh Icons"
+waitfor 30,"Refresh Icons"
 log "Page Load Time: " &the result
 
 delays.turnon
