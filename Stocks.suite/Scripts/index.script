@@ -2,8 +2,8 @@
 put ResourcePath("output.csv") into output
 open file output
 
-
 put the number of lines of file CSV into Max
+
 write return to file output at eof
 write Today  & "," to file output
 
@@ -15,6 +15,8 @@ waitfor 10,(image:  "Refresh Icon")
 wait 1
 put FoundImageLocation() into RIL
 click RIL+(450,360)
+
+
 repeat Max-1 Times	
 	put item 1 of line repeatindex() +1 of file CSV into Company_name
 	put item 2 of line repeatindex() +1 of file CSV into Stock_name
@@ -23,7 +25,9 @@ repeat Max-1 Times
 	WaitFor 10, "Refresh Icon"
 	WaitFor 10,(Text: "USD",searchRectangle: (RIL+(20,100),RIL+(700,400)))
 	put ReadText((FoundImageLocation()+(-150,-30)), (FoundImageLocation()+(-15,10))) into price
-	DoubleClick RIL+(150,60)
+	--DoubleClick RIL+(150,60)
+	TripleClick RIL+(150,60)
+	
 	TypeText backspace
 	log Company_name &":"& price
 	write price  & "," to file output

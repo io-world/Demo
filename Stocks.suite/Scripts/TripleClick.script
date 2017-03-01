@@ -1,0 +1,10 @@
+﻿params imageToClick
+
+
+put the RemoteWorkInterval into defaultRWI 
+put the MouseDoubleClickDelay into clickTime
+set the RemoteWorkInterval to clickTime 
+Click imageToClick
+Click 
+Click
+set the RemoteWorkInterval to defaultRWI
