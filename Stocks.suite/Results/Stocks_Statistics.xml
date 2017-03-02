@@ -2,10 +2,18 @@
 <statistics>
  <script name="index">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>143</NumberOfRuns>
+  <NumberOfRuns>147</NumberOfRuns>
   <NumberOfFails>24</NumberOfFails>
   <FirstRun>2016-04-22 13:51:36 -0600</FirstRun>
-  <LastRun>2017-03-01 08:06:42 -0700</LastRun>
-  <TotalTimeOnSuccess>3011.649177</TotalTimeOnSuccess>
+  <LastRun>2017-03-02 09:48:04 -0700</LastRun>
+  <TotalTimeOnSuccess>3133.920686</TotalTimeOnSuccess>
+ </script>
+ <script name="TripleClick">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-02 09:48:12 -0700</FirstRun>
+  <LastRun>2017-03-02 09:48:31 -0700</LastRun>
+  <TotalTimeOnSuccess>2.182612</TotalTimeOnSuccess>
  </script>
 </statistics>
