@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Loop it">
+ <run>
+  <RunDate>2017-03-03 08:12:18.940 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>329.931112</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170303_081218.940/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

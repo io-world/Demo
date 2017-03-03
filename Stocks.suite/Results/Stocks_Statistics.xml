@@ -1,5 +1,21 @@
 ﻿<?xml version="1.0"?>
 <statistics>
+ <script name="TripleClick">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>78</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-02 09:48:12 -0700</FirstRun>
+  <LastRun>2017-03-03 08:17:45 -0700</LastRun>
+  <TotalTimeOnSuccess>28.280420</TotalTimeOnSuccess>
+ </script>
+ <script name="Loop it">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-03 08:12:18 -0700</FirstRun>
+  <LastRun>2017-03-03 08:12:18 -0700</LastRun>
+  <TotalTimeOnSuccess>329.931112</TotalTimeOnSuccess>
+ </script>
  <script name="index">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>150</NumberOfRuns>
@@ -7,13 +23,5 @@
   <FirstRun>2016-04-22 13:51:36 -0600</FirstRun>
   <LastRun>2017-03-03 08:02:09 -0700</LastRun>
   <TotalTimeOnSuccess>3196.060812</TotalTimeOnSuccess>
- </script>
- <script name="TripleClick">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>18</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2017-03-02 09:48:12 -0700</FirstRun>
-  <LastRun>2017-03-03 08:02:36 -0700</LastRun>
-  <TotalTimeOnSuccess>6.521159</TotalTimeOnSuccess>
  </script>
 </statistics>

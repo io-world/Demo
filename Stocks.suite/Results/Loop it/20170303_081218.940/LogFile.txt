@@ -1,0 +1,483 @@
+﻿2017-03-03 08:12:18.941 -0700	START		Running Loop it.script
+2017-03-03 08:12:19.052 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:12:19.878 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:12:20.897 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:12:23.438 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:12:24.554 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:12:25.317 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:12:26.423 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:12:26.744 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:12:26.782 -0700	readtext		(53,241,188,281)
+2017-03-03 08:12:26.786 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081226.785/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:12:28.172 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:12:28.173 -0700	Log		Google:828.38	34	on_index	index.script
+2017-03-03 08:12:28.940 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:12:30.310 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:12:31.313 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:12:31.445 -0700	readtext		(53,241,188,281)
+2017-03-03 08:12:31.449 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081231.448/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:12:32.846 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:12:32.847 -0700	Log		Apple:inoi/ny. r\r\n139.1\nf n	34	on_index	index.script
+2017-03-03 08:12:33.604 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:12:34.692 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:12:35.888 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:12:35.943 -0700	readtext		(41,241,176,281)
+2017-03-03 08:12:35.947 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081235.946/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:12:37.326 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:12:37.327 -0700	Log		Walmart:* I OL.\n70.22	34	on_index	index.script
+2017-03-03 08:12:38.083 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:12:39.297 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:12:40.479 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:12:40.555 -0700	readtext		(41,241,176,281)
+2017-03-03 08:12:40.560 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081240.559/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:12:41.958 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:12:41.958 -0700	Log		Exxon Mobile:* I OL.\n83.08	34	on_index	index.script
+2017-03-03 08:12:42.733 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:12:44.261 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:12:45.455 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:12:45.495 -0700	readtext		(53,242,188,282)
+2017-03-03 08:12:45.499 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081245.498/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:12:46.876 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:12:46.877 -0700	Log		Mckesson:150.8C	34	on_index	index.script
+2017-03-03 08:12:47.702 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:12:49.223 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:12:50.511 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:12:50.598 -0700	readtext		(41,241,176,281)
+2017-03-03 08:12:50.601 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081250.601/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:12:51.991 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:12:51.991 -0700	Log		GoodYear:35.8\nf n	34	on_index	index.script
+2017-03-03 08:12:53.208 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:12:53.935 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:12:54.759 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:12:55.775 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:12:58.078 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:12:59.185 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:12:59.947 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:13:01.016 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:01.373 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:13:01.405 -0700	readtext		(53,241,188,281)
+2017-03-03 08:13:01.409 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081301.408/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:02.796 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:02.797 -0700	Log		Google:828.4C	34	on_index	index.script
+2017-03-03 08:13:03.570 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:13:04.767 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:05.967 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:13:06.091 -0700	readtext		(53,241,188,281)
+2017-03-03 08:13:06.094 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081306.094/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:07.485 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:07.486 -0700	Log		Apple:inoi/ny. r\r\n139.17	34	on_index	index.script
+2017-03-03 08:13:08.244 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:13:09.453 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:09.959 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:13:10.012 -0700	readtext		(41,241,176,281)
+2017-03-03 08:13:10.016 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081310.015/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:11.414 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:11.415 -0700	Log		Walmart:* I OL.\n70.27	34	on_index	index.script
+2017-03-03 08:13:12.172 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:13:13.240 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:13.765 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:13:13.839 -0700	readtext		(41,241,176,281)
+2017-03-03 08:13:13.843 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081313.842/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:15.242 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:15.245 -0700	Log		Exxon Mobile:* I OL.\n83.05	34	on_index	index.script
+2017-03-03 08:13:16.016 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:13:17.263 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:17.992 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:13:18.031 -0700	readtext		(53,242,188,282)
+2017-03-03 08:13:18.036 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081318.035/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:19.420 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:19.421 -0700	Log		Mckesson:150.8C	34	on_index	index.script
+2017-03-03 08:13:20.247 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:13:21.340 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:22.593 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:13:22.656 -0700	readtext		(41,241,176,281)
+2017-03-03 08:13:22.660 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081322.659/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:24.056 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:24.056 -0700	Log		GoodYear:35.86	34	on_index	index.script
+2017-03-03 08:13:25.267 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:13:25.996 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:13:26.822 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:13:27.837 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:13:30.022 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:13:31.129 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:13:31.895 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:13:32.976 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:33.351 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:13:33.381 -0700	readtext		(53,241,188,281)
+2017-03-03 08:13:33.385 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081333.384/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:34.766 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:34.767 -0700	Log		Google:828.49	34	on_index	index.script
+2017-03-03 08:13:35.536 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:13:36.652 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:37.162 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:13:37.274 -0700	readtext		(53,241,188,281)
+2017-03-03 08:13:37.278 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081337.277/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:38.675 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:38.676 -0700	Log		Apple:inoi/ny. r\r\n139.21	34	on_index	index.script
+2017-03-03 08:13:39.433 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:13:40.647 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:41.831 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:13:41.885 -0700	readtext		(41,241,176,281)
+2017-03-03 08:13:41.888 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081341.888/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:43.293 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:43.294 -0700	Log		Walmart:* I OL.\n70.28	34	on_index	index.script
+2017-03-03 08:13:44.048 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:13:45.415 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:46.138 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:13:46.211 -0700	readtext		(41,241,176,281)
+2017-03-03 08:13:46.215 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081346.215/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:47.609 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:47.609 -0700	Log		Exxon Mobile:* I OL.\n83.02	34	on_index	index.script
+2017-03-03 08:13:48.375 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:13:49.820 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:51.081 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:13:51.108 -0700	readtext		(53,242,188,282)
+2017-03-03 08:13:51.112 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081351.111/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:52.486 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:52.487 -0700	Log		Mckesson:150.82	34	on_index	index.script
+2017-03-03 08:13:53.313 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:13:54.860 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:13:56.114 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:13:56.176 -0700	readtext		(41,241,176,281)
+2017-03-03 08:13:56.181 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081356.180/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:13:57.576 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:13:57.576 -0700	Log		GoodYear:35.86	34	on_index	index.script
+2017-03-03 08:13:58.827 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:13:59.557 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:14:00.382 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:14:01.401 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:14:03.853 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:14:04.957 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:14:05.721 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:14:06.822 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:08.112 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:14:08.144 -0700	readtext		(53,241,188,281)
+2017-03-03 08:14:08.148 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081408.148/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:09.525 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:09.526 -0700	Log		Google:828.66	34	on_index	index.script
+2017-03-03 08:14:10.294 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:14:11.436 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:12.202 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:14:12.318 -0700	readtext		(53,241,188,281)
+2017-03-03 08:14:12.323 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081412.322/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:13.717 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:13.717 -0700	Log		Apple:inoi/ny. r\r\n139.31	34	on_index	index.script
+2017-03-03 08:14:14.476 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:14:15.569 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:16.132 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:14:16.190 -0700	readtext		(41,241,176,281)
+2017-03-03 08:14:16.195 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081416.194/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:17.589 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:17.589 -0700	Log		Walmart:* I OL.\n70.3C	34	on_index	index.script
+2017-03-03 08:14:18.342 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:14:19.704 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:20.439 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:14:20.518 -0700	readtext		(41,241,176,281)
+2017-03-03 08:14:20.523 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081420.522/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:21.910 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:21.911 -0700	Log		Exxon Mobile:* I OL.\n83.OC	34	on_index	index.script
+2017-03-03 08:14:22.675 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:14:23.931 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:24.663 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:14:24.689 -0700	readtext		(53,242,188,282)
+2017-03-03 08:14:24.694 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081424.693/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:26.087 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:26.087 -0700	Log		Mckesson:150.82	34	on_index	index.script
+2017-03-03 08:14:26.917 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:14:28.296 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:29.599 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:14:29.721 -0700	readtext		(41,241,176,281)
+2017-03-03 08:14:29.726 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081429.725/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:31.125 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:31.126 -0700	Log		GoodYear:35.84	34	on_index	index.script
+2017-03-03 08:14:32.367 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:14:33.096 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:14:33.929 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:14:34.943 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:14:36.994 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:14:38.105 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:14:38.874 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:14:39.984 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:41.267 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:14:41.298 -0700	readtext		(53,241,188,281)
+2017-03-03 08:14:41.303 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081441.302/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:42.682 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:42.683 -0700	Log		Google:828.66	34	on_index	index.script
+2017-03-03 08:14:43.449 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:14:44.637 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:45.382 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:14:45.497 -0700	readtext		(53,241,188,281)
+2017-03-03 08:14:45.502 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081445.501/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:46.879 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:46.880 -0700	Log		Apple:inoi/ny. r\r\n139.32	34	on_index	index.script
+2017-03-03 08:14:47.637 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:14:49.027 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:49.777 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:14:49.832 -0700	readtext		(41,241,176,281)
+2017-03-03 08:14:49.837 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081449.836/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:51.226 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:51.226 -0700	Log		Walmart:* I OL.\n70.26	34	on_index	index.script
+2017-03-03 08:14:51.978 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:14:53.294 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:54.061 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:14:54.137 -0700	readtext		(41,241,176,281)
+2017-03-03 08:14:54.142 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081454.141/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:55.518 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:55.518 -0700	Log		Exxon Mobile:* I OL.\n82.91	34	on_index	index.script
+2017-03-03 08:14:56.290 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:14:57.368 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:14:57.738 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:14:57.773 -0700	readtext		(53,242,188,282)
+2017-03-03 08:14:57.777 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081457.777/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:14:59.157 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:14:59.158 -0700	Log		Mckesson:150.85	34	on_index	index.script
+2017-03-03 08:14:59.981 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:15:01.513 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:02.311 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:15:02.369 -0700	readtext		(41,241,176,281)
+2017-03-03 08:15:02.374 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081502.373/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:03.782 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:03.782 -0700	Log		GoodYear:35.83	34	on_index	index.script
+2017-03-03 08:15:04.998 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:15:05.726 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:15:06.554 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:15:07.569 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:15:09.854 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:15:10.962 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:15:11.721 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:15:12.825 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:14.101 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:15:14.148 -0700	readtext		(53,241,188,281)
+2017-03-03 08:15:14.154 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081514.153/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:15.536 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:15.538 -0700	Log		Google:827.8\nf n	34	on_index	index.script
+2017-03-03 08:15:16.309 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:15:17.511 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:18.053 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:15:18.168 -0700	readtext		(53,241,188,281)
+2017-03-03 08:15:18.173 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081518.172/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:19.572 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:19.573 -0700	Log		Apple:inoi/ny. r\r\n139.27	34	on_index	index.script
+2017-03-03 08:15:20.332 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:15:21.431 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:21.990 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:15:22.044 -0700	readtext		(41,241,176,281)
+2017-03-03 08:15:22.049 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081522.048/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:23.440 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:23.441 -0700	Log		Walmart:* I OL.\n70.27	34	on_index	index.script
+2017-03-03 08:15:24.199 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:15:25.301 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:25.871 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:15:25.944 -0700	readtext		(41,241,176,281)
+2017-03-03 08:15:25.949 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081525.948/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:27.336 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:27.336 -0700	Log		Exxon Mobile:* I OL.\n82.92	34	on_index	index.script
+2017-03-03 08:15:28.107 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:15:29.398 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:30.158 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:15:30.185 -0700	readtext		(53,242,188,282)
+2017-03-03 08:15:30.190 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081530.190/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:31.567 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:31.568 -0700	Log		Mckesson:150.87	34	on_index	index.script
+2017-03-03 08:15:32.395 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:15:33.576 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:34.915 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:15:34.973 -0700	readtext		(41,241,176,281)
+2017-03-03 08:15:34.979 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081534.978/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:36.385 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:36.385 -0700	Log		GoodYear:35.82	34	on_index	index.script
+2017-03-03 08:15:37.664 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:15:38.395 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:15:39.219 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:15:40.235 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:15:42.625 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:15:43.739 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:15:44.505 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:15:45.580 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:46.875 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:15:46.923 -0700	readtext		(53,241,188,281)
+2017-03-03 08:15:46.928 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081546.927/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:48.315 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:48.316 -0700	Log		Google:827.8\nf n	34	on_index	index.script
+2017-03-03 08:15:49.081 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:15:50.187 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:51.373 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:15:51.494 -0700	readtext		(53,241,188,281)
+2017-03-03 08:15:51.499 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081551.498/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:52.892 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:52.892 -0700	Log		Apple:inoi/ny. r\r\n139.3C	34	on_index	index.script
+2017-03-03 08:15:53.649 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:15:54.906 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:56.145 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:15:56.200 -0700	readtext		(41,241,176,281)
+2017-03-03 08:15:56.206 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081556.205/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:15:57.597 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:15:57.598 -0700	Log		Walmart:* I OL.\n70.27	34	on_index	index.script
+2017-03-03 08:15:58.350 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:15:59.458 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:15:59.946 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:16:00.019 -0700	readtext		(41,241,176,281)
+2017-03-03 08:16:00.025 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081600.024/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:01.435 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:01.435 -0700	Log		Exxon Mobile:* I OL.\n82.97	34	on_index	index.script
+2017-03-03 08:16:02.204 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:16:03.527 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:04.281 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:16:04.308 -0700	readtext		(53,242,188,282)
+2017-03-03 08:16:04.313 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081604.312/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:05.703 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:05.703 -0700	Log		Mckesson:150.92	34	on_index	index.script
+2017-03-03 08:16:06.532 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:16:08.005 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:09.311 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:16:09.370 -0700	readtext		(41,241,176,281)
+2017-03-03 08:16:09.376 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081609.375/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:10.772 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:10.772 -0700	Log		GoodYear:35.82	34	on_index	index.script
+2017-03-03 08:16:12.005 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:16:12.734 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:16:13.565 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:16:14.581 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:16:16.824 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:16:17.938 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:16:18.704 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:16:19.825 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:21.199 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:16:21.267 -0700	readtext		(53,241,188,281)
+2017-03-03 08:16:21.274 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081621.273/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:22.663 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:22.663 -0700	Log		Google:827.9	34	on_index	index.script
+2017-03-03 08:16:23.435 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:16:24.596 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:25.188 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:16:25.302 -0700	readtext		(53,241,188,281)
+2017-03-03 08:16:25.307 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081625.306/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:26.702 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:26.703 -0700	Log		Apple:inoi/ny. r\r\n139.28	34	on_index	index.script
+2017-03-03 08:16:27.460 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:16:28.667 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:29.253 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:16:29.316 -0700	readtext		(41,241,176,281)
+2017-03-03 08:16:29.322 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081629.321/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:30.722 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:30.722 -0700	Log		Walmart:* I OL.\n70.2C	34	on_index	index.script
+2017-03-03 08:16:31.477 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:16:32.623 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:33.142 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:16:33.216 -0700	readtext		(41,241,176,281)
+2017-03-03 08:16:33.221 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081633.221/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:34.618 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:34.619 -0700	Log		Exxon Mobile:* I OL.\n82.99	34	on_index	index.script
+2017-03-03 08:16:35.386 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:16:36.455 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:36.903 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:16:36.938 -0700	readtext		(53,242,188,282)
+2017-03-03 08:16:36.944 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081636.944/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:38.323 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:38.324 -0700	Log		Mckesson:150.84	34	on_index	index.script
+2017-03-03 08:16:39.148 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:16:40.354 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:40.724 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:16:40.783 -0700	readtext		(41,241,176,281)
+2017-03-03 08:16:40.789 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081640.788/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:42.188 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:42.189 -0700	Log		GoodYear:35.81	34	on_index	index.script
+2017-03-03 08:16:43.414 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:16:44.143 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:16:44.968 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:16:45.982 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:16:48.045 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:16:49.152 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:16:49.918 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:16:51.004 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:51.840 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:16:51.951 -0700	readtext		(53,241,188,281)
+2017-03-03 08:16:51.957 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081651.956/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:53.350 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:53.351 -0700	Log		Google:» “O\tV-< .\n828.11	34	on_index	index.script
+2017-03-03 08:16:54.114 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:16:55.296 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:16:56.548 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:16:56.664 -0700	readtext		(53,241,188,281)
+2017-03-03 08:16:56.669 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081656.668/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:16:58.063 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:16:58.064 -0700	Log		Apple:inoi/ny. r\r\n139.3C	34	on_index	index.script
+2017-03-03 08:16:58.818 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:16:59.879 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:01.136 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:17:01.190 -0700	readtext		(41,241,176,281)
+2017-03-03 08:17:01.196 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081701.195/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:02.597 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:02.598 -0700	Log		Walmart:* I OL.\n70.22	34	on_index	index.script
+2017-03-03 08:17:03.357 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:17:04.460 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:04.896 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:17:04.970 -0700	readtext		(41,241,176,281)
+2017-03-03 08:17:04.976 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081704.975/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:06.376 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:06.377 -0700	Log		Exxon Mobile:* I OL.\n83.03	34	on_index	index.script
+2017-03-03 08:17:07.147 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:17:08.197 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:09.496 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:17:09.526 -0700	readtext		(53,242,188,282)
+2017-03-03 08:17:09.532 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081709.531/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:10.919 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:10.920 -0700	Log		Mckesson:150.84	34	on_index	index.script
+2017-03-03 08:17:11.747 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:17:12.873 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:14.282 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:17:14.346 -0700	readtext		(41,241,176,281)
+2017-03-03 08:17:14.352 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081714.352/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:15.750 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:15.753 -0700	Log		GoodYear:35.8C	34	on_index	index.script
+2017-03-03 08:17:16.995 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:17:17.722 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-03 08:17:18.542 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-03 08:17:19.557 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-03 08:17:21.634 -0700	waitfor	Refresh Icon	found at (73, 46)	14	on_index	index.script
+2017-03-03 08:17:22.745 -0700	click		at (523, 406)	17	on_index	index.script
+2017-03-03 08:17:23.520 -0700	typetext		goog[enter]	23	on_index	index.script
+2017-03-03 08:17:24.626 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:24.958 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:17:25.069 -0700	readtext		(53,241,188,281)
+2017-03-03 08:17:25.075 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081725.075/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:26.501 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:26.502 -0700	Log		Google:827.98	34	on_index	index.script
+2017-03-03 08:17:27.276 -0700	typetext		Aapl[enter]	23	on_index	index.script
+2017-03-03 08:17:28.447 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:29.682 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,271), ImageRectangle:(194,268,212,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 271)	26	on_index	index.script
+2017-03-03 08:17:29.795 -0700	readtext		(53,241,188,281)
+2017-03-03 08:17:29.801 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081729.800/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:31.218 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:31.219 -0700	Log		Apple:inoi/ny. r\r\n139.31	34	on_index	index.script
+2017-03-03 08:17:31.987 -0700	typetext		Wmt[enter]	23	on_index	index.script
+2017-03-03 08:17:33.109 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:33.616 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:17:33.686 -0700	readtext		(41,241,176,281)
+2017-03-03 08:17:33.692 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081733.691/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:35.125 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:35.126 -0700	Log		Walmart:IM I OL.\n70.1\nf n	34	on_index	index.script
+2017-03-03 08:17:35.898 -0700	typetext		Xom[enter]	23	on_index	index.script
+2017-03-03 08:17:37.000 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:37.492 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:17:37.566 -0700	readtext		(41,241,176,281)
+2017-03-03 08:17:37.574 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081737.573/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:38.994 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:38.995 -0700	Log		Exxon Mobile:* I OL.\n83.05	34	on_index	index.script
+2017-03-03 08:17:39.767 -0700	typetext		 MCK[enter]	23	on_index	index.script
+2017-03-03 08:17:40.899 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:41.204 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(203,272), ImageRectangle:(194,268,212,276), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (203, 272)	26	on_index	index.script
+2017-03-03 08:17:41.244 -0700	readtext		(53,242,188,282)
+2017-03-03 08:17:41.251 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081741.251/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:42.653 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:42.653 -0700	Log		Mckesson:150.86	34	on_index	index.script
+2017-03-03 08:17:43.497 -0700	typetext		gt nasdaq[enter]	23	on_index	index.script
+2017-03-03 08:17:45.027 -0700	waitfor	Refresh Icon	found at (73, 46)	25	on_index	index.script
+2017-03-03 08:17:45.893 -0700	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(191,271), ImageRectangle:(182,268,200,275), Language:"English", searchRectangle:(93,146,773,446), Text:"USD", TextPlatform:"Generic OCR")	found at (191, 271)	26	on_index	index.script
+2017-03-03 08:17:45.956 -0700	readtext		(41,241,176,281)
+2017-03-03 08:17:45.965 -0700	runwithnewresults		TripleClick.script (/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick/20170303_081745.964/LogFile.txt)	29	on_index	index.script
+2017-03-03 08:17:47.406 -0700	typetext		[backspace]	33	on_index	index.script
+2017-03-03 08:17:47.407 -0700	Log		GoodYear:35.8C	34	on_index	index.script
+2017-03-03 08:17:48.699 -0700	click	Close Chrome	at (1416, 14)	38	on_index	index.script
+2017-03-03 08:17:48.872 -0700	EndTestCase		(Duration:"329.929432", Errors:"0", Exceptions:"0", StartTime:"2017-03-03 08:12:18 -0700", Successes:"61", TestCase:"Loop it.script", Warnings:"0")
+2017-03-03 08:17:48.891 -0700	SUCCESS		Execution Time 0:05:29 Loop it.script

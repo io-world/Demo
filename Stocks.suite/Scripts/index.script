@@ -26,7 +26,7 @@ repeat Max-1 Times
 	WaitFor 10,(Text: "USD",searchRectangle: (RIL+(20,100),RIL+(700,400)))
 	put ReadText((FoundImageLocation()+(-150,-30)), (FoundImageLocation()+(-15,10))) into price
 	--DoubleClick RIL+(150,60)
-	RunWithNewResults "TripleClick",  (RIL+(150,60))
+	Run "TripleClick",  (RIL+(150,60))
 	wait 1
 	
 	
