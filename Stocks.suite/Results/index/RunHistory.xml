@@ -3181,4 +3181,40 @@ Syntax Error at line 20: Syntax Error - can&#x27;t understand &quot;characters&q
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-03-02 12:04:25.928 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.973175</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170302_120425.928/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid Point -- click Error - Invalid Point (1090, 937) is off screen</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-03-02 12:04:38.086 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>31.393333</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170302_120438.086/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-03-03 08:02:09.055 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>30.746793</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170303_080209.055/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

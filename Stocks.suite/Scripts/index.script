@@ -27,7 +27,7 @@ repeat Max-1 Times
 	put ReadText((FoundImageLocation()+(-150,-30)), (FoundImageLocation()+(-15,10))) into price
 	--DoubleClick RIL+(150,60)
 	RunWithNewResults "TripleClick",  (RIL+(150,60))
-	
+	wait 1
 	
 	
 	TypeText backspace

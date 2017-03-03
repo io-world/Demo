@@ -1,0 +1,8 @@
+﻿2017-03-02 12:04:25.929 -0700	START		Running index.script
+2017-03-02 12:04:25.996 -0700	typetext		[windowsKey]r	10	on_index	index.script
+2017-03-02 12:04:26.831 -0700	typetext		chrome.exe	11	on_index	index.script
+2017-03-02 12:04:27.845 -0700	typetext		[returnKey]	13	on_index	index.script
+2017-03-02 12:04:30.544 -0700	waitfor	Refresh Icon	found at (640, 577)	14	on_index	index.script
+2017-03-02 12:04:31.549 -0700	Exception		Invalid Point (1090, 937) is off screen	17	on_index	index.script
+2017-03-02 12:04:31.902 -0700	EndTestCase		(Duration:"5.971333", Errors:"1", Exceptions:"1", StartTime:"2017-03-02 12:04:25 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-03-02 12:04:32.041 -0700	FAILURE	Screen_Error.png	Invalid Point click Error - Invalid Point (1090, 937) is off screen -- Execution Time 0:00:05 index.script

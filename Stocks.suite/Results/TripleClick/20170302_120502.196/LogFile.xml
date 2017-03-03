@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="TripleClick.script" package="Stocks.suite" timestamp="2017-03-02 12:05:02.196 -0700"
+ tests="1" successes="1" errors="0" time="0.361180">
+  <properties>
+   <property name="RunDate" value="2017-03-02 12:05:02.196 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="TripleClick.script" assertions="1" successes="1" errors="0" time="0.358367">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+﻿2017-03-03 08:02:24.793 -0700	START		Running TripleClick.script	29	on_index	index.script
+2017-03-03 08:02:24.797 -0700	set		REMOTEWORKINTERVAL = 0.01	6	on_tripleclick	TripleClick.script
+2017-03-03 08:02:24.903 -0700	click		at (223, 106)	7	on_tripleclick	TripleClick.script
+2017-03-03 08:02:25.018 -0700	click		at current mouse point (223, 106)	8	on_tripleclick	TripleClick.script
+2017-03-03 08:02:25.138 -0700	click		at current mouse point (223, 106)	9	on_tripleclick	TripleClick.script
+2017-03-03 08:02:25.139 -0700	set		REMOTEWORKINTERVAL = 0.7	10	on_tripleclick	TripleClick.script
+2017-03-03 08:02:25.141 -0700	EndTestCase		(Duration:"0.345941", Errors:"0", Exceptions:"0", StartTime:"2017-03-03 08:02:24 -0700", Successes:"1", TestCase:"TripleClick.script", Warnings:"0")	29	on_index	index.script
+2017-03-03 08:02:25.149 -0700	SUCCESS		Execution Time 0:00:00 TripleClick.script	29	on_index	index.script
