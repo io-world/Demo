@@ -1,0 +1,4 @@
+﻿2017-03-07 09:11:10.529 -0700	START		Running index.script
+2017-03-07 09:11:10.544 -0700	Exception		Remote Connection Unavailable	10	on_index	index.script
+2017-03-07 09:11:10.601 -0700	EndTestCase		(Duration:"0.069687", Errors:"1", Exceptions:"1", StartTime:"2017-03-07 09:11:10 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-03-07 09:11:10.604 -0700	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 index.script

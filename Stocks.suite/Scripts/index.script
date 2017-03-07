@@ -1,4 +1,7 @@
-﻿put ResourcePath("StockList.csv") into CSV
+﻿Connect "Windows 10"
+
+
+put ResourcePath("StockList.csv") into CSV
 put ResourcePath("output.csv") into output
 open file output
 
@@ -27,12 +30,10 @@ repeat Max-1 Times
 	put ReadText((FoundImageLocation()+(-150,-30)), (FoundImageLocation()+(-15,10))) into price
 	--DoubleClick RIL+(150,60)
 	Run "TripleClick",  (RIL+(150,60))
-	wait 1
-	
-	
-	TypeText backspace
+	TypeText deleteKey
 	log Company_name &":"& price
 	write price  & "," to file output
+	wait 1	
 end repeat
 
 Click "Close Chrome"
