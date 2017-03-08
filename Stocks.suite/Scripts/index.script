@@ -1,4 +1,4 @@
-﻿log "Updated: March 7 2017"
+﻿log "Updated: March 8 2017"
 
 
 put ResourcePath("StockList.csv") into CSV
@@ -28,8 +28,9 @@ repeat Max-1 Times
 	WaitFor 10, "Refresh Icon"
 	WaitFor 10,(Text: "USD",searchRectangle: (RIL+(20,100),RIL+(700,400)))
 	put ReadText((FoundImageLocation()+(-150,-30)), (FoundImageLocation()+(-15,10))) into price
-	--DoubleClick RIL+(150,60)
-	Run "TripleClick",  (RIL+(150,60))
+	click (RIL+(150,60))
+	TypeText controlKey & "a"
+	wait 1 
 	TypeText deleteKey
 	log Company_name &":"& price
 	write price  & "," to file output
