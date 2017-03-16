@@ -1,0 +1,4 @@
+﻿2017-03-13 13:16:33.301 -0600	START		Running ZeroState.script
+2017-03-13 13:16:33.784 -0600	capturescreen	Before Zeroing.png		2	on_zerostate	ZeroState.script
+2017-03-13 13:16:33.981 -0600	EndTestCase		(Duration:"0.67874", Errors:"1", Exceptions:"0", StartTime:"2017-03-13 13:16:33 -0600", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
+2017-03-13 13:16:34.402 -0600	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in check:\nSyntax Error at line 46: Syntax Error - can't understand "moveto" at or near character 1074 -- Execution Time 0:00:00 ZeroState.script

@@ -1,0 +1,6 @@
+﻿2017-03-16 10:17:51.406 -0600	START		Running Resolution.script
+2017-03-16 10:17:51.964 -0600	rightclick	Resulution/Background	at (375, 152)	4	on_resolution	Resolution.script
+2017-03-16 10:17:53.186 -0600	click	Resulution/Display Settings	at (440, 321)	5	on_resolution	Resolution.script
+2017-03-16 10:18:09.857 -0600	Exception	Resulution/Screen 1	Unable To Find Any Image On Screen "Resulution/Screen 1" within 10.00 seconds	6	on_resolution	Resolution.script
+2017-03-16 10:18:10.028 -0600	EndTestCase		(Duration:"18.621036", Errors:"1", Exceptions:"1", StartTime:"2017-03-16 10:17:51 -0600", Successes:"0", TestCase:"Resolution.script", Warnings:"0")
+2017-03-16 10:18:10.029 -0600	ABORTED		Execution Time 0:00:18 Resolution.script

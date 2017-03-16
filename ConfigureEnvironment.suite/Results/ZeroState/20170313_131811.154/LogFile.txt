@@ -1,0 +1,10 @@
+﻿2017-03-13 13:18:11.155 -0600	START		Running ZeroState.script
+2017-03-13 13:18:11.295 -0600	capturescreen	Before Zeroing.png		2	on_zerostate	ZeroState.script
+2017-03-13 13:18:11.311 -0600	Log		Chrome	3	on_check	Browsers.script
+2017-03-13 13:18:11.313 -0600	Log		Good to go	8	on_check	Browsers.script
+2017-03-13 13:18:11.327 -0600	moveto		at (400, 400)	10	on_check	Browsers.script
+2017-03-13 13:18:11.533 -0600	imagefound	Chrome/Icon Open	found at (663, 857)	11	on_check	Browsers.script
+2017-03-13 13:18:11.534 -0600	Log		Chrome was Left Open	12	on_check	Browsers.script
+2017-03-13 13:18:12.129 -0600	rightclick		at (663, 857)	13	on_check	Browsers.script
+2017-03-13 13:18:12.375 -0600	EndTestCase		(Duration:"1.218562", Errors:"1", Exceptions:"0", StartTime:"2017-03-13 13:18:11 -0600", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
+2017-03-13 13:18:12.376 -0600	ABORTED		Execution Time 0:00:01 ZeroState.script

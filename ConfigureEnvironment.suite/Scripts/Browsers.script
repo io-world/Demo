@@ -6,33 +6,23 @@ on Check BType
 		Logerror "No BType"
 		Exit handler
 	else
-		log "what"
+		log "Good to go"
 	end if
-	
-	
-	
-	moveto  (400,400)
-	
+	moveto  (400,400)	
 	if imagefound (5,BType &"/Icon Open") then
 		Log BType &&"was Left Open"
 		rightclick FoundImageLocation()
-		click BType &"/Close Windows"
-		
+		click BType &"/Close Windows"	
 	else
 		Log "Found No Open Instance of" && BType
 	end if
-	
-	
 	if imagefound (10,BType&"/Icon Normal") then 
 		Log " No instance of" &&BType&& "Opened"
 	else
 		Logwarning "Issues Closing"
 	end if
-	
 	wait 3
-	
 	TypeText windowskey & "r"
-	
 	if Btype = "Chrome"
 	then
 		TypeText "Chrome.exe", returnkey
@@ -41,15 +31,12 @@ on Check BType
 	else
 		Logerror "Error with Btype"
 	end if
-	
 	waitfor 30, BType&"/Refresh Icon"
-	
 	if imagefound (image: "Title Bar Menu/Float", waitfor:5) then
 		click foundimagelocation()
 		Log "Click Maximixed"
 	else
 		Log "Windows is already been Maximized"
-		
 	end if
 	wait 3
 	if ImageFound("Title Bar Menu/Maximized") then 
@@ -57,10 +44,28 @@ on Check BType
 	else
 		log "All is working"
 	end if
-	
+	moveto  (400,400)
+	//moveto  (400,400)	
 	click  (image:"Title Bar Menu/Maximized")
-	
-	
-	
-	
+	wait 2
 end Check
+
+
+on closeAll
+
+	Repeat forever
+		moveto  (400,400)	
+		if  imagefound (image:"Title Bar Menu") then
+			log "Windows are still Open"	
+			
+			click FoundImageLocation()
+		else
+			Exit repeat
+		end if
+	end repeat
+	
+end CloseAll
+
+
+
+

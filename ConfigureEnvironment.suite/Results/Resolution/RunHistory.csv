@@ -1,0 +1,20 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-03-16 10:02:05.389 -0600,"Success",0:00:01,0,0,0,"20170316_100205.389/LogFile.txt","","",1
+2017-03-16 10:03:18.461 -0600,"Success",0:00:04,0,0,0,"20170316_100318.461/LogFile.txt","","",1
+2017-03-16 10:11:34.215 -0600,"Success",0:00:15,0,0,0,"20170316_101134.215/LogFile.txt","","",1
+2017-03-16 10:13:27.355 -0600,"Success",0:00:05,0,0,0,"20170316_101327.355/LogFile.txt","","",1
+2017-03-16 10:13:55.218 -0600,"Success",0:00:16,0,0,0,"20170316_101355.218/LogFile.txt","","",1
+2017-03-16 10:17:24.301 -0600,"Failure",0:00:00,1,0,0,"20170316_101724.301/LogFile.txt","","SenseTalk Compiler Exception -- in resolution:\nSyntax Error at line 21: Syntax Error - can't understand ""if"" at or near character 477",0
+2017-03-16 10:17:34.249 -0600,"Failure",0:00:00,1,0,0,"20170316_101734.249/LogFile.txt","","SenseTalk Compiler Exception -- in resolution:\nSyntax Error at line 27: Syntax Error - can't understand ""end"" at or near character 489",0
+2017-03-16 10:17:51.405 -0600,"Running",0:00:00,0,0,0,"20170316_101751.405/LogFile.txt","","",0
+2017-03-16 10:18:39.360 -0600,"Failure",0:00:29,1,0,1,"20170316_101839.360/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Resulution/Apply""",0
+2017-03-16 10:19:16.809 -0600,"Running",0:00:00,0,0,0,"20170316_101916.809/LogFile.txt","","",0
+2017-03-16 10:20:02.236 -0600,"Running",0:00:00,0,0,0,"20170316_102002.236/LogFile.txt","","",0
+2017-03-16 10:20:44.771 -0600,"Running",0:00:00,0,0,0,"20170316_102044.771/LogFile.txt","","",0
+2017-03-16 10:23:25.254 -0600,"Failure",0:00:00,1,0,0,"20170316_102325.254/LogFile.txt","","SenseTalk Compiler Exception -- in resolution:\nSyntax Error at line 34: Syntax Error - can't understand ""end"" at or near character 557",0
+2017-03-16 10:23:29.726 -0600,"Failure",0:00:00,1,0,0,"20170316_102329.726/LogFile.txt","","SenseTalk Compiler Exception -- in resolution:\nSyntax Error at line 34: Syntax Error - can't understand ""end"" at or near character 557",0
+2017-03-16 10:23:35.575 -0600,"Running",0:00:00,0,0,0,"20170316_102335.575/LogFile.txt","","",0
+2017-03-16 10:25:34.944 -0600,"Running",0:00:00,0,0,0,"20170316_102534.944/LogFile.txt","","",0
+2017-03-16 10:26:32.032 -0600,"Running",0:00:00,0,0,0,"20170316_102632.032/LogFile.txt","","",0
+2017-03-16 10:27:00.183 -0600,"Success",0:00:31,0,0,0,"20170316_102700.183/LogFile.txt","","",1
+2017-03-16 13:28:48.014 -0600,"Success",0:00:31,0,0,0,"20170316_132848.014/LogFile.txt","","",1

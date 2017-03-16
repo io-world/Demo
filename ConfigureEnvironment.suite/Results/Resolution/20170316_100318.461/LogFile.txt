@@ -1,0 +1,7 @@
+﻿2017-03-16 10:03:18.462 -0600	START		Running Resolution.script
+2017-03-16 10:03:19.353 -0600	rightclick	Resulution/Background	at (290, 152)	1	on_resolution	Resolution.script
+2017-03-16 10:03:20.895 -0600	click	Resulution/Display Settings	at (355, 321)	2	on_resolution	Resolution.script
+2017-03-16 10:03:22.480 -0600	waitfor	Resulution/Screen 1	found at (785, 316)	3	on_resolution	Resolution.script
+2017-03-16 10:03:22.495 -0600	typetext		[pageDown]	4	on_resolution	Resolution.script
+2017-03-16 10:03:22.657 -0600	EndTestCase		(Duration:"4.193339", Errors:"0", Exceptions:"0", StartTime:"2017-03-16 10:03:18 -0600", Successes:"1", TestCase:"Resolution.script", Warnings:"0")
+2017-03-16 10:03:22.666 -0600	SUCCESS		Execution Time 0:00:04 Resolution.script

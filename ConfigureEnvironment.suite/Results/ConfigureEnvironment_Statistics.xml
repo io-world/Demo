@@ -1,19 +1,27 @@
 ﻿<?xml version="1.0"?>
 <statistics>
+ <script name="Resolution">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2017-03-16 10:02:05 -0600</FirstRun>
+  <LastRun>2017-03-16 13:28:48 -0600</LastRun>
+  <TotalTimeOnSuccess>105.474596</TotalTimeOnSuccess>
+ </script>
  <script name="ZeroState">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>20</NumberOfRuns>
-  <NumberOfFails>3</NumberOfFails>
+  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
   <FirstRun>2016-08-08 08:03:02 -0600</FirstRun>
-  <LastRun>2017-01-23 09:22:47 -0700</LastRun>
-  <TotalTimeOnSuccess>283.403496</TotalTimeOnSuccess>
+  <LastRun>2017-03-13 13:17:10 -0600</LastRun>
+  <TotalTimeOnSuccess>326.829088</TotalTimeOnSuccess>
  </script>
  <script name="Browsers">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfRuns>4</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-08-11 07:58:19 -0600</FirstRun>
-  <LastRun>2016-12-19 15:11:33 -0800</LastRun>
-  <TotalTimeOnSuccess>2.014416</TotalTimeOnSuccess>
+  <LastRun>2017-03-13 13:16:26 -0600</LastRun>
+  <TotalTimeOnSuccess>2.236720</TotalTimeOnSuccess>
  </script>
 </statistics>

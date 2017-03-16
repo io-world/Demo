@@ -1,0 +1,16 @@
+﻿2017-03-13 13:17:59.151 -0600	START		Running ZeroState.script
+2017-03-13 13:17:59.277 -0600	capturescreen	Before Zeroing.png		2	on_zerostate	ZeroState.script
+2017-03-13 13:17:59.281 -0600	Log		Chrome	3	on_check	Browsers.script
+2017-03-13 13:17:59.282 -0600	Log		Good to go	8	on_check	Browsers.script
+2017-03-13 13:17:59.294 -0600	moveto		at (400, 400)	10	on_check	Browsers.script
+2017-03-13 13:17:59.519 -0600	imagefound	Chrome/Icon Open	found at (663, 857)	11	on_check	Browsers.script
+2017-03-13 13:17:59.520 -0600	Log		Chrome was Left Open	12	on_check	Browsers.script
+2017-03-13 13:18:00.109 -0600	rightclick		at (663, 857)	13	on_check	Browsers.script
+2017-03-13 13:18:01.344 -0600	click	Chrome/Close Windows	at (556, 812)	14	on_check	Browsers.script
+2017-03-13 13:18:02.179 -0600	imagefound	Chrome/Icon Normal	found at (663, 861)	18	on_check	Browsers.script
+2017-03-13 13:18:02.179 -0600	Log		 No instance of Chrome Opened	19	on_check	Browsers.script
+2017-03-13 13:18:05.209 -0600	typetext		[windowsKey]r	24	on_check	Browsers.script
+2017-03-13 13:18:06.060 -0600	typetext		Chrome.exe[returnKey]	27	on_check	Browsers.script
+2017-03-13 13:18:08.498 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	33	on_check	Browsers.script
+2017-03-13 13:18:10.794 -0600	EndTestCase		(Duration:"11.642206", Errors:"1", Exceptions:"0", StartTime:"2017-03-13 13:17:59 -0600", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
+2017-03-13 13:18:10.795 -0600	ABORTED		Execution Time 0:00:11 ZeroState.script

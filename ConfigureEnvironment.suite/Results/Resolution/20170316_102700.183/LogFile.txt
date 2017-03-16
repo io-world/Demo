@@ -1,0 +1,24 @@
+﻿2017-03-16 10:27:00.208 -0600	START		Running Resolution.script
+2017-03-16 10:27:00.680 -0600	rightclick	Resulution/Background	at (375, 152)	4	on_resolution	Resolution.script
+2017-03-16 10:27:01.870 -0600	click	Resulution/Display Settings	at (440, 321)	5	on_resolution	Resolution.script
+2017-03-16 10:27:03.156 -0600	waitfor	Resulution/Screen 1	found at (635, 231)	6	on_resolution	Resolution.script
+2017-03-16 10:27:03.171 -0600	typetext		[pageDown]	7	on_resolution	Resolution.script
+2017-03-16 10:27:04.229 -0600	click	Resulution/Advanced display settings	at (433, 660)	8	on_resolution	Resolution.script
+2017-03-16 10:27:04.329 -0600	waitfor	Resulution/Screen 1	found at (635, 134)	9	on_resolution	Resolution.script
+2017-03-16 10:27:06.440 -0600	click		at (635, 134)	11	on_resolution	Resolution.script
+2017-03-16 10:27:07.152 -0600	typetext		[pageDown]	13	on_resolution	Resolution.script
+2017-03-16 10:27:11.887 -0600	imagefound	Resulution/1440x900	Unable to Find Image Resulution/1440x900	16	on_resolution	Resolution.script
+2017-03-16 10:27:12.368 -0600	click	Resulution/Apply	at (287, 256)	21	on_resolution	Resolution.script
+2017-03-16 10:27:13.123 -0600	typetext		[pageDown][pageDown][pageDown][pageDown]	22	on_resolution	Resolution.script
+2017-03-16 10:27:17.460 -0600	imagefound	Resulution/1440x900	Unable to Find Image Resulution/1440x900	24	on_resolution	Resolution.script
+2017-03-16 10:27:17.473 -0600	typetext		[pageUp]	25	on_resolution	Resolution.script
+2017-03-16 10:27:22.047 -0600	imagefound	Resulution/1440x900	Unable to Find Image Resulution/1440x900	26	on_resolution	Resolution.script
+2017-03-16 10:27:22.062 -0600	typetext		[pageUp]	25	on_resolution	Resolution.script
+2017-03-16 10:27:26.532 -0600	imagefound	Resulution/1440x900	found at (79, 256)	26	on_resolution	Resolution.script
+2017-03-16 10:27:26.637 -0600	click		at (79, 256)	28	on_resolution	Resolution.script
+2017-03-16 10:27:27.821 -0600	click	Resulution/Apply Final	at (69, 316)	29	on_resolution	Resolution.script
+2017-03-16 10:27:30.299 -0600	waitfor	Resulution/Keep changes	found at (869, 487)	30	on_resolution	Resolution.script
+2017-03-16 10:27:30.404 -0600	click		at (869, 487)	31	on_resolution	Resolution.script
+2017-03-16 10:27:31.129 -0600	typetext		[windowsAltKey][F4]	40	on_resolution	Resolution.script
+2017-03-16 10:27:31.322 -0600	EndTestCase		(Duration:"31.113001", Errors:"0", Exceptions:"0", StartTime:"2017-03-16 10:27:00 -0600", Successes:"1", TestCase:"Resolution.script", Warnings:"0")
+2017-03-16 10:27:31.331 -0600	SUCCESS		Execution Time 0:00:31 Resolution.script

@@ -1,0 +1,3 @@
+﻿2017-03-16 10:17:34.250 -0600	START		Running Resolution.script
+2017-03-16 10:17:34.252 -0600	EndTestCase		(Duration:"0.000699", Errors:"1", Exceptions:"0", StartTime:"2017-03-16 10:17:34 -0600", Successes:"0", TestCase:"Resolution.script", Warnings:"0")
+2017-03-16 10:17:34.754 -0600	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in resolution:\nSyntax Error at line 27: Syntax Error - can't understand "end" at or near character 489 -- Execution Time 0:00:00 Resolution.script

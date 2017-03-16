@@ -1,8 +1,13 @@
 ﻿
-moveto (900,900)
-
 CaptureScreen (name:"Before Zeroing")
+Resolution
+
+CaptureScreen (name:"After Resolution")
+
 Browsers.check "Chrome"
+
 CaptureScreen (name:"Chrome is Finishing Zeroing")
 Browsers.check "Edge"
 CaptureScreen (name:"After Zeroing")
+
+

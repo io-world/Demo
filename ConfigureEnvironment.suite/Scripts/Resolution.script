@@ -1,0 +1,39 @@
+﻿
+log "Current Resolution" && RemoteScreenSize()
+
+RightClick "Resolution/Background"
+Click "Resolution/Display Settings"
+waitfor 10, "Resolution/Screen 1"
+TypeText pagedown
+click "Resolution/Advanced display settings"
+waitfor 10, "Resolution/Screen 1"
+wait 2
+click FoundImageLocation()
+
+TypeText pagedown 
+
+
+if imagefound ("Resolution/1440x900") then
+	
+else
+	click "Resolution/Apply"
+	TypeText pagedown , pagedown, pagedown, pagedown
+	
+	repeat until imagefound("Resolution/1440x900")
+		TypeText pageup 
+	end repeat
+	
+	click FoundImageLocation()
+	click "Resolution/Apply Final"
+	WaitFor 20 , "Resolution/Keep changes"
+	click FoundImageLocation()
+	
+end if
+
+
+log "End Resolution" && RemoteScreenSize()
+
+
+
+
+TypeText altKey & F4

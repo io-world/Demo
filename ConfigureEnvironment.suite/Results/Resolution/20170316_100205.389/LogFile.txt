@@ -1,0 +1,4 @@
+﻿2017-03-16 10:02:05.390 -0600	START		Running Resolution.script
+2017-03-16 10:02:06.287 -0600	rightclick	Resulution/Background	at (290, 152)	1	on_resolution	Resolution.script
+2017-03-16 10:02:06.448 -0600	EndTestCase		(Duration:"1.055546", Errors:"0", Exceptions:"0", StartTime:"2017-03-16 10:02:05 -0600", Successes:"1", TestCase:"Resolution.script", Warnings:"0")
+2017-03-16 10:02:06.461 -0600	SUCCESS		Execution Time 0:00:01 Resolution.script

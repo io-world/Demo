@@ -252,4 +252,29 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-03-13 13:16:33.301 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.680091</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170313_131633.301/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in check:
+Syntax Error at line 46: Syntax Error - can&#x27;t understand &quot;moveto&quot; at or near character 1074</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-03-13 13:17:10.250 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>43.425592</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170313_131710.250/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>
