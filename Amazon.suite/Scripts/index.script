@@ -1,14 +1,11 @@
-﻿SetOption MouseMoveSpeed, 5
-SetOption NextKeyDelay, .08
-SetOption RemoteWorkInterval, 2
+﻿GlobalsSet
 
 put ("Chrome","Microsoft Edge","Internet Explorer") into browsers
 
 
-
 put the number of items in browsers into Max
 put RemoteScreensize() into RSS
-
+log RSS
 repeat Max Times
 	
 	put item repeatindex() of browsers into sBrowse
@@ -33,6 +30,7 @@ repeat Max Times
 	End try
 	---------------------------
 	click (image: "Browser Close", searchRectangle: (RSS*(0.75,0),RSS*(1,0.1)))
+	WaitFor 10, "Desktop Background"
 	put empty list into boxsearch
 	
 	

@@ -1,0 +1,5 @@
+﻿SetOption MouseMoveSpeed, 5
+SetOption NextKeyDelay, .08
+SetOption RemoteWorkInterval, 2
+
+Show something

@@ -1,0 +1,38 @@
+﻿2017-03-29 09:10:47.730 -0600	START		Running index.script
+2017-03-29 09:10:47.798 -0600	setoption		MouseMoveSpeed = 5	1	on_globalsset	GlobalsSet.script
+2017-03-29 09:10:47.799 -0600	setoption		NextKeyDelay = 0.08	2	on_globalsset	GlobalsSet.script
+2017-03-29 09:10:47.800 -0600	setoption		RemoteWorkInterval = 2	3	on_globalsset	GlobalsSet.script
+2017-03-29 09:10:47.801 -0600	show		something	5	on_globalsset	GlobalsSet.script
+2017-03-29 09:10:47.805 -0600	Log		(1440,900)	8	on_index	index.script
+2017-03-29 09:10:51.029 -0600	doubleclick	Browsers Icon/Chrome	at (663, 881)	12	on_index	index.script
+2017-03-29 09:10:56.119 -0600	click	indicators	at (233, 47)	13	on_index	index.script
+2017-03-29 09:11:00.400 -0600	typetext		www.amazon.com[returnKey]	15	on_index	index.script
+2017-03-29 09:11:00.470 -0600	waitfor	indicators	found at (233, 47)	16	on_index	index.script
+2017-03-29 09:11:05.121 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(378,146), ImageRectangle:(366,141,391,151), Language:"English", Text:"Deal", TextPlatform:"Generic OCR", waitfor:"10")	at (378, 146)	17	on_index	index.script
+2017-03-29 09:11:08.298 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(332,623), ImageRectangle:(284,619,381,627), Language:"English", searchRectangle:(244.8,450,504,810), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR", waitfor:"10")	at (332, 623)	21	on_index	index.script
+2017-03-29 09:11:08.301 -0600	Log		Deal of the Day is Located Here:(332,623)	22	on_index	index.script
+2017-03-29 09:11:08.367 -0600	readtext		(252,631,422,663)
+2017-03-29 09:11:08.369 -0600	Log		$50.99 - $83.99	27	on_index	index.script
+2017-03-29 09:11:10.992 -0600	click	Browser Close	at (1414, 13)	32	on_index	index.script
+2017-03-29 09:11:16.655 -0600	doubleclick	Browsers Icon/Microsoft Edge	at (420, 880)	12	on_index	index.script
+2017-03-29 09:11:23.167 -0600	click	indicators	at (257, 56)	13	on_index	index.script
+2017-03-29 09:11:27.447 -0600	typetext		www.amazon.com[returnKey]	15	on_index	index.script
+2017-03-29 09:11:30.468 -0600	waitfor	indicators	found at (257, 56)	16	on_index	index.script
+2017-03-29 09:11:34.394 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(380,158), ImageRectangle:(368,153,393,163), Language:"English", Text:"Deal", TextPlatform:"Generic OCR", waitfor:"10")	at (380, 158)	17	on_index	index.script
+2017-03-29 09:11:37.603 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(333,634), ImageRectangle:(284,630,382,638), Language:"English", searchRectangle:(244.8,450,504,810), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR", waitfor:"10")	at (333, 634)	21	on_index	index.script
+2017-03-29 09:11:37.605 -0600	Log		Deal of the Day is Located Here:(333,634)	22	on_index	index.script
+2017-03-29 09:11:37.674 -0600	readtext		(253,642,423,674)
+2017-03-29 09:11:37.675 -0600	Log		$50.99-$83.99	27	on_index	index.script
+2017-03-29 09:11:41.351 -0600	click	Browser Close	at (1418, 15)	32	on_index	index.script
+2017-03-29 09:11:47.075 -0600	doubleclick	Browsers Icon/Internet Explorer	at (113, 246)	12	on_index	index.script
+2017-03-29 09:11:50.960 -0600	click	indicators	at (192, 40)	13	on_index	index.script
+2017-03-29 09:11:55.239 -0600	typetext		www.amazon.com[returnKey]	15	on_index	index.script
+2017-03-29 09:11:57.677 -0600	waitfor	indicators	found at (192, 40)	16	on_index	index.script
+2017-03-29 09:12:03.662 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(882,137), ImageRectangle:(869,132,895,142), Language:"English", Text:"Deal", TextPlatform:"Generic OCR", waitfor:"10")	at (882, 137)	17	on_index	index.script
+2017-03-29 09:12:06.877 -0600	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(333,612), ImageRectangle:(284,608,382,616), Language:"English", searchRectangle:(244.8,450,504,810), text:"DEAL OF THE DAY", TextPlatform:"Generic OCR", waitfor:"10")	at (333, 612)	21	on_index	index.script
+2017-03-29 09:12:06.880 -0600	Log		Deal of the Day is Located Here:(333,612)	22	on_index	index.script
+2017-03-29 09:12:06.926 -0600	readtext		(253,620,423,652)
+2017-03-29 09:12:06.928 -0600	Log		$50.99 - $83.99	27	on_index	index.script
+2017-03-29 09:12:08.676 -0600	click	Browser Close	at (1414, 14)	32	on_index	index.script
+2017-03-29 09:12:09.024 -0600	EndTestCase		(Duration:"81.293487", Errors:"0", Exceptions:"0", StartTime:"2017-03-29 09:10:47 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-03-29 09:12:09.041 -0600	SUCCESS		Execution Time 0:01:21 index.script
