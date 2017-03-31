@@ -1,7 +1,21 @@
 ﻿
 log "Current Resolution" && RemoteScreenSize()
 
-RightClick "Resolution/Background"
+
+repeat until imagefound (image:"Resolution/Background")
+	if repeatindex() <> 5 then
+		TypeText altKey & F4
+		wait 1
+	else
+		logerror "Could Not Close Program"
+		Exit repeat
+	end if
+end repeat
+rightclick FoundImageLocation()
+
+
+
+
 Click "Resolution/Display Settings"
 waitfor 10, "Resolution/Screen 1"
 TypeText pagedown

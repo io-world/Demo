@@ -1,4 +1,4 @@
 ﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
 Resolution,Success,12,5,2017-03-16 10:02:05 -0600,2017-03-16 13:28:48 -0600,0:00:15
-ZeroState,Success,22,4,2016-08-08 08:03:02 -0600,2017-03-13 13:17:10 -0600,0:00:18
+ZeroState,Failure,23,5,2016-08-08 08:03:02 -0600,2017-03-31 07:53:08 -0600,0:00:18
 Browsers,Success,4,0,2016-08-11 07:58:19 -0600,2017-03-13 13:16:26 -0600,0:00:00

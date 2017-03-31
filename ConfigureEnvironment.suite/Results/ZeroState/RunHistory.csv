@@ -22,3 +22,4 @@
 2017-01-23 09:22:47.219 -0700,"Success",0:00:39,0,0,0,"20170123_092247.219/LogFile.txt","","",1
 2017-03-13 13:16:33.301 -0600,"Failure",0:00:00,1,0,0,"20170313_131633.301/LogFile.txt","","SenseTalk Compiler Exception -- in check:\nSyntax Error at line 46: Syntax Error - can't understand ""moveto"" at or near character 1074",0
 2017-03-13 13:17:10.250 -0600,"Success",0:00:43,0,0,0,"20170313_131710.250/LogFile.txt","","",1
+2017-03-31 07:53:08.102 -0600,"Failure",0:00:23,1,0,1,"20170331_075308.102/LogFile.txt","","Image Not Found -- rightclick Error - No Image Found On Screen: ""Resolution/Background""",0

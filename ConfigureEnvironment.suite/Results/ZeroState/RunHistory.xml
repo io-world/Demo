@@ -277,4 +277,16 @@ Syntax Error at line 46: Syntax Error - can&#x27;t understand &quot;moveto&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-03-31 07:53:08.102 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.526115</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170331_075308.102/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- rightclick Error - No Image Found On Screen: &quot;Resolution/Background&quot;</ErrorMessage>
+ </run>
 </runHistory>
