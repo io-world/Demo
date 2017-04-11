@@ -18,3 +18,11 @@ repeat 10 times
 put item random(1,26) into RC
 
 end repeat
+
+
+
+put file ResourcePath("WebFormData.csv") into var
+
+
+--click "asdasdasd"
+TypeText item 7 of line 5 of var

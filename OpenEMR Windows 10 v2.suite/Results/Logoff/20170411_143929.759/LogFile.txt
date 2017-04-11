@@ -1,0 +1,8 @@
+﻿2017-04-11 14:39:29.760 -0600	START		Running Logoff.table
+2017-04-11 14:39:30.256 -0600	click	Logout/Close Button	at (1418, 80)	4	on_logout	Modules/EMR.script
+2017-04-11 14:39:33.656 -0600	waitfor	Logout/Logo	found at (524, 486)	6	on_logout	Modules/EMR.script
+2017-04-11 14:39:33.681 -0600	typetext		[windowsAltKey][F4]	7	on_logout	Modules/EMR.script
+2017-04-11 14:39:34.833 -0600	imagefound	Logout/Logo	found at (524, 486)	9	on_logout	Modules/EMR.script
+2017-04-11 14:39:34.833 -0600	Log		error Closing	10	on_logout	Modules/EMR.script
+2017-04-11 14:39:34.835 -0600	EndTestCase		(Duration:"5.074343", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:39:29 -0600", Successes:"1", TestCase:"Logoff.table", Warnings:"0")
+2017-04-11 14:39:34.880 -0600	SUCCESS		Execution Time 0:00:05 Logoff.table

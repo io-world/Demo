@@ -1,0 +1,5 @@
+﻿2017-04-11 14:17:29.547 -0600	START		Running CreatePatient.table
+2017-04-11 14:17:29.557 -0600	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]
+2017-04-11 14:17:30.084 -0600	click	PatientNew/New/New Patient Button	at (43, 80)
+2017-04-11 14:17:30.085 -0600	EndTestCase		(Duration:"0.537637", Errors:"1", Exceptions:"1", StartTime:"2017-04-11 14:17:29 -0600", Successes:"0", TestCase:"CreatePatient.table", Warnings:"0")
+2017-04-11 14:17:30.256 -0600	FAILURE	Screen_Error.png	Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:00 CreatePatient.table

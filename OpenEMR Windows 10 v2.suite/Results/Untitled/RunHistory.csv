@@ -1,0 +1,25 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-04-11 14:46:08.716 -0600,"Success",0:00:00,0,0,0,"20170411_144608.716/LogFile.txt","","",1
+2017-04-11 14:46:16.918 -0600,"Success",0:00:00,0,0,0,"20170411_144616.918/LogFile.txt","","",1
+2017-04-11 14:46:31.521 -0600,"Success",0:00:00,0,0,0,"20170411_144631.521/LogFile.txt","","",1
+2017-04-11 14:46:43.772 -0600,"Success",0:00:03,0,0,0,"20170411_144643.772/LogFile.txt","","",1
+2017-04-11 14:46:57.906 -0600,"Running",0:00:00,0,0,0,"20170411_144657.906/LogFile.txt","","",0
+2017-04-11 14:47:06.520 -0600,"Success",0:00:00,0,0,0,"20170411_144706.520/LogFile.txt","","",1
+2017-04-11 14:47:30.159 -0600,"Success",0:00:00,0,0,0,"20170411_144730.159/LogFile.txt","","",1
+2017-04-11 14:47:39.868 -0600,"Success",0:00:00,0,0,0,"20170411_144739.868/LogFile.txt","","",1
+2017-04-11 14:47:47.275 -0600,"Running",0:00:00,0,0,0,"20170411_144747.275/LogFile.txt","","",0
+2017-04-11 14:48:59.965 -0600,"Failure",0:00:00,1,0,0,"20170411_144859.965/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'var'",0
+2017-04-11 14:49:38.192 -0600,"Success",0:00:00,0,0,0,"20170411_144938.192/LogFile.txt","","",1
+2017-04-11 14:49:49.960 -0600,"Success",0:00:00,0,0,0,"20170411_144949.960/LogFile.txt","","",1
+2017-04-11 14:50:00.330 -0600,"Success",0:00:00,0,0,0,"20170411_145000.330/LogFile.txt","","",1
+2017-04-11 14:50:25.994 -0600,"Success",0:00:00,0,0,0,"20170411_145025.994/LogFile.txt","","",1
+2017-04-11 14:51:22.501 -0600,"Success",0:00:00,0,0,0,"20170411_145122.501/LogFile.txt","","",1
+2017-04-11 15:07:54.639 -0600,"Failure",0:00:00,1,0,0,"20170411_150754.639/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR.var'.",0
+2017-04-11 15:08:09.864 -0600,"Failure",0:00:00,1,0,0,"20170411_150809.864/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR.login'.",0
+2017-04-11 15:08:27.217 -0600,"Failure",0:00:00,1,0,0,"20170411_150827.217/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR.Login'.",0
+2017-04-11 15:10:17.163 -0600,"Failure",0:00:00,1,0,0,"20170411_151017.163/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '""Modules/EMR"".Login'.",0
+2017-04-11 15:13:19.702 -0600,"Failure",0:00:00,1,0,0,"20170411_151319.702/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR.Login'.",0
+2017-04-11 15:13:36.299 -0600,"Failure",0:00:00,1,0,0,"20170411_151336.299/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR.Login'.",0
+2017-04-11 15:13:52.596 -0600,"Failure",0:00:00,1,0,0,"20170411_151352.596/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '""Modules/EMR"".Login'.",0
+2017-04-11 15:14:14.693 -0600,"Failure",0:00:00,1,0,0,"20170411_151414.693/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '""Modules/EMR"".'.",0
+2017-04-11 15:14:33.812 -0600,"Failure",0:00:00,1,0,0,"20170411_151433.812/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '""Modules/EMR"".'.",0

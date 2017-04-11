@@ -1,0 +1,5 @@
+﻿2017-04-11 14:09:03.584 -0600	START		Running index.table
+2017-04-11 14:09:03.619 -0600	typetext		[windowsKey]r
+2017-04-11 14:09:04.457 -0600	typetext		chrome.exe[returnKey]
+2017-04-11 14:09:04.458 -0600	EndTestCase		(Duration:"0.873145", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:09:03 -0600", Successes:"1", TestCase:"index.table", Warnings:"0")
+2017-04-11 14:09:04.518 -0600	SUCCESS		Execution Time 0:00:00 index.table

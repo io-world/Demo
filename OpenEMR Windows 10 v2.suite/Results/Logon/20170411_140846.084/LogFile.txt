@@ -1,0 +1,5 @@
+﻿2017-04-11 14:08:46.085 -0600	START		Running index.table
+2017-04-11 14:08:46.118 -0600	typetext		[windowsKey]r
+2017-04-11 14:08:46.834 -0600	typetext		[returnKey]
+2017-04-11 14:08:46.835 -0600	EndTestCase		(Duration:"0.749588", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:08:46 -0600", Successes:"1", TestCase:"index.table", Warnings:"0")
+2017-04-11 14:08:46.894 -0600	SUCCESS		Execution Time 0:00:00 index.table

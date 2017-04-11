@@ -1,0 +1,5 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>TableCall</Action><Arguments>Logoff</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

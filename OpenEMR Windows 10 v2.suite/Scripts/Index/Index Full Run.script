@@ -13,5 +13,5 @@ repeat MAX Times
 	Run "Patient/New".fix
 end repeat
 
---run "Modules/EMR".logout
+run "Modules/EMR".logout
 

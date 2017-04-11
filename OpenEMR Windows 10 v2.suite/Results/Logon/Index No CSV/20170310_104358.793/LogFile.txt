@@ -1,0 +1,59 @@
+﻿2017-03-10 10:43:58.794 -0600	START		Running Index/Index No CSV.script
+2017-03-10 10:44:05.694 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2017-03-10 10:44:05.799 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2017-03-10 10:44:06.497 -0600	click		at (378, 201)	6	on_create	Patient/New.script
+2017-03-10 10:44:07.898 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,236), ImageRectangle:(302,231,316,241), Language:"English", searchRectangle:(278,221,378,301), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 236)	8	on_create	Patient/New.script
+2017-03-10 10:44:08.009 -0600	click		at (309, 236)	9	on_create	Patient/New.script
+2017-03-10 10:44:08.010 -0600	Log		Mr	10	on_create	Patient/New.script
+2017-03-10 10:44:08.788 -0600	typetext		[tab]ktaf[tab]	14	on_create	Patient/New.script
+2017-03-10 10:44:09.518 -0600	typetext		q[tab]	15	on_create	Patient/New.script
+2017-03-10 10:44:10.306 -0600	typetext		lpedrl[tab]	16	on_create	Patient/New.script
+2017-03-10 10:44:11.099 -0600	typetext		723809[tab]	17	on_create	Patient/New.script
+2017-03-10 10:44:11.100 -0600	Log		ktaf	18	on_create	Patient/New.script
+2017-03-10 10:44:11.102 -0600	Log		q	19	on_create	Patient/New.script
+2017-03-10 10:44:11.103 -0600	Log		lpedrl	20	on_create	Patient/New.script
+2017-03-10 10:44:11.104 -0600	Log		723809	21	on_create	Patient/New.script
+2017-03-10 10:44:11.112 -0600	Log		2009-11-05	2	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:12.398 -0600	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:13.113 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:14.461 -0600	moveto	PatientNew/DOB/YearBack	at (429, 285)	17	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:15.270 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:16.086 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:16.893 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:17.701 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:18.513 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:19.322 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:20.136 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:20.946 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:22.242 -0600	moveto	PatientNew/DOB/MonthFoward	at (624, 286)	24	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:23.048 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:23.861 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:24.670 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:25.486 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:26.293 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:27.101 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:27.914 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:28.728 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:31.560 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(603,324), ImageRectangle:(600,319,606,329), Language:"English", searchRectangle:(446,317,676,427), text:"5", TextPlatform:"Generic OCR")	at (603, 324)	32	on_buttons	Modules/DOBMod.script
+2017-03-10 10:44:32.456 -0600	click	PatientNew/New/Social Security	at (335, 260)	25	on_create	Patient/New.script
+2017-03-10 10:44:33.296 -0600	typetext		216-57-4705	27	on_create	Patient/New.script
+2017-03-10 10:44:33.296 -0600	Log		216-57-4705	28	on_create	Patient/New.script
+2017-03-10 10:44:34.524 -0600	click	PatientNew/New/MaritalStatus	at (411, 288)	30	on_create	Patient/New.script
+2017-03-10 10:44:36.009 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(323,324), ImageRectangle:(302,319,344,329), Language:"English", searchRectangle:(291,298,411,438), Text:"Married", TextPlatform:"Generic OCR")	at (323, 324)	33	on_create	Patient/New.script
+2017-03-10 10:44:36.892 -0600	click	PatientNew/New/Sex	at (864, 232)	34	on_create	Patient/New.script
+2017-03-10 10:44:37.621 -0600	typetext		[downArrow][returnKey]	37	on_create	Patient/New.script
+2017-03-10 10:44:37.621 -0600	Log		Female	42	on_create	Patient/New.script
+2017-03-10 10:44:39.072 -0600	click	PatientNew/New/CreateNewPatient	at (317, 529)	43	on_create	Patient/New.script
+2017-03-10 10:44:42.735 -0600	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	2	on_check	Patient/New.script
+2017-03-10 10:44:43.346 -0600	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	12	on_check	Patient/New.script
+2017-03-10 10:44:43.450 -0600	click		at (142, 545)	13	on_check	Patient/New.script
+2017-03-10 10:44:43.450 -0600	Log		New Patient has been created	14	on_check	Patient/New.script
+2017-03-10 10:44:47.692 -0600	imagefound	PatientNew/New/NewDueClinicalReminders	found at (642, 121)	16	on_check	Patient/New.script
+2017-03-10 10:44:48.369 -0600	click	PatientNew/Check/OK	at (882, 289)	17	on_check	Patient/New.script
+2017-03-10 10:44:54.041 -0600	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	3	on_fix	Patient/New.script
+2017-03-10 10:44:54.042 -0600	Log		Nothing to Fix	29	on_fix	Patient/New.script
+2017-03-10 10:44:54.778 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2017-03-10 10:44:55.253 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2017-03-10 10:44:55.587 -0600	click		at (378, 201)	6	on_create	Patient/New.script
+2017-03-10 10:44:56.657 -0600	EndTestCase		(Duration:"57.861375", Errors:"1", Exceptions:"0", StartTime:"2017-03-10 10:43:58 -0600", Successes:"0", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-03-10 10:44:56.658 -0600	ABORTED		Execution Time 0:00:57 Index/Index No CSV.script

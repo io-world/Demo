@@ -1,0 +1,18 @@
+﻿2017-04-11 15:57:52.739 -0600	START		Running CreatePatient.table
+2017-04-11 15:57:53.182 -0600	waitfor	PatientNew/New/New Patient Button	found at (43, 80)
+2017-04-11 15:57:53.715 -0600	click	PatientNew/New/New Patient Button	at (43, 80)
+2017-04-11 15:57:53.822 -0600	waitfor	PatientNew/New/Name	found at (378, 201)
+2017-04-11 15:57:54.607 -0600	click	PatientNew/New/Name	at (378, 201)
+2017-04-11 15:57:55.335 -0600	typetext		[downArrow][returnKey]
+2017-04-11 15:57:56.100 -0600	typetext		[tab]john
+2017-04-11 15:57:56.830 -0600	typetext		[tab]A
+2017-04-11 15:57:57.582 -0600	typetext		[tab]Doe
+2017-04-11 15:57:58.371 -0600	typetext		[tab]123756
+2017-04-11 15:57:59.214 -0600	typetext		[tab]2016-08-05
+2017-04-11 15:57:59.963 -0600	typetext		[tab][downArrow][downArrow][returnKey]
+2017-04-11 15:58:00.828 -0600	typetext		[tab][tab]423-05-1210
+2017-04-11 15:58:01.560 -0600	typetext		[tab][tab]
+2017-04-11 15:58:02.301 -0600	typetext		[downArrow][downArrow][tab]
+2017-04-11 15:58:03.529 -0600	click	PatientNew/New/CreateNewPatient	at (317, 529)
+2017-04-11 15:58:03.531 -0600	EndTestCase		(Duration:"10.791356", Errors:"1", Exceptions:"0", StartTime:"2017-04-11 15:57:52 -0600", Successes:"0", TestCase:"CreatePatient.table", Warnings:"0")
+2017-04-11 15:58:03.815 -0600	FAILURE	Screen_Error.png	Internal Error Invalid parameter (nil msgname) to commandMessage:withParameters: -- Execution Time 0:00:10 CreatePatient.table

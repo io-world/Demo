@@ -1,0 +1,11 @@
+﻿2017-04-11 14:40:14.061 -0600	START		Running Logon.table
+2017-04-11 14:40:14.092 -0600	typetext		[windowsKey]r
+2017-04-11 14:40:14.931 -0600	typetext		chrome.exe[returnKey]
+2017-04-11 14:40:17.225 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)
+2017-04-11 14:40:17.251 -0600	typetext		[controlKey]l
+2017-04-11 14:40:18.957 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]
+2017-04-11 14:40:19.455 -0600	waitfor	Login/Logo	found at (524, 486)
+2017-04-11 14:40:19.737 -0600	typetext		admin[tab]
+2017-04-11 14:40:20.500 -0600	typetext		pass[returnKey]
+2017-04-11 14:40:20.501 -0600	EndTestCase		(Duration:"6.439551", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:40:14 -0600", Successes:"1", TestCase:"Logon.table", Warnings:"0")
+2017-04-11 14:40:20.580 -0600	SUCCESS		Execution Time 0:00:06 Logon.table

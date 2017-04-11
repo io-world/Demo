@@ -1,0 +1,4 @@
+﻿2017-04-11 14:46:43.773 -0600	START		Running Untitled.script
+2017-04-11 14:46:43.828 -0600	pausescript			5	on_untitled	Untitled.script
+2017-04-11 14:46:47.294 -0600	EndTestCase		(Duration:"3.519509", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:46:43 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-04-11 14:46:47.335 -0600	SUCCESS		Execution Time 0:00:03 Untitled.script

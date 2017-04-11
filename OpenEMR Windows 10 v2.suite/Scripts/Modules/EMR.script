@@ -19,8 +19,6 @@ end Login
 
 
 on Logout
-
-
 	click "Logout/Close Button"
 	wait 3
 	waitfor 10,"Logout/Logo"
@@ -30,8 +28,10 @@ on Logout
 		Log "error Closing"
 	else
 		log "Successfully Closed."
+		wait 1
+		TypeText altKey & F4	
 	end if
-	
-	
-	
 end Logout
+
+
+

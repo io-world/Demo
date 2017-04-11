@@ -25,6 +25,7 @@ repeat Max Times
 			put item random(1, 26) of alphabet into alphaletter
 			put alphaletter after FirstName
 		end repeat
+		log FirstName
 		
 		put item random(1, 26) of alphabet into alphaletter
 		put alphaletter after MiddlName

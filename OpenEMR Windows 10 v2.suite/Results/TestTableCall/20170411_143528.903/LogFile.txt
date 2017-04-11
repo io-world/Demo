@@ -1,0 +1,4 @@
+﻿2017-04-11 14:35:28.904 -0600	START		Running TestTableCall.script
+2017-04-11 14:35:28.967 -0600	Log		"Modules/EMR".Logout	2	on_tablecall	TableCall.script
+2017-04-11 14:35:29.762 -0600	EndTestCase		(Duration:"0.856927", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:35:28 -0600", Successes:"1", TestCase:"TestTableCall.script", Warnings:"0")
+2017-04-11 14:35:29.795 -0600	SUCCESS		Execution Time 0:00:00 TestTableCall.script

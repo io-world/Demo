@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Logoff.table" package="OpenEMR Windows 10 v2.suite" timestamp="2017-04-11 14:37:55.512 -0600"
+ tests="1" successes="1" errors="0" time="0.010168">
+  <properties>
+   <property name="RunDate" value="2017-04-11 14:37:55.512 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Logoff.table" assertions="1" successes="1" errors="0" time="0.009271">
+  </testcase>
+ </testsuite>
+</testsuites>
