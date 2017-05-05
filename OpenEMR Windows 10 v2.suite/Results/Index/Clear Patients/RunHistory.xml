@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index/Clear Patients">
+ <run>
+  <RunDate>2017-04-13 13:57:17.736 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>20.469725</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170413_135717.736/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

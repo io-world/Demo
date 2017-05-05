@@ -1,0 +1,24 @@
+﻿2017-04-12 13:22:40.430 -0600	START		Running Library/MicroDicom.script
+2017-04-12 13:22:40.517 -0600	typetext		[windowsKey]r	2	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:41.731 -0600	typetext		C:\Program Files\MicroDicom\mDicom.exe[returnKey]	3	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:43.169 -0600	waitfor	MicroDicom/Open Folder	found at (26, 70)	4	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:43.171 -0600	Log		Micro Dicom Loads in 1.434321 seconds	5	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:43.283 -0600	click		at (26, 70)	6	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:45.517 -0600	doubleclick	(TEXT:"DICOMDIR")	at (392, 238)	7	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:46.519 -0600	click	MicroDicom/Play Button	at (23, 105)	9	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:47.305 -0600	readtext		(1147,127,1242,147)
+2017-04-12 13:22:47.364 -0600	readtext		(1130,148,1248,166)
+2017-04-12 13:22:47.374 -0600	Log		The Date is 6/24/201	12	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:47.375 -0600	Log		The Time is i 9:28:50 Al	13	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:57.588 -0600	click	MicroDicom/Stop Button	at (85, 104)	18	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:22:59.791 -0600	click	MicroDicom/Measurement Icon	at (484, 69)	19	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:23:00.561 -0600	drag		at (700, 400)	20	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:23:01.747 -0600	drop		at (800, 500)	21	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:23:02.483 -0600	readtext		(803,494,866,506)
+2017-04-12 13:23:02.483 -0600	Log		119.68	22	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:23:07.018 -0600	click	MicroDicom/Circle Button	at (574, 70)	24	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:23:07.787 -0600	drag		at (900, 200)	25	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:23:09.132 -0600	drop		at (1100, 400)	26	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:23:14.160 -0600	typetext		[windowsAltKey][F4]	28	on_library_microdicom	Library/MicroDicom.script
+2017-04-12 13:23:14.581 -0600	EndTestCase		(Duration:"34.149935", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 13:22:40 -0600", Successes:"1", TestCase:"Library/MicroDicom.script", Warnings:"0")
+2017-04-12 13:23:14.612 -0600	SUCCESS		Execution Time 0:00:34 Library/MicroDicom.script

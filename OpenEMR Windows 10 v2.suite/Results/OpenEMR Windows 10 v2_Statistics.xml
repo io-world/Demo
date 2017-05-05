@@ -18,11 +18,11 @@
  </script>
  <script name="Library/MicroDicom">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>29</NumberOfRuns>
+  <NumberOfRuns>32</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-08-03 12:30:06 -0600</FirstRun>
-  <LastRun>2017-02-02 13:46:41 -0700</LastRun>
-  <TotalTimeOnSuccess>167.256559</TotalTimeOnSuccess>
+  <LastRun>2017-04-28 08:40:06 -0600</LastRun>
+  <TotalTimeOnSuccess>271.001744</TotalTimeOnSuccess>
  </script>
  <script name="Patient/New">
   <LastStatus>Success</LastStatus>
@@ -50,11 +50,11 @@
  </script>
  <script name="Index/Clear Patients">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfRuns>7</NumberOfRuns>
   <NumberOfFails>2</NumberOfFails>
   <FirstRun>2016-08-08 10:56:26 -0600</FirstRun>
-  <LastRun>2016-09-20 13:53:59 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+  <LastRun>2017-04-13 13:57:17 -0600</LastRun>
+  <TotalTimeOnSuccess>20.469725</TotalTimeOnSuccess>
  </script>
  <script name="Modules/DOBMod">
   <LastStatus>Success</LastStatus>
@@ -66,11 +66,11 @@
  </script>
  <script name="CreatePatient">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>19</NumberOfRuns>
+  <NumberOfRuns>21</NumberOfRuns>
   <NumberOfFails>3</NumberOfFails>
   <FirstRun>2017-04-11 14:17:22 -0600</FirstRun>
-  <LastRun>2017-04-11 15:58:55 -0600</LastRun>
-  <TotalTimeOnSuccess>97.364717</TotalTimeOnSuccess>
+  <LastRun>2017-04-13 14:23:17 -0600</LastRun>
+  <TotalTimeOnSuccess>132.339963</TotalTimeOnSuccess>
  </script>
  <script name="Index/Index Full Run">
   <LastStatus>Success</LastStatus>
@@ -82,11 +82,11 @@
  </script>
  <script name="Logoff">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfRuns>8</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2017-04-11 14:37:49 -0600</FirstRun>
-  <LastRun>2017-04-11 14:40:25 -0600</LastRun>
-  <TotalTimeOnSuccess>23.510819</TotalTimeOnSuccess>
+  <LastRun>2017-04-13 14:21:34 -0600</LastRun>
+  <TotalTimeOnSuccess>37.101889</TotalTimeOnSuccess>
  </script>
  <script name="Patient/Allergies">
   <LastStatus>Success</LastStatus>
@@ -122,10 +122,10 @@
  </script>
  <script name="Logon">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>8</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
   <FirstRun>2017-04-11 14:08:46 -0600</FirstRun>
-  <LastRun>2017-04-11 15:49:15 -0600</LastRun>
-  <TotalTimeOnSuccess>39.257235</TotalTimeOnSuccess>
+  <LastRun>2017-04-13 14:22:39 -0600</LastRun>
+  <TotalTimeOnSuccess>64.369133</TotalTimeOnSuccess>
  </script>
 </statistics>

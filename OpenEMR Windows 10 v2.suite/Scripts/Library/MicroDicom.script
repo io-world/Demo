@@ -26,3 +26,4 @@ Drag (900,200)
 drop (1100,400)
 wait 5
 TypeText altKey & F4
+

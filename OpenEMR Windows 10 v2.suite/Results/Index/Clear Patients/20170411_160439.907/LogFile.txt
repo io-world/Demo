@@ -1,0 +1,11 @@
+﻿2017-04-11 16:04:39.908 -0600	START		Running Index/Clear Patients.script
+2017-04-11 16:04:40.013 -0600	typetext		[windowsKey]r	1	on_index_clear_patients	Index/Clear Patients.script
+2017-04-11 16:04:40.852 -0600	typetext		chrome.exe[returnKey]	2	on_index_clear_patients	Index/Clear Patients.script
+2017-04-11 16:04:43.555 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	6	on_index_clear_patients	Index/Clear Patients.script
+2017-04-11 16:04:43.580 -0600	typetext		[controlKey]l	7	on_index_clear_patients	Index/Clear Patients.script
+2017-04-11 16:04:45.787 -0600	typetext		http://127.0.0.1/phpmyadmin/sql.php?server=1&db=openemr&table=patient_data&pos=0&token=ff2c171ae4caad36f9173ee501240841[enter]	9	on_index_clear_patients	Index/Clear Patients.script
+2017-04-11 16:04:48.933 -0600	everyimagelocation	phpmyadmin/Pencil	found 0 images	12	on_index_clear_patients	Index/Clear Patients.script
+2017-04-11 16:04:51.225 -0600	click	phpmyadmin/With Selected	at (684, 582)	21	on_index_clear_patients	Index/Clear Patients.script
+2017-04-11 16:05:01.886 -0600	Exception	phpmyadmin/Yes	No Image Found On Screen: "phpmyadmin/Yes"	22	on_index_clear_patients	Index/Clear Patients.script
+2017-04-11 16:05:02.606 -0600	EndTestCase		(Duration:"22.69732", Errors:"1", Exceptions:"1", StartTime:"2017-04-11 16:04:39 -0600", Successes:"0", TestCase:"Index/Clear Patients.script", Warnings:"0")
+2017-04-11 16:05:02.607 -0600	ABORTED		Execution Time 0:00:22 Index/Clear Patients.script

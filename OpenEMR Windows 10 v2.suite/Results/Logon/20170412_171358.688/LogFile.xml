@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Logon.table" package="OpenEMR Windows 10 v2.suite" timestamp="2017-04-12 17:13:58.688 -0600"
+ tests="1" successes="0" errors="2" time="21.422027">
+  <properties>
+   <property name="RunDate" value="2017-04-12 17:13:58.688 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Logon.table" assertions="2" successes="0" errors="2" time="21.42057">
+    <failure type="UNEXPECTED RESULT">Expected: True  Actual: False</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

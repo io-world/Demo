@@ -1,0 +1,4 @@
+﻿2017-04-13 14:18:32.109 -0600	START		Running Logoff.table
+2017-04-13 14:18:32.618 -0600	doubleclick	ChromeDesktopIcon	at (186, 32)
+2017-04-13 14:18:32.619 -0600	EndTestCase		(Duration:"0.508702", Errors:"0", Exceptions:"0", StartTime:"2017-04-13 14:18:32 -0600", Successes:"1", TestCase:"Logoff.table", Warnings:"0")
+2017-04-13 14:18:32.634 -0600	SUCCESS		Execution Time 0:00:00 Logoff.table

@@ -1,0 +1,13 @@
+﻿2017-04-12 17:13:58.689 -0600	START		Running Logon.table
+2017-04-12 17:13:58.721 -0600	typetext		[windowsKey]r
+2017-04-12 17:13:59.567 -0600	typetext		chrome.exe[returnKey]
+2017-04-12 17:14:03.772 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)
+2017-04-12 17:14:03.800 -0600	typetext		[controlKey]l
+2017-04-12 17:14:05.507 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]
+2017-04-12 17:14:15.598 -0600	Exception	Login/Logo	Unable To Find Any Image On Screen "Login/Logo" within 10.00 seconds
+2017-04-12 17:14:15.673 -0600	typetext		admin[tab]
+2017-04-12 17:14:16.441 -0600	typetext		pass[returnKey]
+2017-04-12 17:14:20.107 -0600	imagefound	PatientNew/New/New Patient Button	Unable to Find Image PatientNew/New/New Patient Button
+2017-04-12 17:14:20.108 -0600	UNEXPECTED RESULT		Expected: True  Actual: False
+2017-04-12 17:14:20.110 -0600	EndTestCase		(Duration:"21.42057", Errors:"2", Exceptions:"1", StartTime:"2017-04-12 17:13:58 -0600", Successes:"0", TestCase:"Logon.table", Warnings:"0")
+2017-04-12 17:14:20.191 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Login/Logo" within 10.00 seconds -- Execution Time 0:00:21 Logon.table
