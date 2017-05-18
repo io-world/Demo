@@ -8,6 +8,7 @@
     HasAlpha = 1;
     HotSpotX = 11;
     HotSpotY = 11;
+    ImageDescription = <>;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 324;
@@ -15,4 +16,6 @@
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchRectangle = "NSRect: {{677, 70}, {140, 40}}";
 }

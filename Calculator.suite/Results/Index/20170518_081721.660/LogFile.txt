@@ -1,0 +1,15 @@
+﻿2017-05-18 08:17:21.660 -0600	START		Running Index.script
+2017-05-18 08:17:21.741 -0600	typetext		[windowsKey]r	3	on_open	Calculator.script
+2017-05-18 08:17:22.509 -0600	typetext		calc[enter]	6	on_open	Calculator.script
+2017-05-18 08:17:23.131 -0600	imagefound	Calculator/Calculator Icon	found at (527, 90)	2	on_verify	Calculator.script
+2017-05-18 08:17:23.132 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2017-05-18 08:17:23.553 -0600	imagelocation	Calculator/Calculator Icon	at (527, 90)	2	on_answer	Calculator.script
+2017-05-18 08:17:23.937 -0600	imagelocation	Operators/Equals Sign	at (822, 605)	3	on_answer	Calculator.script
+2017-05-18 08:17:23.960 -0600	readtext		(492,170,862,265)
+2017-05-18 08:17:23.961 -0600	Log		0	6	on_answer	Calculator.script
+2017-05-18 08:17:29.336 -0600	capturescreen	Results.png	(492,170,862,265)	9	on_answer	Calculator.script
+2017-05-18 08:17:29.704 -0600	imagelocation	Calculator/Calculator Icon	at (527, 90)	2	on_close	Calculator.script
+2017-05-18 08:17:29.716 -0600	moveto		at (527, 90)	3	on_close	Calculator.script
+2017-05-18 08:17:30.833 -0600	click	Calculator/Close Icon	at (849, 86)	4	on_close	Calculator.script
+2017-05-18 08:17:33.089 -0600	EndTestCase		(Duration:"11.427775", Errors:"0", Exceptions:"0", StartTime:"2017-05-18 08:17:21 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2017-05-18 08:17:33.096 -0600	SUCCESS		Execution Time 0:00:11 Index.script

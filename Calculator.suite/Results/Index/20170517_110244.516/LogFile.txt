@@ -1,0 +1,21 @@
+﻿2017-05-17 11:02:44.517 -0600	START		Running Index.script
+2017-05-17 11:02:44.640 -0600	typetext		[windowsKey]r	3	on_open	Calculator.script
+2017-05-17 11:02:45.405 -0600	typetext		calc[enter]	6	on_open	Calculator.script
+2017-05-17 11:02:46.269 -0600	imagefound	Calculator/Calculator Icon	found at (475, 17)	2	on_verify	Calculator.script
+2017-05-17 11:02:46.270 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2017-05-17 11:02:46.593 -0600	imagelocation	Calculator/MC Icon	at (465, 145)	2	on_math	Calculator.script
+2017-05-17 11:04:31.340 -0600	imagelocation	Operators/Equals Sign	at (715, 378)	3	on_math	Calculator.script
+2017-05-17 11:04:31.698 -0600	readtext		(447,210,665,403)
+2017-05-17 11:04:31.699 -0600	Log		CE\tC\t<3\n7\t8\t9\n4\t5\t6\n1\t2\t3\n±\n0	6	on_math	Calculator.script
+2017-05-17 11:04:31.701 -0600	Log		(1,/,4,-,9,=)	12	on_math	Calculator.script
+2017-05-17 11:04:31.701 -0600	Log		1 was Clicked	17	on_math	Calculator.script
+2017-05-17 11:04:32.187 -0600	click	(TEXT:"1")	at (476, 337)	29	on_math	Calculator.script
+2017-05-17 11:04:32.188 -0600	Log		/ was Clicked	17	on_math	Calculator.script
+2017-05-17 11:05:13.833 -0600	click	Operators/Division	at (715, 221)	25	on_math	Calculator.script
+2017-05-17 11:05:13.836 -0600	Log		4 was Clicked	17	on_math	Calculator.script
+2017-05-17 11:05:15.056 -0600	click	(TEXT:"4")	at (477, 298)	29	on_math	Calculator.script
+2017-05-17 11:05:15.057 -0600	Log		- was Clicked	17	on_math	Calculator.script
+2017-05-17 11:05:46.750 -0600	click	Operators/Minus	at (823, 491)	21	on_math	Calculator.script
+2017-05-17 11:05:46.752 -0600	Log		9 was Clicked	17	on_math	Calculator.script
+2017-05-17 11:05:51.278 -0600	EndTestCase		(Duration:"186.759346", Errors:"1", Exceptions:"0", StartTime:"2017-05-17 11:02:44 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2017-05-17 11:05:51.279 -0600	ABORTED		Execution Time 0:03:06 Index.script

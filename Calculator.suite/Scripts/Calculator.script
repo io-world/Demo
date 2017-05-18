@@ -70,7 +70,8 @@ end answer
 
 on close
 	put imagelocation("Calculator/Calculator Icon") into CI
-	click (image:"Calculator/Close Icon",searchRectangle:(CI+(150,-20),CI+(290,20)))
+	moveto CI
+	click (image:"Calculator/Close Icon",searchRectangle:(CI+(150,-40),CI+(400,40)))
 	wait 2	
 end close
 
