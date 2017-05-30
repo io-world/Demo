@@ -1,0 +1,5 @@
+﻿2017-04-11 14:46:57.907 -0600	START		Running Untitled.script
+2017-04-11 14:46:57.978 -0600	Log		patientName	4	on_untitled	Untitled.script
+2017-04-11 14:46:57.980 -0600	pausescript			5	on_untitled	Untitled.script
+2017-04-11 14:47:03.345 -0600	EndTestCase		(Duration:"5.436733", Errors:"1", Exceptions:"0", StartTime:"2017-04-11 14:46:57 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-04-11 14:47:03.347 -0600	ABORTED		Execution Time 0:00:05 Untitled.script

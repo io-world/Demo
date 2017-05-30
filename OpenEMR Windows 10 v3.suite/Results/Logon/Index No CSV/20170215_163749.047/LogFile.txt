@@ -1,0 +1,5 @@
+﻿2017-02-15 16:37:49.048 -0700	START		Running Index/Index No CSV.script
+2017-02-15 16:37:49.999 -0700	Log		tvis	27	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:37:50.012 -0700	Log		()	27	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:37:50.498 -0700	EndTestCase		(Duration:"1.44748", Errors:"0", Exceptions:"0", StartTime:"2017-02-15 16:37:49 -0700", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-02-15 16:37:50.560 -0700	SUCCESS		Execution Time 0:00:01 Index/Index No CSV.script

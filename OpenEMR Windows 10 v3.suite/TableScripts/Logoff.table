@@ -1,0 +1,10 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>DoubleClick</Action><Arguments>"ChromeDesktopIcon"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>WaitFor</Action><Arguments>20, "RefreshChromeIcon"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>"AddressChrome"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>www.testplant.com</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>returnkey</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>ImageFound</Action><Arguments>"TestPlant"</Arguments><ExpectedValueExpression>True</ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

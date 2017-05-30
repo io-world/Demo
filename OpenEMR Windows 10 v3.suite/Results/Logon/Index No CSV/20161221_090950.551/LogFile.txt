@@ -1,0 +1,186 @@
+﻿2016-12-21 09:09:50.552 -0700	START		Running Index/Index No CSV.script
+2016-12-21 09:09:54.510 -0700	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2016-12-21 09:09:55.021 -0700	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2016-12-21 09:09:55.323 -0700	click		at (378, 201)	6	on_create	Patient/New.script
+2016-12-21 09:09:56.480 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,287), ImageRectangle:(302,282,316,292), Language:"English", searchRectangle:(278,221,378,301), text:"Dr", TextPlatform:"Generic OCR")	found at (309, 287)	8	on_create	Patient/New.script
+2016-12-21 09:09:56.612 -0700	click		at (309, 287)	9	on_create	Patient/New.script
+2016-12-21 09:09:56.618 -0700	Log		Dr	10	on_create	Patient/New.script
+2016-12-21 09:09:57.392 -0700	typetext		[tab]OAIP[tab]	14	on_create	Patient/New.script
+2016-12-21 09:09:58.122 -0700	typetext		P[tab]	15	on_create	Patient/New.script
+2016-12-21 09:09:58.921 -0700	typetext		UCZRLM[tab]	16	on_create	Patient/New.script
+2016-12-21 09:09:59.710 -0700	typetext		687711[tab]	17	on_create	Patient/New.script
+2016-12-21 09:09:59.716 -0700	Log		OAIP	18	on_create	Patient/New.script
+2016-12-21 09:09:59.728 -0700	Log		P	19	on_create	Patient/New.script
+2016-12-21 09:09:59.745 -0700	Log		UCZRLM	20	on_create	Patient/New.script
+2016-12-21 09:09:59.752 -0700	Log		687711	21	on_create	Patient/New.script
+2016-12-21 09:09:59.791 -0700	Log		1986-02-13	2	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:00.831 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:01.851 -0700	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:02.661 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:03.468 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:04.281 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:05.093 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:05.903 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:06.711 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:07.525 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:08.333 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:09.143 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:09.955 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:10.765 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:11.577 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:12.388 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:13.197 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:14.007 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:14.819 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:15.631 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:16.440 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:17.250 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:18.061 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:18.873 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:19.682 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:20.493 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:21.305 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:22.114 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:22.927 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:23.741 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:24.549 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:25.359 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:26.169 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:27.154 -0700	moveto	PatientNew/DOB/MonthBack	at (461, 286)	25	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:27.963 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:28.768 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:29.575 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:30.392 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:31.202 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:32.013 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:32.825 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:33.638 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:34.447 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:35.256 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:37.198 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(600,362), ImageRectangle:(594,357,606,367), Language:"English", searchRectangle:(446,317,676,427), text:"13", TextPlatform:"Generic OCR")	at (600, 362)	31	on_buttons	Modules/DOBMod.script
+2016-12-21 09:10:38.314 -0700	click	PatientNew/New/Social Security	at (335, 260)	26	on_create	Patient/New.script
+2016-12-21 09:10:39.149 -0700	typetext		346-90-6654	28	on_create	Patient/New.script
+2016-12-21 09:10:39.157 -0700	Log		346-90-6654	29	on_create	Patient/New.script
+2016-12-21 09:10:40.236 -0700	click	PatientNew/New/MaritalStatus	at (411, 288)	31	on_create	Patient/New.script
+2016-12-21 09:10:41.400 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(319,342), ImageRectangle:(302,336,337,349), Language:"English", searchRectangle:(291,298,411,438), Text:"Single", TextPlatform:"Generic OCR")	at (319, 342)	34	on_create	Patient/New.script
+2016-12-21 09:10:42.317 -0700	click	PatientNew/New/Sex	at (864, 232)	35	on_create	Patient/New.script
+2016-12-21 09:10:43.056 -0700	typetext		[downArrow][downArrow][returnKey]	40	on_create	Patient/New.script
+2016-12-21 09:10:43.065 -0700	Log		Male	43	on_create	Patient/New.script
+2016-12-21 09:10:44.180 -0700	click	PatientNew/New/CreateNewPatient	at (317, 529)	44	on_create	Patient/New.script
+2016-12-21 09:10:48.668 -0700	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	2	on_check	Patient/New.script
+2016-12-21 09:10:49.059 -0700	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	12	on_check	Patient/New.script
+2016-12-21 09:10:49.196 -0700	click		at (142, 545)	13	on_check	Patient/New.script
+2016-12-21 09:10:49.201 -0700	Log		New Patient has been created	14	on_check	Patient/New.script
+2016-12-21 09:10:53.200 -0700	imagefound	PatientNew/New/NewDueClinicalReminders	found at (642, 121)	16	on_check	Patient/New.script
+2016-12-21 09:10:53.680 -0700	click	PatientNew/Check/OK	at (882, 271)	17	on_check	Patient/New.script
+2016-12-21 09:10:58.337 -0700	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	3	on_fix	Patient/New.script
+2016-12-21 09:10:58.349 -0700	Log		Nothing to Fix	24	on_fix	Patient/New.script
+2016-12-21 09:10:59.505 -0700	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2016-12-21 09:11:00.008 -0700	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2016-12-21 09:11:00.307 -0700	click		at (378, 201)	6	on_create	Patient/New.script
+2016-12-21 09:11:01.513 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,236), ImageRectangle:(302,231,316,241), Language:"English", searchRectangle:(278,221,378,301), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 236)	8	on_create	Patient/New.script
+2016-12-21 09:11:01.646 -0700	click		at (309, 236)	9	on_create	Patient/New.script
+2016-12-21 09:11:01.652 -0700	Log		Mr	10	on_create	Patient/New.script
+2016-12-21 09:11:02.484 -0700	typetext		[tab]OAIPYCAA[tab]	14	on_create	Patient/New.script
+2016-12-21 09:11:03.227 -0700	typetext		PB[tab]	15	on_create	Patient/New.script
+2016-12-21 09:11:04.108 -0700	typetext		UCZRLMUHGAEH[tab]	16	on_create	Patient/New.script
+2016-12-21 09:11:04.898 -0700	typetext		273026[tab]	17	on_create	Patient/New.script
+2016-12-21 09:11:04.903 -0700	Log		OAIPYCAA	18	on_create	Patient/New.script
+2016-12-21 09:11:04.916 -0700	Log		PB	19	on_create	Patient/New.script
+2016-12-21 09:11:04.934 -0700	Log		UCZRLMUHGAEH	20	on_create	Patient/New.script
+2016-12-21 09:11:04.945 -0700	Log		273026	21	on_create	Patient/New.script
+2016-12-21 09:11:04.993 -0700	Log		1955-02-28	2	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:06.067 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:07.122 -0700	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:07.930 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:08.741 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:09.550 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:10.357 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:11.167 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:11.981 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:12.790 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:13.597 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:14.403 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:15.214 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:16.024 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:16.839 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:17.648 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:18.455 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:19.269 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:20.079 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:20.891 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:21.699 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:22.510 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:23.323 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:24.131 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:24.942 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:25.753 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:26.567 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:27.374 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:28.185 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:29.000 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:29.807 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:30.617 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:31.421 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:32.234 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:33.049 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:33.861 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:34.672 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:35.481 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:36.292 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:37.105 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:37.913 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:38.724 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:39.537 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:40.345 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:41.156 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:41.965 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:42.772 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:43.579 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:44.387 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:45.191 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:46.003 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:46.813 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:47.624 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:48.435 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:49.245 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:50.056 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:50.867 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:51.675 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:52.488 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:53.300 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:54.111 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:54.920 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:55.731 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:56.542 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:57.617 -0700	moveto	PatientNew/DOB/MonthBack	at (461, 286)	25	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:58.428 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:11:59.245 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:00.054 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:00.861 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:01.675 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:02.486 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:03.295 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:04.106 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:04.916 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:05.728 -0700	click		at (461, 286)	28	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:07.770 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(500,400), ImageRectangle:(494,395,507,406), Language:"English", searchRectangle:(446,317,676,427), text:"28", TextPlatform:"Generic OCR")	at (500, 400)	31	on_buttons	Modules/DOBMod.script
+2016-12-21 09:12:08.928 -0700	click	PatientNew/New/Social Security	at (335, 260)	26	on_create	Patient/New.script
+2016-12-21 09:12:09.765 -0700	typetext		715-96-9912	28	on_create	Patient/New.script
+2016-12-21 09:12:09.773 -0700	Log		715-96-9912	29	on_create	Patient/New.script
+2016-12-21 09:12:10.942 -0700	click	PatientNew/New/MaritalStatus	at (411, 288)	31	on_create	Patient/New.script
+2016-12-21 09:12:12.173 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(323,324), ImageRectangle:(302,319,344,329), Language:"English", searchRectangle:(291,298,411,438), Text:"Married", TextPlatform:"Generic OCR")	at (323, 324)	34	on_create	Patient/New.script
+2016-12-21 09:12:13.084 -0700	click	PatientNew/New/Sex	at (864, 232)	35	on_create	Patient/New.script
+2016-12-21 09:12:13.826 -0700	typetext		[downArrow][downArrow][returnKey]	40	on_create	Patient/New.script
+2016-12-21 09:12:13.833 -0700	Log		Male	43	on_create	Patient/New.script
+2016-12-21 09:12:15.006 -0700	click	PatientNew/New/CreateNewPatient	at (317, 529)	44	on_create	Patient/New.script
+2016-12-21 09:12:19.456 -0700	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	2	on_check	Patient/New.script
+2016-12-21 09:12:19.842 -0700	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	12	on_check	Patient/New.script
+2016-12-21 09:12:19.970 -0700	click		at (142, 545)	13	on_check	Patient/New.script
+2016-12-21 09:12:19.975 -0700	Log		New Patient has been created	14	on_check	Patient/New.script
+2016-12-21 09:12:24.055 -0700	imagefound	PatientNew/New/NewDueClinicalReminders	found at (642, 121)	16	on_check	Patient/New.script
+2016-12-21 09:12:24.534 -0700	click	PatientNew/Check/OK	at (882, 319)	17	on_check	Patient/New.script
+2016-12-21 09:12:29.324 -0700	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	3	on_fix	Patient/New.script
+2016-12-21 09:12:29.330 -0700	Log		Nothing to Fix	24	on_fix	Patient/New.script
+2016-12-21 09:12:29.728 -0700	EndTestCase		(Duration:"159.174305", Errors:"0", Exceptions:"0", StartTime:"2016-12-21 09:09:50 -0700", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2016-12-21 09:12:29.777 -0700	SUCCESS		Execution Time 0:02:39 Index/Index No CSV.script

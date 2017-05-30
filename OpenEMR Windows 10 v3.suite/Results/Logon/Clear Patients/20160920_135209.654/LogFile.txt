@@ -1,0 +1,6 @@
+﻿2016-09-20 13:52:09.655 -0600	START		Running PatientDelete.script
+2016-09-20 13:52:09.718 -0600	typetext		[windowsKey]r	1	on_patientdelete	PatientDelete.script
+2016-09-20 13:52:10.563 -0600	typetext		chrome.exe[returnKey]	2	on_patientdelete	PatientDelete.script
+2016-09-20 13:52:15.706 -0600	Exception	Chrome/Refresh Icon	Unable To Find Any Image On Screen "Chrome/Refresh Icon" within 5.00 seconds	6	on_patientdelete	PatientDelete.script
+2016-09-20 13:52:16.278 -0600	EndTestCase		(Duration:"6.621601", Errors:"1", Exceptions:"1", StartTime:"2016-09-20 13:52:09 -0600", Successes:"0", TestCase:"PatientDelete.script", Warnings:"0")
+2016-09-20 13:52:16.366 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Chrome/Refresh Icon" within 5.00 seconds -- Execution Time 0:00:06 PatientDelete.script

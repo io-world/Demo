@@ -1,0 +1,18 @@
+﻿2017-01-30 09:31:22.495 -0700	START		Running Modules/DOBMod.script
+2017-01-30 09:31:22.549 -0700	Log		2016-10-27	2	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:23.244 -0700	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:24.528 -0700	moveto	PatientNew/DOB/YearBack	at (429, 285)	16	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:25.337 -0700	click		at (429, 285)	18	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:26.586 -0700	moveto	PatientNew/DOB/MonthFoward	at (624, 286)	23	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:27.395 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:28.203 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:29.010 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:29.821 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:30.633 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:31.445 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:32.258 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:33.068 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:33.877 -0700	click		at (624, 286)	28	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:36.578 -0700	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(599,400), ImageRectangle:(593,395,606,405), Language:"English", searchRectangle:(446,317,676,427), text:"27", TextPlatform:"Generic OCR")	at (599, 400)	31	on_buttons	Modules/DOBMod.script
+2017-01-30 09:31:36.935 -0700	EndTestCase		(Duration:"14.43817", Errors:"0", Exceptions:"0", StartTime:"2017-01-30 09:31:22 -0700", Successes:"1", TestCase:"Modules/DOBMod.script", Warnings:"0")
+2017-01-30 09:31:36.974 -0700	SUCCESS		Execution Time 0:00:14 Modules/DOBMod.script

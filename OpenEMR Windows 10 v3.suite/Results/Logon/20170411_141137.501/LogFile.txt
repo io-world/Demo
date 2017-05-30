@@ -1,0 +1,8 @@
+﻿2017-04-11 14:11:37.501 -0600	START		Running index.table
+2017-04-11 14:11:37.537 -0600	typetext		[windowsKey]r
+2017-04-11 14:11:38.378 -0600	typetext		chrome.exe[returnKey]
+2017-04-11 14:11:40.999 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)
+2017-04-11 14:11:41.025 -0600	typetext		[controlKey]l
+2017-04-11 14:11:42.881 -0600	typetext		"http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default" , enterKey[return]
+2017-04-11 14:11:42.883 -0600	EndTestCase		(Duration:"5.380729", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:11:37 -0600", Successes:"1", TestCase:"index.table", Warnings:"0")
+2017-04-11 14:11:42.963 -0600	SUCCESS		Execution Time 0:00:05 index.table

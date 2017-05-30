@@ -1,0 +1,19 @@
+﻿2017-02-15 16:36:30.209 -0700	START		Running Index/Index No CSV.script
+2017-02-15 16:36:31.957 -0700	Log		Dr	59	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.958 -0700	Log		peel	60	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.960 -0700	Log		z	61	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.961 -0700	Log		babvzl	62	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.963 -0700	Log		189277	63	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.964 -0700	Log		640-52-8362	64	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.966 -0700	Log		Female	65	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.967 -0700	Log		Married	66	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.978 -0700	Log		Mrs	59	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.980 -0700	Log		()	60	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.982 -0700	Log		()	61	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.984 -0700	Log		()	62	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.985 -0700	Log		967916	63	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.987 -0700	Log		782-36-9993	64	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.989 -0700	Log		Female	65	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:31.990 -0700	Log		Married	66	on_index_index_no_csv	Index/Index No CSV.script
+2017-02-15 16:36:32.444 -0700	EndTestCase		(Duration:"2.229712", Errors:"0", Exceptions:"0", StartTime:"2017-02-15 16:36:30 -0700", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-02-15 16:36:32.495 -0700	SUCCESS		Execution Time 0:00:02 Index/Index No CSV.script

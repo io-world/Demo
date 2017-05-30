@@ -1,0 +1,4 @@
+﻿2017-04-11 14:35:01.366 -0600	START		Running TestTableCall.script
+2017-04-11 14:35:01.497 -0600	Log			2	on_tablecall	TableCall.script
+2017-04-11 14:35:02.294 -0600	EndTestCase		(Duration:"0.926637", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:35:01 -0600", Successes:"1", TestCase:"TestTableCall.script", Warnings:"0")
+2017-04-11 14:35:02.329 -0600	SUCCESS		Execution Time 0:00:00 TestTableCall.script

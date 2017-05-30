@@ -1,0 +1,20 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-11-17 11:22:12.339 -0700,"Running",0:00:00,0,0,0,"20161117_112212.339/LogFile.txt","","",0
+2016-11-17 11:25:15.642 -0700,"Success",0:01:19,0,0,0,"20161117_112515.642/LogFile.txt","","",1
+2016-11-17 11:26:36.825 -0700,"Running",0:00:00,0,0,0,"20161117_112636.825/LogFile.txt","","",0
+2016-11-17 11:28:29.755 -0700,"Success",0:01:24,0,0,0,"20161117_112829.755/LogFile.txt","","",1
+2016-11-17 11:30:38.952 -0700,"Success",0:01:46,0,0,0,"20161117_113038.952/LogFile.txt","","",1
+2016-11-21 11:19:51.037 -0700,"Success",0:00:23,0,0,0,"20161121_111951.037/LogFile.txt","","",1
+2016-11-21 11:20:36.394 -0700,"Failure",0:01:23,1,0,1,"20161121_112036.394/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""PatientNew/New/Name"" within 10.00 seconds",0
+2016-11-21 11:23:51.184 -0700,"Running",0:00:00,0,0,0,"20161121_112351.184/LogFile.txt","","",0
+2016-11-21 11:23:54.584 -0700,"Running",0:00:00,0,0,0,"20161121_112354.584/LogFile.txt","","",0
+2016-11-21 11:26:08.351 -0700,"Running",0:00:00,0,0,0,"20161121_112608.351/LogFile.txt","","",0
+2016-11-21 11:26:32.785 -0700,"Failure",0:00:13,1,0,0,"20161121_112632.785/LogFile.txt","","SenseTalk Compiler Exception -- in create:\nSyntax Error at line 48: Syntax Error - can't understand ""if"" at or near character 1118",0
+2016-11-21 11:27:25.008 -0700,"Running",0:00:00,0,0,0,"20161121_112725.008/LogFile.txt","","",0
+2016-11-21 11:30:05.093 -0700,"Success",0:08:11,0,0,0,"20161121_113005.093/LogFile.txt","","",1
+2016-11-28 09:13:06.496 -0700,"Success",0:01:21,0,0,0,"20161128_091306.496/LogFile.txt","","",1
+2016-11-28 10:09:10.121 -0700,"Success",0:01:31,0,0,0,"20161128_100910.121/LogFile.txt","","",1
+2016-12-21 09:14:46.263 -0700,"Failure",0:00:00,1,0,0,"20161221_091446.263/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'PatientNew'.",0
+2016-12-21 09:15:27.242 -0700,"Success",0:08:27,0,0,0,"20161221_091527.242/LogFile.txt","","",1
+2016-12-21 09:24:34.295 -0700,"Failure",0:00:00,1,0,0,"20161221_092434.295/LogFile.txt","","SenseTalk Compiler Exception -- in index_index_full_run:\nSyntax Error at line 11: Syntax Error - can't understand ""PatientInfo"" at or near character 364",0
+2017-02-01 14:36:18.393 -0700,"Success",0:08:45,0,0,0,"20170201_143618.393/LogFile.txt","","",1

@@ -1,0 +1,40 @@
+﻿2016-09-26 09:27:28.957 -0600	START		Running Index.script
+2016-09-26 09:27:29.067 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-09-26 09:27:29.913 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-09-26 09:27:30.643 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-09-26 09:27:32.713 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	4	on_login	Login.script
+2016-09-26 09:27:33.855 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-09-26 09:27:35.024 -0600	waitfor	Login/Logo	found at (524, 486)	6	on_login	Login.script
+2016-09-26 09:27:35.074 -0600	Log		Login/logo was Booted 1.165923 seconds	7	on_login	Login.script
+2016-09-26 09:27:35.175 -0600	typetext		admin[tab]	9	on_login	Login.script
+2016-09-26 09:27:35.945 -0600	typetext		pass[enter]	10	on_login	Login.script
+2016-09-26 09:27:43.133 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	12	on_login	Login.script
+2016-09-26 09:27:43.150 -0600	Log		EMR was loaded 1.180172 seconds	13	on_login	Login.script
+2016-09-26 09:27:43.888 -0600	click	PatientNew/New Patient Button	at (43, 80)	2	on_create	PatientNew.script
+2016-09-26 09:27:45.655 -0600	click	PatientNew/Name	at (379, 202)	3	on_create	PatientNew.script
+2016-09-26 09:27:46.977 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,236), ImageRectangle:(302,231,317,241), Language:"English", searchRectangle:(279,222,379,302), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 236)	7	on_create	PatientNew.script
+2016-09-26 09:27:47.102 -0600	click		at (309, 236)	8	on_create	PatientNew.script
+2016-09-26 09:27:47.858 -0600	readtext		(279,222,379,302)
+2016-09-26 09:27:47.859 -0600	Log		Date of Birth\nUnassigned	11	on_create	PatientNew.script
+2016-09-26 09:27:47.981 -0600	typetext		[tab]Dondald[tab]	13	on_create	PatientNew.script
+2016-09-26 09:27:48.710 -0600	typetext		A[tab]	14	on_create	PatientNew.script
+2016-09-26 09:27:49.492 -0600	typetext		Trump[tab]	15	on_create	PatientNew.script
+2016-09-26 09:27:50.286 -0600	typetext		423456[tab]	16	on_create	PatientNew.script
+2016-09-26 09:27:51.575 -0600	click	PatientNew/DateOfBirth	at (419, 237)	9	on_buttons	DOBMod.script
+2016-09-26 09:27:52.867 -0600	moveto	PatientNew/YearBack	at (429, 287)	15	on_buttons	DOBMod.script
+2016-09-26 09:27:54.144 -0600	moveto	PatientNew/MonthBack	at (464, 287)	24	on_buttons	DOBMod.script
+2016-09-26 09:27:54.958 -0600	click		at (464, 287)	27	on_buttons	DOBMod.script
+2016-09-26 09:27:56.638 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(636,324), ImageRectangle:(633,319,639,329), Language:"English", searchRectangle:(441,302,689,437), text:"5", TextPlatform:"Generic OCR")	at (636, 324)	35	on_buttons	DOBMod.script
+2016-09-26 09:27:58.045 -0600	click	Login/Social Security	at (333, 264)	21	on_create	PatientNew.script
+2016-09-26 09:27:58.891 -0600	typetext		423-05-2220	22	on_create	PatientNew.script
+2016-09-26 09:28:00.194 -0600	click	PatientNew/MaritalStatus	at (411, 288)	24	on_create	PatientNew.script
+2016-09-26 09:28:01.661 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(319,342), ImageRectangle:(302,336,337,349), Language:"English", searchRectangle:(291,298,411,438), Text:"Single", TextPlatform:"Generic OCR")	at (319, 342)	27	on_create	PatientNew.script
+2016-09-26 09:28:03.049 -0600	click	PatientNew/Sex	at (864, 233)	28	on_create	PatientNew.script
+2016-09-26 09:28:03.787 -0600	typetext		[downArrow][downArrow][returnKey]	33	on_create	PatientNew.script
+2016-09-26 09:28:05.149 -0600	click	PatientNew/CreateNewPatient	at (317, 529)	35	on_create	PatientNew.script
+2016-09-26 09:28:05.954 -0600	imagefound	PatientNew/OK	found at (543, 178)	3	on_check	PatientNew.script
+2016-09-26 09:28:06.088 -0600	imagefound	PatientNew/Error3	found at (278, 134)	4	on_check	PatientNew.script
+2016-09-26 09:28:06.100 -0600	Log		ID Already Exist	5	on_check	PatientNew.script
+2016-09-26 09:28:08.639 -0600	imagefound	PatientSelect/Clear Active Patient	Unable to Find Image PatientSelect/Clear Active Patient	4	on_patientselect	PatientSelect.script
+2016-09-26 09:28:23.751 -0600	EndTestCase		(Duration:"54.791673", Errors:"1", Exceptions:"0", StartTime:"2016-09-26 09:27:28 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-09-26 09:28:23.752 -0600	ABORTED		Execution Time 0:00:54 Index.script

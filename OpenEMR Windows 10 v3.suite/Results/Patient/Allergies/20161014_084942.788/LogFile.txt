@@ -1,0 +1,3 @@
+﻿2016-10-14 08:49:42.789 -0600	START		Running PatientAllergies.script
+2016-10-14 08:49:45.021 -0600	EndTestCase		(Duration:"2.231625", Errors:"1", Exceptions:"0", StartTime:"2016-10-14 08:49:42 -0600", Successes:"0", TestCase:"PatientAllergies.script", Warnings:"0")
+2016-10-14 08:49:45.022 -0600	ABORTED		Execution Time 0:00:02 PatientAllergies.script

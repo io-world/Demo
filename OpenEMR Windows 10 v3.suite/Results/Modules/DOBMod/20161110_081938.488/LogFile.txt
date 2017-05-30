@@ -1,0 +1,11 @@
+﻿2016-11-10 08:19:38.489 -0700	START		Running DOBMod.script
+2016-11-10 08:19:38.611 -0700	Log		2016-08-13	2	on_buttons	DOBMod.script
+2016-11-10 08:19:39.106 -0700	click	PatientNew/DateOfBirth	at (419, 237)	10	on_buttons	DOBMod.script
+2016-11-10 08:19:40.120 -0700	moveto	PatientNew/YearBack	at (429, 285)	16	on_buttons	DOBMod.script
+2016-11-10 08:19:41.117 -0700	moveto	PatientNew/MonthBack	at (461, 286)	25	on_buttons	DOBMod.script
+2016-11-10 08:19:41.924 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-10 08:19:42.729 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-10 08:19:43.541 -0700	click		at (461, 286)	28	on_buttons	DOBMod.script
+2016-11-10 08:19:45.912 -0700	Exception		Searching For Image: OCR Error: OCR operation was aborted	33	on_buttons	DOBMod.script
+2016-11-10 08:19:46.871 -0700	EndTestCase		(Duration:"8.379662", Errors:"1", Exceptions:"1", StartTime:"2016-11-10 08:19:38 -0700", Successes:"0", TestCase:"DOBMod.script", Warnings:"0")
+2016-11-10 08:19:46.871 -0700	ABORTED		Execution Time 0:00:08 DOBMod.script

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Index/Clear Patients.script" package="OpenEMR Windows 10 v2.suite" timestamp="2017-05-08 21:30:05.090 -0400"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2017-05-08 21:30:05.090 -0400"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="Index/Clear Patients.script" assertions="1" successes="0" errors="1" time="37.459729">
+  </testcase>
+ </testsuite>
+</testsuites>

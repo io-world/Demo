@@ -1,0 +1,24 @@
+﻿2016-09-08 14:50:56.271 -0600	START		Running Index.script
+2016-09-08 14:50:56.419 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-09-08 14:50:57.271 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-09-08 14:50:57.998 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-09-08 14:50:59.792 -0600	waitfor	Chrome/Refresh Icon	found at (76, 41)	4	on_login	Login.script
+2016-09-08 14:51:00.834 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-09-08 14:51:02.115 -0600	waitfor	Login/Logo	found at (524, 484)	6	on_login	Login.script
+2016-09-08 14:51:02.169 -0600	Log		Login/logo was Booted 1.278794 seconds	7	on_login	Login.script
+2016-09-08 14:51:02.277 -0600	typetext		admin[tab]	9	on_login	Login.script
+2016-09-08 14:51:03.047 -0600	typetext		pass[enter]	10	on_login	Login.script
+2016-09-08 14:51:09.722 -0600	waitfor	Chrome/Refresh Icon	found at (76, 41)	12	on_login	Login.script
+2016-09-08 14:51:09.779 -0600	Log		EMR was loaded 0.663598 seconds	13	on_login	Login.script
+2016-09-08 14:51:10.576 -0600	click	PatientNew/New Patient Button	at (43, 75)	5	on_patientnew	PatientNew.script
+2016-09-08 14:51:11.480 -0600	click	PatientNew/Name	at (379, 197)	6	on_patientnew	PatientNew.script
+2016-09-08 14:51:12.940 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,231), ImageRectangle:(302,226,316,236), Language:"English", searchRectangle:(279,217,379,297), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 231)	10	on_patientnew	PatientNew.script
+2016-09-08 14:51:13.100 -0600	click		at (309, 231)	11	on_patientnew	PatientNew.script
+2016-09-08 14:51:13.862 -0600	readtext		(279,217,379,297)
+2016-09-08 14:51:13.862 -0600	Log		Date of Birth\nUnassigned	14	on_patientnew	PatientNew.script
+2016-09-08 14:51:13.978 -0600	typetext		[tab]Richard[tab]	16	on_patientnew	PatientNew.script
+2016-09-08 14:51:14.706 -0600	typetext		A[tab]	17	on_patientnew	PatientNew.script
+2016-09-08 14:51:15.477 -0600	typetext		Ward[tab]	18	on_patientnew	PatientNew.script
+2016-09-08 14:51:16.271 -0600	typetext		123456[tab]	19	on_patientnew	PatientNew.script
+2016-09-08 14:51:17.088 -0600	EndTestCase		(Duration:"20.815614", Errors:"1", Exceptions:"0", StartTime:"2016-09-08 14:50:56 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-09-08 14:51:17.497 -0600	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands: can't subtract 'PatientNew/DateOfBirth' from '2016' (expected numbers, date and number, or lists) -- Execution Time 0:00:20 Index.script

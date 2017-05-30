@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="DNC.script" package="OpenEMR Windows 10.suite" timestamp="2016-11-29 16:08:57.553 -0700"
+ tests="1" successes="1" errors="0" time="1.152472">
+  <properties>
+   <property name="RunDate" value="2016-11-29 16:08:57.553 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="DNC.script" assertions="1" successes="1" errors="0" time="1.150603">
+  </testcase>
+ </testsuite>
+</testsuites>

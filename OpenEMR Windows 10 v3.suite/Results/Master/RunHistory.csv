@@ -1,0 +1,8 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-12-16 14:39:22.556 -0700,"Failure",0:00:00,1,0,0,"20161216_143922.556/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'modules_emr'",0
+2016-12-16 14:39:48.466 -0700,"Failure",0:00:00,1,0,0,"20161216_143948.466/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 's_emr'",0
+2016-12-19 12:51:31.010 -0800,"Failure",0:00:00,1,0,0,"20161219_125131.010/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR'.",0
+2016-12-19 12:52:21.879 -0800,"Failure",0:00:00,1,0,0,"20161219_125221.879/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR'.",0
+2016-12-19 12:52:59.454 -0800,"Failure",0:00:00,1,0,0,"20161219_125259.454/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Modules/EMR'.",0
+2016-12-19 12:53:11.734 -0800,"Running",0:00:00,0,0,0,"20161219_125311.734/LogFile.txt","","",0
+2016-12-19 12:53:34.031 -0800,"Success",0:00:12,0,0,0,"20161219_125334.031/LogFile.txt","","",1

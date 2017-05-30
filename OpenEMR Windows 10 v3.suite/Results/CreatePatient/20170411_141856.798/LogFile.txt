@@ -1,0 +1,8 @@
+﻿2017-04-11 14:18:56.798 -0600	START		Running CreatePatient.table
+2017-04-11 14:18:57.193 -0600	waitfor	PatientNew/New/New Patient Button	found at (43, 80)
+2017-04-11 14:18:57.730 -0600	click	PatientNew/New/New Patient Button	at (43, 80)
+2017-04-11 14:18:57.834 -0600	waitfor	PatientNew/New/Name	found at (378, 201)
+2017-04-11 14:18:58.633 -0600	click	PatientNew/New/Name	at (378, 201)
+2017-04-11 14:18:59.394 -0600	typetext		John
+2017-04-11 14:18:59.396 -0600	EndTestCase		(Duration:"2.596362", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 14:18:56 -0600", Successes:"1", TestCase:"CreatePatient.table", Warnings:"0")
+2017-04-11 14:18:59.468 -0600	SUCCESS		Execution Time 0:00:02 CreatePatient.table

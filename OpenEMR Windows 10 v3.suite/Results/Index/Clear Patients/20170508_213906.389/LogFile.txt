@@ -1,0 +1,43 @@
+﻿2017-05-08 21:39:06.390 -0400	START		Running Index/Clear Patients.script
+2017-05-08 21:39:06.483 -0400	typetext		[windowsKey]r	1	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:07.324 -0400	typetext		chrome.exe[returnKey]	2	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:10.560 -0400	waitfor	Chrome/Refresh Icon	found at (72, 47)	6	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:10.588 -0400	typetext		[controlKey]l	7	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:12.793 -0400	typetext		http://127.0.0.1/phpmyadmin/sql.php?server=1&db=openemr&table=patient_data&pos=0&token=ff2c171ae4caad36f9173ee501240841[enter]	9	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:18.114 -0400	waitfor	phpmyadmin/Pencil	found at (263, 476)	11	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:25.239 -0400	imagefound	phpmyadmin/BookmarkthisSQLquery	Unable to Find Image phpmyadmin/BookmarkthisSQLquery within 5.00 seconds	15	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:25.585 -0400	everyimagelocation	phpmyadmin/Pencil	found 14 images	16	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:25.924 -0400	everyimagelocation	phpmyadmin/Pencil	found 14 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:26.031 -0400	click		at (263, 476)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:27.033 -0400	everyimagelocation	phpmyadmin/Pencil	found 13 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:27.135 -0400	click		at (263, 527)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:28.158 -0400	everyimagelocation	phpmyadmin/Pencil	found 12 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:28.267 -0400	click		at (263, 578)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:29.316 -0400	everyimagelocation	phpmyadmin/Pencil	found 11 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:29.423 -0400	click		at (263, 629)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:30.452 -0400	everyimagelocation	phpmyadmin/Pencil	found 10 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:30.558 -0400	click		at (263, 680)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:31.601 -0400	everyimagelocation	phpmyadmin/Pencil	found 9 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:31.708 -0400	click		at (263, 731)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:32.796 -0400	everyimagelocation	phpmyadmin/Pencil	found 8 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:32.900 -0400	click		at (263, 782)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:33.941 -0400	everyimagelocation	phpmyadmin/Pencil	found 7 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:34.049 -0400	click		at current mouse point (263, 782)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:35.091 -0400	everyimagelocation	phpmyadmin/Pencil	found 7 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:35.201 -0400	click		at current mouse point (263, 782)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:36.288 -0400	everyimagelocation	phpmyadmin/Pencil	found 7 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:36.397 -0400	click		at current mouse point (263, 782)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:37.445 -0400	everyimagelocation	phpmyadmin/Pencil	found 8 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:37.553 -0400	click		at current mouse point (263, 782)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:38.592 -0400	everyimagelocation	phpmyadmin/Pencil	found 7 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:38.699 -0400	click		at current mouse point (263, 782)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:39.740 -0400	everyimagelocation	phpmyadmin/Pencil	found 7 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:39.850 -0400	click		at current mouse point (263, 782)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:40.893 -0400	everyimagelocation	phpmyadmin/Pencil	found 7 images	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:40.998 -0400	click		at current mouse point (263, 782)	19	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:41.714 -0400	typetext		[pageDown]	21	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:44.054 -0400	imagefound	phpmyadmin/BookmarkthisSQLquery	found at (382, 625)	23	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:45.489 -0400	click	phpmyadmin/With Selected	at (684, 413)	28	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:46.637 -0400	click	phpmyadmin/Yes	at (628, 159)	29	on_index_clear_patients	Index/Clear Patients.script
+2017-05-08 21:39:46.807 -0400	EndTestCase		(Duration:"40.414979", Errors:"0", Exceptions:"0", StartTime:"2017-05-08 21:39:06 -0400", Successes:"1", TestCase:"Index/Clear Patients.script", Warnings:"0")
+2017-05-08 21:39:46.826 -0400	SUCCESS		Execution Time 0:00:40 Index/Clear Patients.script

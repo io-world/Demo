@@ -1,0 +1,5 @@
+﻿2016-09-08 14:20:06.643 -0600	START		Running test.script
+2016-09-08 14:20:06.782 -0600	Log		6	21	on_test	test.script
+2016-09-08 14:20:06.790 -0600	Log		-3	22	on_test	test.script
+2016-09-08 14:20:07.449 -0600	EndTestCase		(Duration:"0.804559", Errors:"0", Exceptions:"0", StartTime:"2016-09-08 14:20:06 -0600", Successes:"1", TestCase:"test.script", Warnings:"0")
+2016-09-08 14:20:07.457 -0600	SUCCESS		Execution Time 0:00:00 test.script

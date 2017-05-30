@@ -1,0 +1,19 @@
+﻿put  file "//Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Resources/WebFormData.CSV"  into PatientFile 
+
+--"Modules/EMR".Login "admin", "pass"
+
+repeat forever
+	
+	put the number of  lines of PatientFile  - 1 into Max
+	repeat MAX Times  
+		
+		put line repeatindex()+1 of PatientFile into PatientInfo
+		log PatientInfo
+		split PatientInfo by ","
+		Run "Patient/New".create PatientInfo as parameters
+		"Patient/New".ClearCreate
+		
+	end repeat
+	
+	
+end repeat

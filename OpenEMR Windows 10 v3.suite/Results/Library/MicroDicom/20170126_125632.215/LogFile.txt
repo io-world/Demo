@@ -1,0 +1,22 @@
+﻿2017-01-26 12:56:32.216 -0700	START		Running Library/MicroDicom.script
+2017-01-26 12:56:32.303 -0700	typetext		[windowsKey]r	2	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:33.515 -0700	typetext		C:\Program Files\MicroDicom\mDicom.exe[returnKey]	3	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:35.471 -0700	click	MicroDicom/Open Folder	at (26, 70)	4	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:36.630 -0700	doubleclick	MicroDicom/DICOMDIR	at (230, 181)	5	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:38.596 -0700	click	MicroDicom/Play Button	at (23, 105)	6	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:39.369 -0700	readtext		(1147,127,1242,147)
+2017-01-26 12:56:39.370 -0700	Log		6/24/2006	9	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:39.414 -0700	readtext		(1130,148,1248,166)
+2017-01-26 12:56:39.415 -0700	Log		9:28:50 AM	12	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:49.625 -0700	click	MicroDicom/Stop Button	at (85, 104)	17	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:50.828 -0700	click	MicroDicom/Measurement Icon	at (484, 69)	18	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:51.596 -0700	drag		at (700, 400)	19	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:52.781 -0700	drop		at (800, 500)	20	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:53.519 -0700	readtext		(803,494,866,506)
+2017-01-26 12:56:53.520 -0700	Log		119.68	21	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:57.063 -0700	click	MicroDicom/Circle Button	at (574, 70)	23	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:57.834 -0700	drag		at (900, 200)	24	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:56:59.187 -0700	drop		at (1100, 400)	25	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:57:04.213 -0700	typetext		[windowsAltKey][F4]	27	on_library_microdicom	Library/MicroDicom.script
+2017-01-26 12:57:04.693 -0700	EndTestCase		(Duration:"32.476208", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 12:56:32 -0700", Successes:"1", TestCase:"Library/MicroDicom.script", Warnings:"0")
+2017-01-26 12:57:04.735 -0700	SUCCESS		Execution Time 0:00:32 Library/MicroDicom.script

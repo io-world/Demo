@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreatePatient.table" package="OpenEMR Windows 10 v2.suite" timestamp="2017-04-13 13:56:04.372 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2017-04-13 13:56:04.372 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="CreatePatient.table" assertions="1" successes="0" errors="1" time="33.899598">
+  </testcase>
+ </testsuite>
+</testsuites>

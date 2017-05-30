@@ -1,0 +1,10 @@
+﻿2016-09-26 08:16:54.503 -0600	START		Running PatientVisit.script
+2016-09-26 08:16:55.337 -0600	click	PatientVisit/Calendar	at (32, 182)	3	on_create	PatientVisit.script
+2016-09-26 08:16:56.742 -0600	click	PatientVisit/Add	at (184, 125)	4	on_create	PatientVisit.script
+2016-09-26 08:16:57.666 -0600	click	PatientVisit/Patient	at (292, 292)	5	on_create	PatientVisit.script
+2016-09-26 08:16:58.400 -0600	waitfor	PatientVisit/Search	found at (102, 132)	6	on_create	PatientVisit.script
+2016-09-26 08:16:58.534 -0600	typetext		don,trump	8	on_create	PatientVisit.script
+2016-09-26 08:16:59.252 -0600	typetext		[enter]	9	on_create	PatientVisit.script
+2016-09-26 08:16:59.257 -0600	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]	10	on_create	PatientVisit.script
+2016-09-26 08:16:59.914 -0600	EndTestCase		(Duration:"5.409891", Errors:"1", Exceptions:"1", StartTime:"2016-09-26 08:16:54 -0600", Successes:"0", TestCase:"PatientVisit.script", Warnings:"0")
+2016-09-26 08:17:00.550 -0600	FAILURE	Screen_Error.png	Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:05 PatientVisit.script

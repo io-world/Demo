@@ -1,0 +1,8 @@
+﻿2017-04-13 14:20:15.457 -0600	START		Running Logoff.table
+2017-04-13 14:20:15.986 -0600	doubleclick	ChromeDesktopIcon	at (186, 32)
+2017-04-13 14:20:18.448 -0600	waitfor	RefreshChromeIcon	found at (72, 45)
+2017-04-13 14:20:18.715 -0600	click	AddressChrome	at (267, 48)
+2017-04-13 14:20:19.651 -0600	typetext		wwww.testplant.com
+2017-04-13 14:20:20.368 -0600	typetext		[returnKey]
+2017-04-13 14:20:20.369 -0600	EndTestCase		(Duration:"4.911173", Errors:"0", Exceptions:"0", StartTime:"2017-04-13 14:20:15 -0600", Successes:"1", TestCase:"Logoff.table", Warnings:"0")
+2017-04-13 14:20:20.410 -0600	SUCCESS		Execution Time 0:00:04 Logoff.table

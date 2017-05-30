@@ -1,0 +1,5 @@
+﻿2016-11-17 08:30:44.935 -0700	START		Running MicroDicom.script
+2016-11-17 08:30:44.999 -0700	typetext		[windowsKey]r	2	on_microdicom	MicroDicom.script
+2016-11-17 08:30:46.199 -0700	typetext		C:\Program Files\MicroDicom\mDicom.exe[returnKey]	3	on_microdicom	MicroDicom.script
+2016-11-17 08:30:48.437 -0700	EndTestCase		(Duration:"3.500924", Errors:"1", Exceptions:"0", StartTime:"2016-11-17 08:30:44 -0700", Successes:"0", TestCase:"MicroDicom.script", Warnings:"0")
+2016-11-17 08:30:48.438 -0700	ABORTED		Execution Time 0:00:03 MicroDicom.script

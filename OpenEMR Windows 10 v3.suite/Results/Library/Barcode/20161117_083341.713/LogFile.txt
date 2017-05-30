@@ -1,0 +1,5 @@
+﻿2016-11-17 08:33:41.714 -0700	START		Running Barcode.script
+2016-11-17 08:33:41.986 -0700	readtext		(60,190,690,290)
+2016-11-17 08:33:41.988 -0700	Log		PatientAllergies\nPatientDelete\nPatientNew\nPatientSelect\nPatientVisit	2	on_barcode	Barcode.script
+2016-11-17 08:33:42.339 -0700	EndTestCase		(Duration:"0.623681", Errors:"1", Exceptions:"0", StartTime:"2016-11-17 08:33:41 -0700", Successes:"0", TestCase:"Barcode.script", Warnings:"0")
+2016-11-17 08:33:43.354 -0700	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: 'PatientAllergies⏎...' -- Execution Time 0:00:00 Barcode.script

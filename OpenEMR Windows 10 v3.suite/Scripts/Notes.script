@@ -1,0 +1,28 @@
+﻿http://localhost/phpmyadmin/sql.php?server=1&db=openemr&table=patient_data&pos=0&token=a7d36b6540c42409ac522d53731f9b86
+
+some more notes!!!s
+delete * FROM openemr.patient_data
+
+
+http://localhost/openemr/interface/login/login_frame.php?site=default
+
+
+
+
+
+put (a..z) into alphabet
+
+
+repeat 10 times
+	
+put item random(1,26) into RC
+
+end repeat
+
+
+
+put file ResourcePath("WebFormData.csv") into var
+
+
+--click "asdasdasd"
+TypeText item 7 of line 5 of var

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="DOBMod.script" package="OpenEMR Windows 10.suite" timestamp="2016-11-10 08:19:38.488 -0700"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-11-10 08:19:38.488 -0700"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="DOBMod.script" assertions="1" successes="0" errors="1" time="8.379662">
+  </testcase>
+ </testsuite>
+</testsuites>

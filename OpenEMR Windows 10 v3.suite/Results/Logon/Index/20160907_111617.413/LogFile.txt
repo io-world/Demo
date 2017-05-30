@@ -1,0 +1,62 @@
+﻿2016-09-07 11:16:17.414 -0600	START		Running Index.script
+2016-09-07 11:16:17.552 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-09-07 11:16:18.401 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-09-07 11:16:19.131 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-09-07 11:16:21.040 -0600	waitfor	Chrome/Refresh Icon	found at (76, 41)	4	on_login	Login.script
+2016-09-07 11:16:22.077 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	5	on_login	Login.script
+2016-09-07 11:16:24.053 -0600	waitfor	Login/Logo	found at (524, 484)	9	on_login	Login.script
+2016-09-07 11:16:24.075 -0600	Log		1.967465 seconds	10	on_login	Login.script
+2016-09-07 11:16:24.177 -0600	typetext		admin[tab]	12	on_login	Login.script
+2016-09-07 11:16:24.949 -0600	typetext		pass[enter]	13	on_login	Login.script
+2016-09-07 11:16:32.062 -0600	click	PatientNew/New Patient Button	at (43, 75)	5	on_patientnew	PatientNew.script
+2016-09-07 11:16:33.151 -0600	click	PatientNew/Name	at (379, 197)	6	on_patientnew	PatientNew.script
+2016-09-07 11:16:35.279 -0600	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(309,231), ImageRectangle:(302,226,317,236), Language:"English", searchRectangle:(279,217,379,297), text:"Mr", TextPlatform:"Generic OCR")	found at (309, 231)	10	on_patientnew	PatientNew.script
+2016-09-07 11:16:35.420 -0600	click		at (309, 231)	11	on_patientnew	PatientNew.script
+2016-09-07 11:16:36.237 -0600	readtext		(279,217,379,297)
+2016-09-07 11:16:36.238 -0600	Log		Date of Birth\nUnassigned	14	on_patientnew	PatientNew.script
+2016-09-07 11:16:36.361 -0600	typetext		[tab]Richard[tab]	16	on_patientnew	PatientNew.script
+2016-09-07 11:16:37.092 -0600	typetext		A[tab]	17	on_patientnew	PatientNew.script
+2016-09-07 11:16:37.861 -0600	typetext		Ward[tab]	18	on_patientnew	PatientNew.script
+2016-09-07 11:16:38.655 -0600	typetext		123456[tab]	19	on_patientnew	PatientNew.script
+2016-09-07 11:16:39.942 -0600	click	PatientNew/DateOfBirth	at (419, 232)	22	on_patientnew	PatientNew.script
+2016-09-07 11:16:41.626 -0600	moveto	PatientNew/MonthBack	at (464, 282)	27	on_patientnew	PatientNew.script
+2016-09-07 11:16:42.442 -0600	click		at (464, 282)	29	on_patientnew	PatientNew.script
+2016-09-07 11:16:43.256 -0600	click		at (464, 282)	29	on_patientnew	PatientNew.script
+2016-09-07 11:16:44.070 -0600	click		at (464, 282)	29	on_patientnew	PatientNew.script
+2016-09-07 11:16:44.886 -0600	click		at (464, 282)	29	on_patientnew	PatientNew.script
+2016-09-07 11:16:45.697 -0600	click		at (464, 282)	29	on_patientnew	PatientNew.script
+2016-09-07 11:16:46.513 -0600	click		at (464, 282)	29	on_patientnew	PatientNew.script
+2016-09-07 11:16:48.176 -0600	moveto	PatientNew/YearBack	at (429, 282)	33	on_patientnew	PatientNew.script
+2016-09-07 11:16:48.988 -0600	click		at (429, 282)	35	on_patientnew	PatientNew.script
+2016-09-07 11:16:49.801 -0600	click		at (429, 282)	35	on_patientnew	PatientNew.script
+2016-09-07 11:16:50.614 -0600	click		at (429, 282)	35	on_patientnew	PatientNew.script
+2016-09-07 11:16:51.428 -0600	click		at (429, 282)	35	on_patientnew	PatientNew.script
+2016-09-07 11:16:52.243 -0600	click		at (429, 282)	35	on_patientnew	PatientNew.script
+2016-09-07 11:16:53.057 -0600	click		at (429, 282)	35	on_patientnew	PatientNew.script
+2016-09-07 11:16:55.295 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(566,338), ImageRectangle:(561,333,572,343), Language:"English", searchRectangle:(441,297,689,432), text:"10", TextPlatform:"Generic OCR")	at (566, 338)	41	on_patientnew	PatientNew.script
+2016-09-07 11:16:57.086 -0600	click	Login/Social Security	at (333, 259)	43	on_patientnew	PatientNew.script
+2016-09-07 11:16:57.933 -0600	typetext		123-05-2220	44	on_patientnew	PatientNew.script
+2016-09-07 11:16:59.262 -0600	click	PatientNew/MaritalStatus	at (411, 283)	46	on_patientnew	PatientNew.script
+2016-09-07 11:17:00.547 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(327,353), ImageRectangle:(302,348,353,358), Language:"English", searchRectangle:(291,293,411,433), Text:"Divorced", TextPlatform:"Generic OCR")	at (327, 353)	49	on_patientnew	PatientNew.script
+2016-09-07 11:17:02.351 -0600	click	PatientNew/CreateNewPatient	at (317, 524)	50	on_patientnew	PatientNew.script
+2016-09-07 11:17:08.444 -0600	click	PatientNew/OK	at (880, 219)	53	on_patientnew	PatientNew.script
+2016-09-07 11:17:10.230 -0600	click	PatientNew/Sex	at (864, 228)	54	on_patientnew	PatientNew.script
+2016-09-07 11:17:10.974 -0600	typetext		[downArrow][downArrow][returnKey]	59	on_patientnew	PatientNew.script
+2016-09-07 11:17:12.721 -0600	click	PatientNew/CreateNewPatient	at (317, 524)	64	on_patientnew	PatientNew.script
+2016-09-07 11:17:14.559 -0600	click	PatientNew/ConfirmCreateNewPatient	at (142, 544)	65	on_patientnew	PatientNew.script
+2016-09-07 11:17:17.238 -0600	imagefound	PatientAllergies/Allergies	found at (895, 443)	4	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:17.377 -0600	click		at (895, 443)	5	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:20.435 -0600	click	PatientAllergies/Add	at (194, 183)	10	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:22.070 -0600	imagelocation	PatientAllergies/Type	at (63, 101)	12	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:23.363 -0600	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(152,155), ImageRectangle:(128,149,176,162), Language:"English", searchRectangle:(113,101,213,201), Text:"penicillin", TextPlatform:"Generic OCR")	at (152, 155)	13	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:25.165 -0600	click	PatientAllergies/BeginDate	at (170, 268)	15	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:26.024 -0600	typetext		2016 - 9 - 7	16	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:27.312 -0600	click	PatientAllergies/Occurrence	at (317, 327)	17	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:28.069 -0600	typetext		[downArrow][downArrow][downArrow][returnKey]	18	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:29.891 -0600	click	PatientAllergies/Severity	at (277, 347)	19	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:30.645 -0600	typetext		[downArrow][downArrow][downArrow][returnKey]	20	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:32.388 -0600	click	PatientAllergies/Type	at (63, 101)	21	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:33.106 -0600	typetext		[pageDown]	22	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:34.890 -0600	click	PatientAllergies/Save	at (69, 466)	23	on_patientallergies	PatientAllergies.script
+2016-09-07 11:17:35.457 -0600	EndTestCase		(Duration:"78.042", Errors:"0", Exceptions:"0", StartTime:"2016-09-07 11:16:17 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-09-07 11:17:35.470 -0600	SUCCESS		Execution Time 0:01:18 Index.script

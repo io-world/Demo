@@ -1,0 +1,22 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-08-03 10:11:29.658 -0600,"Failure",0:00:09,1,0,1,"20160803_101129.658/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Login/Logo"" within 5.00 seconds",0
+2016-08-03 12:27:44.309 -0600,"Failure",0:00:09,1,0,1,"20160803_122744.309/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Login/Logo"" within 5.00 seconds",0
+2016-08-03 12:28:19.852 -0600,"Failure",0:00:53,1,0,1,"20160803_122819.852/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PatientNew/ConfirmCreateNewPatient""",0
+2016-08-04 12:29:11.911 -0600,"Failure",0:00:02,1,0,1,"20160804_122911.911/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2016-08-04 12:29:50.760 -0600,"Failure",0:01:02,1,0,1,"20160804_122950.760/LogFile.txt","","Image Not Found -- imagelocation Error - Unable To Find Image ""PatientAllergies/Type""",0
+2016-08-08 10:55:18.349 -0600,"Failure",0:00:53,1,0,1,"20160808_105518.349/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PatientNew/ConfirmCreateNewPatient""",0
+2016-08-08 10:56:53.412 -0600,"Failure",0:00:58,1,0,1,"20160808_105653.412/LogFile.txt","","Image Not Found -- imagelocation Error - Unable To Find Image ""PatientAllergies/Type""",0
+2016-08-23 13:50:28.556 -0600,"Success",0:01:13,0,0,0,"20160823_135028.556/LogFile.txt","","",1
+2016-08-30 08:40:13.461 -0600,"Failure",0:00:00,1,0,0,"20160830_084013.461/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 20: Syntax Error - can't understand [end of line] at or near character 166",0
+2016-09-06 14:38:06.695 -0600,"Success",0:01:12,0,0,0,"20160906_143806.695/LogFile.txt","","",1
+2016-09-07 11:16:17.413 -0600,"Success",0:01:18,0,0,0,"20160907_111617.413/LogFile.txt","","",1
+2016-09-08 14:50:56.270 -0600,"Failure",0:00:20,1,0,0,"20160908_145056.270/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands: can't subtract 'PatientNew/DateOfBirth' from '2016' (expected numbers, date and number, or lists)",0
+2016-09-08 14:53:53.910 -0600,"Failure",0:00:47,1,0,1,"20160908_145353.910/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PatientNew/ConfirmCreateNewPatient""",0
+2016-09-23 11:34:12.602 -0600,"Running",0:00:00,0,0,0,"20160923_113412.602/LogFile.txt","","",0
+2016-09-23 11:35:05.125 -0600,"Failure",0:01:06,1,0,1,"20160923_113505.125/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PatientAllergies/Add""",0
+2016-09-23 11:38:07.021 -0600,"Success",0:00:39,0,0,0,"20160923_113807.021/LogFile.txt","","",1
+2016-10-21 11:51:01.560 -0600,"Failure",0:00:00,1,0,0,"20161021_115101.560/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 25: Syntax Error - can't understand ""end"" at or near character 672",0
+2016-10-21 11:51:06.187 -0600,"Failure",0:00:00,1,0,0,"20161021_115106.187/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 25: Syntax Error - can't understand ""end"" at or near character 672",0
+2016-12-19 12:54:21.275 -0800,"Running",0:00:00,0,0,0,"20161219_125421.275/LogFile.txt","","",0
+2016-12-19 13:00:12.989 -0800,"Failure",0:00:00,1,0,0,"20161219_130012.989/LogFile.txt","","SenseTalk Compiler Exception -- in index_index:\nSyntax Error at line 7: Syntax Error - can't understand ""penicillin"" at or near character 214",0
+2017-01-26 11:57:10.815 -0700,"Failure",0:01:06,1,0,1,"20170126_115710.815/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PatientSelect/Patients""",0

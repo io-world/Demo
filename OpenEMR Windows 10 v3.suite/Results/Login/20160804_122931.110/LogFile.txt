@@ -1,0 +1,7 @@
+﻿2016-08-04 12:29:31.111 -0600	START		Running Login.script
+2016-08-04 12:29:31.222 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-08-04 12:29:32.071 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-08-04 12:29:32.801 -0600	typetext		[controlKey]l	3	on_login	Login.script
+2016-08-04 12:29:32.816 -0600	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]	4	on_login	Login.script
+2016-08-04 12:29:33.677 -0600	EndTestCase		(Duration:"2.564002", Errors:"1", Exceptions:"1", StartTime:"2016-08-04 12:29:31 -0600", Successes:"0", TestCase:"Login.script", Warnings:"0")
+2016-08-04 12:29:34.317 -0600	FAILURE	Screen_Error.png	Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:02 Login.script

@@ -1,0 +1,1 @@
+2016-09-08 14:50:56.270 -0600,Failure,0:00:20,1,0,0,20160908_145056.270/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands: can't subtract 'PatientNew/DateOfBirth' from '2016' (expected numbers, date and number, or lists)",0

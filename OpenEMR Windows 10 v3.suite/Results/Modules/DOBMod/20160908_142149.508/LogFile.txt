@@ -1,0 +1,6 @@
+﻿2016-09-08 14:21:49.509 -0600	START		Running test.script
+2016-09-08 14:21:49.656 -0600	Log		waswdasd	15	on_test	test.script
+2016-09-08 14:21:49.662 -0600	Log		6	21	on_test	test.script
+2016-09-08 14:21:49.674 -0600	Log		3	22	on_test	test.script
+2016-09-08 14:21:50.337 -0600	EndTestCase		(Duration:"0.826234", Errors:"0", Exceptions:"0", StartTime:"2016-09-08 14:21:49 -0600", Successes:"1", TestCase:"test.script", Warnings:"0")
+2016-09-08 14:21:50.345 -0600	SUCCESS		Execution Time 0:00:00 test.script

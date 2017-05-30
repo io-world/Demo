@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[0, 8, 60, 38], command:@"Click", eventNum:2, hotSpot:[2.5870909000000001e+01, 8.7631146200000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Start", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/OpenEMR.suite/Sessions/20161004_132136.753/Screen0002.png"}, {captureRect:[0, 8, 60, 38], command:@"Click", eventNum:4, hotSpot:[2.5870909000000001e+01, 8.7631146200000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/OpenEMR.suite/Sessions/20161004_132136.753/Screen0004.png"}, {captureRect:[275, 259, 345, 289], command:@"Click", eventNum:6, hotSpot:[3.1037728900000002e+02, 6.2511004600000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Chrome Icon", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/OpenEMR.suite/Sessions/20161004_132136.753/Screen0006.png"}, {captureRect:[101, 846, 273, 864], command:@"Click", eventNum:8, hotSpot:[2.1658911100000000e+02, 5.3164124000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"addressbar", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/randyhesse/Documents/Demos/OpenEMR.suite/Sessions/20161004_132136.753/Screen0008.png"}, {command:@"TypeText", eventNum:10, screenShotFile:@"/Users/randyhesse/Documents/Demos/OpenEMR.suite/Sessions/20161004_132136.753/Screen0010.png", text:@"\"loca\",Return"}, {command:@"TypeText", eventNum:20, screenShotFile:@"/Users/randyhesse/Documents/Demos/OpenEMR.suite/Sessions/20161004_132136.753/Screen0020.png", text:@"\"admin\",Tab,\"pass\",Return"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "Start"</string>
+		<string>Click "image0002"</string>
+		<string>Click "Chrome Icon"</string>
+		<string>Click "addressbar"</string>
+		<string>TypeText "loca",Return</string>
+		<string>TypeText "admin",Tab,"pass",Return</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Start.png</string>
+			<string>image0002.png</string>
+			<string>Chrome Icon.png</string>
+			<string>addressbar.png</string>
+			<string>Start.png</string>
+			<string>image0002.png</string>
+			<string>Chrome Icon.png</string>
+			<string>addressbar.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

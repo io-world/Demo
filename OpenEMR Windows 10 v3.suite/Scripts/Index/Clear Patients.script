@@ -1,0 +1,27 @@
+﻿TypeText windowsKey & "r"
+TypeText "chrome.exe", returnkey
+
+--------------------------------------------
+
+waitfor 5,"Chrome/Refresh Icon"
+TypeText controlKey & "l" 
+
+TypeText  "http://127.0.0.1/phpmyadmin/sql.php?server=1&db=openemr&table=patient_data&pos=0&token=ff2c171ae4caad36f9173ee501240841" , enterKey
+wait 5
+WaitFor  30, "phpmyadmin/Pencil"
+wait 2
+
+
+repeat until ImageFound(5,"phpmyadmin/BookmarkthisSQLquery")
+	TypeText pageDown
+end repeat
+
+Click "phpmyadmin/Checkall"
+
+
+wait 1
+Click "phpmyadmin/With Selected"
+Click "phpmyadmin/Yes"
+
+
+TypeText altKey &F4

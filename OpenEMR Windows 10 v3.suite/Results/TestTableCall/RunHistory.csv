@@ -1,0 +1,10 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-04-11 14:33:34.396 -0600,"Failure",0:00:00,1,0,0,"20170411_143334.396/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0
+2017-04-11 14:33:43.952 -0600,"Failure",0:00:00,1,0,0,"20170411_143343.952/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0
+2017-04-11 14:34:02.200 -0600,"Failure",0:00:00,1,0,0,"20170411_143402.200/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0
+2017-04-11 14:34:09.087 -0600,"Failure",0:00:00,1,0,0,"20170411_143409.087/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0
+2017-04-11 14:35:01.364 -0600,"Success",0:00:00,0,0,0,"20170411_143501.364/LogFile.txt","","",1
+2017-04-11 14:35:10.771 -0600,"Success",0:00:00,0,0,0,"20170411_143510.771/LogFile.txt","","",1
+2017-04-11 14:35:19.705 -0600,"Success",0:00:00,0,0,0,"20170411_143519.705/LogFile.txt","","",1
+2017-04-11 14:35:28.903 -0600,"Success",0:00:00,0,0,0,"20170411_143528.903/LogFile.txt","","",1
+2017-04-11 14:35:46.305 -0600,"Failure",0:00:00,1,0,0,"20170411_143546.305/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '""Modules/EMR"".Logout'.",0

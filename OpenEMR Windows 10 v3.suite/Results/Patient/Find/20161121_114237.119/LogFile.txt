@@ -1,0 +1,5 @@
+﻿2016-11-21 11:42:37.119 -0700	START		Running PatientFind.script
+2016-11-21 11:42:40.925 -0700	imagefound	PatientSelect/Clear Active Patient	Unable to Find Image PatientSelect/Clear Active Patient	1	on_patientfind	PatientFind.script
+2016-11-21 11:42:41.442 -0700	click	PatientSelect/Patients	at (41, 311)	4	on_patientfind	PatientFind.script
+2016-11-21 11:42:41.963 -0700	EndTestCase		(Duration:"4.842038", Errors:"0", Exceptions:"0", StartTime:"2016-11-21 11:42:37 -0700", Successes:"1", TestCase:"PatientFind.script", Warnings:"0")
+2016-11-21 11:42:42.003 -0700	SUCCESS		Execution Time 0:00:04 PatientFind.script

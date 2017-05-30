@@ -1,0 +1,259 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index">
+ <run>
+  <RunDate>2016-08-03 10:11:29.658 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.246143</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160803_101129.658/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Login/Logo&quot; within 5.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-03 12:27:44.309 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.277625</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160803_122744.309/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Login/Logo&quot; within 5.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-03 12:28:19.852 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>53.252588</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160803_122819.852/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PatientNew/ConfirmCreateNewPatient&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 12:29:11.911 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.589413</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_122911.911/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-04 12:29:50.760 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>62.936425</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_122950.760/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;PatientAllergies/Type&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-08 10:55:18.349 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>53.778580</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160808_105518.349/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PatientNew/ConfirmCreateNewPatient&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-08 10:56:53.412 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>58.167610</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160808_105653.412/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;PatientAllergies/Type&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-23 13:50:28.556 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>73.485059</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160823_135028.556/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-30 08:40:13.461 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002132</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160830_084013.461/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in index:
+Syntax Error at line 20: Syntax Error - can&#x27;t understand [end of line] at or near character 166</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-06 14:38:06.695 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>72.718623</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160906_143806.695/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-07 11:16:17.413 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>78.043936</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160907_111617.413/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-08 14:50:56.270 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>20.816836</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160908_145056.270/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands: can&#x27;t subtract &#x27;PatientNew/DateOfBirth&#x27; from &#x27;2016&#x27; (expected numbers, date and number, or lists)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-08 14:53:53.910 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>47.294508</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160908_145353.910/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PatientNew/ConfirmCreateNewPatient&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 11:34:12.602 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160923_113412.602/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 11:35:05.125 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>66.166207</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160923_113505.125/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PatientAllergies/Add&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 11:38:07.021 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>39.011580</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_113807.021/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-21 11:51:01.560 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002272</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161021_115101.560/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in index:
+Syntax Error at line 25: Syntax Error - can&#x27;t understand &quot;end&quot; at or near character 672</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-21 11:51:06.187 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002495</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161021_115106.187/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in index:
+Syntax Error at line 25: Syntax Error - can&#x27;t understand &quot;end&quot; at or near character 672</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-19 12:54:21.275 -0800</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20161219_125421.275/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-19 13:00:12.989 -0800</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002215</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161219_130012.989/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in index_index:
+Syntax Error at line 7: Syntax Error - can&#x27;t understand &quot;penicillin&quot; at or near character 214</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-26 11:57:10.815 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>66.920188</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170126_115710.815/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;PatientSelect/Patients&quot;</ErrorMessage>
+ </run>
+</runHistory>

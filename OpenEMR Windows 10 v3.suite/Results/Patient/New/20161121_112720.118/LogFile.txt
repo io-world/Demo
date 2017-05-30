@@ -1,0 +1,3 @@
+﻿2016-11-21 11:27:20.120 -0700	START		Running PatientNew.script
+2016-11-21 11:27:20.632 -0700	EndTestCase		(Duration:"0.510178", Errors:"0", Exceptions:"0", StartTime:"2016-11-21 11:27:20 -0700", Successes:"1", TestCase:"PatientNew.script", Warnings:"0")
+2016-11-21 11:27:20.646 -0700	SUCCESS		Execution Time 0:00:00 PatientNew.script

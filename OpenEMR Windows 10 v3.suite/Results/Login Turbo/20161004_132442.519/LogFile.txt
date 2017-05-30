@@ -1,0 +1,5 @@
+﻿2016-10-04 13:24:42.520 -0700	START		Running Login Turbo.script
+2016-10-04 13:24:43.705 -0700	click	Start	at (25, 876)	9	on_login_turbo	Login Turbo.script
+2016-10-04 13:25:11.375 -0700	Exception	image0002	No Image Found On Screen: "image0002"	10	on_login_turbo	Login Turbo.script
+2016-10-04 13:25:11.740 -0700	EndTestCase		(Duration:"29.218369", Errors:"1", Exceptions:"1", StartTime:"2016-10-04 13:24:42 -0700", Successes:"0", TestCase:"Login Turbo.script", Warnings:"0")
+2016-10-04 13:25:11.741 -0700	ABORTED		Execution Time 0:00:29 Login Turbo.script

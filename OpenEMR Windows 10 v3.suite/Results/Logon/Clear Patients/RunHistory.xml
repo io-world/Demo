@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<runHistory script="PatientDelete">
+ <run>
+  <RunDate>2016-08-08 10:56:26.579 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>16.798569</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160808_105626.579/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-23 13:44:02.997 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>17.251557</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160823_134402.997/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-23 13:56:53.843 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>18.573496</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160823_135653.843/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 13:51:53.042 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.670601</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160920_135153.042/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Chrome/Refresh Icon&quot; within 5.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 13:52:09.654 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.623613</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160920_135209.654/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Chrome/Refresh Icon&quot; within 5.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 13:53:59.040 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>20.033827</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_135359.040/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

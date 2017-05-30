@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index/Index Full Run">
+ <run>
+  <RunDate>2017-05-08 21:41:34.294 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>512.871377</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170508_214134.294/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

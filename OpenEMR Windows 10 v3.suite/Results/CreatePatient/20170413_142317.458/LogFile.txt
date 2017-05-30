@@ -1,0 +1,21 @@
+﻿2017-04-13 14:23:17.459 -0600	START		Running CreatePatient.table
+2017-04-13 14:23:17.846 -0600	waitfor	PatientNew/New/New Patient Button	found at (43, 80)
+2017-04-13 14:23:18.342 -0600	click	PatientNew/New/New Patient Button	at (43, 80)
+2017-04-13 14:23:18.848 -0600	waitfor	PatientNew/New/Name	found at (378, 201)
+2017-04-13 14:23:19.234 -0600	click	PatientNew/New/Name	at (378, 201)
+2017-04-13 14:23:19.963 -0600	typetext		[downArrow][returnKey]
+2017-04-13 14:23:20.728 -0600	typetext		[tab]john
+2017-04-13 14:23:21.458 -0600	typetext		[tab]A
+2017-04-13 14:23:22.214 -0600	typetext		[tab]Doe
+2017-04-13 14:23:23.007 -0600	typetext		[tab]123756
+2017-04-13 14:23:23.852 -0600	typetext		[tab]2016-08-05
+2017-04-13 14:23:24.611 -0600	typetext		[tab][downArrow][downArrow][returnKey]
+2017-04-13 14:23:25.482 -0600	typetext		[tab][tab]423-05-1210
+2017-04-13 14:23:26.210 -0600	typetext		[tab][tab]
+2017-04-13 14:23:26.954 -0600	typetext		[downArrow][downArrow][tab]
+2017-04-13 14:23:28.053 -0600	imagefound	PatientNew/New/CreateNewPatient	found at (317, 529)
+2017-04-13 14:23:28.551 -0600	click	PatientNew/New/CreateNewPatient	at (317, 529)
+2017-04-13 14:23:29.441 -0600	click	PatientNew/New/ConfirmCreateNewPatient	at (142, 545)
+2017-04-13 14:23:34.641 -0600	imagefound	(TEXT:"John Doe")	found at (503, 78)
+2017-04-13 14:23:34.643 -0600	EndTestCase		(Duration:"17.183631", Errors:"0", Exceptions:"0", StartTime:"2017-04-13 14:23:17 -0600", Successes:"1", TestCase:"CreatePatient.table", Warnings:"0")
+2017-04-13 14:23:34.698 -0600	SUCCESS		Execution Time 0:00:17 CreatePatient.table

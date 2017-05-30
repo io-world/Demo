@@ -1,0 +1,7 @@
+﻿2017-03-14 15:38:42.189 -0600	START		Running Index/Index Full Run.script
+2017-03-14 15:38:42.237 -0600	Log		Mr,Bruce,,Wayne,222222,2006-06-13,113-83-3798,Male,Single	9	on_index_index_full_run	Index/Index Full Run.script
+2017-03-14 15:38:42.716 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2017-03-14 15:38:42.825 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2017-03-14 15:38:43.533 -0600	click		at (378, 201)	6	on_create	Patient/New.script
+2017-03-14 15:38:44.805 -0600	EndTestCase		(Duration:"2.615051", Errors:"1", Exceptions:"0", StartTime:"2017-03-14 15:38:42 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-03-14 15:38:44.806 -0600	ABORTED		Execution Time 0:00:02 Index/Index Full Run.script

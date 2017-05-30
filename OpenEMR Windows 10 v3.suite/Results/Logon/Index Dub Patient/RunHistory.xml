@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index/Index Dub Patient">
+ <run>
+  <RunDate>2017-02-01 14:50:34.855 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>155.305278</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_145034.855/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;n&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-07 10:44:35.102 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>41.788653</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170207_104435.102/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Login/Logo&quot; within 15.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-07 10:47:22.351 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>432.747876</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170207_104722.351/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

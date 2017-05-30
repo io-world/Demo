@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Login">
+ <run>
+  <RunDate>2016-08-04 12:29:31.110 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.565428</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160804_122931.110/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-08 14:07:33.174 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.828206</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160908_140733.174/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-17 10:30:51.558 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.354591</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161017_103051.558/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,5 @@
+﻿2016-10-14 08:39:24.282 -0600	START		Running Index.script
+2016-10-14 08:39:24.446 -0600	typetext		[windowsKey]r	1	on_login	Login.script
+2016-10-14 08:39:25.291 -0600	typetext		chrome.exe[returnKey]	2	on_login	Login.script
+2016-10-14 08:39:25.679 -0600	EndTestCase		(Duration:"1.394768", Errors:"1", Exceptions:"0", StartTime:"2016-10-14 08:39:24 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-10-14 08:39:25.680 -0600	ABORTED		Execution Time 0:00:01 Index.script
