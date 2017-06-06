@@ -232,4 +232,16 @@ Syntax Error at line 34: Syntax Error - can&#x27;t understand &quot;end&quot; at
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-05-31 08:27:44.073 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>115.951429</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170531_082744.073/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Resolution/Screen 1&quot; within 10.00 seconds</ErrorMessage>
+ </run>
 </runHistory>

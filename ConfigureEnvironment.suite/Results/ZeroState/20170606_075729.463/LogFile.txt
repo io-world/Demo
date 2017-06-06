@@ -1,0 +1,30 @@
+﻿2017-06-06 07:57:29.464 -0600	START		Running ZeroState.script
+2017-06-06 07:57:29.920 -0600	capturescreen	Before Zeroing.png		2	on_zerostate	ZeroState.script
+2017-06-06 07:57:29.926 -0600	Log		Current Resolution (1440,900)	2	on_resolution	Resolution.script
+2017-06-06 07:57:30.350 -0600	imagefound	Resolution/Background	found at (436, 152)	5	on_resolution	Resolution.script
+2017-06-06 07:57:30.458 -0600	rightclick		at (436, 152)	14	on_resolution	Resolution.script
+2017-06-06 07:57:31.682 -0600	click	Resolution/Display Settings	at (501, 343)	17	on_resolution	Resolution.script
+2017-06-06 07:57:35.807 -0600	imagefound	Resolution/Float	Unable to Find Image Resolution/Float	18	on_resolution	Resolution.script
+2017-06-06 07:57:36.349 -0600	click	Resolution/Settings	at (105, 7)	22	on_resolution	Resolution.script
+2017-06-06 07:57:36.774 -0600	waitfor	Resolution/Screen 1	found at (784, 316)	26	on_resolution	Resolution.script
+2017-06-06 07:57:37.066 -0600	typetext		[pageDown]	27	on_resolution	Resolution.script
+2017-06-06 07:57:38.088 -0600	click	Resolution/Advanced display settings	at (433, 792)	28	on_resolution	Resolution.script
+2017-06-06 07:57:38.196 -0600	waitfor	Resolution/Screen 1	found at (784, 181)	29	on_resolution	Resolution.script
+2017-06-06 07:57:40.307 -0600	click		at (784, 181)	31	on_resolution	Resolution.script
+2017-06-06 07:57:41.024 -0600	typetext		[pageDown]	33	on_resolution	Resolution.script
+2017-06-06 07:57:42.136 -0600	imagefound	Resolution/1440x900	found at (79, 388)	36	on_resolution	Resolution.script
+2017-06-06 07:57:42.137 -0600	Log		End Resolution (1440,900)	54	on_resolution	Resolution.script
+2017-06-06 07:57:42.161 -0600	typetext		[windowsAltKey][F4]	59	on_resolution	Resolution.script
+2017-06-06 07:57:42.260 -0600	capturescreen	After Resolution.png		5	on_zerostate	ZeroState.script
+2017-06-06 07:57:42.266 -0600	Log		Chrome	3	on_check	Browsers.script
+2017-06-06 07:57:42.268 -0600	Log		Good to go	8	on_check	Browsers.script
+2017-06-06 07:57:42.876 -0600	moveto		at (400, 400)	10	on_check	Browsers.script
+2017-06-06 07:57:48.875 -0600	imagefound	Chrome/Icon Open	Unable to Find Image Chrome/Icon Open within 5.00 seconds	11	on_check	Browsers.script
+2017-06-06 07:57:48.877 -0600	Log		Found No Open Instance of Chrome	16	on_check	Browsers.script
+2017-06-06 07:57:49.312 -0600	imagefound	Chrome/Icon Normal	found at (663, 884)	18	on_check	Browsers.script
+2017-06-06 07:57:49.313 -0600	Log		 No instance of Chrome Opened	19	on_check	Browsers.script
+2017-06-06 07:57:52.341 -0600	typetext		[windowsKey]r	24	on_check	Browsers.script
+2017-06-06 07:57:53.188 -0600	typetext		Chrome.exe[returnKey]	27	on_check	Browsers.script
+2017-06-06 07:57:56.335 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	33	on_check	Browsers.script
+2017-06-06 07:57:57.733 -0600	EndTestCase		(Duration:"28.26797", Errors:"1", Exceptions:"0", StartTime:"2017-06-06 07:57:29 -0600", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
+2017-06-06 07:57:57.734 -0600	ABORTED		Execution Time 0:00:28 ZeroState.script

@@ -15,7 +15,7 @@ rightclick FoundImageLocation()
 
 
 Click "Resolution/Display Settings"
-if imagefound("Resolution/Float")
+if imagefound(5, "Resolution/Float")
 	click FoundImageLocation()
 	wait 1
 end if
