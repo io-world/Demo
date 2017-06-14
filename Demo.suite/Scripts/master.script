@@ -1,0 +1,36 @@
+﻿
+put "www.amazon.com" into Website
+
+
+
+
+
+
+
+
+
+
+Click "Start"
+Click "Chrome"
+log "chrome has been open"
+WaitFor 100, "Refresh"
+log the result
+click FoundImageLocation()
+
+log Website
+TypeText Website, returnKey
+
+click text:"deals"
+log "deals has been clicked"
+
+
+
+If ImageFound( "watch") then
+	log "found it"
+	click FoundImageLocation()
+Else
+	log "nope"
+	click "Refresh"
+	TypeText "shop.google.com", returnKey
+	
+End if
