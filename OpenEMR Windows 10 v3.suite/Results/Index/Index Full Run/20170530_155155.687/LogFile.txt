@@ -1,0 +1,29 @@
+﻿2017-05-30 15:51:55.688 -0600	START		Running Index/Index Full Run.script
+2017-05-30 15:51:55.796 -0600	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-05-30 15:51:56.642 -0600	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-05-30 15:51:59.948 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Modules/EMR.script
+2017-05-30 15:51:59.974 -0600	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-05-30 15:52:01.669 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-05-30 15:52:02.908 -0600	waitfor	Login/Logo	found at (524, 486)	8	on_login	Modules/EMR.script
+2017-05-30 15:52:02.909 -0600	Log		Login/logo was Booted 1.238488 seconds	9	on_login	Modules/EMR.script
+2017-05-30 15:52:02.986 -0600	typetext		admin[tab]	11	on_login	Modules/EMR.script
+2017-05-30 15:52:03.754 -0600	typetext		pass[enter]	12	on_login	Modules/EMR.script
+2017-05-30 15:52:10.709 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	14	on_login	Modules/EMR.script
+2017-05-30 15:52:10.711 -0600	Log		EMR was loaded 0.94456 seconds	15	on_login	Modules/EMR.script
+2017-05-30 15:52:10.720 -0600	Log		(@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:52:10.724 -0600	Log		((@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387"))	12	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:52:11.292 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2017-05-30 15:52:11.780 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2017-05-30 15:52:12.104 -0600	click		at (378, 201)	6	on_create	Patient/New.script
+2017-05-30 15:52:19.153 -0600	imagefound	(TEXT:"(@"date of birth":"2014-03-16 12:00:00 -0600"")	Unable to Find Image (TEXT:"(@"date of birth":"2014-03-16 12:00:00 -0600"")	8	on_create	Patient/New.script
+2017-05-30 15:52:19.472 -0600	typetext		[tab] @"first name":"Carrie"[tab]	14	on_create	Patient/New.script
+2017-05-30 15:52:20.394 -0600	typetext		 gender:"Female"[tab]	15	on_create	Patient/New.script
+2017-05-30 15:52:21.442 -0600	typetext		 @"last name":"Underwood"[tab]	16	on_create	Patient/New.script
+2017-05-30 15:52:22.528 -0600	typetext		 @"marital status":"Married"[tab]	17	on_create	Patient/New.script
+2017-05-30 15:52:22.528 -0600	Log		 @"first name":"Carrie"	18	on_create	Patient/New.script
+2017-05-30 15:52:22.531 -0600	Log		 gender:"Female"	19	on_create	Patient/New.script
+2017-05-30 15:52:22.533 -0600	Log		 @"last name":"Underwood"	20	on_create	Patient/New.script
+2017-05-30 15:52:22.535 -0600	Log		 @"marital status":"Married"	21	on_create	Patient/New.script
+2017-05-30 15:52:22.542 -0600	Log		 @"medical record number":"333333"	2	on_buttons	Modules/DOBMod.script
+2017-05-30 15:52:23.076 -0600	EndTestCase		(Duration:"27.386272", Errors:"1", Exceptions:"0", StartTime:"2017-05-30 15:51:55 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-30 15:52:23.581 -0600	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands: can't subtract ' @"medical record number":"...' from '2017' (expected numbers, date and number, or lists) -- Execution Time 0:00:27 Index/Index Full Run.script

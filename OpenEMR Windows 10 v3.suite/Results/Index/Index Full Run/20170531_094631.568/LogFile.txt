@@ -1,0 +1,36 @@
+﻿2017-05-31 09:46:31.569 -0600	START		Running Index/Index Full Run.script
+2017-05-31 09:46:31.715 -0600	Log		XXXXXXBruce	3	on_create	Patient/New.script
+2017-05-31 09:46:32.191 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	6	on_create	Patient/New.script
+2017-05-31 09:46:32.300 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	7	on_create	Patient/New.script
+2017-05-31 09:46:33.004 -0600	click		at (378, 201)	9	on_create	Patient/New.script
+2017-05-31 09:46:34.278 -0600	imagefound	(TEXT:"Mr")	found at (309, 236)	11	on_create	Patient/New.script
+2017-05-31 09:46:34.390 -0600	click		at (309, 236)	12	on_create	Patient/New.script
+2017-05-31 09:46:34.390 -0600	Log		Mr	13	on_create	Patient/New.script
+2017-05-31 09:46:35.184 -0600	typetext		[tab]Bruce[tab]	17	on_create	Patient/New.script
+2017-05-31 09:46:35.902 -0600	typetext		[tab]	18	on_create	Patient/New.script
+2017-05-31 09:46:36.686 -0600	typetext		Wayne[tab]	19	on_create	Patient/New.script
+2017-05-31 09:46:37.479 -0600	typetext		222222[tab]	20	on_create	Patient/New.script
+2017-05-31 09:46:37.479 -0600	Log		Bruce	21	on_create	Patient/New.script
+2017-05-31 09:46:37.481 -0600	Log			22	on_create	Patient/New.script
+2017-05-31 09:46:37.482 -0600	Log		Wayne	23	on_create	Patient/New.script
+2017-05-31 09:46:37.483 -0600	Log		222222	24	on_create	Patient/New.script
+2017-05-31 09:46:37.490 -0600	Log		2006-06-13 12:00:00 -0600	2	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:38.664 -0600	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:39.380 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:40.457 -0600	moveto	PatientNew/DOB/YearBack	at (429, 285)	17	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:41.270 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:42.085 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:42.899 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:43.716 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:44.530 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:45.344 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:46.160 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:46.972 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:47.788 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:48.600 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:49.415 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:50.459 -0600	moveto	PatientNew/DOB/MonthFoward	at (624, 286)	24	on_buttons	Modules/DOBMod.script
+2017-05-31 09:46:51.271 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-05-31 09:47:04.608 -0600	Exception	(TEXT:"13 12:: ")	No Image Found On Screen: "(TEXT:"13 12:: ")"	32	on_buttons	Modules/DOBMod.script
+2017-05-31 09:47:04.991 -0600	EndTestCase		(Duration:"33.420815", Errors:"1", Exceptions:"1", StartTime:"2017-05-31 09:46:31 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-31 09:47:04.992 -0600	ABORTED		Execution Time 0:00:33 Index/Index Full Run.script

@@ -1,17 +1,28 @@
 ﻿
 
-sendmail(to: "9734327060@vtext.com", subject: "Test failed", body: "Hi From Randy, The very important test script generated an error. The log file is attached.", attachment: FilePath)
 
 
-txt.att.net
-
-testmanager@somecompany.com, tester1@somecompany.com
+put "9734327060" into telephonenumber
 
 
 
-put ScriptResults("index/index").LogFile into FilePath
-log FilePath
 
 
-sendmail(to: "9734327060@txt.att.net; 5128262269@vtext.com", subject: "Test failed", body: "Hi From Randy, The very important test script generated an error. The log file is attached.", attachment: FilePath)
+--put the last item of ScriptResults() into SR
+--delete "/LogFile.txt" from SR.LogFile
+--log file "/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/ResultAlert/20170616_084929.375/LogFile.txt"
+--log  file SR.LogFile
 
+--put Suiteinfo().path & "/Scripts" into LocationofScripts
+
+
+put ("txt.att.net","vtext.com","messaging.sprintpcs.com","vmobl.com","tmomail.net") into Carriers
+put the number of items of Carriers into max
+
+repeat max times
+	
+	put item repeatindex() of Carriers into Carrier
+	sendmail(to: telephonenumber&"@"&Carrier, subject: "Test failed", body: "Hi From Randy, The very important test script generated an error. The log file is attached.", attachment: MyFilePath)
+	
+	
+end repeat

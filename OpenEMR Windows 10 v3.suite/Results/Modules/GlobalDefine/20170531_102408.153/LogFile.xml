@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Modules/GlobalDefine.script" package="OpenEMR Windows 10 v3.suite" timestamp="2017-05-31 10:24:08.153 -0600"
+ tests="1" successes="1" errors="0" time="0.001800">
+  <properties>
+   <property name="RunDate" value="2017-05-31 10:24:08.153 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Modules/GlobalDefine.script" assertions="1" successes="1" errors="0" time="0.000174">
+  </testcase>
+ </testsuite>
+</testsuites>

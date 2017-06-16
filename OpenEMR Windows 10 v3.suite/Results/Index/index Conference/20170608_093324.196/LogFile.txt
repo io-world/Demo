@@ -1,0 +1,3 @@
+﻿2017-06-08 09:33:24.197 -0600	START		Running Index/index Conference.script
+2017-06-08 09:33:31.214 -0600	EndTestCase		(Duration:"7.015717", Errors:"1", Exceptions:"0", StartTime:"2017-06-08 09:33:24 -0600", Successes:"0", TestCase:"Index/index Conference.script", Warnings:"0")
+2017-06-08 09:33:31.215 -0600	ABORTED		Execution Time 0:00:07 Index/index Conference.script

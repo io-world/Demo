@@ -1,0 +1,10 @@
+﻿2017-06-16 08:49:29.376 -0600	START		Running Modules/ResultAlert.script
+2017-06-16 08:49:29.462 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/index Conference/20170608_093737.801/LogFile.txt	5	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:49:29.470 -0600	LogWarning		File /Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/index Conference/20170608_093737.801/LogFile.txt Doesn't exist for Email Attachment	18	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:49:30.874 -0600	sendmail		Email Sent To: 9734327060@txt.att.net	18	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:49:30.875 -0600	LogWarning		File /Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/index Conference/20170608_093737.801/LogFile.txt Doesn't exist for Email Attachment	18	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:49:32.311 -0600	sendmail		Email Sent To: 9734327060@vtext.com	18	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:49:32.312 -0600	LogWarning		File /Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/index Conference/20170608_093737.801/LogFile.txt Doesn't exist for Email Attachment	18	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:49:33.490 -0600	sendmail		Email Sent To: 9734327060@messaging.sprintpcs.com	18	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:49:33.607 -0600	EndTestCase		(Duration:"4.229782", Errors:"1", Exceptions:"0", StartTime:"2017-06-16 08:49:29 -0600", Successes:"0", TestCase:"Modules/ResultAlert.script", Warnings:"3")
+2017-06-16 08:49:33.608 -0600	ABORTED		Execution Time 0:00:04 Modules/ResultAlert.script

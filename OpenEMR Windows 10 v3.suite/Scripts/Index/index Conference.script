@@ -1,19 +1,26 @@
-﻿put  file "//Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Resources/WebFormData.CSV"  into PatientFile 
+﻿put "Modules/GlobalDefine".BuildPatients into PatientData
 
---"Modules/EMR".Login "admin", "pass"
 
 repeat forever
+	run "Modules/EMR".Login "admin", "pass"
 	
-	put the number of  lines of PatientFile  - 1 into Max
+	put the number of  items of PatientData  - 1 into Max
 	repeat MAX Times  
-		
-		put line repeatindex()+1 of PatientFile into PatientInfo
-		log PatientInfo
-		split PatientInfo by ","
+		put item repeatindex()+1 of PatientData into PatientInfo
 		Run "Patient/New".create PatientInfo as parameters
+		
 		"Patient/New".ClearCreate
 		
+		
+		Click "Chrome/minimize"
+		Run "Library/MicroDicom"
+		Click "Chrome/Reopen"
+		
 	end repeat
+	
+	
+	run "Modules/EMR".logout
+	
 	
 	
 end repeat

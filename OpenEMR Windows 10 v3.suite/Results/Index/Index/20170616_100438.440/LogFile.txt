@@ -1,0 +1,25 @@
+﻿2017-06-16 10:04:38.441 -0600	START		Running Index/Index.script
+2017-06-16 10:04:38.497 -0600	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-06-16 10:04:39.341 -0600	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-06-16 10:04:41.719 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Modules/EMR.script
+2017-06-16 10:04:41.742 -0600	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-06-16 10:04:43.432 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-06-16 10:04:44.658 -0600	imagefound	Login/Logo	found at (524, 486)	9	on_login	Modules/EMR.script
+2017-06-16 10:04:44.764 -0600	click		at (524, 486)	10	on_login	Modules/EMR.script
+2017-06-16 10:04:45.770 -0600	Log		Login/logo was Booted 	16	on_login	Modules/EMR.script
+2017-06-16 10:04:45.849 -0600	typetext		admin[tab]	17	on_login	Modules/EMR.script
+2017-06-16 10:04:46.617 -0600	typetext		pass[enter]	18	on_login	Modules/EMR.script
+2017-06-16 10:04:53.339 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	20	on_login	Modules/EMR.script
+2017-06-16 10:04:53.340 -0600	Log		EMR was loaded 0.716796 seconds	21	on_login	Modules/EMR.script
+2017-06-16 10:04:53.350 -0600	Log		Mr	4	on_create	Patient/New.script
+2017-06-16 10:04:53.352 -0600	Log		John	5	on_create	Patient/New.script
+2017-06-16 10:04:53.353 -0600	Log		A	6	on_create	Patient/New.script
+2017-06-16 10:04:53.354 -0600	Log		Doe	7	on_create	Patient/New.script
+2017-06-16 10:04:53.355 -0600	Log		123756	8	on_create	Patient/New.script
+2017-06-16 10:04:53.356 -0600	Log		2016-08-05	9	on_create	Patient/New.script
+2017-06-16 10:04:53.357 -0600	Log		423-05-1210	10	on_create	Patient/New.script
+2017-06-16 10:04:53.358 -0600	Log		Male	11	on_create	Patient/New.script
+2017-06-16 10:04:53.359 -0600	Log		Single	12	on_create	Patient/New.script
+2017-06-16 10:04:59.464 -0600	Exception	PatientNew/New/New Patient Button	No Image Found On Screen: "PatientNew/New/New Patient Button"	14	on_create	Patient/New.script
+2017-06-16 10:04:59.848 -0600	EndTestCase		(Duration:"21.406487", Errors:"1", Exceptions:"1", StartTime:"2017-06-16 10:04:38 -0600", Successes:"0", TestCase:"Index/Index.script", Warnings:"0")
+2017-06-16 10:04:59.849 -0600	ABORTED		Execution Time 0:00:21 Index/Index.script

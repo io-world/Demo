@@ -1,0 +1,12 @@
+﻿2017-05-31 09:47:43.265 -0600	START		Running Index/Index Full Run.script
+2017-05-31 09:47:43.417 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.419 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.422 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.424 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.426 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.428 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.430 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.433 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.434 -0600	Log			9	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:47:43.733 -0600	EndTestCase		(Duration:"0.46664", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 09:47:43 -0600", Successes:"1", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-31 09:47:43.771 -0600	SUCCESS		Execution Time 0:00:00 Index/Index Full Run.script

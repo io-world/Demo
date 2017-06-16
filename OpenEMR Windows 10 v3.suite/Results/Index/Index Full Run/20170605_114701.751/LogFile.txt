@@ -1,0 +1,12 @@
+﻿2017-06-05 11:47:01.753 -0600	START		Running Index/Index Full Run.script
+2017-06-05 11:47:01.859 -0600	Log		Mr	4	on_create	Patient/New.script
+2017-06-05 11:47:01.860 -0600	Log		Bruce	5	on_create	Patient/New.script
+2017-06-05 11:47:01.862 -0600	Log			6	on_create	Patient/New.script
+2017-06-05 11:47:01.863 -0600	Log		Wayne	7	on_create	Patient/New.script
+2017-06-05 11:47:01.864 -0600	Log		222222	8	on_create	Patient/New.script
+2017-06-05 11:47:01.866 -0600	Log		2006-06-13	9	on_create	Patient/New.script
+2017-06-05 11:47:01.867 -0600	Log		113-83-3798	10	on_create	Patient/New.script
+2017-06-05 11:47:01.868 -0600	Log		Male	11	on_create	Patient/New.script
+2017-06-05 11:47:01.870 -0600	Log		Single	12	on_create	Patient/New.script
+2017-06-05 11:47:03.867 -0600	EndTestCase		(Duration:"2.11308", Errors:"1", Exceptions:"0", StartTime:"2017-06-05 11:47:01 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-06-05 11:47:03.868 -0600	ABORTED		Execution Time 0:00:02 Index/Index Full Run.script

@@ -1,0 +1,16 @@
+﻿2017-05-31 09:46:05.663 -0600	START		Running Index/Index Full Run.script
+2017-05-31 09:46:05.841 -0600	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-05-31 09:46:06.685 -0600	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-05-31 09:46:09.429 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Modules/EMR.script
+2017-05-31 09:46:09.457 -0600	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-05-31 09:46:11.168 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-05-31 09:46:13.240 -0600	waitfor	Login/Logo	found at (524, 486)	8	on_login	Modules/EMR.script
+2017-05-31 09:46:13.241 -0600	Log		Login/logo was Booted 2.0708 seconds	9	on_login	Modules/EMR.script
+2017-05-31 09:46:13.317 -0600	typetext		admin[tab]	11	on_login	Modules/EMR.script
+2017-05-31 09:46:14.085 -0600	typetext		pass[enter]	12	on_login	Modules/EMR.script
+2017-05-31 09:46:20.844 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	14	on_login	Modules/EMR.script
+2017-05-31 09:46:20.846 -0600	Log		EMR was loaded 0.750239 seconds	15	on_login	Modules/EMR.script
+2017-05-31 09:46:20.853 -0600	Log		XXXXXX	3	on_create	Patient/New.script
+2017-05-31 09:46:21.335 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	6	on_create	Patient/New.script
+2017-05-31 09:46:22.086 -0600	EndTestCase		(Duration:"16.421504", Errors:"1", Exceptions:"0", StartTime:"2017-05-31 09:46:05 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-31 09:46:22.087 -0600	ABORTED		Execution Time 0:00:16 Index/Index Full Run.script

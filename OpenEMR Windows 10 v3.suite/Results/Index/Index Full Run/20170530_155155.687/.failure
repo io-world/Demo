@@ -1,0 +1,1 @@
+2017-05-30 15:51:55.687 -0600,Failure,0:00:27,1,0,0,20170530_155155.687/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands: can't subtract ' @""medical record number"":""...' from '2017' (expected numbers, date and number, or lists)",0

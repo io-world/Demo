@@ -1,0 +1,14 @@
+﻿2017-06-16 08:36:54.863 -0600	START		Running Modules/ResultAlert.script
+2017-06-16 08:36:54.938 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Index/20170613_150952.695/LogFile.txt	5	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:36:54.940 -0600	LogWarning		File /Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Index/20170613_150952.695/LogFile.txt Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:36:56.331 -0600	sendmail		Email Sent To: 9734327060@txt.att.net	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:36:56.332 -0600	LogWarning		File /Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Index/20170613_150952.695/LogFile.txt Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:36:57.542 -0600	sendmail		Email Sent To: 9734327060@vtext.com	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:36:57.544 -0600	LogWarning		File /Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Index/20170613_150952.695/LogFile.txt Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:36:58.683 -0600	sendmail		Email Sent To: 9734327060@messaging.sprintpcs.com	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:36:58.685 -0600	LogWarning		File /Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Index/20170613_150952.695/LogFile.txt Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:37:00.012 -0600	sendmail		Email Sent To: 9734327060@vmobl.com	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:37:00.013 -0600	LogWarning		File /Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Index/20170613_150952.695/LogFile.txt Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:37:01.208 -0600	sendmail		Email Sent To: 9734327060@tmomail.net	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-16 08:37:01.376 -0600	EndTestCase		(Duration:"6.511713", Errors:"0", Exceptions:"0", StartTime:"2017-06-16 08:36:54 -0600", Successes:"1", TestCase:"Modules/ResultAlert.script", Warnings:"5")
+2017-06-16 08:37:01.418 -0600	SUCCESS		Execution Time 0:00:06 Modules/ResultAlert.script

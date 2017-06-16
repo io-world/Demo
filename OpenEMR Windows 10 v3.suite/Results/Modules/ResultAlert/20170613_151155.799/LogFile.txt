@@ -1,0 +1,14 @@
+﻿2017-06-13 15:11:55.800 -0600	START		Running Modules/ResultAlert.script
+2017-06-13 15:11:55.863 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Index/20170613_150952.695/LogFile.txt	5	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:55.865 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:56.946 -0600	sendmail		Email Sent To: 9734327060@txt.att.net	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:56.948 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:57.927 -0600	sendmail		Email Sent To: 9734327060@vtext.com	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:57.930 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:58.721 -0600	sendmail		Email Sent To: 9734327060@messaging.sprintpcs.com	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:58.723 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:59.599 -0600	sendmail		Email Sent To: 9734327060@vmobl.com	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:11:59.601 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:12:00.448 -0600	sendmail		Email Sent To: 9734327060@tmomail.net	16	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:12:00.709 -0600	EndTestCase		(Duration:"4.906965", Errors:"0", Exceptions:"0", StartTime:"2017-06-13 15:11:55 -0600", Successes:"1", TestCase:"Modules/ResultAlert.script", Warnings:"5")
+2017-06-13 15:12:00.740 -0600	SUCCESS		Execution Time 0:00:04 Modules/ResultAlert.script

@@ -1,0 +1,19 @@
+﻿2017-05-30 15:49:51.350 -0600	START		Running Index/Index Full Run.script
+2017-05-30 15:49:51.427 -0600	Log			11	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.429 -0600	Log		()	13	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.431 -0600	Log			11	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.433 -0600	Log		()	13	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.435 -0600	Log			11	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.436 -0600	Log		()	13	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.438 -0600	Log			11	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.439 -0600	Log		()	13	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.441 -0600	Log			11	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.443 -0600	Log		()	13	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.444 -0600	Log			11	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.446 -0600	Log		()	13	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.448 -0600	Log			11	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.450 -0600	Log		()	13	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.459 -0600	Log			11	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.461 -0600	Log		()	13	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:51.927 -0600	EndTestCase		(Duration:"0.576", Errors:"0", Exceptions:"0", StartTime:"2017-05-30 15:49:51 -0600", Successes:"1", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-30 15:49:51.981 -0600	SUCCESS		Execution Time 0:00:00 Index/Index Full Run.script

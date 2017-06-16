@@ -1,0 +1,24 @@
+﻿2017-06-16 09:42:31.196 -0600	START		Running Index/Index Full Run.script
+2017-06-16 09:42:31.406 -0600	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-06-16 09:42:32.255 -0600	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-06-16 09:42:37.105 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Modules/EMR.script
+2017-06-16 09:42:37.131 -0600	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-06-16 09:42:38.847 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-06-16 09:42:40.735 -0600	imagefound	Login/Logo	found at (524, 486)	9	on_login	Modules/EMR.script
+2017-06-16 09:42:40.845 -0600	click		at (524, 486)	10	on_login	Modules/EMR.script
+2017-06-16 09:42:40.846 -0600	Log		Login/logo was Booted 	16	on_login	Modules/EMR.script
+2017-06-16 09:42:41.628 -0600	typetext		admin[tab]	17	on_login	Modules/EMR.script
+2017-06-16 09:42:42.397 -0600	typetext		pass[enter]	18	on_login	Modules/EMR.script
+2017-06-16 09:42:49.404 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	20	on_login	Modules/EMR.script
+2017-06-16 09:42:49.405 -0600	Log		EMR was loaded 0.997919 seconds	21	on_login	Modules/EMR.script
+2017-06-16 09:42:49.414 -0600	Log		Mr	4	on_create	Patient/New.script
+2017-06-16 09:42:49.415 -0600	Log		Bruce	5	on_create	Patient/New.script
+2017-06-16 09:42:49.416 -0600	Log			6	on_create	Patient/New.script
+2017-06-16 09:42:49.417 -0600	Log		Wayne	7	on_create	Patient/New.script
+2017-06-16 09:42:49.418 -0600	Log		222222	8	on_create	Patient/New.script
+2017-06-16 09:42:49.420 -0600	Log		2006-06-13	9	on_create	Patient/New.script
+2017-06-16 09:42:49.421 -0600	Log		113-83-3798	10	on_create	Patient/New.script
+2017-06-16 09:42:49.422 -0600	Log		Male	11	on_create	Patient/New.script
+2017-06-16 09:42:49.423 -0600	Log		Single	12	on_create	Patient/New.script
+2017-06-16 09:42:51.019 -0600	EndTestCase		(Duration:"19.821564", Errors:"1", Exceptions:"0", StartTime:"2017-06-16 09:42:31 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-06-16 09:42:51.020 -0600	ABORTED		Execution Time 0:00:19 Index/Index Full Run.script

@@ -1,7 +1,8 @@
 ﻿--__DUPLICCATED PATIENT
 
 
-put  file "//Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Resources/WebFormData.CSV"  into PatientFile 
+put "Modules/GlobalDefine".BuildPatients into PatientFile
+
 
 
 run "Modules/EMR".Login "admin", "pass"

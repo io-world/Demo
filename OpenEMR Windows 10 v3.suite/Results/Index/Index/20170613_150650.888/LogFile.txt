@@ -1,0 +1,90 @@
+﻿2017-06-13 15:06:50.890 -0600	START		Running Index/Index.script
+2017-06-13 15:06:50.994 -0600	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-06-13 15:06:51.833 -0600	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-06-13 15:06:56.026 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Modules/EMR.script
+2017-06-13 15:06:56.053 -0600	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-06-13 15:06:57.758 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-06-13 15:06:59.777 -0600	waitfor	Login/Logo	found at (524, 486)	8	on_login	Modules/EMR.script
+2017-06-13 15:06:59.778 -0600	Log		Login/logo was Booted 2.018137 seconds	9	on_login	Modules/EMR.script
+2017-06-13 15:06:59.855 -0600	typetext		admin[tab]	11	on_login	Modules/EMR.script
+2017-06-13 15:07:00.619 -0600	typetext		pass[enter]	12	on_login	Modules/EMR.script
+2017-06-13 15:07:07.381 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	14	on_login	Modules/EMR.script
+2017-06-13 15:07:07.382 -0600	Log		EMR was loaded 0.755641 seconds	15	on_login	Modules/EMR.script
+2017-06-13 15:07:07.420 -0600	Log		Mr	4	on_create	Patient/New.script
+2017-06-13 15:07:07.421 -0600	Log		John	5	on_create	Patient/New.script
+2017-06-13 15:07:07.422 -0600	Log		A	6	on_create	Patient/New.script
+2017-06-13 15:07:07.423 -0600	Log		Doe	7	on_create	Patient/New.script
+2017-06-13 15:07:07.424 -0600	Log		123756	8	on_create	Patient/New.script
+2017-06-13 15:07:07.425 -0600	Log		2016-08-05	9	on_create	Patient/New.script
+2017-06-13 15:07:07.425 -0600	Log		423-05-1210	10	on_create	Patient/New.script
+2017-06-13 15:07:07.426 -0600	Log		Male	11	on_create	Patient/New.script
+2017-06-13 15:07:07.427 -0600	Log		Single	12	on_create	Patient/New.script
+2017-06-13 15:07:07.866 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	14	on_create	Patient/New.script
+2017-06-13 15:07:08.741 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	15	on_create	Patient/New.script
+2017-06-13 15:07:08.852 -0600	click		at (378, 201)	17	on_create	Patient/New.script
+2017-06-13 15:07:10.101 -0600	imagefound	(TEXT:"Mr")	found at (309, 236)	18	on_create	Patient/New.script
+2017-06-13 15:07:10.210 -0600	click		at (309, 236)	19	on_create	Patient/New.script
+2017-06-13 15:07:10.990 -0600	typetext		[tab]John[tab]	22	on_create	Patient/New.script
+2017-06-13 15:07:11.720 -0600	typetext		A[tab]	23	on_create	Patient/New.script
+2017-06-13 15:07:12.475 -0600	typetext		Doe[tab]	24	on_create	Patient/New.script
+2017-06-13 15:07:13.265 -0600	typetext		123756[tab]	25	on_create	Patient/New.script
+2017-06-13 15:07:13.272 -0600	Log		2016-08-05	2	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:14.440 -0600	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:15.157 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:16.212 -0600	moveto	PatientNew/DOB/YearBack	at (429, 285)	17	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:17.022 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:18.082 -0600	moveto	PatientNew/DOB/MonthFoward	at (624, 286)	24	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:18.893 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:19.705 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:21.759 -0600	click	(TEXT:"5")	at (636, 324)	32	on_buttons	Modules/DOBMod.script
+2017-06-13 15:07:22.940 -0600	click	PatientNew/New/Social Security	at (335, 260)	27	on_create	Patient/New.script
+2017-06-13 15:07:23.780 -0600	typetext		423-05-1210	28	on_create	Patient/New.script
+2017-06-13 15:07:24.929 -0600	click	PatientNew/New/MaritalStatus	at (411, 288)	30	on_create	Patient/New.script
+2017-06-13 15:07:26.177 -0600	click	(TEXT:"Single")	at (319, 341)	33	on_create	Patient/New.script
+2017-06-13 15:07:27.363 -0600	click	PatientNew/New/Sex	at (864, 232)	35	on_create	Patient/New.script
+2017-06-13 15:07:28.105 -0600	typetext		[downArrow][downArrow][returnKey]	39	on_create	Patient/New.script
+2017-06-13 15:07:29.293 -0600	click	PatientNew/New/CreateNewPatient	at (317, 529)	41	on_create	Patient/New.script
+2017-06-13 15:07:33.996 -0600	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	2	on_check	Patient/New.script
+2017-06-13 15:07:34.390 -0600	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	12	on_check	Patient/New.script
+2017-06-13 15:07:34.499 -0600	click		at (142, 545)	13	on_check	Patient/New.script
+2017-06-13 15:07:34.499 -0600	Log		New Patient has been created	14	on_check	Patient/New.script
+2017-06-13 15:07:42.271 -0600	imagefound	PatientNew/New/NewDueClinicalReminders	Unable to Find Image PatientNew/New/NewDueClinicalReminders	16	on_check	Patient/New.script
+2017-06-13 15:07:46.308 -0600	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	2	on_fix	Patient/New.script
+2017-06-13 15:07:46.309 -0600	Log		Nothing to Fix	25	on_fix	Patient/New.script
+2017-06-13 15:07:46.680 -0600	imagefound	PatientSelect/Clear Active Patient	found at (148, 80)	4	on_patient_select	Patient/Select.script
+2017-06-13 15:07:46.788 -0600	click		at (148, 80)	5	on_patient_select	Patient/Select.script
+2017-06-13 15:07:47.710 -0600	click	PatientSelect/Patients	at (41, 311)	7	on_patient_select	Patient/Select.script
+2017-06-13 15:07:48.893 -0600	click	PatientSelect/SSN	at (794, 167)	8	on_patient_select	Patient/Select.script
+2017-06-13 15:07:49.734 -0600	typetext		423-05-1210	10	on_patient_select	Patient/Select.script
+2017-06-13 15:07:50.750 -0600	imagefound	(TEXT:"423-05-1210")	found at (724, 222)	11	on_patient_select	Patient/Select.script
+2017-06-13 15:07:50.857 -0600	click		at (524, 222)	12	on_patient_select	Patient/Select.script
+2017-06-13 15:07:52.592 -0600	imagefound	PatientAllergies/Allergies	found at (893, 448)	4	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:07:52.703 -0600	click		at (893, 448)	5	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:07:55.143 -0600	click	PatientAllergies/Add	at (194, 188)	8	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:07:56.378 -0600	imagelocation	PatientAllergies/Type	at (59, 105)	10	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:07:56.629 -0600	click	(TEXT:"penicillin")	at (151, 156)	11	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:07:57.812 -0600	click	PatientAllergies/BeginDate	at (170, 269)	13	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:07:58.676 -0600	typetext		2017 - 6 - 13	14	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:07:59.860 -0600	click	PatientAllergies/Occurrence	at (317, 328)	15	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:08:00.618 -0600	typetext		[downArrow][downArrow][downArrow][returnKey]	16	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:08:01.802 -0600	click	PatientAllergies/Severity	at (277, 348)	17	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:08:02.554 -0600	typetext		[downArrow][downArrow][downArrow][returnKey]	18	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:08:03.727 -0600	click	PatientAllergies/Type	at (59, 105)	19	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:08:04.442 -0600	typetext		[pageDown]	20	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:08:05.603 -0600	click	PatientAllergies/Save	at (69, 467)	21	on_patient_allergies	Patient/Allergies.script
+2017-06-13 15:08:06.798 -0600	click	PatientVisit/Calendar	at (32, 182)	2	on_create	Patient/Visit.script
+2017-06-13 15:08:07.972 -0600	click	PatientVisit/Add	at (184, 125)	3	on_create	Patient/Visit.script
+2017-06-13 15:08:09.019 -0600	waitfor	PatientVisit/Patient	found at (79, 115)	4	on_create	Patient/Visit.script
+2017-06-13 15:08:09.022 -0600	set		REMOTEWORKINTERVAL = 0.01	8	on_create	Patient/Visit.script
+2017-06-13 15:08:11.657 -0600	click	(TEXT:"Date")	at (261, 178)	9	on_create	Patient/Visit.script
+2017-06-13 15:08:11.774 -0600	click		at current mouse point (261, 178)	10	on_create	Patient/Visit.script
+2017-06-13 15:08:11.893 -0600	click		at current mouse point (261, 178)	11	on_create	Patient/Visit.script
+2017-06-13 15:08:11.893 -0600	set		REMOTEWORKINTERVAL = 0.7	12	on_create	Patient/Visit.script
+2017-06-13 15:08:12.719 -0600	typetext		2017-04-18	14	on_create	Patient/Visit.script
+2017-06-13 15:08:13.806 -0600	moveto	PatientVisit/Patient	at (79, 115)	15	on_create	Patient/Visit.script
+2017-06-13 15:08:14.974 -0600	click	PatientVisit/Save	at (166, 439)	16	on_create	Patient/Visit.script
+2017-06-13 15:08:15.891 -0600	click	PatientVisit/Ok	at (387, 201)	17	on_create	Patient/Visit.script
+2017-06-13 15:08:16.768 -0600	click	PatientVisit/Top Patient	at (548, 81)	2	on_delete	Patient/Visit.script
+2017-06-13 15:08:41.372 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	4	on_delete	Patient/Visit.script
+2017-06-13 15:08:41.634 -0600	EndTestCase		(Duration:"110.743418", Errors:"1", Exceptions:"1", StartTime:"2017-06-13 15:06:50 -0600", Successes:"0", TestCase:"Index/Index.script", Warnings:"0")
+2017-06-13 15:08:41.635 -0600	ABORTED		Execution Time 0:01:50 Index/Index.script

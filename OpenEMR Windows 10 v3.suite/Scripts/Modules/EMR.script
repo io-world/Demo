@@ -5,9 +5,15 @@
 	waitfor 15,"Chrome/Refresh Icon"
 	TypeText controlKey & "l" 
 	TypeText  "http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default" , enterKey
-	waitfor 15, "Login/Logo"
-	log "Login/logo was Booted"  && the result
 	
+	if ImageFound(15,image: "Login/Logo") then
+		--Click FoundImageLocation()
+	else
+		click "Chrome/Refresh Icon"
+		WaitFor 15,image: "Login/Logo"
+	end if
+	wait 1
+	log "Login/logo was Booted"  && the result
 	TypeText username, tabKey
 	TypeText password, enterkey
 	wait 6 

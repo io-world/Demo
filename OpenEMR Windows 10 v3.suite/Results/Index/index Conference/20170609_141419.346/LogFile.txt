@@ -1,0 +1,320 @@
+﻿2017-06-09 14:14:19.347 -0500	START		Running Index/index Conference.script
+2017-06-09 14:14:19.446 -0500	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-06-09 14:14:20.290 -0500	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-06-09 14:14:22.319 -0500	waitfor	Chrome/Refresh Icon	found at (191, 66)	5	on_login	Modules/EMR.script
+2017-06-09 14:14:22.341 -0500	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-06-09 14:14:24.034 -0500	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-06-09 14:14:34.148 -0500	waitfor	Login/Logo	found at (524, 486)	8	on_login	Modules/EMR.script
+2017-06-09 14:14:34.149 -0500	Log		Login/logo was Booted 0.34537 seconds	9	on_login	Modules/EMR.script
+2017-06-09 14:14:34.224 -0500	typetext		admin[tab]	11	on_login	Modules/EMR.script
+2017-06-09 14:14:34.989 -0500	typetext		pass[enter]	12	on_login	Modules/EMR.script
+2017-06-09 14:14:41.728 -0500	waitfor	Chrome/Refresh Icon	found at (72, 47)	14	on_login	Modules/EMR.script
+2017-06-09 14:14:41.729 -0500	Log		EMR was loaded 0.731268 seconds	15	on_login	Modules/EMR.script
+2017-06-09 14:14:41.770 -0500	Log		Mr	4	on_create	Patient/New.script
+2017-06-09 14:14:41.771 -0500	Log		Bruce	5	on_create	Patient/New.script
+2017-06-09 14:14:41.772 -0500	Log			6	on_create	Patient/New.script
+2017-06-09 14:14:41.773 -0500	Log		Wayne	7	on_create	Patient/New.script
+2017-06-09 14:14:41.774 -0500	Log		222222	8	on_create	Patient/New.script
+2017-06-09 14:14:41.775 -0500	Log		2006-06-13	9	on_create	Patient/New.script
+2017-06-09 14:14:41.776 -0500	Log		113-83-3798	10	on_create	Patient/New.script
+2017-06-09 14:14:41.777 -0500	Log		Male	11	on_create	Patient/New.script
+2017-06-09 14:14:41.778 -0500	Log		Single	12	on_create	Patient/New.script
+2017-06-09 14:14:42.218 -0500	click	PatientNew/New/New Patient Button	at (43, 80)	14	on_create	Patient/New.script
+2017-06-09 14:14:42.696 -0500	waitfor	PatientNew/New/Name	found at (378, 201)	15	on_create	Patient/New.script
+2017-06-09 14:14:43.029 -0500	click		at (378, 201)	17	on_create	Patient/New.script
+2017-06-09 14:14:44.195 -0500	imagefound	(TEXT:"Mr")	found at (309, 236)	18	on_create	Patient/New.script
+2017-06-09 14:14:44.303 -0500	click		at (309, 236)	19	on_create	Patient/New.script
+2017-06-09 14:14:45.094 -0500	typetext		[tab]Bruce[tab]	22	on_create	Patient/New.script
+2017-06-09 14:14:45.812 -0500	typetext		[tab]	23	on_create	Patient/New.script
+2017-06-09 14:14:46.594 -0500	typetext		Wayne[tab]	24	on_create	Patient/New.script
+2017-06-09 14:14:47.387 -0500	typetext		222222[tab]	25	on_create	Patient/New.script
+2017-06-09 14:14:47.393 -0500	Log		2006-06-13	2	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:48.534 -0500	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:49.247 -0500	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:50.293 -0500	moveto	PatientNew/DOB/YearBack	at (429, 285)	17	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:51.102 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:51.912 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:52.726 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:53.533 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:54.348 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:55.164 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:55.972 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:56.782 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:57.588 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:58.400 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:14:59.218 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:15:00.273 -0500	moveto	PatientNew/DOB/MonthFoward	at (624, 286)	24	on_buttons	Modules/DOBMod.script
+2017-06-09 14:15:02.308 -0500	click	(TEXT:"13")	at (534, 362)	32	on_buttons	Modules/DOBMod.script
+2017-06-09 14:15:03.470 -0500	click	PatientNew/New/Social Security	at (335, 260)	27	on_create	Patient/New.script
+2017-06-09 14:15:04.315 -0500	typetext		113-83-3798	28	on_create	Patient/New.script
+2017-06-09 14:15:05.465 -0500	click	PatientNew/New/MaritalStatus	at (411, 288)	30	on_create	Patient/New.script
+2017-06-09 14:15:06.704 -0500	click	(TEXT:"Single")	at (319, 341)	33	on_create	Patient/New.script
+2017-06-09 14:15:07.883 -0500	click	PatientNew/New/Sex	at (864, 232)	35	on_create	Patient/New.script
+2017-06-09 14:15:08.625 -0500	typetext		[downArrow][downArrow][returnKey]	39	on_create	Patient/New.script
+2017-06-09 14:15:09.813 -0500	click	PatientNew/New/CreateNewPatient	at (317, 529)	41	on_create	Patient/New.script
+2017-06-09 14:15:10.895 -0500	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	2	on_clearcreate	Patient/New.script
+2017-06-09 14:15:11.925 -0500	typetext		[windowsAltKey][F4]	4	on_clearcreate	Patient/New.script
+2017-06-09 14:15:16.696 -0500	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	7	on_clearcreate	Patient/New.script
+2017-06-09 14:15:17.180 -0500	click	Chrome/minimize	at (1320, 13)	16	on_index_index_conference	Index/index Conference.script
+2017-06-09 14:15:17.911 -0500	typetext		[windowsKey]r	2	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:19.097 -0500	typetext		C:\Program Files\MicroDicom\mDicom.exe[returnKey]	3	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:20.267 -0500	waitfor	MicroDicom/Open Folder	found at (26, 70)	4	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:20.269 -0500	Log		Micro Dicom Loads in 1.167479 seconds	5	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:20.379 -0500	click		at (26, 70)	6	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:22.065 -0500	doubleclick	(TEXT:"DICOMDIR")	at (392, 238)	7	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:24.160 -0500	click	MicroDicom/Play Button	at (23, 105)	9	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:24.910 -0500	readtext		(1147,127,1242,147)
+2017-06-09 14:15:24.950 -0500	readtext		(1130,148,1248,166)
+2017-06-09 14:15:24.951 -0500	Log		The Date is 6/24/20	12	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:24.952 -0500	Log		The Time is n 9:28:50 A	13	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:35.418 -0500	click	MicroDicom/Stop Button	at (85, 104)	18	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:36.982 -0500	click	MicroDicom/Measurement Icon	at (484, 69)	19	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:37.752 -0500	drag		at (700, 400)	20	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:38.934 -0500	drop		at (800, 500)	21	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:39.671 -0500	readtext		(803,494,866,506)
+2017-06-09 14:15:39.672 -0500	Log		119.68	22	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:43.544 -0500	click	MicroDicom/Circle Button	at (574, 70)	24	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:44.312 -0500	drag		at (900, 200)	25	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:45.652 -0500	drop		at (1100, 400)	26	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:50.680 -0500	typetext		[windowsAltKey][F4]	28	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:15:51.839 -0500	click	Chrome/Reopen	at (664, 880)	18	on_index_index_conference	Index/index Conference.script
+2017-06-09 14:15:51.845 -0500	Log		Mrs	4	on_create	Patient/New.script
+2017-06-09 14:15:51.846 -0500	Log		Carrie	5	on_create	Patient/New.script
+2017-06-09 14:15:51.847 -0500	Log			6	on_create	Patient/New.script
+2017-06-09 14:15:51.848 -0500	Log		Underwood	7	on_create	Patient/New.script
+2017-06-09 14:15:51.850 -0500	Log		333333	8	on_create	Patient/New.script
+2017-06-09 14:15:51.851 -0500	Log		2014-03-16	9	on_create	Patient/New.script
+2017-06-09 14:15:51.852 -0500	Log		583-00-6387	10	on_create	Patient/New.script
+2017-06-09 14:15:51.853 -0500	Log		Female	11	on_create	Patient/New.script
+2017-06-09 14:15:51.854 -0500	Log		Married	12	on_create	Patient/New.script
+2017-06-09 14:15:53.016 -0500	click	PatientNew/New/New Patient Button	at (43, 80)	14	on_create	Patient/New.script
+2017-06-09 14:15:53.129 -0500	waitfor	PatientNew/New/Name	found at (378, 201)	15	on_create	Patient/New.script
+2017-06-09 14:15:53.823 -0500	click		at (378, 201)	17	on_create	Patient/New.script
+2017-06-09 14:15:54.994 -0500	imagefound	(TEXT:"Mrs")	found at (312, 252)	18	on_create	Patient/New.script
+2017-06-09 14:15:55.104 -0500	click		at (312, 252)	19	on_create	Patient/New.script
+2017-06-09 14:15:55.908 -0500	typetext		[tab]Carrie[tab]	22	on_create	Patient/New.script
+2017-06-09 14:15:56.627 -0500	typetext		[tab]	23	on_create	Patient/New.script
+2017-06-09 14:15:57.460 -0500	typetext		Underwood[tab]	24	on_create	Patient/New.script
+2017-06-09 14:15:58.252 -0500	typetext		333333[tab]	25	on_create	Patient/New.script
+2017-06-09 14:15:58.259 -0500	Log		2014-03-16	2	on_buttons	Modules/DOBMod.script
+2017-06-09 14:15:59.405 -0500	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:00.121 -0500	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:01.178 -0500	moveto	PatientNew/DOB/YearBack	at (429, 285)	17	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:01.984 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:02.799 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:03.616 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:04.657 -0500	moveto	PatientNew/DOB/MonthBack	at (461, 286)	26	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:05.463 -0500	click		at (461, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:06.276 -0500	click		at (461, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:07.084 -0500	click		at (461, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:09.157 -0500	click	(TEXT:"16")	at (468, 381)	32	on_buttons	Modules/DOBMod.script
+2017-06-09 14:16:10.335 -0500	click	PatientNew/New/Social Security	at (335, 260)	27	on_create	Patient/New.script
+2017-06-09 14:16:11.176 -0500	typetext		583-00-6387	28	on_create	Patient/New.script
+2017-06-09 14:16:12.338 -0500	click	PatientNew/New/MaritalStatus	at (411, 288)	30	on_create	Patient/New.script
+2017-06-09 14:16:13.567 -0500	click	(TEXT:"Married")	at (323, 324)	33	on_create	Patient/New.script
+2017-06-09 14:16:14.728 -0500	click	PatientNew/New/Sex	at (864, 232)	35	on_create	Patient/New.script
+2017-06-09 14:16:15.457 -0500	typetext		[downArrow][returnKey]	37	on_create	Patient/New.script
+2017-06-09 14:16:16.624 -0500	click	PatientNew/New/CreateNewPatient	at (317, 529)	41	on_create	Patient/New.script
+2017-06-09 14:16:17.693 -0500	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	2	on_clearcreate	Patient/New.script
+2017-06-09 14:16:18.718 -0500	typetext		[windowsAltKey][F4]	4	on_clearcreate	Patient/New.script
+2017-06-09 14:16:23.470 -0500	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	7	on_clearcreate	Patient/New.script
+2017-06-09 14:16:23.943 -0500	click	Chrome/minimize	at (1320, 13)	16	on_index_index_conference	Index/index Conference.script
+2017-06-09 14:16:24.667 -0500	typetext		[windowsKey]r	2	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:25.859 -0500	typetext		C:\Program Files\MicroDicom\mDicom.exe[returnKey]	3	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:27.298 -0500	waitfor	MicroDicom/Open Folder	found at (26, 70)	4	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:27.299 -0500	Log		Micro Dicom Loads in 1.433894 seconds	5	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:27.404 -0500	click		at (26, 70)	6	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:29.031 -0500	doubleclick	(TEXT:"DICOMDIR")	at (392, 238)	7	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:31.096 -0500	click	MicroDicom/Play Button	at (23, 105)	9	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:31.843 -0500	readtext		(1147,127,1242,147)
+2017-06-09 14:16:31.882 -0500	readtext		(1130,148,1248,166)
+2017-06-09 14:16:31.883 -0500	Log		The Date is 6/24/20	12	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:31.885 -0500	Log		The Time is n 9:28:50 A	13	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:42.332 -0500	click	MicroDicom/Stop Button	at (85, 104)	18	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:43.898 -0500	click	MicroDicom/Measurement Icon	at (484, 69)	19	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:44.668 -0500	drag		at (700, 400)	20	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:45.843 -0500	drop		at (800, 500)	21	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:46.579 -0500	readtext		(803,494,866,506)
+2017-06-09 14:16:46.579 -0500	Log		119.68	22	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:50.463 -0500	click	MicroDicom/Circle Button	at (574, 70)	24	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:51.233 -0500	drag		at (900, 200)	25	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:52.569 -0500	drop		at (1100, 400)	26	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:57.598 -0500	typetext		[windowsAltKey][F4]	28	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:16:58.794 -0500	click	Chrome/Reopen	at (664, 880)	18	on_index_index_conference	Index/index Conference.script
+2017-06-09 14:16:58.800 -0500	Log		Ms	4	on_create	Patient/New.script
+2017-06-09 14:16:58.801 -0500	Log		Wonder	5	on_create	Patient/New.script
+2017-06-09 14:16:58.802 -0500	Log			6	on_create	Patient/New.script
+2017-06-09 14:16:58.804 -0500	Log		Woman	7	on_create	Patient/New.script
+2017-06-09 14:16:58.805 -0500	Log		444444	8	on_create	Patient/New.script
+2017-06-09 14:16:58.806 -0500	Log		2003-04-24	9	on_create	Patient/New.script
+2017-06-09 14:16:58.807 -0500	Log		580-71-8520	10	on_create	Patient/New.script
+2017-06-09 14:16:58.809 -0500	Log		Female	11	on_create	Patient/New.script
+2017-06-09 14:16:58.810 -0500	Log		Divorced	12	on_create	Patient/New.script
+2017-06-09 14:16:59.961 -0500	click	PatientNew/New/New Patient Button	at (43, 80)	14	on_create	Patient/New.script
+2017-06-09 14:17:00.071 -0500	waitfor	PatientNew/New/Name	found at (378, 201)	15	on_create	Patient/New.script
+2017-06-09 14:17:00.772 -0500	click		at (378, 201)	17	on_create	Patient/New.script
+2017-06-09 14:17:01.933 -0500	imagefound	(TEXT:"Ms")	found at (310, 269)	18	on_create	Patient/New.script
+2017-06-09 14:17:02.042 -0500	click		at (310, 269)	19	on_create	Patient/New.script
+2017-06-09 14:17:02.851 -0500	typetext		[tab]Wonder[tab]	22	on_create	Patient/New.script
+2017-06-09 14:17:03.570 -0500	typetext		[tab]	23	on_create	Patient/New.script
+2017-06-09 14:17:04.354 -0500	typetext		Woman[tab]	24	on_create	Patient/New.script
+2017-06-09 14:17:05.144 -0500	typetext		444444[tab]	25	on_create	Patient/New.script
+2017-06-09 14:17:05.152 -0500	Log		2003-04-24	2	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:06.284 -0500	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:07.000 -0500	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:08.060 -0500	moveto	PatientNew/DOB/YearBack	at (429, 285)	17	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:08.870 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:09.684 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:10.495 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:11.308 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:12.120 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:12.928 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:13.739 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:14.551 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:15.365 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:16.176 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:16.988 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:17.795 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:18.604 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:19.417 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:20.505 -0500	moveto	PatientNew/DOB/MonthBack	at (461, 286)	26	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:21.318 -0500	click		at (461, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:22.128 -0500	click		at (461, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:24.144 -0500	click	(TEXT:"24")	at (599, 381)	32	on_buttons	Modules/DOBMod.script
+2017-06-09 14:17:25.302 -0500	click	PatientNew/New/Social Security	at (335, 260)	27	on_create	Patient/New.script
+2017-06-09 14:17:26.133 -0500	typetext		580-71-8520	28	on_create	Patient/New.script
+2017-06-09 14:17:27.283 -0500	click	PatientNew/New/MaritalStatus	at (411, 288)	30	on_create	Patient/New.script
+2017-06-09 14:17:28.503 -0500	click	(TEXT:"Divorced")	at (327, 357)	33	on_create	Patient/New.script
+2017-06-09 14:17:29.649 -0500	click	PatientNew/New/Sex	at (864, 232)	35	on_create	Patient/New.script
+2017-06-09 14:17:30.377 -0500	typetext		[downArrow][returnKey]	37	on_create	Patient/New.script
+2017-06-09 14:17:31.520 -0500	click	PatientNew/New/CreateNewPatient	at (317, 529)	41	on_create	Patient/New.script
+2017-06-09 14:17:32.591 -0500	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	2	on_clearcreate	Patient/New.script
+2017-06-09 14:17:33.620 -0500	typetext		[windowsAltKey][F4]	4	on_clearcreate	Patient/New.script
+2017-06-09 14:17:38.298 -0500	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	7	on_clearcreate	Patient/New.script
+2017-06-09 14:17:38.784 -0500	click	Chrome/minimize	at (1320, 13)	16	on_index_index_conference	Index/index Conference.script
+2017-06-09 14:17:39.513 -0500	typetext		[windowsKey]r	2	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:40.700 -0500	typetext		C:\Program Files\MicroDicom\mDicom.exe[returnKey]	3	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:42.292 -0500	waitfor	MicroDicom/Open Folder	found at (26, 70)	4	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:42.294 -0500	Log		Micro Dicom Loads in 1.588773 seconds	5	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:42.406 -0500	click		at (26, 70)	6	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:44.106 -0500	doubleclick	(TEXT:"DICOMDIR")	at (392, 238)	7	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:46.206 -0500	click	MicroDicom/Play Button	at (23, 105)	9	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:46.957 -0500	readtext		(1147,127,1242,147)
+2017-06-09 14:17:46.998 -0500	readtext		(1130,148,1248,166)
+2017-06-09 14:17:46.999 -0500	Log		The Date is 6/24/20	12	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:47.000 -0500	Log		The Time is n 9:28:50 A	13	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:57.252 -0500	click	MicroDicom/Stop Button	at (85, 104)	18	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:58.809 -0500	click	MicroDicom/Measurement Icon	at (484, 69)	19	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:17:59.574 -0500	drag		at (700, 400)	20	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:18:00.752 -0500	drop		at (800, 500)	21	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:18:01.492 -0500	readtext		(803,494,866,506)
+2017-06-09 14:18:01.493 -0500	Log		119.68	22	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:18:05.359 -0500	click	MicroDicom/Circle Button	at (574, 70)	24	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:18:06.123 -0500	drag		at (900, 200)	25	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:18:07.450 -0500	drop		at (1100, 400)	26	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:18:12.479 -0500	typetext		[windowsAltKey][F4]	28	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:18:13.631 -0500	click	Chrome/Reopen	at (664, 880)	18	on_index_index_conference	Index/index Conference.script
+2017-06-09 14:18:13.637 -0500	Log		Dr	4	on_create	Patient/New.script
+2017-06-09 14:18:13.638 -0500	Log		Darth	5	on_create	Patient/New.script
+2017-06-09 14:18:13.639 -0500	Log			6	on_create	Patient/New.script
+2017-06-09 14:18:13.640 -0500	Log		Vader	7	on_create	Patient/New.script
+2017-06-09 14:18:13.641 -0500	Log		555555	8	on_create	Patient/New.script
+2017-06-09 14:18:13.642 -0500	Log		1987-12-23	9	on_create	Patient/New.script
+2017-06-09 14:18:13.644 -0500	Log		744-85-1232	10	on_create	Patient/New.script
+2017-06-09 14:18:13.645 -0500	Log		Male	11	on_create	Patient/New.script
+2017-06-09 14:18:13.646 -0500	Log		Widowed	12	on_create	Patient/New.script
+2017-06-09 14:18:14.793 -0500	click	PatientNew/New/New Patient Button	at (43, 80)	14	on_create	Patient/New.script
+2017-06-09 14:18:14.903 -0500	waitfor	PatientNew/New/Name	found at (378, 201)	15	on_create	Patient/New.script
+2017-06-09 14:18:15.598 -0500	click		at (378, 201)	17	on_create	Patient/New.script
+2017-06-09 14:18:16.791 -0500	imagefound	(TEXT:"Dr")	found at (308, 285)	18	on_create	Patient/New.script
+2017-06-09 14:18:16.897 -0500	click		at (308, 285)	19	on_create	Patient/New.script
+2017-06-09 14:18:17.689 -0500	typetext		[tab]Darth[tab]	22	on_create	Patient/New.script
+2017-06-09 14:18:18.404 -0500	typetext		[tab]	23	on_create	Patient/New.script
+2017-06-09 14:18:19.186 -0500	typetext		Vader[tab]	24	on_create	Patient/New.script
+2017-06-09 14:18:19.979 -0500	typetext		555555[tab]	25	on_create	Patient/New.script
+2017-06-09 14:18:19.985 -0500	Log		1987-12-23	2	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:21.121 -0500	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:21.836 -0500	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:22.879 -0500	moveto	PatientNew/DOB/YearBack	at (429, 285)	17	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:23.683 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:24.495 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:25.303 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:26.109 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:26.914 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:27.729 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:28.541 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:29.352 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:30.159 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:30.969 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:31.782 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:32.595 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:33.400 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:34.210 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:35.016 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:35.826 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:36.636 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:37.452 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:38.263 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:39.073 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:39.880 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:40.687 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:41.496 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:42.306 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:43.121 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:43.932 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:44.747 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:45.560 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:46.371 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:47.182 -0500	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:48.255 -0500	moveto	PatientNew/DOB/MonthFoward	at (624, 286)	24	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:49.070 -0500	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:49.878 -0500	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:50.691 -0500	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:51.505 -0500	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:52.317 -0500	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:53.128 -0500	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:55.139 -0500	click	(TEXT:"23")	at (566, 381)	32	on_buttons	Modules/DOBMod.script
+2017-06-09 14:18:56.318 -0500	click	PatientNew/New/Social Security	at (335, 260)	27	on_create	Patient/New.script
+2017-06-09 14:18:57.158 -0500	typetext		744-85-1232	28	on_create	Patient/New.script
+2017-06-09 14:18:58.318 -0500	click	PatientNew/New/MaritalStatus	at (411, 288)	30	on_create	Patient/New.script
+2017-06-09 14:18:59.543 -0500	click	(TEXT:"Widowed")	at (327, 373)	33	on_create	Patient/New.script
+2017-06-09 14:19:00.659 -0500	click	PatientNew/New/Sex	at (864, 232)	35	on_create	Patient/New.script
+2017-06-09 14:19:01.400 -0500	typetext		[downArrow][downArrow][returnKey]	39	on_create	Patient/New.script
+2017-06-09 14:19:02.557 -0500	click	PatientNew/New/CreateNewPatient	at (317, 529)	41	on_create	Patient/New.script
+2017-06-09 14:19:03.622 -0500	imagefound	PatientNew/New/ConfirmCreateNewPatient	found at (142, 545)	2	on_clearcreate	Patient/New.script
+2017-06-09 14:19:04.655 -0500	typetext		[windowsAltKey][F4]	4	on_clearcreate	Patient/New.script
+2017-06-09 14:19:09.342 -0500	imagefound	PatientNew/Check/OK	Unable to Find Image PatientNew/Check/OK	7	on_clearcreate	Patient/New.script
+2017-06-09 14:19:09.825 -0500	click	Chrome/minimize	at (1320, 13)	16	on_index_index_conference	Index/index Conference.script
+2017-06-09 14:19:10.554 -0500	typetext		[windowsKey]r	2	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:11.769 -0500	typetext		C:\Program Files\MicroDicom\mDicom.exe[returnKey]	3	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:13.280 -0500	waitfor	MicroDicom/Open Folder	found at (26, 70)	4	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:13.282 -0500	Log		Micro Dicom Loads in 1.506071 seconds	5	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:13.386 -0500	click		at (26, 70)	6	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:15.036 -0500	doubleclick	(TEXT:"DICOMDIR")	at (392, 238)	7	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:17.124 -0500	click	MicroDicom/Play Button	at (23, 105)	9	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:17.878 -0500	readtext		(1147,127,1242,147)
+2017-06-09 14:19:17.916 -0500	readtext		(1130,148,1248,166)
+2017-06-09 14:19:17.917 -0500	Log		The Date is 6/24/20	12	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:17.918 -0500	Log		The Time is n 9:28:50 A	13	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:28.160 -0500	click	MicroDicom/Stop Button	at (85, 104)	18	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:29.734 -0500	click	MicroDicom/Measurement Icon	at (484, 69)	19	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:30.500 -0500	drag		at (700, 400)	20	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:31.675 -0500	drop		at (800, 500)	21	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:32.414 -0500	readtext		(803,494,866,506)
+2017-06-09 14:19:32.414 -0500	Log		119.68	22	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:36.278 -0500	click	MicroDicom/Circle Button	at (574, 70)	24	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:37.043 -0500	drag		at (900, 200)	25	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:38.387 -0500	drop		at (1100, 400)	26	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:43.414 -0500	typetext		[windowsAltKey][F4]	28	on_library_microdicom	Library/MicroDicom.script
+2017-06-09 14:19:44.597 -0500	click	Chrome/Reopen	at (664, 880)	18	on_index_index_conference	Index/index Conference.script
+2017-06-09 14:19:44.603 -0500	Log		Dr	4	on_create	Patient/New.script
+2017-06-09 14:19:44.605 -0500	Log		James	5	on_create	Patient/New.script
+2017-06-09 14:19:44.606 -0500	Log			6	on_create	Patient/New.script
+2017-06-09 14:19:44.608 -0500	Log		Bond	7	on_create	Patient/New.script
+2017-06-09 14:19:44.609 -0500	Log		666666	8	on_create	Patient/New.script
+2017-06-09 14:19:44.610 -0500	Log		1981-07-30	9	on_create	Patient/New.script
+2017-06-09 14:19:44.611 -0500	Log		973-13-0224	10	on_create	Patient/New.script
+2017-06-09 14:19:44.612 -0500	Log		Male	11	on_create	Patient/New.script
+2017-06-09 14:19:44.613 -0500	Log		Single	12	on_create	Patient/New.script
+2017-06-09 14:19:45.558 -0500	EndTestCase		(Duration:"326.209357", Errors:"1", Exceptions:"0", StartTime:"2017-06-09 14:14:19 -0500", Successes:"0", TestCase:"Index/index Conference.script", Warnings:"0")
+2017-06-09 14:19:45.558 -0500	ABORTED		Execution Time 0:05:26 Index/index Conference.script

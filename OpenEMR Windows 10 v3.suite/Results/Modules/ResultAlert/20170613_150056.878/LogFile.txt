@@ -1,0 +1,5 @@
+﻿2017-06-13 15:00:56.879 -0600	START		Running Modules/ResultAlert.script
+2017-06-13 15:00:56.930 -0600	Log			3	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:00:56.933 -0600	Exception		sendmail Attachment sent as property list must specify Data or FileName (or both).	19	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 15:00:57.143 -0600	EndTestCase		(Duration:"0.263228", Errors:"1", Exceptions:"1", StartTime:"2017-06-13 15:00:56 -0600", Successes:"0", TestCase:"Modules/ResultAlert.script", Warnings:"0")
+2017-06-13 15:00:57.949 -0600	FAILURE	Screen_Error.png	Error Running Script Command sendmail Error - sendmail Attachment sent as property list must specify Data or FileName (or both). -- Execution Time 0:00:00 Modules/ResultAlert.script

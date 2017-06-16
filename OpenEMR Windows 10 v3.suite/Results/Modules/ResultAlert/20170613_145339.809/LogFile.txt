@@ -1,0 +1,13 @@
+﻿2017-06-13 14:53:39.809 -0600	START		Running Modules/ResultAlert.script
+2017-06-13 14:53:39.869 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:40.730 -0600	sendmail		Email Sent To: 5128262269@txt.att.net	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:40.732 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:41.630 -0600	sendmail		Email Sent To: 5128262269@vtext.com	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:41.632 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:42.676 -0600	sendmail		Email Sent To: 5128262269@messaging.sprintpcs.com	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:42.678 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:43.512 -0600	sendmail		Email Sent To: 5128262269@vmobl.com	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:43.514 -0600	LogWarning		File FilePath Doesn't exist for Email Attachment	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:44.316 -0600	sendmail		Email Sent To: 5128262269@tmomail.net	13	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:53:44.565 -0600	EndTestCase		(Duration:"4.753852", Errors:"0", Exceptions:"0", StartTime:"2017-06-13 14:53:39 -0600", Successes:"1", TestCase:"Modules/ResultAlert.script", Warnings:"5")
+2017-06-13 14:53:44.579 -0600	SUCCESS		Execution Time 0:00:04 Modules/ResultAlert.script

@@ -1,0 +1,12 @@
+﻿2017-06-08 11:44:23.504 -0600	START		Running Index/index Conference.script
+2017-06-08 11:44:23.571 -0600	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-06-08 11:44:24.409 -0600	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-06-08 11:44:26.309 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Modules/EMR.script
+2017-06-08 11:44:26.335 -0600	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-06-08 11:44:28.005 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-06-08 11:44:28.879 -0600	waitfor	Login/Logo	found at (524, 486)	8	on_login	Modules/EMR.script
+2017-06-08 11:44:28.879 -0600	Log		Login/logo was Booted 0.873141 seconds	9	on_login	Modules/EMR.script
+2017-06-08 11:44:28.953 -0600	typetext		admin[tab]	11	on_login	Modules/EMR.script
+2017-06-08 11:44:29.717 -0600	typetext		pass[enter]	12	on_login	Modules/EMR.script
+2017-06-08 11:44:29.943 -0600	EndTestCase		(Duration:"6.437914", Errors:"1", Exceptions:"0", StartTime:"2017-06-08 11:44:23 -0600", Successes:"0", TestCase:"Index/index Conference.script", Warnings:"0")
+2017-06-08 11:44:29.944 -0600	ABORTED		Execution Time 0:00:06 Index/index Conference.script

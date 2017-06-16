@@ -1,0 +1,5 @@
+﻿2017-05-30 15:49:25.715 -0600	START		Running Index/Index Full Run.script
+2017-05-30 15:49:25.792 -0600	Log		1	3	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:25.797 -0600	Log		0	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:49:26.268 -0600	EndTestCase		(Duration:"0.552084", Errors:"0", Exceptions:"0", StartTime:"2017-05-30 15:49:25 -0600", Successes:"1", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-30 15:49:26.310 -0600	SUCCESS		Execution Time 0:00:00 Index/Index Full Run.script

@@ -1,0 +1,94 @@
+﻿2017-05-31 09:45:25.842 -0600	START		Running Index/Index Full Run.script
+2017-05-31 09:45:25.981 -0600	Log		((Prefix,First Name,Middle Name,Last Name,Medical Record Number,Date of Birth,Social Security Number,Gender,Marital Status),(Mr,Bruce,,Wayne,222222,2006-06-13 12:00:00 -0600,113-83-3798,Male,Single),(Mrs,Carrie,,Underwood,333333,2014-03-16 12:00:00 -0600,583-00-6387,Female,Married),(Ms,Wonder,,Woman,444444,2003-04-24 12:00:00 -0600,580-71-8520,Female,Divorced),(Dr,Darth,,Vader,555555,1987-12-23 12:00:00 -0700,744-85-1232,Male,Widowed),(Dr,James,,Bond,666666,1981-07-30 12:00:00 -0600,973-13-0224,Male,Single),(Mr,Homer,,Simpson,777777,1980-09-01 12:00:00 -0600,557-31-0655,Male,Married),(Dr,Optimus,,Prime,888888,1985-09-19 12:00:00 -0600,521-26-0727,Other,Divorced),(Dr,Mickey,,Mouse,999999,2000-06-14 12:00:00 -0600,984-56-3166,Male,Single),(Mr,SpongeBob,,SquarePants,101010,2000-06-14 12:00:00 -0600,984-56-3166,Male,Single))	3	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:45:25.985 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.987 -0600	Log		PrefixMr	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.988 -0600	Log		FirstnameBruce	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.989 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.991 -0600	Log		LastNameWayne	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.992 -0600	Log		ExternalID222222	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.993 -0600	Log		 DOB2006-06-13 12:00:00 -0600	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.994 -0600	Log		ss113-83-3798	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.996 -0600	Log		MaritalSingle	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:25.997 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.009 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.010 -0600	Log		PrefixMrs	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.012 -0600	Log		FirstnameCarrie	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.013 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.014 -0600	Log		LastNameUnderwood	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.016 -0600	Log		ExternalID333333	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.018 -0600	Log		 DOB2014-03-16 12:00:00 -0600	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.019 -0600	Log		ss583-00-6387	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.020 -0600	Log		MaritalMarried	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.021 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.038 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.039 -0600	Log		PrefixMs	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.041 -0600	Log		FirstnameWonder	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.042 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.045 -0600	Log		LastNameWoman	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.047 -0600	Log		ExternalID444444	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.048 -0600	Log		 DOB2003-04-24 12:00:00 -0600	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.049 -0600	Log		ss580-71-8520	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.050 -0600	Log		MaritalDivorced	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.051 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.064 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.065 -0600	Log		PrefixDr	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.066 -0600	Log		FirstnameDarth	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.067 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.068 -0600	Log		LastNameVader	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.069 -0600	Log		ExternalID555555	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.070 -0600	Log		 DOB1987-12-23 12:00:00 -0700	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.071 -0600	Log		ss744-85-1232	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.072 -0600	Log		MaritalWidowed	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.073 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.087 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.089 -0600	Log		PrefixDr	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.090 -0600	Log		FirstnameJames	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.092 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.093 -0600	Log		LastNameBond	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.094 -0600	Log		ExternalID666666	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.095 -0600	Log		 DOB1981-07-30 12:00:00 -0600	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.096 -0600	Log		ss973-13-0224	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.098 -0600	Log		MaritalSingle	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.099 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.112 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.114 -0600	Log		PrefixMr	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.116 -0600	Log		FirstnameHomer	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.117 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.118 -0600	Log		LastNameSimpson	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.119 -0600	Log		ExternalID777777	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.120 -0600	Log		 DOB1980-09-01 12:00:00 -0600	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.122 -0600	Log		ss557-31-0655	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.123 -0600	Log		MaritalMarried	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.124 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.133 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.135 -0600	Log		PrefixDr	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.136 -0600	Log		FirstnameOptimus	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.138 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.139 -0600	Log		LastNamePrime	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.140 -0600	Log		ExternalID888888	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.141 -0600	Log		 DOB1985-09-19 12:00:00 -0600	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.143 -0600	Log		ss521-26-0727	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.144 -0600	Log		MaritalDivorced	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.145 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.150 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.151 -0600	Log		PrefixDr	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.153 -0600	Log		FirstnameMickey	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.154 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.155 -0600	Log		LastNameMouse	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.158 -0600	Log		ExternalID999999	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.159 -0600	Log		 DOB2000-06-14 12:00:00 -0600	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.161 -0600	Log		ss984-56-3166	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.162 -0600	Log		MaritalSingle	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.163 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.167 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.168 -0600	Log		PrefixMr	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.169 -0600	Log		FirstnameSpongeBob	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.170 -0600	Log		MiddleName	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.171 -0600	Log		LastNameSquarePants	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.173 -0600	Log		ExternalID101010	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.174 -0600	Log		 DOB2000-06-14 12:00:00 -0600	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.175 -0600	Log		ss984-56-3166	10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.176 -0600	Log		MaritalSingle	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.177 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:45:26.485 -0600	EndTestCase		(Duration:"0.64163", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 09:45:25 -0600", Successes:"1", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-31 09:45:26.534 -0600	SUCCESS		Execution Time 0:00:00 Index/Index Full Run.script

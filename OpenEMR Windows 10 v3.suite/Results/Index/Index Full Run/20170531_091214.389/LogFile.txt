@@ -1,0 +1,11 @@
+﻿2017-05-31 09:12:14.389 -0600	START		Running Index/Index Full Run.script
+2017-05-31 09:12:14.474 -0600	Log		(@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:12:14.479 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:12:14.481 -0600	Log		Prefix2014-03-16 12:00:00 -0600	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:12:14.482 -0600	Log		FirstnameCarrie	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:12:14.483 -0600	Log		MiddleNameFemale	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:12:14.484 -0600	Log		LastNameUnderwood	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:12:14.485 -0600	Log		ExternalIDMarried	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:12:14.486 -0600	Log		 DOB333333	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:12:14.724 -0600	EndTestCase		(Duration:"0.333234", Errors:"1", Exceptions:"0", StartTime:"2017-05-31 09:12:14 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-31 09:12:15.142 -0600	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: 'ss' -- Execution Time 0:00:00 Index/Index Full Run.script

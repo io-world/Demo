@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Modules/ResultAlert">
+ <run>
+  <RunDate>2017-06-13 14:39:07.450 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.258991</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170613_143907.450/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- scriptresults Error - Unable to locate script named: index</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 14:39:28.342 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.713183</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170613_143928.342/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 14:52:43.318 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.922663</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170613_145243.318/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 14:53:39.809 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.755311</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170613_145339.809/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 15:00:56.878 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.264958</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170613_150056.878/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- sendmail Error - sendmail Attachment sent as property list must specify Data or FileName (or both).</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 15:11:55.799 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.908592</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170613_151155.799/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 15:12:03.837 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.629716</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170613_151203.837/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-16 08:17:50.219 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.283600</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170616_081750.219/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-16 08:36:54.862 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>6.513130</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170616_083654.862/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

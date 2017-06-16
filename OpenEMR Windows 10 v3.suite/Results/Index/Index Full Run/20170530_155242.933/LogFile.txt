@@ -1,0 +1,16 @@
+﻿2017-05-30 15:52:42.934 -0600	START		Running Index/Index Full Run.script
+2017-05-30 15:52:43.570 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	3	on_create	Patient/New.script
+2017-05-30 15:52:43.673 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	4	on_create	Patient/New.script
+2017-05-30 15:52:44.380 -0600	click		at (378, 201)	6	on_create	Patient/New.script
+2017-05-30 15:52:51.361 -0600	imagefound	(TEXT:"(@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387")")	Unable to Find Image (TEXT:"(@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387")")	8	on_create	Patient/New.script
+2017-05-30 15:52:51.388 -0600	typetext		[tab][tab]	14	on_create	Patient/New.script
+2017-05-30 15:52:52.103 -0600	typetext		[tab]	15	on_create	Patient/New.script
+2017-05-30 15:52:52.818 -0600	typetext		[tab]	16	on_create	Patient/New.script
+2017-05-30 15:52:53.533 -0600	typetext		[tab]	17	on_create	Patient/New.script
+2017-05-30 15:52:53.533 -0600	Log			18	on_create	Patient/New.script
+2017-05-30 15:52:53.536 -0600	Log			19	on_create	Patient/New.script
+2017-05-30 15:52:53.538 -0600	Log			20	on_create	Patient/New.script
+2017-05-30 15:52:53.540 -0600	Log			21	on_create	Patient/New.script
+2017-05-30 15:52:53.561 -0600	Log			2	on_buttons	Modules/DOBMod.script
+2017-05-30 15:52:54.753 -0600	EndTestCase		(Duration:"11.818178", Errors:"1", Exceptions:"0", StartTime:"2017-05-30 15:52:42 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-30 15:52:54.754 -0600	ABORTED		Execution Time 0:00:11 Index/Index Full Run.script

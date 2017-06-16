@@ -1,0 +1,4 @@
+﻿2017-06-13 14:39:07.451 -0600	START		Running Modules/ResultAlert.script
+2017-06-13 14:39:07.509 -0600	Exception		Unable to locate script named: index	1	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:39:07.710 -0600	EndTestCase		(Duration:"0.257518", Errors:"1", Exceptions:"1", StartTime:"2017-06-13 14:39:07 -0600", Successes:"0", TestCase:"Modules/ResultAlert.script", Warnings:"0")
+2017-06-13 14:39:08.449 -0600	FAILURE	Screen_Error.png	Error Running Script Command scriptresults Error - Unable to locate script named: index -- Execution Time 0:00:00 Modules/ResultAlert.script

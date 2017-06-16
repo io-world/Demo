@@ -1,0 +1,25 @@
+﻿2017-05-30 15:53:18.616 -0600	START		Running Index/Index Full Run.script
+2017-05-30 15:53:18.697 -0600	Log		XXXXXX	3	on_create	Patient/New.script
+2017-05-30 15:53:19.173 -0600	click	PatientNew/New/New Patient Button	at (43, 80)	6	on_create	Patient/New.script
+2017-05-30 15:53:19.274 -0600	waitfor	PatientNew/New/Name	found at (378, 201)	7	on_create	Patient/New.script
+2017-05-30 15:53:19.983 -0600	click		at (378, 201)	9	on_create	Patient/New.script
+2017-05-30 15:53:27.001 -0600	imagefound	(TEXT:"(@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387")")	Unable to Find Image (TEXT:"(@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387")")	11	on_create	Patient/New.script
+2017-05-30 15:53:27.026 -0600	typetext		[tab][tab]	17	on_create	Patient/New.script
+2017-05-30 15:53:27.743 -0600	typetext		[tab]	18	on_create	Patient/New.script
+2017-05-30 15:53:28.456 -0600	typetext		[tab]	19	on_create	Patient/New.script
+2017-05-30 15:53:29.173 -0600	typetext		[tab]	20	on_create	Patient/New.script
+2017-05-30 15:53:29.173 -0600	Log			21	on_create	Patient/New.script
+2017-05-30 15:53:29.176 -0600	Log			22	on_create	Patient/New.script
+2017-05-30 15:53:29.179 -0600	Log			23	on_create	Patient/New.script
+2017-05-30 15:53:29.181 -0600	Log			24	on_create	Patient/New.script
+2017-05-30 15:53:29.190 -0600	Log			2	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:30.388 -0600	click	PatientNew/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:31.101 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:32.266 -0600	moveto	PatientNew/DOB/YearBack	at (429, 285)	17	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:33.076 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:33.889 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:34.698 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:35.508 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:36.308 -0600	click		at (429, 285)	19	on_buttons	Modules/DOBMod.script
+2017-05-30 15:53:36.778 -0600	EndTestCase		(Duration:"18.161031", Errors:"1", Exceptions:"0", StartTime:"2017-05-30 15:53:18 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-30 15:53:36.779 -0600	ABORTED		Execution Time 0:00:18 Index/Index Full Run.script

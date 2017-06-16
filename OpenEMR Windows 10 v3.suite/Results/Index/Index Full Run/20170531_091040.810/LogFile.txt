@@ -1,0 +1,91 @@
+﻿2017-05-31 09:10:40.810 -0600	START		Running Index/Index Full Run.script
+2017-05-31 09:10:40.971 -0600	Log		(@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:10:40.979 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.980 -0600	Log		2014-03-16 12:00:00 -0600	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.981 -0600	Log		Carrie	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.983 -0600	Log		Female	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.984 -0600	Log		Underwood	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.985 -0600	Log		Married	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.985 -0600	Log		333333	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.986 -0600	Log			10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.987 -0600	Log		583-00-6387	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:40.988 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.002 -0600	Log		(@"date of birth":"2003-04-24 12:00:00 -0600", @"first name":"Wonder", gender:"Female", @"last name":"Woman", @"marital status":"Divorced", @"medical record number":"444444", @"middle name":"", prefix:"Ms", @"social security number":"580-71-8520")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:10:41.013 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.014 -0600	Log		2003-04-24 12:00:00 -0600	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.015 -0600	Log		Wonder	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.016 -0600	Log		Female	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.031 -0600	Log		Woman	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.032 -0600	Log		Divorced	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.033 -0600	Log		444444	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.034 -0600	Log			10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.035 -0600	Log		580-71-8520	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.036 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.042 -0600	Log		(@"date of birth":"1987-12-23 12:00:00 -0700", @"first name":"Darth", gender:"Male", @"last name":"Vader", @"marital status":"Widowed", @"medical record number":"555555", @"middle name":"", prefix:"Dr", @"social security number":"744-85-1232")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:10:41.049 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.050 -0600	Log		1987-12-23 12:00:00 -0700	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.051 -0600	Log		Darth	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.052 -0600	Log		Male	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.053 -0600	Log		Vader	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.054 -0600	Log		Widowed	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.055 -0600	Log		555555	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.056 -0600	Log			10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.057 -0600	Log		744-85-1232	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.058 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.061 -0600	Log		(@"date of birth":"1981-07-30 12:00:00 -0600", @"first name":"James", gender:"Male", @"last name":"Bond", @"marital status":"Single", @"medical record number":"666666", @"middle name":"", prefix:"Dr", @"social security number":"973-13-0224")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:10:41.068 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.069 -0600	Log		1981-07-30 12:00:00 -0600	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.070 -0600	Log		James	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.071 -0600	Log		Male	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.072 -0600	Log		Bond	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.073 -0600	Log		Single	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.074 -0600	Log		666666	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.075 -0600	Log			10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.076 -0600	Log		973-13-0224	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.076 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.079 -0600	Log		(@"date of birth":"1980-09-01 12:00:00 -0600", @"first name":"Homer", gender:"Male", @"last name":"Simpson", @"marital status":"Married", @"medical record number":"777777", @"middle name":"", prefix:"Mr", @"social security number":"557-31-0655")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:10:41.087 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.088 -0600	Log		1980-09-01 12:00:00 -0600	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.089 -0600	Log		Homer	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.090 -0600	Log		Male	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.091 -0600	Log		Simpson	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.092 -0600	Log		Married	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.092 -0600	Log		777777	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.094 -0600	Log			10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.094 -0600	Log		557-31-0655	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.095 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.101 -0600	Log		(@"date of birth":"1985-09-19 12:00:00 -0600", @"first name":"Optimus", gender:"Other", @"last name":"Prime", @"marital status":"Divorced", @"medical record number":"888888", @"middle name":"", prefix:"Dr", @"social security number":"521-26-0727")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:10:41.108 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.110 -0600	Log		1985-09-19 12:00:00 -0600	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.111 -0600	Log		Optimus	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.111 -0600	Log		Other	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.112 -0600	Log		Prime	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.113 -0600	Log		Divorced	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.114 -0600	Log		888888	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.115 -0600	Log			10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.116 -0600	Log		521-26-0727	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.117 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.122 -0600	Log		(@"date of birth":"2000-06-14 12:00:00 -0600", @"first name":"Mickey", gender:"Male", @"last name":"Mouse", @"marital status":"Single", @"medical record number":"999999", @"middle name":"", prefix:"Dr", @"social security number":"984-56-3166")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:10:41.130 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.132 -0600	Log		2000-06-14 12:00:00 -0600	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.133 -0600	Log		Mickey	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.134 -0600	Log		Male	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.135 -0600	Log		Mouse	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.136 -0600	Log		Single	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.137 -0600	Log		999999	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.137 -0600	Log			10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.138 -0600	Log		984-56-3166	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.139 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.144 -0600	Log		(@"date of birth":"2000-06-14 12:00:00 -0600", @"first name":"SpongeBob", gender:"Male", @"last name":"SquarePants", @"marital status":"Single", @"medical record number":"101010", @"middle name":"", prefix:"Mr", @"social security number":"984-56-3166")	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-31 09:10:41.151 -0600	Log		--------------------------------------	3	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.152 -0600	Log		2000-06-14 12:00:00 -0600	4	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.153 -0600	Log		SpongeBob	5	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.154 -0600	Log		Male	6	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.155 -0600	Log		SquarePants	7	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.156 -0600	Log		Single	8	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.157 -0600	Log		101010	9	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.157 -0600	Log			10	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.158 -0600	Log		984-56-3166	11	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.159 -0600	Log		--------------------------------------	13	on_testcreate	Modules/GlobalDefine.script
+2017-05-31 09:10:41.361 -0600	EndTestCase		(Duration:"0.549586", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 09:10:40 -0600", Successes:"1", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-31 09:10:41.375 -0600	SUCCESS		Execution Time 0:00:00 Index/Index Full Run.script

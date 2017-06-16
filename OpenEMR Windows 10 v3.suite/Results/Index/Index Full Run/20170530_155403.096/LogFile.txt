@@ -1,0 +1,11 @@
+﻿2017-05-30 15:54:03.097 -0600	START		Running Index/Index Full Run.script
+2017-05-30 15:54:03.181 -0600	Log		Carrie	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:54:03.184 -0600	Log		Wonder	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:54:03.186 -0600	Log		Darth	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:54:03.187 -0600	Log		James	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:54:03.189 -0600	Log		Homer	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:54:03.190 -0600	Log		Optimus	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:54:03.192 -0600	Log		Mickey	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:54:03.194 -0600	Log		SpongeBob	10	on_index_index_full_run	Index/Index Full Run.script
+2017-05-30 15:54:11.422 -0600	EndTestCase		(Duration:"8.323886", Errors:"1", Exceptions:"0", StartTime:"2017-05-30 15:54:03 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-05-30 15:54:11.422 -0600	ABORTED		Execution Time 0:00:08 Index/Index Full Run.script

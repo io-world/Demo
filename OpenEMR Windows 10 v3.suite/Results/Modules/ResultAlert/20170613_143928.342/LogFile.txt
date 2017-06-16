@@ -1,0 +1,4 @@
+﻿2017-06-13 14:39:28.343 -0600	START		Running Modules/ResultAlert.script
+2017-06-13 14:39:29.857 -0600	sendmail		Email Sent To: 9734327060@vtext.com	5	on_modules_resultalert	Modules/ResultAlert.script
+2017-06-13 14:39:30.056 -0600	EndTestCase		(Duration:"1.711699", Errors:"0", Exceptions:"0", StartTime:"2017-06-13 14:39:28 -0600", Successes:"1", TestCase:"Modules/ResultAlert.script", Warnings:"0")
+2017-06-13 14:39:30.069 -0600	SUCCESS		Execution Time 0:00:01 Modules/ResultAlert.script
