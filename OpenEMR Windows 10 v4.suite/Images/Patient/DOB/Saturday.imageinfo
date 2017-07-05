@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2016-11-10 15:22:21 +0000";
+    CaptureHost = "WIndows 10";
+    CaptureScreenSize =     (
+        1440,
+        900
+    );
+    HasAlpha = 1;
+    HotSpotX = 29;
+    HotSpotY = 129;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 647;
+    OriginalLocationY = 298;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

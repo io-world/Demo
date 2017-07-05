@@ -1,0 +1,25 @@
+﻿function BuildPatients
+	put Workbook(ResourcePath("WebFormData.xlsx")) into ExcelData
+	put the worksheetNames of ExcelData into SheetNames
+	put Worksheet (ExcelData, item 1 of SheetNames) into WSheet
+	put WSheet.cellrange() into patients
+	return patients 
+end BuildPatients
+
+
+on Testcreate Prefix,Firstname , MiddleName, LastName , ExternalID,DOB,SS,Sex,Marital
+
+	log "--------------------------------------"
+	log "Prefix" &Prefix
+	log "Firstname" &Firstname
+	log "MiddleName" &MiddleName
+	log "LastName" &LastName
+	log "ExternalID" &ExternalID
+	log " DOB" &DOB
+	log "ss" &SS
+	log "Marital" &Marital
+	
+	log "--------------------------------------"
+end Testcreate
+
+

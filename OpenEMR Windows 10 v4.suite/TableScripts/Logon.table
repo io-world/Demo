@@ -1,0 +1,13 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>TypeText</Action><Arguments>windowskey&amp;"r"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>"chrome.exe" , returnkey</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>WaitFor</Action><Arguments>10, "Chrome/Refresh Icon"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>controlKey&amp;"l"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>"http://localhost/openemr/interface/main/main_screen.php?auth=login&amp;site=default" , enterkey</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>WaitFor</Action><Arguments>10, "Login/Logo"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>"admin", tabKey</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>"pass", returnkey</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>ImageFound</Action><Arguments>"PatientNew/New/New Patient Button"</Arguments><ExpectedValueExpression>True</ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

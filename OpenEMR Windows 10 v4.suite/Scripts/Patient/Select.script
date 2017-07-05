@@ -1,0 +1,15 @@
+﻿
+params SSN
+
+if imagefound( "Patient/Select/Clear Active Patient") Then
+	click FoundImageLocation()
+end if
+click "Patient/Select/Patients"
+Click "Patient/Select/SSN"
+put FoundImageLocation() into SR
+TypeText SSN
+if imagefound (text: SSN,searchRectangle:(SR+(-400,45),SR+(50,400))) then
+	click FoundImageLocation()+(-200,0)
+else
+	Log "Unable to Find Patient"
+end if

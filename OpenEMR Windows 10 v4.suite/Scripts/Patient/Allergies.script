@@ -1,0 +1,29 @@
+﻿
+params Allergy
+
+if imagefound(image: "Patient/Allergies/Allergies",waitfor: 3) then
+	click FoundImageLocation()
+	
+	wait 2
+	Click "Patient/Allergies/Add"
+	
+	put ImageLocation("Patient/Allergies/Type") into ILT
+	click(Text:Allergy,searchRectangle: (ILT+(60,10),ILT+(130,80)))
+	
+	Click "Patient/Allergies/BeginDate"
+	TypeText the year, " - ",the month," - ", the day
+	Click "Patient/Allergies/Occurrence"
+	TypeText downArrow,downArrow,downArrow, returnKey
+	Click "Patient/Allergies/Severity"
+	TypeText downArrow,downArrow,downArrow ,returnKey
+	click "Patient/Allergies/Type"
+	TypeText pageDown
+	Click "Patient/Allergies/Save"
+	
+	
+	
+else
+	Log "Unable to FInd Allergy"
+	
+end if
+

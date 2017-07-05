@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index/Index">
+ <run>
+  <RunDate>2017-07-05 08:14:21.340 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>36.986957</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170705_081421.340/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: PatientNew/Fix/Cancel</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-05 08:15:51.694 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>41.919521</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170705_081551.694/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;PatientNew/Fix/&#x27;</ErrorMessage>
+ </run>
+</runHistory>

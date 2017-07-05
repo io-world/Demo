@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index/index Conference">
+ <run>
+  <RunDate>2017-06-30 19:57:14.264 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.302712</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170630_195714.264/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

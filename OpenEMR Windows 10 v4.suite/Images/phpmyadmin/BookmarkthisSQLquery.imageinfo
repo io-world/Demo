@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2017-05-09 01:37:27 +0000";
+    CaptureHost = "Windows 10";
+    CaptureScreenSize =     (
+        1440,
+        900
+    );
+    HasAlpha = 1;
+    HotSpotX = 79;
+    HotSpotY = 7;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1211;
+    OriginalLocationY = 748;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

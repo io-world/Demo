@@ -1,0 +1,10 @@
+﻿
+
+
+put ReadText((677,214,784,232)) into SSN
+
+
+if SSN = "583-00-6357" then
+	log "SSN is the valeu you need"
+end if
+

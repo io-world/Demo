@@ -1,0 +1,19 @@
+﻿put "Modules/GlobalDefine".BuildPatients into PatientData
+
+
+--run "Modules/EMR".Login "admin", "pass"
+
+
+put the number of  items of PatientData  - 1 into Max
+repeat MAX Times  
+	put item repeatindex()+1 of PatientData into PatientInfo
+	Run "Patient/New".create PatientInfo as parameters
+	Run "Patient/New".check
+	Run "Patient/New".fix
+	
+	
+end repeat
+
+
+run "Modules/EMR".logout
+

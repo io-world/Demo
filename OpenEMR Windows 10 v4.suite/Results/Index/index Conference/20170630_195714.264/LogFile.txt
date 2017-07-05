@@ -1,0 +1,4 @@
+﻿2017-06-30 19:57:14.266 -0600	START		Running Index/index Conference.script
+2017-06-30 19:57:14.423 -0600	Exception		Remote Connection Unavailable	3	on_login	Modules/EMR.script
+2017-06-30 19:57:14.568 -0600	EndTestCase		(Duration:"0.297371", Errors:"1", Exceptions:"1", StartTime:"2017-06-30 19:57:14 -0600", Successes:"0", TestCase:"Index/index Conference.script", Warnings:"0")
+2017-06-30 19:57:14.583 -0600	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 Index/index Conference.script

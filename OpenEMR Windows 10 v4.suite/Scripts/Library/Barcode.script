@@ -1,0 +1,5 @@
+﻿put readtext((60,190,690,290)) into BarcodeNumber
+wait 2
+Log BarcodeNumber
+
+

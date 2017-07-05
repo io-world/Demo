@@ -1,0 +1,5 @@
+﻿if imagefound( "PatientSelect/Clear Active Patient") Then
+	click FoundImageLocation()
+end if
+click "PatientSelect/Patients"
+

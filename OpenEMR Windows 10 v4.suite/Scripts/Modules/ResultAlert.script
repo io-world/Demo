@@ -1,0 +1,28 @@
+﻿
+
+
+
+put "9734327060" into telephonenumber
+
+
+
+
+
+--put the last item of ScriptResults() into SR
+--delete "/LogFile.txt" from SR.LogFile
+--log file "/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/ResultAlert/20170616_084929.375/LogFile.txt"
+--log  file SR.LogFile
+
+--put Suiteinfo().path & "/Scripts" into LocationofScripts
+
+
+put ("txt.att.net","vtext.com","messaging.sprintpcs.com","vmobl.com","tmomail.net") into Carriers
+put the number of items of Carriers into max
+
+repeat max times
+	
+	put item repeatindex() of Carriers into Carrier
+	sendmail(to: telephonenumber&"@"&Carrier, subject: "Test failed", body: "Hi From Randy, The very important test script generated an error. The log file is attached.", attachment: MyFilePath)
+	
+	
+end repeat

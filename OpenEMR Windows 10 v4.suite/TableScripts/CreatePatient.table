@@ -1,0 +1,22 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>WaitFor</Action><Arguments>10, "PatientNew/New/New Patient Button"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>"PatientNew/New/New Patient Button"</Arguments><ExpectedValueExpression>#prev#1</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>WaitFor</Action><Arguments>10, "PatientNew/New/Name"</Arguments><ExpectedValueExpression>#prev#2</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>"PatientNew/New/Name"</Arguments><ExpectedValueExpression>#prev</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>downarrow, returnkey</Arguments><ExpectedValueExpression>#prev</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>tabkey, "john"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>tabkey, "A"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>tabkey, "Doe"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>tabkey, "123756"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>tabkey, "2016-08-05"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>tabkey, downarrow, downarrow, returnkey</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>tabkey , tabkey,"423-05-1210"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>tabkey, tabkey</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>TypeText</Action><Arguments>downarrow, downarrow, tabkey</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>ImageFound</Action><Arguments>PatientNew/New/CreateNewPatient</Arguments><ExpectedValueExpression>True</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>"PatientNew/New/CreateNewPatient"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>"PatientNew/New/ConfirmCreateNewPatient"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>ImageFound</Action><Arguments>text:"John Doe"</Arguments><ExpectedValueExpression>True</ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

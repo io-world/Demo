@@ -1,0 +1,37 @@
+﻿--Buttons "2016-10-27"
+
+on Buttons DOB
+	log DOB
+	split DOB using "-" 
+	put the year into Tyear
+	put the month into Tmonth
+	put  Tyear -  item 1 of DOB into YClick
+	put  Tmonth - item 2 of DOB into MClick
+	put item 3 of DOB into DClick
+	delete"0" from DClick
+	Click "Patient/DOB/DateOfBirth"
+	moveto FoundImageLocation()+(50,0)
+	put FoundImageLocation() into FILDOB
+	
+	put (FILDOB+(-10,30),FILDOB+(260,70)) into SRChange
+	
+	
+	moveto (image:"Patient/DOB/YearBack", searchRectangle:(SRChange))
+	repeat YClick times
+		click FoundImageLocation()
+	end repeat
+	
+	if MClick <= 0 then 
+		put MClick * -1 into MClick
+		moveto (image:"Patient/DOB/MonthFoward", searchRectangle:(SRChange))
+	else
+		moveto (image:"Patient/DOB/MonthBack", searchRectangle:(SRChange))
+	end if
+	repeat MClick times
+		click FoundImageLocation()
+	end repeat
+	
+	click (text:DClick,searchRectangle:("Patient/DOB/Weekend","Patient/DOB/Saturday"))
+	
+end Buttons
+
