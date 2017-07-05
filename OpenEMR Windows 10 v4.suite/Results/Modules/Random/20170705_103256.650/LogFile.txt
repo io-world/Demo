@@ -1,0 +1,5 @@
+﻿2017-07-05 10:32:56.651 -0600	START		Running Patient/Random.script
+2017-07-05 10:32:58.548 -0600	Log		eoox	26	on_patient_random	Patient/Random.script
+2017-07-05 10:32:58.556 -0600	Log		(Mr,eoox,e,chmqty,102057,1984-04-03,963-59-3721,Female,Married)	53	on_patient_random	Patient/Random.script
+2017-07-05 10:32:58.875 -0600	EndTestCase		(Duration:"2.222154", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 10:32:56 -0600", Successes:"1", TestCase:"Patient/Random.script", Warnings:"0")
+2017-07-05 10:32:58.897 -0600	SUCCESS		Execution Time 0:00:02 Patient/Random.script

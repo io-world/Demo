@@ -1,0 +1,4 @@
+﻿2017-07-05 13:29:23.661 -0600	START		Running TestBuild.script
+2017-07-05 13:29:23.943 -0600	Log		(DateofBirth:"2006-02-09", FirstName:"fcjc", Gender:"Male", LastName:"ppfpzk", MaritalStatus:"Married", MedicalRecordNumber:"194832", MiddlName:"X", Prefix:"Mrs", SocialSecurity:"440-87-8883")	3	on_create	Patient/New.script
+2017-07-05 13:29:24.432 -0600	EndTestCase		(Duration:"0.769394", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 13:29:23 -0600", Successes:"1", TestCase:"TestBuild.script", Warnings:"0")
+2017-07-05 13:29:24.457 -0600	SUCCESS		Execution Time 0:00:00 TestBuild.script

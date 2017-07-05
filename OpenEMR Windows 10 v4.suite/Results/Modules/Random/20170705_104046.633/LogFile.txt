@@ -1,0 +1,3 @@
+﻿2017-07-05 10:40:46.634 -0600	START		Running Patient/Random.script
+2017-07-05 10:40:51.028 -0600	EndTestCase		(Duration:"4.391787", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 10:40:46 -0600", Successes:"0", TestCase:"Patient/Random.script", Warnings:"0")
+2017-07-05 10:40:51.028 -0600	ABORTED		Execution Time 0:00:04 Patient/Random.script

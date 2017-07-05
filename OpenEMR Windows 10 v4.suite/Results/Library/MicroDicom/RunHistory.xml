@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Library/MicroDicom">
+ <run>
+  <RunDate>2017-07-05 08:56:00.529 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>33.173084</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170705_085600.529/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

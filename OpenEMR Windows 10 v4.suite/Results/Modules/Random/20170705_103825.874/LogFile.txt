@@ -1,0 +1,4 @@
+﻿2017-07-05 10:38:25.876 -0600	START		Running Patient/Random.script
+2017-07-05 10:38:27.479 -0600	Log		((DOB:"1977-05-25", ExternalID:"904955", FirstName:"rqlc", LastName:"cpertb", Marital:"Single", MiddlName:"p", Sex:"Female", SocialSecurity:"695-35-3274", Suffix:"Dr"),(DOB:"1988-08-07", ExternalID:"678297", FirstName:"kgqp", LastName:"pwamos", Marital:"Married", MiddlName:"w", Sex:"Male", SocialSecurity:"521-13-1675", Suffix:"Ms"))	64	on_patient_random	Patient/Random.script
+2017-07-05 10:38:27.794 -0600	EndTestCase		(Duration:"1.917107", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 10:38:25 -0600", Successes:"1", TestCase:"Patient/Random.script", Warnings:"0")
+2017-07-05 10:38:27.809 -0600	SUCCESS		Execution Time 0:00:01 Patient/Random.script

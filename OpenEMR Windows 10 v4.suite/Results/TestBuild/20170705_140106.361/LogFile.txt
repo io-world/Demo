@@ -1,0 +1,22 @@
+﻿2017-07-05 14:01:06.362 -0600	START		Running TestBuild.script
+2017-07-05 14:01:06.590 -0600	Log		((DateofBirth:"2014-03-26", FirstName:"alse", Gender:"Female", LastName:"myqqgp", MaritalStatus:"Married", MedicalRecordNumber:"477609", MiddlName:"U", Prefix:"Dr", SocialSecurity:"510-15-2494"))	6	on_testbuild	TestBuild.script
+2017-07-05 14:01:07.041 -0600	click	Patient/New/New Patient Button	at (43, 80)	10	on_create	Patient/New.script
+2017-07-05 14:01:07.146 -0600	waitfor	Patient/New/Name	found at (378, 201)	11	on_create	Patient/New.script
+2017-07-05 14:01:07.851 -0600	click		at (378, 201)	13	on_create	Patient/New.script
+2017-07-05 14:01:09.042 -0600	imagefound	(TEXT:"Dr")	found at (311, 285)	14	on_create	Patient/New.script
+2017-07-05 14:01:09.156 -0600	click		at (311, 285)	15	on_create	Patient/New.script
+2017-07-05 14:01:09.934 -0600	typetext		[tab]alse[tab]	18	on_create	Patient/New.script
+2017-07-05 14:01:10.650 -0600	typetext		[tab]	19	on_create	Patient/New.script
+2017-07-05 14:01:11.443 -0600	typetext		myqqgp[tab]	20	on_create	Patient/New.script
+2017-07-05 14:01:12.232 -0600	typetext		477609[tab]	21	on_create	Patient/New.script
+2017-07-05 14:01:12.235 -0600	Log		2014-03-26	2	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:13.379 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:14.096 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:15.163 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	17	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:15.975 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:16.791 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:17.602 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:18.692 -0600	moveto	Patient/DOB/MonthBack	at (465, 287)	26	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:19.491 -0600	click		at (465, 287)	29	on_buttons	Modules/DOBMod.script
+2017-07-05 14:01:19.961 -0600	EndTestCase		(Duration:"13.597311", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 14:01:06 -0600", Successes:"0", TestCase:"TestBuild.script", Warnings:"0")
+2017-07-05 14:01:19.961 -0600	ABORTED		Execution Time 0:00:13 TestBuild.script

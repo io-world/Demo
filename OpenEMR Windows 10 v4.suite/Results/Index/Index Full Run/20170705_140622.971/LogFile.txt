@@ -1,0 +1,24 @@
+﻿2017-07-05 14:06:22.972 -0600	START		Running Index/Index Full Run.script
+2017-07-05 14:06:23.559 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-05 14:06:23.671 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-05 14:06:24.366 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-05 14:06:25.558 -0600	imagefound	(TEXT:"Mr")	found at (312, 236)	15	on_create	Patient/New.script
+2017-07-05 14:06:25.668 -0600	click		at (312, 236)	16	on_create	Patient/New.script
+2017-07-05 14:06:26.462 -0600	typetext		[tab]Bruce[tab]	19	on_create	Patient/New.script
+2017-07-05 14:06:27.192 -0600	typetext		Q[tab]	20	on_create	Patient/New.script
+2017-07-05 14:06:27.971 -0600	typetext		Wayne[tab]	21	on_create	Patient/New.script
+2017-07-05 14:06:28.762 -0600	typetext		222222[tab]	22	on_create	Patient/New.script
+2017-07-05 14:06:28.766 -0600	Log		2006-06-13	2	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:29.946 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:30.657 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:31.725 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	17	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:32.536 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:33.346 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:34.161 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:34.976 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:35.786 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:36.601 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:37.416 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:38.220 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:38.727 -0600	EndTestCase		(Duration:"15.752951", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 14:06:22 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-07-05 14:06:38.727 -0600	ABORTED		Execution Time 0:00:15 Index/Index Full Run.script

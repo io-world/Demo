@@ -1,0 +1,13 @@
+﻿2017-07-05 11:05:58.267 -0600	START		Running Index/Index No CSV.script
+2017-07-05 11:05:58.455 -0600	Log		(1954-03-03,919914,rcdp,igwwwi,Single,r,Male,223-29-5714,Ms)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:58.569 -0600	Log		(1950-06-25,156618,isbt,tzvzuc,Married,t,Female,816-30-3698,Dr)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:58.673 -0600	Log		(1990-07-09,308560,nquv,stzehv,Married,o,Male,947-79-7270,Ms)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:58.780 -0600	Log		(1994-11-09,376332,tevt,uneamm,Married,b,Female,379-07-6978,Ms)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:58.880 -0600	Log		(2012-02-10,526795,ktmd,sknidn,Single,s,Male,718-48-8327,Ms)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:58.985 -0600	Log		(1977-10-21,294225,vthl,izjilk,Single,x,Female,389-27-1064,Dr)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:59.086 -0600	Log		(1953-10-09,137907,kbju,sxdblt,Single,o,Female,278-78-8158,Dr)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:59.187 -0600	Log		(1990-10-11,751037,ouzn,hyqemu,Married,g,Female,580-39-9335,Mrs)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:59.292 -0600	Log		(2005-04-03,412156,smrr,selxht,Single,s,Male,841-22-5948,Dr)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:59.398 -0600	Log		(1996-10-30,924107,zhry,wmvjkj,Single,z,Female,515-92-8222,Mr)	15	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:05:59.860 -0600	EndTestCase		(Duration:"1.592293", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:05:58 -0600", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-07-05 11:05:59.904 -0600	SUCCESS		Execution Time 0:00:01 Index/Index No CSV.script

@@ -1,0 +1,18 @@
+﻿2017-07-05 14:06:11.013 -0600	START		Running Index/Index Full Run.script
+2017-07-05 14:06:11.604 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-05 14:06:11.711 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-05 14:06:12.413 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-05 14:06:13.600 -0600	imagefound	(TEXT:"Mrs")	found at (315, 252)	15	on_create	Patient/New.script
+2017-07-05 14:06:13.712 -0600	click		at (315, 252)	16	on_create	Patient/New.script
+2017-07-05 14:06:14.518 -0600	typetext		[tab]Carrie[tab]	19	on_create	Patient/New.script
+2017-07-05 14:06:15.249 -0600	typetext		R[tab]	20	on_create	Patient/New.script
+2017-07-05 14:06:16.078 -0600	typetext		Underwood[tab]	21	on_create	Patient/New.script
+2017-07-05 14:06:16.870 -0600	typetext		333333[tab]	22	on_create	Patient/New.script
+2017-07-05 14:06:16.873 -0600	Log		2014-03-16	2	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:18.051 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:18.766 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:19.846 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	17	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:20.661 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:21.474 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:06:21.981 -0600	EndTestCase		(Duration:"10.967178", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 14:06:11 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-07-05 14:06:21.982 -0600	ABORTED		Execution Time 0:00:10 Index/Index Full Run.script

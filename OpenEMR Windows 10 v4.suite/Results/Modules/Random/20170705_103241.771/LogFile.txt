@@ -1,0 +1,7 @@
+﻿2017-07-05 10:32:41.772 -0600	START		Running Patient/Random.script
+2017-07-05 10:32:43.265 -0600	Log		bakn	26	on_patient_random	Patient/Random.script
+2017-07-05 10:32:43.276 -0600	Log		(Mr,bakn,d,yrnlji,182724,2013-01-03,648-22-8314,Female,Married)	53	on_patient_random	Patient/Random.script
+2017-07-05 10:32:43.314 -0600	Log		rpfq	26	on_patient_random	Patient/Random.script
+2017-07-05 10:32:43.334 -0600	Log		(Ms,rpfq,p,rkszsk,172523,2013-09-10,339-75-7750,Female,Single)	53	on_patient_random	Patient/Random.script
+2017-07-05 10:32:43.655 -0600	EndTestCase		(Duration:"1.881358", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 10:32:41 -0600", Successes:"1", TestCase:"Patient/Random.script", Warnings:"0")
+2017-07-05 10:32:43.709 -0600	SUCCESS		Execution Time 0:00:01 Patient/Random.script

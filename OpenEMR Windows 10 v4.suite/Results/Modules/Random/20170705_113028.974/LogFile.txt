@@ -1,0 +1,4 @@
+﻿2017-07-05 11:30:28.976 -0600	START		Running Modules/Random.script
+2017-07-05 11:30:29.082 -0600	Log		Patient	1	on_modules_random	Modules/Random.script
+2017-07-05 11:30:29.536 -0600	EndTestCase		(Duration:"0.559431", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:30:28 -0600", Successes:"1", TestCase:"Modules/Random.script", Warnings:"0")
+2017-07-05 11:30:29.560 -0600	SUCCESS		Execution Time 0:00:00 Modules/Random.script

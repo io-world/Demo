@@ -7,8 +7,8 @@ Click FoundImageLocation()
 doubleclick (text:"DICOMDIR", searchRectangle: ("MicroDicom/Open","MicroDicom/Cancel"))
 
 Click "MicroDicom/Play Button"
-put ReadText((1147,127,1242,147)) into Date
-put ReadText((1130,148,1248,166)) into Time
+put ReadText((1147,127,1272,147)) into Date
+put ReadText((1150,148,1278,166)) into Time
 log "The Date is" && Date
 log "The Time is" && Time
 

@@ -1,0 +1,6 @@
+﻿2017-07-05 14:01:35.706 -0600	START		Running TestBuild.script
+2017-07-05 14:01:35.925 -0600	Log		((DateofBirth:"1952-08-20", FirstName:"jffc", Gender:"Female", LastName:"vzxmco", MaritalStatus:"Single", MedicalRecordNumber:"540409", MiddlName:"R", Prefix:"Mr", SocialSecurity:"347-99-3209"))	6	on_testbuild	TestBuild.script
+2017-07-05 14:01:35.930 -0600	Log		R	3	on_create	Patient/New.script
+2017-07-05 14:01:35.932 -0600	pausescript			5	on_create	Patient/New.script
+2017-07-05 14:02:02.102 -0600	EndTestCase		(Duration:"26.395093", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 14:01:35 -0600", Successes:"0", TestCase:"TestBuild.script", Warnings:"0")
+2017-07-05 14:02:02.103 -0600	ABORTED		Execution Time 0:00:26 TestBuild.script

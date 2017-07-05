@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Modules/Patient">
+ <run>
+  <RunDate>2017-07-05 13:29:55.721 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.002531</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170705_132955.721/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

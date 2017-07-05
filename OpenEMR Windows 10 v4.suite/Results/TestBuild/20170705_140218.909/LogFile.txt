@@ -1,0 +1,16 @@
+﻿2017-07-05 14:02:18.910 -0600	START		Running TestBuild.script
+2017-07-05 14:02:19.146 -0600	Log		((DateofBirth:"2011-04-05", FirstName:"pbqq", Gender:"Female", LastName:"gyjzqh", MaritalStatus:"Married", MedicalRecordNumber:"661952", MiddlName:"MiddlName", Prefix:"Ms", SocialSecurity:"203-84-3985"))	6	on_testbuild	TestBuild.script
+2017-07-05 14:02:19.600 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-05 14:02:19.714 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-05 14:02:20.411 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-05 14:02:21.618 -0600	imagefound	(TEXT:"Ms")	found at (313, 269)	15	on_create	Patient/New.script
+2017-07-05 14:02:21.730 -0600	click		at (313, 269)	16	on_create	Patient/New.script
+2017-07-05 14:02:22.512 -0600	typetext		[tab]pbqq[tab]	19	on_create	Patient/New.script
+2017-07-05 14:02:23.230 -0600	typetext		[tab]	20	on_create	Patient/New.script
+2017-07-05 14:02:24.022 -0600	typetext		gyjzqh[tab]	21	on_create	Patient/New.script
+2017-07-05 14:02:24.815 -0600	typetext		661952[tab]	22	on_create	Patient/New.script
+2017-07-05 14:02:24.819 -0600	Log		2011-04-05	2	on_buttons	Modules/DOBMod.script
+2017-07-05 14:02:25.974 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-07-05 14:02:26.679 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-05 14:02:27.156 -0600	EndTestCase		(Duration:"8.24426", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 14:02:18 -0600", Successes:"0", TestCase:"TestBuild.script", Warnings:"0")
+2017-07-05 14:02:27.156 -0600	ABORTED		Execution Time 0:00:08 TestBuild.script

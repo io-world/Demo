@@ -1,0 +1,17 @@
+﻿2017-07-05 14:10:47.852 -0600	START		Running Index/index Conference.script
+2017-07-05 14:10:49.061 -0600	typetext		[windowsKey]r	3	on_login	Modules/EMR.script
+2017-07-05 14:10:49.902 -0600	typetext		chrome.exe[returnKey]	4	on_login	Modules/EMR.script
+2017-07-05 14:10:52.625 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Modules/EMR.script
+2017-07-05 14:10:52.651 -0600	typetext		[controlKey]l	6	on_login	Modules/EMR.script
+2017-07-05 14:10:54.378 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Modules/EMR.script
+2017-07-05 14:11:09.720 -0600	imagefound	Login/Logo	Unable to Find Image Login/Logo within 15.00 seconds	9	on_login	Modules/EMR.script
+2017-07-05 14:11:10.602 -0600	click	Chrome/Refresh Icon	at (72, 47)	12	on_login	Modules/EMR.script
+2017-07-05 14:11:11.114 -0600	waitfor	Login/Logo	found at (524, 486)	13	on_login	Modules/EMR.script
+2017-07-05 14:11:12.119 -0600	Log		Login/logo was Booted 	16	on_login	Modules/EMR.script
+2017-07-05 14:11:12.198 -0600	typetext		admin[tab]	17	on_login	Modules/EMR.script
+2017-07-05 14:11:12.968 -0600	typetext		pass[enter]	18	on_login	Modules/EMR.script
+2017-07-05 14:11:19.695 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	20	on_login	Modules/EMR.script
+2017-07-05 14:11:19.695 -0600	Log		EMR was loaded 0.721099 seconds	21	on_login	Modules/EMR.script
+2017-07-05 14:11:19.723 -0600	Log		(DateofBirth:"1959-01-21", FirstName:"evqf", Gender:"Male", LastName:"ntmtsx", MaritalStatus:"Married", MedicalRecordNumber:"828932", MiddleName:"A", Prefix:"Ms", SocialSecurity:"452-74-9580")	3	on_create	Patient/New.script
+2017-07-05 14:11:46.555 -0600	EndTestCase		(Duration:"58.701729", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 14:10:47 -0600", Successes:"0", TestCase:"Index/index Conference.script", Warnings:"0")
+2017-07-05 14:11:46.556 -0600	ABORTED		Execution Time 0:00:58 Index/index Conference.script

@@ -1,0 +1,3 @@
+﻿2017-07-05 13:28:44.339 -0600	START		Running TestBuild.script
+2017-07-05 13:28:44.957 -0600	EndTestCase		(Duration:"0.616734", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 13:28:44 -0600", Successes:"0", TestCase:"TestBuild.script", Warnings:"0")
+2017-07-05 13:28:45.170 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'buildfromrandom' -- Execution Time 0:00:00 TestBuild.script

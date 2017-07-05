@@ -1,0 +1,13 @@
+﻿2017-07-05 11:36:23.107 -0600	START		Running Index/Index No CSV.script
+2017-07-05 11:36:23.342 -0600	Log		(DOB:"2002-01-15", ExternalID:"954545", FirstName:"iwbu", LastName:"trytdm", Marital:"Married", MiddlName:"a", Sex:"Male", SocialSecurity:"354-12-7988", Suffix:"Ms")	16	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.347 -0600	Log		Ms	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.347 -0600	Log		iwbu	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.348 -0600	Log		a	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.348 -0600	Log		trytdm	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.349 -0600	Log		954545	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.349 -0600	Log		2002-01-15	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.350 -0600	Log		354-12-7988	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.350 -0600	Log		Male	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.351 -0600	Log		Married	34	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:36:23.840 -0600	EndTestCase		(Duration:"0.732163", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:36:23 -0600", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-07-05 11:36:23.860 -0600	SUCCESS		Execution Time 0:00:00 Index/Index No CSV.script

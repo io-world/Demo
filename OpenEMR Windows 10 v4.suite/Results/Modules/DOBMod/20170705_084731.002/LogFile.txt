@@ -1,0 +1,13 @@
+﻿2017-07-05 08:47:31.003 -0600	START		Running Modules/DOBMod.script
+2017-07-05 08:47:31.091 -0600	Log		2016-10-27	2	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:31.551 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:32.264 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:33.318 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	17	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:34.130 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:35.217 -0600	moveto	Patient/DOB/MonthFoward	at (624, 286)	24	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:36.025 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:36.834 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:37.642 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:39.710 -0600	click	(TEXT:"27")	at (601, 400)	32	on_buttons	Modules/DOBMod.script
+2017-07-05 08:47:40.009 -0600	EndTestCase		(Duration:"9.004848", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 08:47:31 -0600", Successes:"1", TestCase:"Modules/DOBMod.script", Warnings:"0")
+2017-07-05 08:47:40.023 -0600	SUCCESS		Execution Time 0:00:09 Modules/DOBMod.script

@@ -1,0 +1,13 @@
+﻿2017-07-05 11:03:39.147 -0600	START		Running Index/Index No CSV.script
+2017-07-05 11:03:39.354 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:39.461 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:39.567 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:39.670 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:39.772 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:39.875 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:39.979 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:40.083 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:40.187 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:40.286 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:03:40.735 -0600	EndTestCase		(Duration:"1.586928", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:03:39 -0600", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-07-05 11:03:40.750 -0600	SUCCESS		Execution Time 0:00:01 Index/Index No CSV.script

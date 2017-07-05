@@ -1,0 +1,13 @@
+﻿2017-07-05 11:08:11.363 -0600	START		Running Index/Index No CSV.script
+2017-07-05 11:08:11.551 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:11.663 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:11.784 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:11.916 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:12.045 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:12.171 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:12.288 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:12.413 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:12.548 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:12.679 -0600	Log		ExternalID	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:08:13.162 -0600	EndTestCase		(Duration:"1.797121", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:08:11 -0600", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-07-05 11:08:13.187 -0600	SUCCESS		Execution Time 0:00:01 Index/Index No CSV.script

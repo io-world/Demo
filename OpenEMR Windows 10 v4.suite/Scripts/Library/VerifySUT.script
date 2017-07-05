@@ -1,0 +1,6 @@
+﻿
+
+if  RemoteScreenSize() <>(1440,900) then
+	log "Wrong Resolution"
+	exit script
+end if

@@ -1,0 +1,3 @@
+﻿2017-07-05 14:01:00.749 -0600	START		Running Patient/New.script
+2017-07-05 14:01:01.232 -0600	EndTestCase		(Duration:"0.482199", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 14:01:00 -0600", Successes:"1", TestCase:"Patient/New.script", Warnings:"0")
+2017-07-05 14:01:01.261 -0600	SUCCESS		Execution Time 0:00:00 Patient/New.script

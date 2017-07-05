@@ -1,0 +1,12 @@
+﻿2017-07-05 14:02:29.662 -0600	START		Running TestBuild.script
+2017-07-05 14:02:29.912 -0600	Log		((DateofBirth:"2009-03-25", FirstName:"ghmf", Gender:"Male", LastName:"akujde", MaritalStatus:"Married", MedicalRecordNumber:"732584", MiddlName:"MiddlName", Prefix:"Mr", SocialSecurity:"841-88-3574"))	6	on_testbuild	TestBuild.script
+2017-07-05 14:02:30.394 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-05 14:02:30.504 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-05 14:02:31.208 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-05 14:02:32.390 -0600	imagefound	(TEXT:"Mr")	found at (312, 236)	15	on_create	Patient/New.script
+2017-07-05 14:02:32.499 -0600	click		at (312, 236)	16	on_create	Patient/New.script
+2017-07-05 14:02:33.279 -0600	typetext		[tab]ghmf[tab]	19	on_create	Patient/New.script
+2017-07-05 14:02:33.995 -0600	typetext		[tab]	20	on_create	Patient/New.script
+2017-07-05 14:02:34.784 -0600	typetext		akujde[tab]	21	on_create	Patient/New.script
+2017-07-05 14:02:35.224 -0600	EndTestCase		(Duration:"5.560412", Errors:"1", Exceptions:"0", StartTime:"2017-07-05 14:02:29 -0600", Successes:"0", TestCase:"TestBuild.script", Warnings:"0")
+2017-07-05 14:02:35.225 -0600	ABORTED		Execution Time 0:00:05 TestBuild.script

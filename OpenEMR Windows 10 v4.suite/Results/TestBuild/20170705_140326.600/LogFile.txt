@@ -1,0 +1,79 @@
+﻿2017-07-05 14:03:26.601 -0600	START		Running TestBuild.script
+2017-07-05 14:03:26.853 -0600	Log		((DateofBirth:"1967-10-23", FirstName:"gytz", Gender:"Female", LastName:"rakprm", MaritalStatus:"Single", MedicalRecordNumber:"434223", MiddleName:"Y", Prefix:"Mrs", SocialSecurity:"652-47-7572"))	6	on_testbuild	TestBuild.script
+2017-07-05 14:03:27.311 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-05 14:03:27.419 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-05 14:03:28.122 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-05 14:03:29.312 -0600	imagefound	(TEXT:"Mrs")	found at (315, 252)	15	on_create	Patient/New.script
+2017-07-05 14:03:29.421 -0600	click		at (315, 252)	16	on_create	Patient/New.script
+2017-07-05 14:03:30.204 -0600	typetext		[tab]gytz[tab]	19	on_create	Patient/New.script
+2017-07-05 14:03:30.933 -0600	typetext		Y[tab]	20	on_create	Patient/New.script
+2017-07-05 14:03:31.724 -0600	typetext		rakprm[tab]	21	on_create	Patient/New.script
+2017-07-05 14:03:32.516 -0600	typetext		434223[tab]	22	on_create	Patient/New.script
+2017-07-05 14:03:32.519 -0600	Log		1967-10-23	2	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:33.677 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:34.392 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:35.471 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	17	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:36.282 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:37.093 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:37.906 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:38.721 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:39.532 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:40.346 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:41.156 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:41.972 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:42.786 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:43.600 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:44.411 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:45.227 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:46.041 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:46.856 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:47.667 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:48.481 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:49.296 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:50.112 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:50.926 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:51.736 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:52.547 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:53.361 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:54.176 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:54.991 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:55.806 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:56.616 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:57.431 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:58.244 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:59.056 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:03:59.872 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:00.683 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:01.500 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:02.308 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:03.121 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:03.936 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:04.746 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:05.561 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:06.377 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:07.191 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:08.000 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:08.815 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:09.626 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:10.436 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:11.250 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:12.065 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:12.880 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:13.695 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:14.510 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:15.325 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:16.142 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:17.195 -0600	moveto	Patient/DOB/MonthFoward	at (624, 286)	24	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:18.005 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:18.817 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:19.630 -0600	click		at (624, 286)	29	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:21.674 -0600	click	(TEXT:"23")	at (502, 381)	32	on_buttons	Modules/DOBMod.script
+2017-07-05 14:04:22.810 -0600	click	Patient/New/Social Security	at (335, 260)	24	on_create	Patient/New.script
+2017-07-05 14:04:23.656 -0600	typetext		652-47-7572	25	on_create	Patient/New.script
+2017-07-05 14:04:24.813 -0600	click	Patient/New/MaritalStatus	at (411, 283)	27	on_create	Patient/New.script
+2017-07-05 14:04:26.074 -0600	click	(TEXT:"Single")	at (322, 341)	30	on_create	Patient/New.script
+2017-07-05 14:04:27.241 -0600	click	Patient/New/Sex	at (869, 232)	32	on_create	Patient/New.script
+2017-07-05 14:04:27.971 -0600	typetext		[downArrow][returnKey]	34	on_create	Patient/New.script
+2017-07-05 14:04:29.123 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	38	on_create	Patient/New.script
+2017-07-05 14:04:29.619 -0600	EndTestCase		(Duration:"63.016925", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 14:03:26 -0600", Successes:"1", TestCase:"TestBuild.script", Warnings:"0")
+2017-07-05 14:04:29.655 -0600	SUCCESS		Execution Time 0:01:03 TestBuild.script

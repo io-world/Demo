@@ -1,0 +1,94 @@
+﻿function BuildFromExcel
+	
+	put Workbook(ResourcePath("WebFormData.xlsx")) into ExcelData
+	put the worksheetNames of ExcelData into SheetNames
+	put Worksheet (ExcelData, item 1 of SheetNames) into WSheet
+	put WSheet.cellrange() into SheetData
+	put (the number of items of SheetData) -1 into RowCount
+	put the number of items of item 1 of SheetData into  ColumnCount
+	put item 1 of SheetData into RowNames
+	
+	repeat RowCount times
+		put item repeatindex()+1 of SheetData into LineInfo
+		repeat ColumnCount times
+			put item repeatindex() of LineInfo into Cellinfo
+			put item repeatindex() of RowNames into RowName
+			delete " " in Rowname
+			put Cellinfo into Patient.(RowName)
+		end repeat
+		insert Patient into PatientList
+	end repeat
+	return PatientList 
+end BuildFromExcel
+
+
+function BuildFromRandom PatientCount
+	if PatientCount is empty
+		put 1 into Count
+	end if
+	
+	
+	
+	repeat PatientCount times
+		
+		put (a to z) into alphabet
+		
+		put ("Mr","Mrs","Ms","Dr") into Prefix
+		put item random(1, 4) of Prefix into Prefix
+		------------------------------------------------------------------------------------------------
+		
+		if RG = "YES" then
+			put DNC.WordDate & DNC.WordTime into FirstName
+			put any item of A..Z into MiddlName
+			put DNC.wordyear into LastName
+			else
+			
+			put (a to z) into alphabet
+			repeat 4 times
+				put item random(1, 26) of alphabet into alphaletter
+				put alphaletter after FirstName
+			end repeat
+			
+			
+			put item random(1, 26) of alphabet into alphaletter
+			put uppercase(alphaletter) after MiddleName
+			
+			repeat 6 times
+				put item random(1, 26) of alphabet into alphaletter
+				put alphaletter after LastName
+			end repeat
+		end if
+		------------------------------------------------------------------------------------------------
+		put random(100000, 999999) into ExternalID
+		------------------------------------------------------------------------------------------------
+		put any item of "1950-01-01" to today into DOB
+		------------------------------------------------------------------------------------------------
+		put random(100000000, 999999999) into SocialSecurity
+		put  (chars 1 to 3 of SocialSecurity & "-" & chars 4 to 5 of SocialSecurity & "-" & chars 6 to 9 of SocialSecurity) into SocialSecurity
+		------------------------------------------------------------------------------------------------
+		put ("Male","Female") into Sex
+		put item random(1, 2) of Sex into Sex
+		------------------------------------------------------------------------------------------------
+		put ("Married","Single","Divorced","Widowed","Separated","Domestic") into Marital
+		put item random(1, 2) of Marital into Marital
+		
+		
+		insert (Prefix:Prefix, FirstName:FirstName , MiddleName:MiddleName , LastName: LastName,MedicalRecordNumber: ExternalID,DateofBirth:DOB,SocialSecurity: SocialSecurity,Gender:Sex,MaritalStatus:Marital) into Patient
+		
+		put Patient into PatientList
+		put () into Suffix
+		put "" into FirstName
+		put "" into MiddleName
+		put "" into LastName
+		put () into ExternalID
+		put () into SocialSecurity
+		put () into Sex
+		put () into Marital
+		
+		
+	end repeat
+	
+	return PatientList
+	
+end BuildFromRandom
+

@@ -1,0 +1,15 @@
+﻿2017-07-05 10:33:50.073 -0600	START		Running Patient/Random.script
+2017-07-05 10:33:53.505 -0600	Log		(Mr,lebx,w,cpgqbm,757197,1995-09-19,600-84-6038,Female,Single)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.545 -0600	Log		(Dr,ijxr,x,nlwriz,700654,2005-07-20,446-83-6655,Female,Single)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.587 -0600	Log		(Dr,yvnq,e,drsmfx,755917,1973-05-20,740-30-1404,Male,Single)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.632 -0600	Log		(Mrs,breo,n,xxonsx,548044,1976-05-23,500-84-9420,Female,Married)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.676 -0600	Log		(Ms,fudy,p,qdmrog,827131,1992-10-07,426-05-0927,Female,Married)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.722 -0600	Log		(Dr,tpds,f,qmfffp,928710,1960-10-29,655-37-3977,Female,Married)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.762 -0600	Log		(Dr,zhlc,v,esdgca,650395,1958-10-02,424-35-5172,Male,Married)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.801 -0600	Log		(Mrs,bbzn,i,gtaapp,675771,2005-01-18,436-31-9986,Male,Single)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.851 -0600	Log		(Dr,fmaz,q,ibsviy,143945,1979-03-27,782-24-6923,Male,Single)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.896 -0600	Log		(Mrs,sqnn,q,qcftlq,772832,1999-03-20,621-47-7655,Female,Single)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.939 -0600	Log		(Dr,cjxe,b,uoaash,704974,1999-08-23,642-63-7680,Male,Single)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:53.981 -0600	Log		(Mr,ljyp,r,tdjphw,850580,1985-10-24,934-82-7332,Female,Single)	52	on_patient_random	Patient/Random.script
+2017-07-05 10:33:54.314 -0600	EndTestCase		(Duration:"4.239323", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 10:33:50 -0600", Successes:"1", TestCase:"Patient/Random.script", Warnings:"0")
+2017-07-05 10:33:54.361 -0600	SUCCESS		Execution Time 0:00:04 Patient/Random.script

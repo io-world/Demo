@@ -1,0 +1,13 @@
+﻿2017-07-05 11:20:42.606 -0600	START		Running Index/Index No CSV.script
+2017-07-05 11:20:42.866 -0600	Log		(DOB,ExternalID,FirstName,LastName,Marital,MiddlName,Sex,SocialSecurity,Suffix)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.871 -0600	Log		Mr	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.871 -0600	Log		xmqg	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.872 -0600	Log		z	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.873 -0600	Log		pcssqw	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.873 -0600	Log		740249	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.874 -0600	Log		DOB	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.874 -0600	Log		218-55-8358	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.875 -0600	Log		Male	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:42.875 -0600	Log		Married	28	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:20:43.284 -0600	EndTestCase		(Duration:"0.676845", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:20:42 -0600", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-07-05 11:20:43.300 -0600	SUCCESS		Execution Time 0:00:00 Index/Index No CSV.script

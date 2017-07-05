@@ -1,0 +1,12 @@
+﻿2017-07-05 11:11:33.301 -0600	START		Running Index/Index No CSV.script
+2017-07-05 11:11:33.559 -0600	Log		Mr	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:33.559 -0600	Log		mdpxhh	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:33.560 -0600	Log		c	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:33.561 -0600	Log		Male	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:33.561 -0600	Log		hnbc	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:33.562 -0600	Log		1976-07-31	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:33.562 -0600	Log		655-70-0223	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:33.563 -0600	Log		Sex	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:33.563 -0600	Log		Married	23	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:11:34.060 -0600	EndTestCase		(Duration:"0.75742", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:11:33 -0600", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-07-05 11:11:34.091 -0600	SUCCESS		Execution Time 0:00:00 Index/Index No CSV.script

@@ -1,0 +1,4 @@
+﻿2017-07-05 11:14:49.115 -0600	START		Running Index/Index No CSV.script
+2017-07-05 11:14:49.397 -0600	Log		(1997-05-19,840665,hjuv,mfkahk,Single,t,Male,637-03-8315,Ms)	13	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:14:49.909 -0600	EndTestCase		(Duration:"0.792664", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:14:49 -0600", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-07-05 11:14:49.939 -0600	SUCCESS		Execution Time 0:00:00 Index/Index No CSV.script

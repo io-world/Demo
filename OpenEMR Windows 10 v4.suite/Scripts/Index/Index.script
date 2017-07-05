@@ -1,10 +1,6 @@
 ﻿
 
-if  RemoteScreenSize() <>(1440,900) then
-	exit script
-end if
-
-
+Run "Library/VerifySUT"
 
 
 "Modules/EMR".Login "admin", "pass"
@@ -20,3 +16,4 @@ run "Patient/Allergies" "penicillin"//----- "iodine"
 "Modules/EMR".Logout
 
 
+Run "Modules/ResultAlert"

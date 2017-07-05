@@ -1,0 +1,3 @@
+﻿2017-07-05 13:29:55.723 -0600	START		Running Modules/Patient.script
+2017-07-05 13:29:55.724 -0600	EndTestCase		(Duration:"0.00017", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 13:29:55 -0600", Successes:"1", TestCase:"Modules/Patient.script", Warnings:"0")
+2017-07-05 13:29:55.798 -0600	SUCCESS		Execution Time 0:00:00 Modules/Patient.script

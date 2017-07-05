@@ -1,0 +1,13 @@
+﻿2017-07-05 11:07:53.883 -0600	START		Running Index/Index No CSV.script
+2017-07-05 11:07:54.041 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:54.143 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:54.251 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:54.357 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:54.483 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:54.608 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:54.726 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:54.840 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:54.939 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:55.054 -0600	Log		suffix	18	on_index_index_no_csv	Index/Index No CSV.script
+2017-07-05 11:07:55.555 -0600	EndTestCase		(Duration:"1.67085", Errors:"0", Exceptions:"0", StartTime:"2017-07-05 11:07:53 -0600", Successes:"1", TestCase:"Index/Index No CSV.script", Warnings:"0")
+2017-07-05 11:07:55.589 -0600	SUCCESS		Execution Time 0:00:01 Index/Index No CSV.script

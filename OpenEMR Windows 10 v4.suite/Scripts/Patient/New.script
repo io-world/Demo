@@ -1,45 +1,44 @@
 ﻿
-on create Prefix,Firstname , MiddleName, LastName , ExternalID,DOB,SS,Sex,Marital
-	split DOB by " "
-	put item 1 of DOB into DOB
-	log Prefix
-	log Firstname
-	log MiddleName
-	log LastName
-	log ExternalID
-	log DOB
-	log SS
-	log Sex
-	log Marital
+on create Patient
+
+	log Patient
+	
+	split Patient.DateofBirth by " "
+	put item 1 of Patient.DateofBirth into Patient.DateofBirth
+	
+	
+	
 	---------------------------------------------
 	Click "Patient/New/New Patient Button"
 	WaitFor 10, "Patient/New/Name"
 	put FoundImageLocation() into FILName
 	click FILNAME
-	if imagefound(text: Prefix,searchRectangle:(FILName+(-100,20),FILName+(0,100))) then
+	if imagefound(text: Patient.Prefix,searchRectangle:(FILName+(-100,20),FILName+(0,100))) then
 		click FoundImageLocation()
 	end if
 	---------------------------------------------
-	TypeText tabKey , Firstname , tabkey
-	TypeText MiddleName , tabKey
-	TypeText LastName , tabKey
-	TypeText ExternalID, tabkey
-	Run "Modules/DOBMod".buttons (DOB)
+	TypeText tabKey , Patient.Firstname , tabkey
+	TypeText Patient.MiddleName , tabKey
+	TypeText Patient.LastName , tabKey
+	TypeText Patient.MedicalRecordNumber, tabkey
+	Run "Modules/DOBMod".buttons (Patient.DateOfBirth)
 	Click "Patient/New/Social Security"
-	TypeText SS
+	TypeText Patient.SocialSecurity
 	---------------------------------------------
 	Click "Patient/New/MaritalStatus"
 	put FoundImageLocation() into FILMS
 	put (FILMS+(-120,10),FILMS+(0,150)) into MSSquare
-	click (Text:Marital, searchRectangle:(MSSquare)) 
+	click (Text:Patient.MaritalStatus, searchRectangle:(MSSquare)) 
 	---------------------------------------------
 	Click "Patient/New/Sex"
-	if Sex = "Female" then
+	if Patient.Gender = "Female" then
 		TypeText downarrow , returnkey
 	else
 		TypeText downarrow ,downarrow, returnkey
 	end if
 	Click "Patient/New/CreateNewPatient"
+	
+	
 end create
 
 
@@ -71,7 +70,7 @@ on ClearCreate
 	if  imagefound("Patient/New/ConfirmCreateNewPatient") then
 		wait 1
 		TypeText altKey & F4		
-	end if
+end if
 	
 	if  imagefound("Patient/Check/OK") then
 		click FoundImageLocation()

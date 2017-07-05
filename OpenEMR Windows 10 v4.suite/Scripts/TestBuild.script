@@ -1,0 +1,7 @@
+﻿put  "Modules/Patient".BuildFromExcel into  PD
+log PD
+put  "Modules/Patient".BuildFromRandom (10) into  PD
+log PD
+
+
+Run "Patient/New".create  item 1 of PD
