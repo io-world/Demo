@@ -2,7 +2,7 @@
 
 
 
-run "Modules/EMR".Login "admin", "pass"
+run "Library/EMR".Login "admin", "pass"
 
 
 repeat forever Times  
@@ -15,5 +15,5 @@ repeat forever Times
 	Click "Chrome/Reopen"
 	
 end repeat
-run "Modules/EMR".logout
+run "Library/EMR".logout
 

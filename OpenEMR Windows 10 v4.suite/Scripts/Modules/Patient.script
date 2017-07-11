@@ -41,7 +41,7 @@ function BuildFromRandom PatientCount
 			put DNC.WordDate & DNC.WordTime into FirstName
 			put any item of A..Z into MiddlName
 			put DNC.wordyear into LastName
-			else
+		else
 			
 			put (a to z) into alphabet
 			repeat 4 times
@@ -61,7 +61,7 @@ function BuildFromRandom PatientCount
 		------------------------------------------------------------------------------------------------
 		put random(100000, 999999) into ExternalID
 		------------------------------------------------------------------------------------------------
-		put any item of "1950-01-01" to today into DOB
+		put any item of "1970-01-01" to today into DOB
 		------------------------------------------------------------------------------------------------
 		put random(100000000, 999999999) into SocialSecurity
 		put  (chars 1 to 3 of SocialSecurity & "-" & chars 4 to 5 of SocialSecurity & "-" & chars 6 to 9 of SocialSecurity) into SocialSecurity

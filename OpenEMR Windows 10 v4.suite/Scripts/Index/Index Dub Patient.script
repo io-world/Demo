@@ -5,7 +5,7 @@ put "Modules/GlobalDefine".BuildPatients into PatientFile
 
 
 
-run "Modules/EMR".Login "admin", "pass"
+run "Library/EMR".Login "admin", "pass"
 
 repeat 5 Times  
 	put line 2 of PatientFile into PatientInfo
@@ -16,5 +16,5 @@ repeat 5 Times
 	Run "Patient/New".fix
 end repeat
 
-run "Modules/EMR".logout
+run "Library/EMR".logout
 

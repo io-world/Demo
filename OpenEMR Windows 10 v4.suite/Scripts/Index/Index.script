@@ -3,17 +3,19 @@
 Run "Library/VerifySUT"
 
 
-"Modules/EMR".Login "admin", "pass"
+"Library/EMR".Login "admin", "pass"
 
 
-"Patient/New".create "Mr", "John" , "A" , "Doe","123756","2016-08-05","423-05-1210","Male","Single"
+put (Prefix: "Mr", Firstname:"John" , MiddleName:"A" , Lastname: "Doe",MedicalRecordNumber: "123756",DateofBirth:"2016-08-05",SocialSecurity: "423-05-1210",Gender: "Male",MaritalStatus:"Single") into Patient
+
+"Patient/New".create Patient
 "Patient/New".check
 "Patient/New".fix
 run "Patient/Select"  "423-05-1210"
 run "Patient/Allergies" "penicillin"//----- "iodine"
 "Patient/Visit".create formattedtime("%Y-%m-%d")
 "Patient/Visit".delete formattedtime("%Y-%m-%d")
-"Modules/EMR".Logout
+"Library/EMR".Logout
 
 
-Run "Modules/ResultAlert"
+Run "Library/ResultAlert"

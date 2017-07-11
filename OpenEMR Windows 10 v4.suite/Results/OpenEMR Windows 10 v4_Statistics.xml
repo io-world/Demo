@@ -16,6 +16,14 @@
   <LastRun>2017-07-05 13:29:55 -0600</LastRun>
   <TotalTimeOnSuccess>0.002531</TotalTimeOnSuccess>
  </script>
+ <script name="Library/ResultAlert">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-06-13 14:39:07 -0600</FirstRun>
+  <LastRun>2017-06-16 08:36:54 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
  <script name="Patient/Find">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>1</NumberOfRuns>
@@ -70,14 +78,6 @@
   <NumberOfFails>2</NumberOfFails>
   <FirstRun>2016-09-26 08:16:45 -0600</FirstRun>
   <LastRun>2016-09-26 08:20:13 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
- <script name="Modules/ResultAlert">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>9</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2017-06-13 14:39:07 -0600</FirstRun>
-  <LastRun>2017-06-16 08:36:54 -0600</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
  <script name="Patient/Allergies">
