@@ -1,0 +1,15 @@
+﻿2017-07-17 10:27:10.408 -0600	START		Running Index/index Conference.script
+2017-07-17 10:27:10.544 -0600	Log		((DateofBirth:"1995-10-14", FirstName:"sojh", Gender:"Female", LastName:"zsmsos", MaritalStatus:"Single", MedicalRecordNumber:"328859", MiddleName:"L", Prefix:"Mrs", SocialSecurity:"771-69-4917"))	3	on_create	Patient/New.script
+2017-07-17 10:27:11.154 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-17 10:27:11.266 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-17 10:27:11.959 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-17 10:27:13.318 -0600	imagefound	(TEXT:"Mrs")	found at (315, 252)	15	on_create	Patient/New.script
+2017-07-17 10:27:13.421 -0600	click		at (315, 252)	16	on_create	Patient/New.script
+2017-07-17 10:27:14.201 -0600	typetext		[tab]sojh[tab]	19	on_create	Patient/New.script
+2017-07-17 10:27:14.925 -0600	typetext		L[tab]	20	on_create	Patient/New.script
+2017-07-17 10:27:15.724 -0600	typetext		zsmsos[tab]	21	on_create	Patient/New.script
+2017-07-17 10:27:16.520 -0600	typetext		328859[tab]	22	on_create	Patient/New.script
+2017-07-17 10:27:16.527 -0600	Log		1995-10-14	3	on_buttons	Modules/DOBMod.script
+2017-07-17 10:27:27.922 -0600	Exception	Patient/DOB/DateOfBirth	No Image Found On Screen: "Patient/DOB/DateOfBirth"	11	on_buttons	Modules/DOBMod.script
+2017-07-17 10:27:28.243 -0600	EndTestCase		(Duration:"17.833745", Errors:"1", Exceptions:"1", StartTime:"2017-07-17 10:27:10 -0600", Successes:"0", TestCase:"Index/index Conference.script", Warnings:"0")
+2017-07-17 10:27:28.244 -0600	ABORTED		Execution Time 0:00:17 Index/index Conference.script

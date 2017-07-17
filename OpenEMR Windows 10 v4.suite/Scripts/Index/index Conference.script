@@ -2,18 +2,20 @@
 
 
 
-run "Library/EMR".Login "admin", "pass"
+--run "Library/EMR".Login "admin", "pass"
 
 
-repeat forever Times  
-	put  "Modules/Patient".BuildFromRandom ("1") into  PatientData
-	put item repeatindex() of PatientData into PatientInfo
-	Run "Patient/New".create PatientInfo as parameters
+repeat 5 times   
+	put  "Modules/Patient".BuildFromRandom (3) into  PatientData
+	
+	Run "Patient/New".create PatientData
 	Run "Patient/New".ClearCreate
-	Click "Chrome/minimize"
+	
+	(*
+Click "Chrome/minimize"
 	Run "Library/MicroDicom"
 	Click "Chrome/Reopen"
-	
+	*)
 end repeat
-run "Library/EMR".logout
+--run "Library/EMR".logout
 

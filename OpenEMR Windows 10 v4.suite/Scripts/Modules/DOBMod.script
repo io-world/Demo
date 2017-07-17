@@ -1,6 +1,13 @@
-﻿--Buttons "2010-02-27"
+﻿--Buttons "2014-03-16"
+
+--click (text:"16",searchRectangle:("Patient/DOB/Weekend","Patient/DOB/Saturday") ,contrast:on, contrastColor:(212,208,200),contrastTolerance:25)
+
+--log readtext("Patient/DOB/Weekend","Patient/DOB/Saturday")
+
+
 
 on Buttons DOB
+
 	log DOB
 	split DOB using "-" 
 	put the year into Tyear
@@ -31,7 +38,8 @@ on Buttons DOB
 		click FoundImageLocation()
 	end repeat
 	
-	click (text:DClick,searchRectangle:("Patient/DOB/Weekend","Patient/DOB/Saturday"))
+	--click (text:DClick,searchRectangle:("Patient/DOB/Weekend","Patient/DOB/Saturday"))
+	click (text:DClick,searchRectangle:("Patient/DOB/Weekend","Patient/DOB/Saturday") ,contrast:on, contrastColor:(212,208,200),contrastTolerance:25)
+	
 	
 end Buttons
-

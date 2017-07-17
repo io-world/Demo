@@ -12,4 +12,76 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-07-17 07:45:27.508 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>15.359408</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170717_074527.508/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;forever&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-17 07:45:56.356 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>84.375246</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170717_074556.356/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-17 10:18:52.952 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>86.939853</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170717_101852.952/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-17 10:21:49.805 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>94.166795</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170717_102149.805/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-17 10:24:01.087 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20170717_102401.087/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-17 10:24:16.608 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.538137</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170717_102416.608/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

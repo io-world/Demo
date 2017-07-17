@@ -1,0 +1,10 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-17 06:54:12.899 -0600,"Running",0:00:00,0,0,0,"20170717_065412.899/LogFile.txt","","",0
+2017-07-17 06:54:33.931 -0600,"Running",0:00:00,0,0,0,"20170717_065433.931/LogFile.txt","","",0
+2017-07-17 06:58:33.097 -0600,"Running",0:00:00,0,0,0,"20170717_065833.097/LogFile.txt","","",0
+2017-07-17 07:07:47.141 -0600,"Running",0:00:00,0,0,0,"20170717_070747.141/LogFile.txt","","",0
+2017-07-17 07:08:40.414 -0600,"Failure",0:00:54,1,0,0,"20170717_070840.414/LogFile.txt","","STInvalidNumber -- Value is not a number: 'SocialSecurityNumber'",0
+2017-07-17 10:03:02.165 -0600,"Running",0:00:00,0,0,0,"20170717_100302.165/LogFile.txt","","",0
+2017-07-17 10:03:26.282 -0600,"Failure",0:00:22,1,0,0,"20170717_100326.282/LogFile.txt","","SenseTalk Compiler Exception -- in buttons:\nSyntax Error at line 36: Syntax Error - can't understand [end of line] at or near character 1042",0
+2017-07-17 10:04:26.378 -0600,"Failure",0:00:22,1,0,0,"20170717_100426.378/LogFile.txt","","SenseTalk Compiler Exception -- in buttons:\nSyntax Error at line 36: Syntax Error - can't understand [end of line] at or near character 1042",0
+2017-07-17 10:05:19.585 -0600,"Success",0:08:33,0,0,0,"20170717_100519.585/LogFile.txt","","",1

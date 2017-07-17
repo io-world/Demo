@@ -2,7 +2,6 @@
 put  "Modules/Patient".BuildFromExcel into  PatientData
 
 
-
 run "Library/EMR".Login "admin", "pass"
 put the number of  items of PatientData  - 1 into Max
 repeat MAX Times  

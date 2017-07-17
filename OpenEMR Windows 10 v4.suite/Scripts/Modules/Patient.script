@@ -30,7 +30,6 @@ function BuildFromRandom PatientCount
 	
 	
 	repeat PatientCount times
-		
 		put (a to z) into alphabet
 		
 		put ("Mr","Mrs","Ms","Dr") into Prefix
@@ -41,7 +40,7 @@ function BuildFromRandom PatientCount
 			put DNC.WordDate & DNC.WordTime into FirstName
 			put any item of A..Z into MiddlName
 			put DNC.wordyear into LastName
-		else
+			else
 			
 			put (a to z) into alphabet
 			repeat 4 times
@@ -73,9 +72,10 @@ function BuildFromRandom PatientCount
 		put item random(1, 2) of Marital into Marital
 		
 		
-		insert (Prefix:Prefix, FirstName:FirstName , MiddleName:MiddleName , LastName: LastName,MedicalRecordNumber: ExternalID,DateofBirth:DOB,SocialSecurity: SocialSecurity,Gender:Sex,MaritalStatus:Marital) into Patient
+		insert (Prefix:Prefix, FirstName:FirstName , MiddleName:MiddleName , LastName: LastName,MedicalRecordNumber: ExternalID,DateofBirth:DOB,SocialSecurityNumber: SocialSecurity,Gender:Sex,MaritalStatus:Marital) into Patient
 		
-		put Patient into PatientList
+		insert Patient into PatientList
+		put () into Patient
 		put () into Suffix
 		put "" into FirstName
 		put "" into MiddleName
@@ -84,8 +84,6 @@ function BuildFromRandom PatientCount
 		put () into SocialSecurity
 		put () into Sex
 		put () into Marital
-		
-		
 	end repeat
 	
 	return PatientList

@@ -1,0 +1,321 @@
+﻿2017-07-17 10:14:07.840 -0600	START		Running Index/Index Full Run.script
+2017-07-17 10:14:07.972 -0600	Log		((DateofBirth:"2006-06-13 12:00:00 -0600", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"Q", Prefix:"Mr", SocialSecurityNumber:"113-83-3798"),(DateofBirth:"2014-03-17 12:00:00 -0600", FirstName:"Carrie", Gender:"Female", LastName:"Underwood", MaritalStatus:"Married", MedicalRecordNumber:"333333", MiddleName:"R", Prefix:"Mrs", SocialSecurityNumber:"583-00-6387"),(DateofBirth:"2003-04-24 12:00:00 -0600", FirstName:"Wonder", Gender:"Female", LastName:"Woman", MaritalStatus:"Divorced", MedicalRecordNumber:"444444", MiddleName:"S", Prefix:"Ms", SocialSecurityNumber:"580-71-8520"),(DateofBirth:"1987-12-23 12:00:00 -0700", FirstName:"Darth", Gender:"Male", LastName:"Vader", MaritalStatus:"Widowed", MedicalRecordNumber:"555555", MiddleName:"T", Prefix:"Dr", SocialSecurityNumber:"744-85-1232"),(DateofBirth:"1981-07-30 12:00:00 -0600", FirstName:"James", Gender:"Male", LastName:"Bond", MaritalStatus:"Single", MedicalRecordNumber:"666666", MiddleName:"U", Prefix:"Dr", SocialSecurityNumber:"973-13-0224"),(DateofBirth:"1980-09-01 12:00:00 -0600", FirstName:"Homer", Gender:"Male", LastName:"Simpson", MaritalStatus:"Married", MedicalRecordNumber:"777777", MiddleName:"V", Prefix:"Mr", SocialSecurityNumber:"557-31-0655"),(DateofBirth:"1985-09-19 12:00:00 -0600", FirstName:"Optimus", Gender:"Other", LastName:"Prime", MaritalStatus:"Divorced", MedicalRecordNumber:"888888", MiddleName:"W", Prefix:"Dr", SocialSecurityNumber:"521-26-0727"),(DateofBirth:"2000-06-14 12:00:00 -0600", FirstName:"Mickey", Gender:"Male", LastName:"Mouse", MaritalStatus:"Single", MedicalRecordNumber:"999999", MiddleName:"X", Prefix:"Dr", SocialSecurityNumber:"984-56-3166"),(DateofBirth:"2000-06-14 12:00:00 -0600", FirstName:"SpongeBob", Gender:"Male", LastName:"SquarePants", MaritalStatus:"Single", MedicalRecordNumber:"101010", MiddleName:"Y", Prefix:"Mr", SocialSecurityNumber:"984-56-3166"))	3	on_index_index_full_run	Index/Index Full Run.script
+2017-07-17 10:14:08.004 -0600	typetext		[windowsKey]r	3	on_login	Library/EMR.script
+2017-07-17 10:14:08.842 -0600	typetext		chrome.exe[returnKey]	4	on_login	Library/EMR.script
+2017-07-17 10:14:11.910 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	5	on_login	Library/EMR.script
+2017-07-17 10:14:11.936 -0600	typetext		[controlKey]l	6	on_login	Library/EMR.script
+2017-07-17 10:14:13.613 -0600	typetext		http://localhost/openemr/interface/main/main_screen.php?auth=login&site=default[enter]	7	on_login	Library/EMR.script
+2017-07-17 10:14:14.626 -0600	imagefound	Login/Logo	found at (524, 486)	9	on_login	Library/EMR.script
+2017-07-17 10:14:15.630 -0600	Log		Login/logo was Booted 	16	on_login	Library/EMR.script
+2017-07-17 10:14:15.703 -0600	typetext		admin[tab]	17	on_login	Library/EMR.script
+2017-07-17 10:14:16.468 -0600	typetext		pass[enter]	18	on_login	Library/EMR.script
+2017-07-17 10:14:23.542 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	20	on_login	Library/EMR.script
+2017-07-17 10:14:23.544 -0600	Log		EMR was loaded 1.068312 seconds	21	on_login	Library/EMR.script
+2017-07-17 10:14:23.592 -0600	Log		(DateofBirth:"2006-06-13 12:00:00 -0600", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"Q", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	3	on_create	Patient/New.script
+2017-07-17 10:14:24.180 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-17 10:14:24.689 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-17 10:14:24.984 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-17 10:14:26.292 -0600	imagefound	(TEXT:"Mr")	found at (312, 236)	15	on_create	Patient/New.script
+2017-07-17 10:14:26.397 -0600	click		at (312, 236)	16	on_create	Patient/New.script
+2017-07-17 10:14:27.186 -0600	typetext		[tab]Bruce[tab]	19	on_create	Patient/New.script
+2017-07-17 10:14:27.916 -0600	typetext		Q[tab]	20	on_create	Patient/New.script
+2017-07-17 10:14:28.698 -0600	typetext		Wayne[tab]	21	on_create	Patient/New.script
+2017-07-17 10:14:29.486 -0600	typetext		222222[tab]	22	on_create	Patient/New.script
+2017-07-17 10:14:29.492 -0600	Log		2006-06-13	3	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:30.760 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:31.477 -0600	moveto		at (469, 237)	12	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:32.677 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	18	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:33.484 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:34.297 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:35.103 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:35.916 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:36.728 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:37.546 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:38.353 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:39.164 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:39.974 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:40.788 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:41.597 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:42.784 -0600	moveto	Patient/DOB/MonthBack	at (465, 287)	27	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:43.587 -0600	click		at (465, 287)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:46.046 -0600	click	(TEXT:"13")	at (537, 363)	34	on_buttons	Modules/DOBMod.script
+2017-07-17 10:14:47.384 -0600	click	Patient/New/Social Security	at (335, 260)	24	on_create	Patient/New.script
+2017-07-17 10:14:48.227 -0600	typetext		113-83-3798	25	on_create	Patient/New.script
+2017-07-17 10:14:49.501 -0600	click	Patient/New/MaritalStatus	at (411, 283)	27	on_create	Patient/New.script
+2017-07-17 10:14:50.908 -0600	click	(TEXT:"Single")	at (322, 341)	30	on_create	Patient/New.script
+2017-07-17 10:14:52.252 -0600	click	Patient/New/Sex	at (869, 232)	32	on_create	Patient/New.script
+2017-07-17 10:14:52.995 -0600	typetext		[downArrow][downArrow][returnKey]	36	on_create	Patient/New.script
+2017-07-17 10:14:54.325 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	38	on_create	Patient/New.script
+2017-07-17 10:14:55.109 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_check	Patient/New.script
+2017-07-17 10:14:55.226 -0600	imagefound	Patient/Check/Error3	found at (278, 134)	3	on_check	Patient/New.script
+2017-07-17 10:14:55.226 -0600	Log		ID Already Exist	4	on_check	Patient/New.script
+2017-07-17 10:14:55.336 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_fix	Patient/New.script
+2017-07-17 10:14:55.552 -0600	click	Patient/Check/OK	at (545, 179)	5	on_fix	Patient/New.script
+2017-07-17 10:14:56.896 -0600	click	Patient/Fix/Cancel	at (72, 547)	6	on_fix	Patient/New.script
+2017-07-17 10:14:58.274 -0600	doubleclick	Patient/Fix/ExternalID	at (796, 195)	7	on_fix	Patient/New.script
+2017-07-17 10:14:59.003 -0600	typetext		[controlKey]c	8	on_fix	Patient/New.script
+2017-07-17 10:14:59.308 -0600	Log		Read EID as 222222 	11	on_fix	Patient/New.script
+2017-07-17 10:14:59.780 -0600	typetext		222223	12	on_fix	Patient/New.script
+2017-07-17 10:15:01.048 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	13	on_fix	Patient/New.script
+2017-07-17 10:15:02.268 -0600	imagefound	Patient/New/ConfirmCreateNewPatient	found at (135, 548)	14	on_fix	Patient/New.script
+2017-07-17 10:15:02.374 -0600	click		at (135, 548)	15	on_fix	Patient/New.script
+2017-07-17 10:15:02.379 -0600	Log		(DateofBirth:"2014-03-17 12:00:00 -0600", FirstName:"Carrie", Gender:"Female", LastName:"Underwood", MaritalStatus:"Married", MedicalRecordNumber:"333333", MiddleName:"R", Prefix:"Mrs", SocialSecurityNumber:"583-00-6387")	3	on_create	Patient/New.script
+2017-07-17 10:15:03.266 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-17 10:15:04.131 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-17 10:15:04.239 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-17 10:15:05.577 -0600	imagefound	(TEXT:"Mrs")	found at (315, 252)	15	on_create	Patient/New.script
+2017-07-17 10:15:05.681 -0600	click		at (315, 252)	16	on_create	Patient/New.script
+2017-07-17 10:15:06.484 -0600	typetext		[tab]Carrie[tab]	19	on_create	Patient/New.script
+2017-07-17 10:15:07.213 -0600	typetext		R[tab]	20	on_create	Patient/New.script
+2017-07-17 10:15:08.048 -0600	typetext		Underwood[tab]	21	on_create	Patient/New.script
+2017-07-17 10:15:08.839 -0600	typetext		333333[tab]	22	on_create	Patient/New.script
+2017-07-17 10:15:08.844 -0600	Log		2014-03-17	3	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:10.120 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:10.838 -0600	moveto		at (469, 237)	12	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:12.042 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	18	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:12.855 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:13.671 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:14.483 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:15.681 -0600	moveto	Patient/DOB/MonthBack	at (465, 287)	27	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:16.495 -0600	click		at (465, 287)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:17.302 -0600	click		at (465, 287)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:18.114 -0600	click		at (465, 287)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:18.926 -0600	click		at (465, 287)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:21.436 -0600	click	(TEXT:"17")	at (505, 383)	34	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:22.779 -0600	click	Patient/New/Social Security	at (335, 260)	24	on_create	Patient/New.script
+2017-07-17 10:15:23.620 -0600	typetext		583-00-6387	25	on_create	Patient/New.script
+2017-07-17 10:15:24.869 -0600	click	Patient/New/MaritalStatus	at (411, 283)	27	on_create	Patient/New.script
+2017-07-17 10:15:26.252 -0600	click	(TEXT:"Married")	at (326, 324)	30	on_create	Patient/New.script
+2017-07-17 10:15:27.577 -0600	click	Patient/New/Sex	at (869, 232)	32	on_create	Patient/New.script
+2017-07-17 10:15:28.305 -0600	typetext		[downArrow][returnKey]	34	on_create	Patient/New.script
+2017-07-17 10:15:29.657 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	38	on_create	Patient/New.script
+2017-07-17 10:15:30.458 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_check	Patient/New.script
+2017-07-17 10:15:30.569 -0600	imagefound	Patient/Check/Error3	found at (278, 134)	3	on_check	Patient/New.script
+2017-07-17 10:15:30.570 -0600	Log		ID Already Exist	4	on_check	Patient/New.script
+2017-07-17 10:15:30.681 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_fix	Patient/New.script
+2017-07-17 10:15:30.891 -0600	click	Patient/Check/OK	at (545, 179)	5	on_fix	Patient/New.script
+2017-07-17 10:15:32.224 -0600	click	Patient/Fix/Cancel	at (72, 547)	6	on_fix	Patient/New.script
+2017-07-17 10:15:33.570 -0600	doubleclick	Patient/Fix/ExternalID	at (796, 195)	7	on_fix	Patient/New.script
+2017-07-17 10:15:34.299 -0600	typetext		[controlKey]c	8	on_fix	Patient/New.script
+2017-07-17 10:15:34.601 -0600	Log		Read EID as 333333 	11	on_fix	Patient/New.script
+2017-07-17 10:15:35.072 -0600	typetext		333334	12	on_fix	Patient/New.script
+2017-07-17 10:15:36.396 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	13	on_fix	Patient/New.script
+2017-07-17 10:15:37.629 -0600	imagefound	Patient/New/ConfirmCreateNewPatient	found at (135, 548)	14	on_fix	Patient/New.script
+2017-07-17 10:15:37.738 -0600	click		at (135, 548)	15	on_fix	Patient/New.script
+2017-07-17 10:15:37.751 -0600	Log		(DateofBirth:"2003-04-24 12:00:00 -0600", FirstName:"Wonder", Gender:"Female", LastName:"Woman", MaritalStatus:"Divorced", MedicalRecordNumber:"444444", MiddleName:"S", Prefix:"Ms", SocialSecurityNumber:"580-71-8520")	3	on_create	Patient/New.script
+2017-07-17 10:15:38.626 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-17 10:15:39.486 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-17 10:15:39.595 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-17 10:15:40.912 -0600	imagefound	(TEXT:"Ms")	found at (313, 269)	15	on_create	Patient/New.script
+2017-07-17 10:15:41.018 -0600	click		at (313, 269)	16	on_create	Patient/New.script
+2017-07-17 10:15:41.822 -0600	typetext		[tab]Wonder[tab]	19	on_create	Patient/New.script
+2017-07-17 10:15:42.552 -0600	typetext		S[tab]	20	on_create	Patient/New.script
+2017-07-17 10:15:43.333 -0600	typetext		Woman[tab]	21	on_create	Patient/New.script
+2017-07-17 10:15:44.123 -0600	typetext		444444[tab]	22	on_create	Patient/New.script
+2017-07-17 10:15:44.128 -0600	Log		2003-04-24	3	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:45.379 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:46.092 -0600	moveto		at (469, 237)	12	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:47.313 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	18	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:48.125 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:48.936 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:49.745 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:50.556 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:51.364 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:52.172 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:52.983 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:53.791 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:54.597 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:55.406 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:56.216 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:57.028 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:57.838 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:58.645 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:15:59.869 -0600	moveto	Patient/DOB/MonthBack	at (465, 287)	27	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:00.674 -0600	click		at (465, 287)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:01.482 -0600	click		at (465, 287)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:02.296 -0600	click		at (465, 287)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:04.763 -0600	click	(TEXT:"24")	at (602, 382)	34	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:06.108 -0600	click	Patient/New/Social Security	at (335, 260)	24	on_create	Patient/New.script
+2017-07-17 10:16:06.947 -0600	typetext		580-71-8520	25	on_create	Patient/New.script
+2017-07-17 10:16:08.237 -0600	click	Patient/New/MaritalStatus	at (411, 283)	27	on_create	Patient/New.script
+2017-07-17 10:16:09.622 -0600	click	(TEXT:"Divorced")	at (330, 357)	30	on_create	Patient/New.script
+2017-07-17 10:16:10.964 -0600	click	Patient/New/Sex	at (869, 232)	32	on_create	Patient/New.script
+2017-07-17 10:16:11.694 -0600	typetext		[downArrow][returnKey]	34	on_create	Patient/New.script
+2017-07-17 10:16:12.997 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	38	on_create	Patient/New.script
+2017-07-17 10:16:13.789 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_check	Patient/New.script
+2017-07-17 10:16:13.907 -0600	imagefound	Patient/Check/Error3	found at (278, 134)	3	on_check	Patient/New.script
+2017-07-17 10:16:13.908 -0600	Log		ID Already Exist	4	on_check	Patient/New.script
+2017-07-17 10:16:14.023 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_fix	Patient/New.script
+2017-07-17 10:16:14.238 -0600	click	Patient/Check/OK	at (545, 179)	5	on_fix	Patient/New.script
+2017-07-17 10:16:15.564 -0600	click	Patient/Fix/Cancel	at (72, 547)	6	on_fix	Patient/New.script
+2017-07-17 10:16:16.956 -0600	doubleclick	Patient/Fix/ExternalID	at (796, 195)	7	on_fix	Patient/New.script
+2017-07-17 10:16:17.680 -0600	typetext		[controlKey]c	8	on_fix	Patient/New.script
+2017-07-17 10:16:17.982 -0600	Log		Read EID as 444444 	11	on_fix	Patient/New.script
+2017-07-17 10:16:18.464 -0600	typetext		444445	12	on_fix	Patient/New.script
+2017-07-17 10:16:19.725 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	13	on_fix	Patient/New.script
+2017-07-17 10:16:20.929 -0600	imagefound	Patient/New/ConfirmCreateNewPatient	found at (135, 548)	14	on_fix	Patient/New.script
+2017-07-17 10:16:21.037 -0600	click		at (135, 548)	15	on_fix	Patient/New.script
+2017-07-17 10:16:21.044 -0600	Log		(DateofBirth:"1987-12-23 12:00:00 -0700", FirstName:"Darth", Gender:"Male", LastName:"Vader", MaritalStatus:"Widowed", MedicalRecordNumber:"555555", MiddleName:"T", Prefix:"Dr", SocialSecurityNumber:"744-85-1232")	3	on_create	Patient/New.script
+2017-07-17 10:16:21.932 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-17 10:16:22.789 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-17 10:16:22.898 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-17 10:16:24.218 -0600	imagefound	(TEXT:"Dr")	found at (311, 285)	15	on_create	Patient/New.script
+2017-07-17 10:16:24.325 -0600	click		at (311, 285)	16	on_create	Patient/New.script
+2017-07-17 10:16:25.113 -0600	typetext		[tab]Darth[tab]	19	on_create	Patient/New.script
+2017-07-17 10:16:25.845 -0600	typetext		T[tab]	20	on_create	Patient/New.script
+2017-07-17 10:16:26.620 -0600	typetext		Vader[tab]	21	on_create	Patient/New.script
+2017-07-17 10:16:27.413 -0600	typetext		555555[tab]	22	on_create	Patient/New.script
+2017-07-17 10:16:27.417 -0600	Log		1987-12-23	3	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:28.729 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:29.447 -0600	moveto		at (469, 237)	12	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:30.659 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	18	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:31.472 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:32.277 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:33.089 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:33.896 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:34.705 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:35.519 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:36.327 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:37.136 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:37.943 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:38.755 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:39.569 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:40.378 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:41.184 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:41.997 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:42.812 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:43.626 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:44.437 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:45.246 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:46.055 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:46.863 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:47.669 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:48.481 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:49.293 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:50.096 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:50.911 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:51.718 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:52.529 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:53.339 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:54.153 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:54.963 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:56.193 -0600	moveto	Patient/DOB/MonthFoward	at (624, 286)	25	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:56.995 -0600	click		at (624, 286)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:57.803 -0600	click		at (624, 286)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:58.610 -0600	click		at (624, 286)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:16:59.419 -0600	click		at (624, 286)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:00.230 -0600	click		at (624, 286)	30	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:02.753 -0600	click	(TEXT:"23")	at (569, 382)	34	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:04.098 -0600	click	Patient/New/Social Security	at (335, 260)	24	on_create	Patient/New.script
+2017-07-17 10:17:04.937 -0600	typetext		744-85-1232	25	on_create	Patient/New.script
+2017-07-17 10:17:06.229 -0600	click	Patient/New/MaritalStatus	at (411, 283)	27	on_create	Patient/New.script
+2017-07-17 10:17:07.611 -0600	click	(TEXT:"Widowed")	at (330, 373)	30	on_create	Patient/New.script
+2017-07-17 10:17:08.943 -0600	click	Patient/New/Sex	at (869, 232)	32	on_create	Patient/New.script
+2017-07-17 10:17:09.681 -0600	typetext		[downArrow][downArrow][returnKey]	36	on_create	Patient/New.script
+2017-07-17 10:17:11.025 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	38	on_create	Patient/New.script
+2017-07-17 10:17:11.828 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_check	Patient/New.script
+2017-07-17 10:17:11.940 -0600	imagefound	Patient/Check/Error3	found at (278, 134)	3	on_check	Patient/New.script
+2017-07-17 10:17:11.941 -0600	Log		ID Already Exist	4	on_check	Patient/New.script
+2017-07-17 10:17:12.050 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_fix	Patient/New.script
+2017-07-17 10:17:12.272 -0600	click	Patient/Check/OK	at (545, 179)	5	on_fix	Patient/New.script
+2017-07-17 10:17:13.625 -0600	click	Patient/Fix/Cancel	at (72, 547)	6	on_fix	Patient/New.script
+2017-07-17 10:17:15.008 -0600	doubleclick	Patient/Fix/ExternalID	at (796, 195)	7	on_fix	Patient/New.script
+2017-07-17 10:17:15.733 -0600	typetext		[controlKey]c	8	on_fix	Patient/New.script
+2017-07-17 10:17:16.035 -0600	Log		Read EID as 555555 	11	on_fix	Patient/New.script
+2017-07-17 10:17:16.510 -0600	typetext		555556	12	on_fix	Patient/New.script
+2017-07-17 10:17:17.783 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	13	on_fix	Patient/New.script
+2017-07-17 10:17:19.005 -0600	imagefound	Patient/New/ConfirmCreateNewPatient	found at (135, 548)	14	on_fix	Patient/New.script
+2017-07-17 10:17:19.108 -0600	click		at (135, 548)	15	on_fix	Patient/New.script
+2017-07-17 10:17:19.116 -0600	Log		(DateofBirth:"1981-07-30 12:00:00 -0600", FirstName:"James", Gender:"Male", LastName:"Bond", MaritalStatus:"Single", MedicalRecordNumber:"666666", MiddleName:"U", Prefix:"Dr", SocialSecurityNumber:"973-13-0224")	3	on_create	Patient/New.script
+2017-07-17 10:17:20.011 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-17 10:17:20.508 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-17 10:17:20.819 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-17 10:17:21.839 -0600	imagefound	(TEXT:"Dr")	found at (311, 285)	15	on_create	Patient/New.script
+2017-07-17 10:17:21.951 -0600	click		at (311, 285)	16	on_create	Patient/New.script
+2017-07-17 10:17:22.740 -0600	typetext		[tab]James[tab]	19	on_create	Patient/New.script
+2017-07-17 10:17:23.472 -0600	typetext		U[tab]	20	on_create	Patient/New.script
+2017-07-17 10:17:24.243 -0600	typetext		Bond[tab]	21	on_create	Patient/New.script
+2017-07-17 10:17:25.041 -0600	typetext		666666[tab]	22	on_create	Patient/New.script
+2017-07-17 10:17:25.046 -0600	Log		1981-07-30	3	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:26.312 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:27.028 -0600	moveto		at (469, 237)	12	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:28.258 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	18	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:29.070 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:29.880 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:30.693 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:31.508 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:32.315 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:33.128 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:33.934 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:34.742 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:35.552 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:36.359 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:37.166 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:37.981 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:38.800 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:39.610 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:40.426 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:41.235 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:42.052 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:42.862 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:43.673 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:44.488 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:45.300 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:46.118 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:46.935 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:47.747 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:48.553 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:49.364 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:50.178 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:50.987 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:51.800 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:52.613 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:53.426 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:54.235 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:55.048 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:55.857 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:56.668 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:57.480 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:17:58.712 -0600	moveto	Patient/DOB/MonthFoward	at (624, 286)	25	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:01.157 -0600	click	(TEXT:"3")	at (507, 363)	34	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:02.498 -0600	click	Patient/New/Social Security	at (335, 260)	24	on_create	Patient/New.script
+2017-07-17 10:18:03.331 -0600	typetext		973-13-0224	25	on_create	Patient/New.script
+2017-07-17 10:18:04.634 -0600	click	Patient/New/MaritalStatus	at (411, 283)	27	on_create	Patient/New.script
+2017-07-17 10:18:06.028 -0600	click	(TEXT:"Single")	at (322, 341)	30	on_create	Patient/New.script
+2017-07-17 10:18:07.361 -0600	click	Patient/New/Sex	at (869, 232)	32	on_create	Patient/New.script
+2017-07-17 10:18:08.099 -0600	typetext		[downArrow][downArrow][returnKey]	36	on_create	Patient/New.script
+2017-07-17 10:18:09.441 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	38	on_create	Patient/New.script
+2017-07-17 10:18:10.240 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_check	Patient/New.script
+2017-07-17 10:18:10.353 -0600	imagefound	Patient/Check/Error3	found at (278, 134)	3	on_check	Patient/New.script
+2017-07-17 10:18:10.354 -0600	Log		ID Already Exist	4	on_check	Patient/New.script
+2017-07-17 10:18:10.469 -0600	imagefound	Patient/Check/OK	found at (545, 179)	2	on_fix	Patient/New.script
+2017-07-17 10:18:10.676 -0600	click	Patient/Check/OK	at (545, 179)	5	on_fix	Patient/New.script
+2017-07-17 10:18:12.010 -0600	click	Patient/Fix/Cancel	at (72, 547)	6	on_fix	Patient/New.script
+2017-07-17 10:18:13.381 -0600	doubleclick	Patient/Fix/ExternalID	at (796, 195)	7	on_fix	Patient/New.script
+2017-07-17 10:18:14.111 -0600	typetext		[controlKey]c	8	on_fix	Patient/New.script
+2017-07-17 10:18:14.416 -0600	Log		Read EID as 666666 	11	on_fix	Patient/New.script
+2017-07-17 10:18:14.892 -0600	typetext		666667	12	on_fix	Patient/New.script
+2017-07-17 10:18:16.201 -0600	click	Patient/New/CreateNewPatient	at (318, 529)	13	on_fix	Patient/New.script
+2017-07-17 10:18:17.436 -0600	imagefound	Patient/New/ConfirmCreateNewPatient	found at (135, 548)	14	on_fix	Patient/New.script
+2017-07-17 10:18:17.541 -0600	click		at (135, 548)	15	on_fix	Patient/New.script
+2017-07-17 10:18:17.558 -0600	Log		(DateofBirth:"1980-09-01 12:00:00 -0600", FirstName:"Homer", Gender:"Male", LastName:"Simpson", MaritalStatus:"Married", MedicalRecordNumber:"777777", MiddleName:"V", Prefix:"Mr", SocialSecurityNumber:"557-31-0655")	3	on_create	Patient/New.script
+2017-07-17 10:18:18.434 -0600	click	Patient/New/New Patient Button	at (43, 80)	11	on_create	Patient/New.script
+2017-07-17 10:18:18.927 -0600	waitfor	Patient/New/Name	found at (378, 201)	12	on_create	Patient/New.script
+2017-07-17 10:18:19.241 -0600	click		at (378, 201)	14	on_create	Patient/New.script
+2017-07-17 10:18:20.586 -0600	imagefound	(TEXT:"Mr")	found at (312, 236)	15	on_create	Patient/New.script
+2017-07-17 10:18:20.695 -0600	click		at (312, 236)	16	on_create	Patient/New.script
+2017-07-17 10:18:21.485 -0600	typetext		[tab]Homer[tab]	19	on_create	Patient/New.script
+2017-07-17 10:18:22.217 -0600	typetext		V[tab]	20	on_create	Patient/New.script
+2017-07-17 10:18:23.020 -0600	typetext		Simpson[tab]	21	on_create	Patient/New.script
+2017-07-17 10:18:23.808 -0600	typetext		777777[tab]	22	on_create	Patient/New.script
+2017-07-17 10:18:23.813 -0600	Log		1980-09-01	3	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:25.067 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:25.779 -0600	moveto		at (469, 237)	12	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:26.983 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	18	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:27.799 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:28.609 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:29.412 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:30.217 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:31.024 -0600	click		at (432, 285)	20	on_buttons	Modules/DOBMod.script
+2017-07-17 10:18:31.236 -0600	EndTestCase		(Duration:"263.394967", Errors:"1", Exceptions:"0", StartTime:"2017-07-17 10:14:07 -0600", Successes:"0", TestCase:"Index/Index Full Run.script", Warnings:"0")
+2017-07-17 10:18:31.237 -0600	ABORTED		Execution Time 0:04:23 Index/Index Full Run.script

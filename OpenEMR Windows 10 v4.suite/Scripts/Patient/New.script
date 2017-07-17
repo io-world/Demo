@@ -23,7 +23,7 @@ on create Patient
 	TypeText Patient.MedicalRecordNumber, tabkey
 	Run "Modules/DOBMod".buttons (Patient.DateOfBirth)
 	Click "Patient/New/Social Security"
-	TypeText Patient.SocialSecurity
+	TypeText Patient.SocialSecurityNumber
 	---------------------------------------------
 	Click "Patient/New/MaritalStatus"
 	put FoundImageLocation() into FILMS
@@ -70,7 +70,7 @@ on ClearCreate
 	if  imagefound("Patient/New/ConfirmCreateNewPatient") then
 		wait 1
 		TypeText altKey & F4		
-end if
+	end if
 	
 	if  imagefound("Patient/Check/OK") then
 		click FoundImageLocation()

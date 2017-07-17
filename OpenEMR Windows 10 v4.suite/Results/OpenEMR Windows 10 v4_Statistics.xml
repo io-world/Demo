@@ -8,14 +8,6 @@
   <LastRun>2016-11-17 10:22:37 -0700</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
- <script name="Modules/Patient">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2017-07-05 13:29:55 -0600</FirstRun>
-  <LastRun>2017-07-05 13:29:55 -0600</LastRun>
-  <TotalTimeOnSuccess>0.002531</TotalTimeOnSuccess>
- </script>
  <script name="Library/ResultAlert">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>9</NumberOfRuns>
@@ -31,6 +23,14 @@
   <FirstRun>2016-11-21 11:42:37 -0700</FirstRun>
   <LastRun>2016-11-21 11:42:37 -0700</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="TestBuild">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>26</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-07-05 11:57:10 -0600</FirstRun>
+  <LastRun>2017-07-05 14:04:52 -0600</LastRun>
+  <TotalTimeOnSuccess>156.335240</TotalTimeOnSuccess>
  </script>
  <script name="Index/Clear Patients">
   <LastStatus>Success</LastStatus>
@@ -48,29 +48,21 @@
   <LastRun>2017-04-13 14:21:34 -0600</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
- <script name="TestBuild">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>26</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2017-07-05 11:57:10 -0600</FirstRun>
-  <LastRun>2017-07-05 14:04:52 -0600</LastRun>
-  <TotalTimeOnSuccess>156.335240</TotalTimeOnSuccess>
- </script>
  <script name="Library/MicroDicom">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>33</NumberOfRuns>
+  <NumberOfRuns>34</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-08-03 12:30:06 -0600</FirstRun>
-  <LastRun>2017-07-05 08:56:00 -0600</LastRun>
-  <TotalTimeOnSuccess>33.173084</TotalTimeOnSuccess>
+  <LastRun>2017-07-17 07:53:25 -0600</LastRun>
+  <TotalTimeOnSuccess>66.319932</TotalTimeOnSuccess>
  </script>
  <script name="Modules/DOBMod">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>35</NumberOfRuns>
+  <NumberOfRuns>39</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-09-08 14:12:07 -0600</FirstRun>
-  <LastRun>2017-07-05 08:49:09 -0600</LastRun>
-  <TotalTimeOnSuccess>46.197014</TotalTimeOnSuccess>
+  <LastRun>2017-07-17 10:05:13 -0600</LastRun>
+  <TotalTimeOnSuccess>69.698381</TotalTimeOnSuccess>
  </script>
  <script name="Patient/Visit">
   <LastStatus>Success</LastStatus>
@@ -98,11 +90,11 @@
  </script>
  <script name="Index/Index Full Run">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>40</NumberOfRuns>
-  <NumberOfFails>7</NumberOfFails>
+  <NumberOfRuns>44</NumberOfRuns>
+  <NumberOfFails>10</NumberOfFails>
   <FirstRun>2016-11-17 11:25:15 -0700</FirstRun>
-  <LastRun>2017-06-08 09:23:14 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+  <LastRun>2017-07-17 10:05:19 -0600</LastRun>
+  <TotalTimeOnSuccess>513.247762</TotalTimeOnSuccess>
  </script>
  <script name="CreatePatient">
   <LastStatus>Success</LastStatus>
@@ -128,14 +120,6 @@
   <LastRun>2017-04-13 14:22:39 -0600</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
- <script name="Index/index Conference">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>3</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2017-05-09 11:07:01 -0400</FirstRun>
-  <LastRun>2017-06-30 19:57:14 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
  <script name="Index/Index No CSV">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>48</NumberOfRuns>
@@ -151,6 +135,22 @@
   <FirstRun>2016-11-29 16:08:32 -0700</FirstRun>
   <LastRun>2016-11-30 14:39:01 -0700</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Index/index Conference">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>6</NumberOfFails>
+  <FirstRun>2017-05-09 11:07:01 -0400</FirstRun>
+  <LastRun>2017-07-17 10:24:16 -0600</LastRun>
+  <TotalTimeOnSuccess>0.538137</TotalTimeOnSuccess>
+ </script>
+ <script name="Modules/Patient">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-05 13:29:55 -0600</FirstRun>
+  <LastRun>2017-07-05 13:29:55 -0600</LastRun>
+  <TotalTimeOnSuccess>0.002531</TotalTimeOnSuccess>
  </script>
  <script name="Index/Index">
   <LastStatus>Failure</LastStatus>

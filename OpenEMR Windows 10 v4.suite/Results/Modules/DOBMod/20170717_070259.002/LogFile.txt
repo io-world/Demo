@@ -1,0 +1,16 @@
+﻿2017-07-17 07:02:59.003 -0600	START		Running Modules/DOBMod.script
+2017-07-17 07:02:59.070 -0600	Log		2014-03-16	2	on_buttons	Modules/DOBMod.script
+2017-07-17 07:02:59.516 -0600	click	Patient/DOB/DateOfBirth	at (419, 237)	10	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:00.231 -0600	moveto		at (469, 237)	11	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:01.270 -0600	moveto	Patient/DOB/YearBack	at (432, 285)	17	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:02.084 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:02.899 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:03.713 -0600	click		at (432, 285)	19	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:04.732 -0600	moveto	Patient/DOB/MonthBack	at (465, 287)	26	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:05.548 -0600	click		at (465, 287)	29	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:06.363 -0600	click		at (465, 287)	29	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:07.178 -0600	click		at (465, 287)	29	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:07.994 -0600	click		at (465, 287)	29	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:19.720 -0600	Exception	(TEXT:"16")	No Text Found On Screen: "(TEXT:"16")"	32	on_buttons	Modules/DOBMod.script
+2017-07-17 07:03:20.019 -0600	EndTestCase		(Duration:"21.014528", Errors:"1", Exceptions:"1", StartTime:"2017-07-17 07:02:59 -0600", Successes:"0", TestCase:"Modules/DOBMod.script", Warnings:"0")
+2017-07-17 07:03:20.019 -0600	ABORTED		Execution Time 0:00:21 Modules/DOBMod.script

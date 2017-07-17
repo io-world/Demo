@@ -6,7 +6,7 @@ Run "Library/VerifySUT"
 "Library/EMR".Login "admin", "pass"
 
 
-put (Prefix: "Mr", Firstname:"John" , MiddleName:"A" , Lastname: "Doe",MedicalRecordNumber: "123756",DateofBirth:"2016-08-05",SocialSecurity: "423-05-1210",Gender: "Male",MaritalStatus:"Single") into Patient
+put (Prefix: "Mr", Firstname:"John" , MiddleName:"A" , Lastname: "Doe",MedicalRecordNumber: "123756",DateofBirth:"2016-08-05",SocialSecurityNumber: "423-05-1210",Gender: "Male",MaritalStatus:"Single") into Patient
 
 "Patient/New".create Patient
 "Patient/New".check
@@ -19,3 +19,4 @@ run "Patient/Allergies" "penicillin"//----- "iodine"
 
 
 Run "Library/ResultAlert"
+
