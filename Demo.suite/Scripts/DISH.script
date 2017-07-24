@@ -1,0 +1,24 @@
+﻿Click (Image:"My Dish", WaitFor:71)
+Click (Image:"Username", WaitFor:11)
+TypeText "Randy"
+
+Click "Password"
+TypeText "password1"
+Click "Done"
+Click "SignIn"
+
+
+
+If imagefound("MyDish Warn") then
+	logwarning "User name is incorrect"
+	wait 2
+	Click "OK"
+	
+	
+Else
+	log "no Message"
+End if
+
+
+
+PressHomeButton
