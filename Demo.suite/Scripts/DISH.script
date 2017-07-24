@@ -14,9 +14,9 @@ If imagefound("MyDish Warn") then
 	wait 2
 	Click "OK"
 	
-	
 Else
 	log "no Message"
+	
 End if
 
 
