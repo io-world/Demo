@@ -22,7 +22,7 @@ end if
 click image:"Resolution/Settings" , hotspot:(100,0)
 
 
-
+(*
 waitfor 10, "Resolution/Screen 1"
 TypeText pagedown
 click "Resolution/Advanced display settings"
@@ -31,12 +31,15 @@ wait 2
 click FoundImageLocation()
 
 TypeText pagedown 
+*)
 
 
 if imagefound ("Resolution/1440x900") then
 	
 else
-	click "Resolution/Apply"
+	--click "Resolution/Apply"
+	click text:"resolution",hotspot:(50,50)
+	
 	TypeText pagedown , pagedown, pagedown, pagedown
 	
 	repeat until imagefound("Resolution/1440x900")
@@ -44,7 +47,6 @@ else
 	end repeat
 	
 	click FoundImageLocation()
-	click "Resolution/Apply Final"
 	WaitFor 20 , "Resolution/Keep changes"
 	click FoundImageLocation()
 	
