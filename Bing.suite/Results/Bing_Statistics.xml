@@ -2,10 +2,10 @@
 <statistics>
  <script name="Index">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfRuns>26</NumberOfRuns>
   <NumberOfFails>6</NumberOfFails>
   <FirstRun>2016-08-08 08:42:39 -0600</FirstRun>
-  <LastRun>2017-02-14 10:23:53 -0700</LastRun>
-  <TotalTimeOnSuccess>511.625125</TotalTimeOnSuccess>
+  <LastRun>2017-07-28 10:12:33 -0600</LastRun>
+  <TotalTimeOnSuccess>682.773152</TotalTimeOnSuccess>
  </script>
 </statistics>

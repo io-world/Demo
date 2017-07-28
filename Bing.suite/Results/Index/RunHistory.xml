@@ -1,494 +1,62 @@
 ﻿<?xml version="1.0"?>
-<runHistory script="Master">
+<runHistory script="Index">
  <run>
-  <RunDate>2016-08-08 08:42:39.902 -0600</RunDate>
+  <RunDate>2017-07-28 10:00:57.339 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20170728_100057.339/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-28 10:02:38.907 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>19.634272</Duration>
+  <Duration>40.653922</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20160808_084239.902/LogFile.txt</LogFile>
+  <LogFile>20170728_100238.907/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-08-10 09:13:42.787 -0600</RunDate>
+  <RunDate>2017-07-28 10:07:04.999 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>18.757769</Duration>
+  <Duration>39.461606</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20160810_091342.787/LogFile.txt</LogFile>
+  <LogFile>20170728_100704.999/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-09-23 10:36:32.558 -0600</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20160923_103632.558/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-09-23 11:29:21.854 -0600</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20160923_112921.854/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-09-23 11:30:25.728 -0600</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20160923_113025.728/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-09-23 11:31:58.211 -0600</RunDate>
+  <RunDate>2017-07-28 10:11:11.979 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>20.125385</Duration>
+  <Duration>50.958800</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20160923_113158.211/LogFile.txt</LogFile>
+  <LogFile>20170728_101111.979/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2016-10-18 14:38:29.151 -0600</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161018_143829.151/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-10-18 14:39:37.057 -0600</RunDate>
+  <RunDate>2017-07-28 10:12:33.474 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>24.092268</Duration>
+  <Duration>40.073699</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20161018_143937.057/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-10-19 07:54:36.804 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>23.009901</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20161019_075436.804/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-10-24 08:05:50.122 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>23.946652</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20161024_080550.122/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-09 08:10:07.164 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>21.091790</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20161109_081007.164/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-09 08:10:54.756 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161109_081054.756/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-09 08:11:45.985 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>33.082623</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20161109_081145.985/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:20:05.432 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_152005.432/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:26:52.477 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_152652.477/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:27:05.204 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_152705.204/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:27:17.122 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_152717.122/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:28:15.914 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_152815.914/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:29:50.078 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_152950.078/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:32:11.962 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_153211.962/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:32:46.303 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_153246.303/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:33:35.296 -0700</RunDate>
-  <Status>Failure</Status>
-  <Duration>55.659065</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20161117_153335.296/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Bing/Menu Bar&quot; within 10.00 seconds</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:34:41.079 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_153441.079/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:35:35.027 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_153535.027/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:41:55.199 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_154155.199/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:42:33.498 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20161117_154233.498/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:43:43.417 -0700</RunDate>
-  <Status>Failure</Status>
-  <Duration>46.166646</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20161117_154343.417/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;IE/Buttons&quot;</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:48:44.722 -0700</RunDate>
-  <Status>Failure</Status>
-  <Duration>44.775173</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20161117_154844.722/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;Edge/Navigation&quot;</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:50:53.474 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>43.225704</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20161117_155053.474/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:52:30.816 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>41.548793</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20161117_155230.816/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-17 15:54:12.156 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>36.056514</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20161117_155412.156/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-11-29 09:14:36.131 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>40.376111</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20161129_091436.131/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-01-12 09:20:48.189 -0700</RunDate>
-  <Status>Failure</Status>
-  <Duration>20.670953</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20170112_092048.189/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>File Not Found -- imagelocation Error - Could Not Open Image: Edge/Navigation</ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-01-12 09:28:44.855 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>38.328929</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170112_092844.855/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-02-14 10:09:11.859 -0700</RunDate>
-  <Status>Failure</Status>
-  <Duration>37.111339</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20170214_100911.859/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Bing/Menu Bar&quot; within 10.00 seconds</ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-02-14 10:13:19.976 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20170214_101319.976/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-02-14 10:14:40.708 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>33.151001</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170214_101440.708/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-02-14 10:16:28.581 -0700</RunDate>
-  <Status>Running</Status>
-  <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
-  <LogFile>20170214_101628.581/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-02-14 10:19:43.797 -0700</RunDate>
-  <Status>Failure</Status>
-  <Duration>14.975176</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>1</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20170214_101943.797/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Edge/Refresh Icon</ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-02-14 10:22:13.500 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>41.163778</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170214_102213.500/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-02-14 10:23:53.240 -0700</RunDate>
-  <Status>Success</Status>
-  <Duration>54.033635</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170214_102353.240/LogFile.txt</LogFile>
+  <LogFile>20170728_101233.474/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>

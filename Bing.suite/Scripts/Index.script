@@ -35,7 +35,7 @@ End repeat
 
 moveto (imagelocation("Edge"))
 click FoundImageLocation()+ (100,205)
-waitfor 10,"Refresh Icons"
+waitfor 20,"Refresh Icons"
 log "Page Load Time: " &the result
 
 wait 4
@@ -44,22 +44,23 @@ TypeText altkey , tabkey
 delays.turnoff
 Log "Chrome Now Active"
 waitfor 20,(image:"Refresh Icons/Chrome")
-
+log "Page Load Time: " &the result
 
 moveto (imagelocation("Chrome/Buttons"))
 click FoundImageLocation()+ (110,205)
-waitfor 30,"Refresh Icons"
+waitfor 70,"Refresh Icons"
 log "Page Load Time: " &the result
-
+wait 2
 delays.turnon
 TypeText altkey , tabkey
 delays.turnoff
 
 Log "IE Now Active"
 wait 3
-TypeText altkey, F4
+TypeText altkey & F4
 Log "IE Has Closed"
 wait 3
 waitfor 30, "Refresh Icons"
-TypeText altkey, F4
+click FoundImageLocation()
+TypeText altkey & f4
 Log "Chrome Has Closed"

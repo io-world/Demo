@@ -16,4 +16,5 @@
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
 }

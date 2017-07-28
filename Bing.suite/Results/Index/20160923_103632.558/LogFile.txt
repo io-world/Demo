@@ -1,9 +1,0 @@
-﻿2016-09-23 10:36:32.560 -0600	START		Running Master.script
-2016-09-23 10:36:32.707 -0600	typetext		[windowsKey]r	5	on_master	Master.script
-2016-09-23 10:36:32.711 -0600	Log		Now Active: chrome.exe	6	on_master	Master.script
-2016-09-23 10:36:33.549 -0600	typetext		chrome.exe[returnKey]	7	on_master	Master.script
-2016-09-23 10:36:36.341 -0600	waitfor	Google Buttons	found at (717, 474)	8	on_master	Master.script
-2016-09-23 10:36:36.363 -0600	Log		(Chrome/IE) Google Load Time: 2.785311 seconds	9	on_master	Master.script
-2016-09-23 10:36:36.483 -0600	typetext		Oatmeal[returnKey]	16	on_master	Master.script
-2016-09-23 10:36:40.826 -0600	EndTestCase		(Duration:"8.26352", Errors:"1", Exceptions:"0", StartTime:"2016-09-23 10:36:32 -0600", Successes:"0", TestCase:"Master.script", Warnings:"0")
-2016-09-23 10:36:40.826 -0600	ABORTED		Execution Time 0:00:08 Master.script

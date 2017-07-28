@@ -1,0 +1,59 @@
+﻿2017-07-28 10:11:11.981 -0600	START		Running Index.script
+2017-07-28 10:11:12.060 -0600	typetext		[windowsKey]r	5	on_index	Index.script
+2017-07-28 10:11:12.061 -0600	Log		Now Active: chrome.exe	6	on_index	Index.script
+2017-07-28 10:11:12.888 -0600	typetext		chrome.exe	7	on_index	Index.script
+2017-07-28 10:11:13.903 -0600	typetext		[returnKey]	9	on_index	Index.script
+2017-07-28 10:11:13.904 -0600	Log		Chrome is Opened	11	on_index	Index.script
+2017-07-28 10:11:17.366 -0600	waitfor	Refresh Icons	found at (74, 47)	12	on_index	Index.script
+2017-07-28 10:11:17.367 -0600	Log		(Chrome/IE) Google Load Time: 3.458681 seconds	13	on_index	Index.script
+2017-07-28 10:11:17.391 -0600	typetext		[controlKey]l	14	on_index	Index.script
+2017-07-28 10:11:18.247 -0600	typetext		www.bing.com[returnKey]	15	on_index	Index.script
+2017-07-28 10:11:18.368 -0600	waitfor	Refresh Icons	found at (74, 47)	18	on_index	Index.script
+2017-07-28 10:11:18.965 -0600	readtext		(0,67,674,117)
+2017-07-28 10:11:18.967 -0600	Log		Item Menus Read: 0	22	on_index	Index.script
+2017-07-28 10:11:19.066 -0600	typetext		Oatmeal[returnKey]	30	on_index	Index.script
+2017-07-28 10:11:19.409 -0600	waitfor	Refresh Icons	found at (74, 47)	31	on_index	Index.script
+2017-07-28 10:11:19.410 -0600	Log		Results Load Time: 0.341562 seconds	32	on_index	Index.script
+2017-07-28 10:11:23.437 -0600	typetext		[windowsKey]r	5	on_index	Index.script
+2017-07-28 10:11:23.438 -0600	Log		Now Active: microsoft-edge:	6	on_index	Index.script
+2017-07-28 10:11:24.326 -0600	typetext		microsoft-edge:	7	on_index	Index.script
+2017-07-28 10:11:25.345 -0600	typetext		[returnKey]	9	on_index	Index.script
+2017-07-28 10:11:26.359 -0600	click	Refresh Icons	at (261, 55)	27	on_index	Index.script
+2017-07-28 10:11:27.456 -0600	typetext		Oatmeal[returnKey]	30	on_index	Index.script
+2017-07-28 10:11:27.751 -0600	waitfor	Refresh Icons	found at (261, 55)	31	on_index	Index.script
+2017-07-28 10:11:27.752 -0600	Log		Results Load Time: 0.292916 seconds	32	on_index	Index.script
+2017-07-28 10:11:32.206 -0600	imagelocation	Edge	at (46, 54)	36	on_index	Index.script
+2017-07-28 10:11:32.217 -0600	moveto		at (46, 54)	36	on_index	Index.script
+2017-07-28 10:11:33.028 -0600	click		at (146, 259)	37	on_index	Index.script
+2017-07-28 10:11:34.325 -0600	waitfor	Refresh Icons	found at (261, 55)	38	on_index	Index.script
+2017-07-28 10:11:34.326 -0600	Log		Page Load Time: 1.294974 seconds	39	on_index	Index.script
+2017-07-28 10:11:38.331 -0600	setoption		MouseMoveSpeed = 5	2	on_turnon	Delays.script
+2017-07-28 10:11:38.332 -0600	setoption		NextKeyDelay = 0.2	3	on_turnon	Delays.script
+2017-07-28 10:11:38.333 -0600	setoption		RemoteWorkInterval = 2	4	on_turnon	Delays.script
+2017-07-28 10:11:38.744 -0600	typetext		[windowsAltKey][tab]	43	on_index	Index.script
+2017-07-28 10:11:38.747 -0600	setoption		MouseMoveSpeed = 0	2	on_turnoff	Delays.script
+2017-07-28 10:11:38.747 -0600	setoption		NextKeyDelay = 0.01	3	on_turnoff	Delays.script
+2017-07-28 10:11:38.748 -0600	setoption		RemoteWorkInterval = 0.7	4	on_turnoff	Delays.script
+2017-07-28 10:11:38.753 -0600	Log		Chrome Now Active	45	on_index	Index.script
+2017-07-28 10:11:39.661 -0600	waitfor	Refresh Icons/Chrome	found at (74, 47)	46	on_index	Index.script
+2017-07-28 10:11:39.662 -0600	Log		Page Load Time: 0.904945 seconds	47	on_index	Index.script
+2017-07-28 10:11:40.143 -0600	imagelocation	Chrome/Buttons	at (34, 48)	49	on_index	Index.script
+2017-07-28 10:11:40.154 -0600	moveto		at (34, 48)	49	on_index	Index.script
+2017-07-28 10:11:40.966 -0600	click		at (144, 253)	50	on_index	Index.script
+2017-07-28 10:11:41.149 -0600	waitfor	Refresh Icons	found at (74, 47)	51	on_index	Index.script
+2017-07-28 10:11:41.150 -0600	Log		Page Load Time: 0.1817 seconds	52	on_index	Index.script
+2017-07-28 10:11:55.791 -0600	setoption		MouseMoveSpeed = 5	2	on_turnon	Delays.script
+2017-07-28 10:11:55.792 -0600	setoption		NextKeyDelay = 0.2	3	on_turnon	Delays.script
+2017-07-28 10:11:55.793 -0600	setoption		RemoteWorkInterval = 2	4	on_turnon	Delays.script
+2017-07-28 10:11:56.202 -0600	typetext		[windowsAltKey][tab]	55	on_index	Index.script
+2017-07-28 10:11:56.205 -0600	setoption		MouseMoveSpeed = 0	2	on_turnoff	Delays.script
+2017-07-28 10:11:56.206 -0600	setoption		NextKeyDelay = 0.01	3	on_turnoff	Delays.script
+2017-07-28 10:11:56.206 -0600	setoption		RemoteWorkInterval = 0.7	4	on_turnoff	Delays.script
+2017-07-28 10:11:56.213 -0600	Log		IE Now Active	58	on_index	Index.script
+2017-07-28 10:11:59.241 -0600	typetext		[windowsAltKey][F4]	60	on_index	Index.script
+2017-07-28 10:11:59.242 -0600	Log		IE Has Closed	61	on_index	Index.script
+2017-07-28 10:12:02.686 -0600	waitfor	Refresh Icons	found at (74, 47)	63	on_index	Index.script
+2017-07-28 10:12:02.713 -0600	typetext		[windowsAltKey][F4]	64	on_index	Index.script
+2017-07-28 10:12:02.713 -0600	Log		Chrome Has Closed	65	on_index	Index.script
+2017-07-28 10:12:02.938 -0600	EndTestCase		(Duration:"50.956265", Errors:"0", Exceptions:"0", StartTime:"2017-07-28 10:11:11 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2017-07-28 10:12:02.959 -0600	SUCCESS		Execution Time 0:00:50 Index.script
