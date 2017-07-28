@@ -1,7 +1,0 @@
-﻿2016-05-24 14:23:03.420 -0600	START		Running index.script
-2016-05-24 14:23:03.503 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
-2016-05-24 14:23:03.513 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
-2016-05-24 14:23:03.525 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
-2016-05-24 14:23:03.867 -0600	click	Browsers Icon/Safari	at (288, 1231)	13	on_index	index.script
-2016-05-24 14:23:09.320 -0600	EndTestCase		(Duration:"5.899092", Errors:"1", Exceptions:"0", StartTime:"2016-05-24 14:23:03 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-24 14:23:09.321 -0600	ABORTED		Execution Time 0:00:05 index.script

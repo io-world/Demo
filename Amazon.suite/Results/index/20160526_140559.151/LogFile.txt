@@ -1,7 +1,0 @@
-﻿2016-05-26 14:05:59.152 -0600	START		Running index.script
-2016-05-26 14:05:59.274 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
-2016-05-26 14:05:59.290 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
-2016-05-26 14:05:59.303 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
-2016-05-26 14:06:03.311 -0600	Exception	Browsers Icon/Chrome	No Image Found On Screen: "Browsers Icon/Chrome"	13	on_index	index.script
-2016-05-26 14:06:03.951 -0600	EndTestCase		(Duration:"4.797323", Errors:"1", Exceptions:"1", StartTime:"2016-05-26 14:05:59 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-26 14:06:04.101 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Browsers Icon/Chrome" -- Execution Time 0:00:04 index.script

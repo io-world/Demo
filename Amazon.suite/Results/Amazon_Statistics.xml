@@ -9,11 +9,11 @@
   <TotalTimeOnSuccess>2184.950880</TotalTimeOnSuccess>
  </script>
  <script name="index">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>8</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
   <FirstRun>2017-01-27 08:49:45 -0700</FirstRun>
-  <LastRun>2017-03-30 08:22:00 -0600</LastRun>
-  <TotalTimeOnSuccess>556.359582</TotalTimeOnSuccess>
+  <LastRun>2017-07-20 15:02:01 -0500</LastRun>
+  <TotalTimeOnSuccess>865.023307</TotalTimeOnSuccess>
  </script>
 </statistics>

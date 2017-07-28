@@ -1,9 +1,0 @@
-﻿2016-05-26 14:18:51.838 -0600	START		Running index.script
-2016-05-26 14:18:51.969 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
-2016-05-26 14:18:51.983 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
-2016-05-26 14:18:51.994 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
-2016-05-26 14:18:55.700 -0600	click	Browsers Icon/Microsoft Edge	at (368, 880)	15	on_index	index.script
-2016-05-26 14:19:00.173 -0600	click	indicators	at (118, 54)	16	on_index	index.script
-2016-05-26 14:19:04.467 -0600	typetext		www.amazon.com[returnKey]	18	on_index	index.script
-2016-05-26 14:19:14.811 -0600	EndTestCase		(Duration:"22.970952", Errors:"1", Exceptions:"0", StartTime:"2016-05-26 14:18:51 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-26 14:19:14.812 -0600	ABORTED		Execution Time 0:00:22 index.script

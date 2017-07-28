@@ -5,14 +5,16 @@
         1440,
         900
     );
-    HasAlpha = 0;
+    HasAlpha = 1;
     HotSpotX = 75;
     HotSpotY = 71;
+    ImageDescription = <>;
+    ImageTolerance = 21;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 548;
     OriginalLocationY = 307;
-    Precise = 1;
+    Precise = 0;
     Pulsing = 0;
     Scale = 1;
 }

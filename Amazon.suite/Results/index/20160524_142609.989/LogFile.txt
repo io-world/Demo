@@ -1,6 +1,0 @@
-﻿2016-05-24 14:26:09.990 -0600	START		Running index.script
-2016-05-24 14:26:10.076 -0600	setoption		MouseMoveSpeed = 5	1	on_index	index.script
-2016-05-24 14:26:10.086 -0600	setoption		NextKeyDelay = 0.08	2	on_index	index.script
-2016-05-24 14:26:10.095 -0600	setoption		RemoteWorkInterval = 2	3	on_index	index.script
-2016-05-24 14:26:17.822 -0600	EndTestCase		(Duration:"7.830686", Errors:"1", Exceptions:"0", StartTime:"2016-05-24 14:26:09 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-24 14:26:17.823 -0600	ABORTED		Execution Time 0:00:07 index.script

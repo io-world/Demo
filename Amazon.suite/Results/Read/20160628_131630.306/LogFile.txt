@@ -1,6 +1,0 @@
-﻿2016-06-28 13:16:30.307 -0600	START		Running Read.script
-2016-06-28 13:16:30.989 -0600	everyimagelocation	Down Arror	found 3 images	3	on_read	Read.script
-2016-06-28 13:16:31.053 -0600	readtext		(330,623,370,653)
-2016-06-28 13:16:31.053 -0600	Log		11,310	6	on_read	Read.script
-2016-06-28 13:16:31.439 -0600	EndTestCase		(Duration:"1.131187", Errors:"0", Exceptions:"0", StartTime:"2016-06-28 13:16:30 -0600", Successes:"1", TestCase:"Read.script", Warnings:"0")
-2016-06-28 13:16:31.443 -0600	SUCCESS		Execution Time 0:00:01 Read.script

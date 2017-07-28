@@ -1,6 +1,0 @@
-﻿2016-05-10 13:38:40.691 -0600	START		Running index.script
-2016-05-10 13:38:41.266 -0600	click	Browsers Icon/Chrome	at (390, 880)	11	on_index	index.script
-2016-05-10 13:38:43.736 -0600	click	Chrome/Refresh	at (173, 43)	14	on_index	index.script
-2016-05-10 13:38:44.627 -0600	typetext		www.amazon.com[return]	16	on_index	index.script
-2016-05-10 13:38:45.056 -0600	EndTestCase		(Duration:"4.363731", Errors:"0", Exceptions:"0", StartTime:"2016-05-10 13:38:40 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-05-10 13:38:45.060 -0600	SUCCESS		Execution Time 0:00:04 index.script

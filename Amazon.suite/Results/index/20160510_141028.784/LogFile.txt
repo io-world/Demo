@@ -1,4 +1,0 @@
-﻿2016-05-10 14:10:28.785 -0600	START		Running index.script
-2016-05-10 14:10:28.914 -0600	Exception	Chrome/Find Icon	Could Not Open Image: Chrome/Find Icon	9	on_index	index.script
-2016-05-10 14:10:29.388 -0600	EndTestCase		(Duration:"0.601898", Errors:"1", Exceptions:"1", StartTime:"2016-05-10 14:10:28 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-10 14:10:29.846 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Chrome/Find Icon -- Execution Time 0:00:00 index.script

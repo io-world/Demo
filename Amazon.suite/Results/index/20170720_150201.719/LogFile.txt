@@ -1,0 +1,8 @@
+﻿2017-07-20 15:02:01.720 -0500	START		Running index.script
+2017-07-20 15:02:01.762 -0500	setoption		MouseMoveSpeed = 5	1	on_globalsset	GlobalsSet.script
+2017-07-20 15:02:01.763 -0500	setoption		NextKeyDelay = 0.08	2	on_globalsset	GlobalsSet.script
+2017-07-20 15:02:01.764 -0500	setoption		RemoteWorkInterval = 2	3	on_globalsset	GlobalsSet.script
+2017-07-20 15:02:01.783 -0500	Log		(750,1334)	8	on_index	index.script
+2017-07-20 15:02:13.724 -0500	Exception	Browsers Icon/Chrome	No Image Found On Screen: "Browsers Icon/Chrome"	12	on_index	index.script
+2017-07-20 15:02:13.975 -0500	EndTestCase		(Duration:"12.253476", Errors:"1", Exceptions:"1", StartTime:"2017-07-20 15:02:01 -0500", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-07-20 15:02:14.042 -0500	FAILURE	Screen_Error.png	Image Not Found doubleclick Error - No Image Found On Screen: "Browsers Icon/Chrome" -- Execution Time 0:00:12 index.script

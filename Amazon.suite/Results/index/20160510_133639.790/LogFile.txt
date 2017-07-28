@@ -1,4 +1,0 @@
-﻿2016-05-10 13:36:39.791 -0600	START		Running index.script
-2016-05-10 13:36:40.323 -0600	click	Browsers Icon/Chrome	at (390, 880)	11	on_index	index.script
-2016-05-10 13:36:40.742 -0600	EndTestCase		(Duration:"0.949575", Errors:"0", Exceptions:"0", StartTime:"2016-05-10 13:36:39 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-05-10 13:36:40.746 -0600	SUCCESS		Execution Time 0:00:00 index.script

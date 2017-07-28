@@ -1,4 +1,0 @@
-﻿2016-05-10 13:34:51.690 -0600	START		Running index.script
-2016-05-10 13:34:51.834 -0600	Exception	Browsers Icon\Chrome	Could Not Open Image: Browsers Icon\Chrome	11	on_index	index.script
-2016-05-10 13:34:52.272 -0600	EndTestCase		(Duration:"0.580352", Errors:"1", Exceptions:"1", StartTime:"2016-05-10 13:34:51 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-10 13:34:52.648 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Browsers Icon\Chrome -- Execution Time 0:00:00 index.script

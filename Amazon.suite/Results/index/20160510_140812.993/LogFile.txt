@@ -1,5 +1,0 @@
-﻿2016-05-10 14:08:12.994 -0600	START		Running index.script
-2016-05-10 14:08:13.598 -0600	click	Browsers Icon/Internet Explorer	at (455, 879)	11	on_index	index.script
-2016-05-10 14:08:16.863 -0600	Exception	Chrome/Refresh	No Image Found On Screen: "Chrome/Refresh"	14	on_index	index.script
-2016-05-10 14:08:17.319 -0600	EndTestCase		(Duration:"4.323788", Errors:"1", Exceptions:"1", StartTime:"2016-05-10 14:08:12 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-05-10 14:08:17.399 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Chrome/Refresh" -- Execution Time 0:00:04 index.script

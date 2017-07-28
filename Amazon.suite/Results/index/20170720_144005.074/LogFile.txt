@@ -1,0 +1,19 @@
+﻿2017-07-20 14:40:05.075 -0500	START		Running index.script
+2017-07-20 14:40:05.135 -0500	setoption		MouseMoveSpeed = 5	1	on_globalsset	GlobalsSet.script
+2017-07-20 14:40:05.135 -0500	setoption		NextKeyDelay = 0.08	2	on_globalsset	GlobalsSet.script
+2017-07-20 14:40:05.136 -0500	setoption		RemoteWorkInterval = 2	3	on_globalsset	GlobalsSet.script
+2017-07-20 14:40:05.139 -0500	Log		(1440,900)	8	on_index	index.script
+2017-07-20 14:40:08.273 -0500	doubleclick	Browsers Icon/Chrome	at (663, 881)	12	on_index	index.script
+2017-07-20 14:40:13.859 -0500	click	indicators	at (233, 47)	13	on_index	index.script
+2017-07-20 14:40:18.103 -0500	typetext		www.amazon.com[returnKey]	15	on_index	index.script
+2017-07-20 14:40:18.179 -0500	waitfor	indicators	found at (233, 47)	16	on_index	index.script
+2017-07-20 14:40:22.430 -0500	click	(TEXT:"Deal")	at (376, 201)	17	on_index	index.script
+2017-07-20 14:40:25.584 -0500	imagelocation	(TEXT:"DEAL OF THE DAY")	at (329, 697)	21	on_index	index.script
+2017-07-20 14:40:25.586 -0500	Log		Deal of the Day is Located Here:(329,697)	22	on_index	index.script
+2017-07-20 14:40:25.610 -0500	readtext		(249,705,419,737)
+2017-07-20 14:40:25.611 -0500	Log		$7.19-$19.99	27	on_index	index.script
+2017-07-20 14:40:28.179 -0500	click	Browser Close	at (1414, 13)	32	on_index	index.script
+2017-07-20 14:40:59.196 -0500	waitfor	Desktop Background	found at (358, 71)	33	on_index	index.script
+2017-07-20 14:41:02.998 -0500	doubleclick	Browsers Icon/Microsoft Edge	at (420, 880)	12	on_index	index.script
+2017-07-20 14:41:27.637 -0500	EndTestCase		(Duration:"82.561036", Errors:"1", Exceptions:"0", StartTime:"2017-07-20 14:40:05 -0500", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-07-20 14:41:27.638 -0500	ABORTED		Execution Time 0:01:22 index.script
