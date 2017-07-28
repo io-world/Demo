@@ -1,4 +1,0 @@
-﻿2017-01-12 09:48:06.673 -0700	START		Running ZeroState.script
-2017-01-12 09:48:07.098 -0700	capturescreen	().png		4	on_zerostate	ZeroState.script
-2017-01-12 09:48:07.270 -0700	EndTestCase		(Duration:"0.595833", Errors:"1", Exceptions:"0", StartTime:"2017-01-12 09:48:06 -0700", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
-2017-01-12 09:48:07.711 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'runwithnewresutls' -- Execution Time 0:00:00 ZeroState.script

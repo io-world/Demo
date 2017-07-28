@@ -1,9 +1,0 @@
-﻿2016-12-19 15:12:20.928 -0800	START		Running ZeroState.script
-2016-12-19 15:12:21.038 -0800	capturescreen	().png		4	on_zerostate	ZeroState.script
-2016-12-19 15:12:21.084 -0800	moveto		at (400, 400)	2	on_check	Chrome.script
-2016-12-19 15:12:21.473 -0800	imagefound	Chrome/Icon Open	found at (663, 880)	4	on_check	Chrome.script
-2016-12-19 15:12:21.475 -0800	Log		Chrome was Left Open	5	on_check	Chrome.script
-2016-12-19 15:12:21.890 -0800	rightclick		at (663, 880)	6	on_check	Chrome.script
-2016-12-19 15:12:36.689 -0800	Exception	Chrome/Close Windows	No Image Found On Screen: "Chrome/Close Windows"	7	on_check	Chrome.script
-2016-12-19 15:12:37.612 -0800	EndTestCase		(Duration:"16.682064", Errors:"1", Exceptions:"1", StartTime:"2016-12-19 15:12:20 -0800", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
-2016-12-19 15:12:37.613 -0800	ABORTED		Execution Time 0:00:16 ZeroState.script

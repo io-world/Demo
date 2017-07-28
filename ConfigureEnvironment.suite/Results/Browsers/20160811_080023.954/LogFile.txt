@@ -1,3 +1,0 @@
-﻿2016-08-11 08:00:23.955 -0600	START		Running Chrome.script
-2016-08-11 08:00:24.503 -0600	EndTestCase		(Duration:"0.546964", Errors:"0", Exceptions:"0", StartTime:"2016-08-11 08:00:23 -0600", Successes:"1", TestCase:"Chrome.script", Warnings:"0")
-2016-08-11 08:00:24.509 -0600	SUCCESS		Execution Time 0:00:00 Chrome.script

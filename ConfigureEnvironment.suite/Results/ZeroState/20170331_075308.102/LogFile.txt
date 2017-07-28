@@ -1,6 +1,0 @@
-﻿2017-03-31 07:53:08.103 -0600	START		Running ZeroState.script
-2017-03-31 07:53:08.332 -0600	capturescreen	Before Zeroing.png		2	on_zerostate	ZeroState.script
-2017-03-31 07:53:08.337 -0600	Log		Current Resolution (1440,900)	2	on_resolution	Resolution.script
-2017-03-31 07:53:31.434 -0600	Exception	Resolution/Background	No Image Found On Screen: "Resolution/Background"	4	on_resolution	Resolution.script
-2017-03-31 07:53:31.629 -0600	EndTestCase		(Duration:"23.524086", Errors:"1", Exceptions:"1", StartTime:"2017-03-31 07:53:08 -0600", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
-2017-03-31 07:53:31.701 -0600	FAILURE	Screen_Error.png	Image Not Found rightclick Error - No Image Found On Screen: "Resolution/Background" -- Execution Time 0:00:23 ZeroState.script

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Resolution.script" package="ConfigureEnvironment.suite" timestamp="2017-07-25 09:34:17.404 -0600"
+ tests="1" successes="0" errors="1" time="57.617365">
+  <properties>
+   <property name="RunDate" value="2017-07-25 09:34:17.404 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Resolution.script" assertions="1" successes="0" errors="1" time="57.615728">
+  </testcase>
+ </testsuite>
+</testsuites>

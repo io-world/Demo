@@ -1,9 +1,0 @@
-﻿2017-03-16 10:18:39.361 -0600	START		Running Resolution.script
-2017-03-16 10:18:39.903 -0600	rightclick	Resulution/Background	at (375, 152)	4	on_resolution	Resolution.script
-2017-03-16 10:18:41.127 -0600	click	Resulution/Display Settings	at (440, 321)	5	on_resolution	Resolution.script
-2017-03-16 10:18:42.474 -0600	waitfor	Resulution/Screen 1	found at (635, 231)	6	on_resolution	Resolution.script
-2017-03-16 10:18:42.486 -0600	typetext		[pageDown]	7	on_resolution	Resolution.script
-2017-03-16 10:18:43.539 -0600	click	Resulution/Advanced display settings	at (433, 660)	8	on_resolution	Resolution.script
-2017-03-16 10:19:08.269 -0600	Exception	Resulution/Apply	No Image Found On Screen: "Resulution/Apply"	9	on_resolution	Resolution.script
-2017-03-16 10:19:08.443 -0600	EndTestCase		(Duration:"29.08006", Errors:"1", Exceptions:"1", StartTime:"2017-03-16 10:18:39 -0600", Successes:"0", TestCase:"Resolution.script", Warnings:"0")
-2017-03-16 10:19:08.462 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Resulution/Apply" -- Execution Time 0:00:29 Resolution.script

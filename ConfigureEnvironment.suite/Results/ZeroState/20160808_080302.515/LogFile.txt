@@ -1,5 +1,0 @@
-﻿2016-08-08 08:03:02.519 -0600	START		Running index.script
-2016-08-08 08:03:02.665 -0600	typetext		[windowsKey]r	3	on_index	index.script
-2016-08-08 08:03:03.512 -0600	typetext		Chrome.exe[returnKey]	4	on_index	index.script
-2016-08-08 08:03:03.850 -0600	EndTestCase		(Duration:"1.329278", Errors:"0", Exceptions:"0", StartTime:"2016-08-08 08:03:02 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-08-08 08:03:03.868 -0600	SUCCESS		Execution Time 0:00:01 index.script

@@ -1,0 +1,10 @@
+﻿2017-07-25 09:34:17.405 -0600	START		Running Resolution.script
+2017-07-25 09:34:17.448 -0600	Log		Current Resolution (1440,900)	2	on_resolution	Resolution.script
+2017-07-25 09:34:17.957 -0600	imagefound	Resolution/Background	found at (433, 152)	5	on_resolution	Resolution.script
+2017-07-25 09:34:18.066 -0600	rightclick		at (433, 152)	14	on_resolution	Resolution.script
+2017-07-25 09:34:19.382 -0600	click	Resolution/Display Settings	at (498, 343)	17	on_resolution	Resolution.script
+2017-07-25 09:34:24.622 -0600	imagefound	Resolution/Float	Unable to Find Image Resolution/Float within 5.00 seconds	18	on_resolution	Resolution.script
+2017-07-25 09:34:25.155 -0600	click	Resolution/Settings	at (105, 7)	22	on_resolution	Resolution.script
+2017-07-25 09:35:14.859 -0600	Exception	Resolution/Screen 1	Unable To Find Any Image On Screen "Resolution/Screen 1" within 10.00 seconds	26	on_resolution	Resolution.script
+2017-07-25 09:35:15.022 -0600	EndTestCase		(Duration:"57.615728", Errors:"1", Exceptions:"1", StartTime:"2017-07-25 09:34:17 -0600", Successes:"0", TestCase:"Resolution.script", Warnings:"0")
+2017-07-25 09:35:15.228 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Resolution/Screen 1" within 10.00 seconds -- Execution Time 0:00:57 Resolution.script
