@@ -4,6 +4,7 @@ log "Current Resolution" && RemoteScreenSize()
 
 repeat until imagefound (image:"Resolution/Background")
 	if repeatindex() <> 5 then
+		click RemoteScreenSize()*(0.5,0.5)
 		TypeText altKey & F4
 		wait 1
 	else
