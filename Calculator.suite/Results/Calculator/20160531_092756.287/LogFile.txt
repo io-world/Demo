@@ -1,3 +1,0 @@
-﻿2016-05-31 09:27:56.289 -0600	START		Running Calculator.script
-2016-05-31 09:27:56.290 -0600	EndTestCase		(Duration:"0.000203", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 09:27:56 -0600", Successes:"1", TestCase:"Calculator.script", Warnings:"0")
-2016-05-31 09:27:56.295 -0600	SUCCESS		Execution Time 0:00:00 Calculator.script

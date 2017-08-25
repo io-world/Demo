@@ -1,4 +1,0 @@
-﻿2016-05-06 12:43:01.077 -0600	START		Running Untitled.script
-2016-05-06 12:43:01.564 -0600	click	Paint Icon	at (577, 880)	1	on_untitled	Untitled.script
-2016-05-06 12:43:01.797 -0600	EndTestCase		(Duration:"0.718926", Errors:"0", Exceptions:"0", StartTime:"2016-05-06 12:43:01 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
-2016-05-06 12:43:01.801 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

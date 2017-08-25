@@ -1,0 +1,64 @@
+﻿2017-07-28 12:35:26.363 -0600	START		Running Index.script
+2017-07-28 12:35:26.440 -0600	Log		July 28 2017	2	on_index	Index.script
+2017-07-28 12:35:26.484 -0600	typetext		[windowsKey]r	3	on_open	Calculator.script
+2017-07-28 12:35:27.248 -0600	typetext		calc[enter]	6	on_open	Calculator.script
+2017-07-28 12:35:28.638 -0600	imagefound	Calculator/Calculator Icon	found at (617, 121)	2	on_verify	Calculator.script
+2017-07-28 12:35:28.638 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2017-07-28 12:35:29.017 -0600	imagelocation	Calculator/MC Icon	at (609, 306)	2	on_math	Calculator.script
+2017-07-28 12:35:29.399 -0600	imagelocation	Operators/Equals Sign	at (912, 634)	3	on_math	Calculator.script
+2017-07-28 12:35:29.476 -0600	readtext		(591,441,862,659)
+2017-07-28 12:35:29.477 -0600	Log		7\n8\n4\t5\n1\t2\n0\n9\n6\n3	6	on_math	Calculator.script
+2017-07-28 12:35:30.484 -0600	Log		(1,+,2,+,3,-,4,*,5,0,*,6,/,7,-,8,+,9,-,0,=)	13	on_math	Calculator.script
+2017-07-28 12:35:30.488 -0600	Log		1 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:31.025 -0600	click	(TEXT:"1")	at (628, 578)	30	on_math	Calculator.script
+2017-07-28 12:35:31.027 -0600	Log		+ was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:32.188 -0600	click	Operators/Add	at (911, 577)	20	on_math	Calculator.script
+2017-07-28 12:35:32.190 -0600	Log		2 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:33.439 -0600	click	(TEXT:"2")	at (724, 578)	30	on_math	Calculator.script
+2017-07-28 12:35:33.442 -0600	Log		+ was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:34.606 -0600	click	Operators/Add	at (911, 577)	20	on_math	Calculator.script
+2017-07-28 12:35:34.608 -0600	Log		3 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:35.851 -0600	click	(TEXT:"3")	at (818, 578)	30	on_math	Calculator.script
+2017-07-28 12:35:35.853 -0600	Log		- was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:37.021 -0600	click	Operators/Minus	at (911, 521)	22	on_math	Calculator.script
+2017-07-28 12:35:37.023 -0600	Log		4 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:38.275 -0600	click	(TEXT:"4")	at (629, 521)	30	on_math	Calculator.script
+2017-07-28 12:35:38.278 -0600	Log		* was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:39.455 -0600	click	Operators/Multiple	at (911, 466)	24	on_math	Calculator.script
+2017-07-28 12:35:39.456 -0600	Log		5 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:40.711 -0600	click	(TEXT:"5")	at (724, 520)	30	on_math	Calculator.script
+2017-07-28 12:35:40.712 -0600	Log		0 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:41.946 -0600	click	(TEXT:"0")	at (724, 634)	30	on_math	Calculator.script
+2017-07-28 12:35:41.948 -0600	Log		* was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:43.113 -0600	click	Operators/Multiple	at (911, 466)	24	on_math	Calculator.script
+2017-07-28 12:35:43.114 -0600	Log		6 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:44.375 -0600	click	(TEXT:"6")	at (818, 521)	30	on_math	Calculator.script
+2017-07-28 12:35:44.377 -0600	Log		/ was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:45.557 -0600	click	Operators/Division	at (910, 408)	26	on_math	Calculator.script
+2017-07-28 12:35:45.558 -0600	Log		7 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:46.788 -0600	click	(TEXT:"7")	at (630, 465)	30	on_math	Calculator.script
+2017-07-28 12:35:46.790 -0600	Log		- was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:47.968 -0600	click	Operators/Minus	at (911, 521)	22	on_math	Calculator.script
+2017-07-28 12:35:47.970 -0600	Log		8 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:49.210 -0600	click	(TEXT:"8")	at (724, 465)	30	on_math	Calculator.script
+2017-07-28 12:35:49.213 -0600	Log		+ was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:50.393 -0600	click	Operators/Add	at (911, 577)	20	on_math	Calculator.script
+2017-07-28 12:35:50.394 -0600	Log		9 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:51.633 -0600	click	(TEXT:"9")	at (818, 465)	30	on_math	Calculator.script
+2017-07-28 12:35:51.635 -0600	Log		- was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:52.797 -0600	click	Operators/Minus	at (911, 521)	22	on_math	Calculator.script
+2017-07-28 12:35:52.798 -0600	Log		0 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:54.043 -0600	click	(TEXT:"0")	at (724, 634)	30	on_math	Calculator.script
+2017-07-28 12:35:54.045 -0600	Log		= was Clicked	18	on_math	Calculator.script
+2017-07-28 12:35:55.224 -0600	click	Operators/Equals Sign	at (912, 634)	28	on_math	Calculator.script
+2017-07-28 12:35:56.303 -0600	moveto	Calculator/Calculator Icon	at (617, 121)	34	on_math	Calculator.script
+2017-07-28 12:35:57.364 -0600	imagelocation	Calculator/Calculator Icon	at (617, 121)	2	on_answer	Calculator.script
+2017-07-28 12:35:57.743 -0600	imagelocation	Operators/Equals Sign	at (912, 634)	3	on_answer	Calculator.script
+2017-07-28 12:35:57.780 -0600	readtext		(582,201,952,294)
+2017-07-28 12:35:57.780 -0600	Log		86.71428571428571	6	on_answer	Calculator.script
+2017-07-28 12:36:03.126 -0600	capturescreen	Results.png	(582,201,952,294)	9	on_answer	Calculator.script
+2017-07-28 12:36:03.510 -0600	imagelocation	Calculator/Calculator Icon	at (617, 121)	2	on_close	Calculator.script
+2017-07-28 12:36:03.522 -0600	moveto		at (617, 121)	3	on_close	Calculator.script
+2017-07-28 12:36:05.062 -0600	click	Calculator/Close Icon	at (939, 118)	4	on_close	Calculator.script
+2017-07-28 12:36:07.488 -0600	EndTestCase		(Duration:"41.124189", Errors:"0", Exceptions:"0", StartTime:"2017-07-28 12:35:26 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2017-07-28 12:36:07.503 -0600	SUCCESS		Execution Time 0:00:41 Index.script

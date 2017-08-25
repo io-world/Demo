@@ -1,5 +1,0 @@
-﻿2016-05-06 12:48:20.726 -0600	START		Running Untitled.script
-2016-05-06 12:48:21.241 -0600	click	Run Icon	at (143, 880)	5	on_untitled	Untitled.script
-2016-05-06 12:48:21.996 -0600	typetext		calc	7	on_untitled	Untitled.script
-2016-05-06 12:48:22.238 -0600	EndTestCase		(Duration:"1.511324", Errors:"0", Exceptions:"0", StartTime:"2016-05-06 12:48:20 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
-2016-05-06 12:48:22.244 -0600	SUCCESS		Execution Time 0:00:01 Untitled.script

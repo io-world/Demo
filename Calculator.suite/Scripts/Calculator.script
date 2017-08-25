@@ -2,8 +2,6 @@
 on open
 
 	typetext windowsKey & "r"
-	
-	
 	typetext "calc" & Enter
 	
 	
@@ -19,11 +17,13 @@ on verify
 end verify
 
 on math buttons
-	put ImageLocation("Calculator/MC Icon") into TL
+	
+	put ImageLocation("Calculator/CE Icon") into TL
 	put ImageLocation("Operators/Equals Sign") into BR
-	insert TL + (-18,65) into boxsearch
+	insert TL + (-25,20) into boxsearch
 	insert BR + (-50,25) into boxsearch
 	log readtext (boxsearch)
+	wait 1
 	
 	delete " " from buttons
 	put each character of buttons into clickyString

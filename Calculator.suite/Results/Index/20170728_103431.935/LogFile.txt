@@ -1,0 +1,8 @@
+﻿2017-07-28 10:34:31.936 -0600	START		Running Index.script
+2017-07-28 10:34:32.065 -0600	typetext		[windowsKey]r	3	on_open	Calculator.script
+2017-07-28 10:34:32.828 -0600	typetext		calc[enter]	6	on_open	Calculator.script
+2017-07-28 10:34:34.725 -0600	imagefound	Calculator/Calculator Icon	found at (912, 183)	2	on_verify	Calculator.script
+2017-07-28 10:34:34.726 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2017-07-28 10:36:31.419 -0600	Exception	Calculator/MC Icon	Unable To Find Image "Calculator/MC Icon"	2	on_math	Calculator.script
+2017-07-28 10:36:31.645 -0600	EndTestCase		(Duration:"119.707743", Errors:"1", Exceptions:"1", StartTime:"2017-07-28 10:34:31 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2017-07-28 10:36:31.645 -0600	ABORTED		Execution Time 0:01:59 Index.script

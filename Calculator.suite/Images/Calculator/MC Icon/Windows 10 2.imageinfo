@@ -1,20 +1,20 @@
 ﻿{
-    CaptureDate = "2017-07-28 16:35:57 +0000";
+    CaptureDate = "2017-08-25 14:49:24 +0000";
     CaptureHost = "Windows 10";
     CaptureScreenSize =     (
         1440,
         900
     );
-    CropRectangle = "8,0,34,22";
+    CropRectangle = "0,0,26,22";
     HasAlpha = 1;
-    HotSpotX = 17;
+    HotSpotX = 9;
     HotSpotY = 11;
     ImageDescription = <>;
-    ImageTolerance = 72;
+    ImageTolerance = 23;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 707;
-    OriginalLocationY = 287;
+    OriginalLocationX = 608;
+    OriginalLocationY = 190;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;

@@ -1,0 +1,15 @@
+﻿2017-08-25 09:33:51.323 -0600	START		Running Index.script
+2017-08-25 09:33:51.410 -0600	Log		July 28 2017	2	on_index	Index.script
+2017-08-25 09:33:51.465 -0600	typetext		[windowsKey]r	3	on_open	Calculator.script
+2017-08-25 09:33:52.229 -0600	typetext		calc[enter]	6	on_open	Calculator.script
+2017-08-25 09:33:54.273 -0600	imagefound	Calculator/Calculator Icon	found at (626, 17)	2	on_verify	Calculator.script
+2017-08-25 09:33:54.274 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2017-08-25 09:33:54.982 -0600	imagelocation	Calculator/MC Icon	at (950, 61)	2	on_math	Calculator.script
+2017-08-25 09:33:55.680 -0600	imagelocation	Operators/Equals Sign	at (921, 522)	3	on_math	Calculator.script
+2017-08-25 09:33:56.391 -0600	readtext		(871,196,932,547)
+2017-08-25 09:33:56.392 -0600	Log		IS\nVx\nX	6	on_math	Calculator.script
+2017-08-25 09:33:57.399 -0600	Log		(1,+,2,+,3,-,4,*,5,0,*,6,/,7,-,8,+,9,-,0,=)	13	on_math	Calculator.script
+2017-08-25 09:33:57.402 -0600	Log		1 was Clicked	18	on_math	Calculator.script
+2017-08-25 09:34:10.902 -0600	Exception	(TEXT:"1")	No Text Found On Screen: "(TEXT:"1")"	30	on_math	Calculator.script
+2017-08-25 09:34:11.117 -0600	EndTestCase		(Duration:"19.791509", Errors:"1", Exceptions:"1", StartTime:"2017-08-25 09:33:51 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2017-08-25 09:34:11.118 -0600	ABORTED		Execution Time 0:00:19 Index.script

@@ -1,12 +1,12 @@
 ﻿
-//May 18 2017
+log "August  28 2017"
+put new  "Calculator" into C
 
-
-Calculator.open
-Calculator.verify
-Calculator.math("1+2+3-4*50*6/7-8+9-0=")
+(C).open
+(C).verify
+(C).math("1+2+3-4*50*6/7-8+9-0=")
 --Calculator.math("1 / 4 - 9 =")
-Calculator.answer
-Calculator.close
+(C).answer
+(C).close
 
 

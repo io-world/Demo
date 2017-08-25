@@ -1,8 +1,0 @@
-﻿2016-05-06 13:05:48.730 -0600	START		Running Untitled.script
-2016-05-06 13:05:49.231 -0600	click	Run Icon	at (266, 880)	5	on_untitled	Untitled.script
-2016-05-06 13:05:50.002 -0600	typetext		calc[enter]	7	on_untitled	Untitled.script
-2016-05-06 13:05:50.690 -0600	imagefound	Calculator Icon	found at (755, 294)	10	on_untitled	Untitled.script
-2016-05-06 13:05:51.066 -0600	imagelocation	Calculator Icon	at (755, 294)	12	on_untitled	Untitled.script
-2016-05-06 13:05:51.630 -0600	imagelocation	Equals Sign	at (928, 553)	13	on_untitled	Untitled.script
-2016-05-06 13:05:52.137 -0600	EndTestCase		(Duration:"3.405737", Errors:"1", Exceptions:"0", StartTime:"2016-05-06 13:05:48 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
-2016-05-06 13:05:52.500 -0600	FAILURE	Screen_Error.png	Error Running Script Command click Error - Error Computing Rectangle: (755,294),(928,553) -- Execution Time 0:00:03 Untitled.script

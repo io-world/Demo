@@ -1,0 +1,31 @@
+﻿2017-07-28 12:33:25.910 -0600	START		Running Index.script
+2017-07-28 12:33:25.973 -0600	Log		July 28 2017	2	on_index	Index.script
+2017-07-28 12:33:26.018 -0600	typetext		[windowsKey]r	3	on_open	Calculator.script
+2017-07-28 12:33:26.782 -0600	typetext		calc[enter]	6	on_open	Calculator.script
+2017-07-28 12:33:28.552 -0600	imagefound	Calculator/Calculator Icon	found at (617, 121)	2	on_verify	Calculator.script
+2017-07-28 12:33:28.554 -0600	Log		Open Calculator	3	on_verify	Calculator.script
+2017-07-28 12:33:28.933 -0600	imagelocation	Calculator/MC Icon	at (609, 306)	2	on_math	Calculator.script
+2017-07-28 12:33:29.317 -0600	imagelocation	Operators/Equals Sign	at (912, 634)	3	on_math	Calculator.script
+2017-07-28 12:33:29.398 -0600	readtext		(591,441,862,659)
+2017-07-28 12:33:29.398 -0600	Log		7\n8\n4\t5\n1\t2\n0\n9\n6\n3	6	on_math	Calculator.script
+2017-07-28 12:33:30.405 -0600	Log		(1,+,2,+,3,-,4,*,5,0,*,6,/,7,-,8,+,9,-,0,=)	13	on_math	Calculator.script
+2017-07-28 12:33:30.408 -0600	Log		1 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:30.950 -0600	click	(TEXT:"1")	at (628, 578)	30	on_math	Calculator.script
+2017-07-28 12:33:30.952 -0600	Log		+ was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:32.122 -0600	click	Operators/Add	at (911, 577)	20	on_math	Calculator.script
+2017-07-28 12:33:32.123 -0600	Log		2 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:33.381 -0600	click	(TEXT:"2")	at (724, 578)	30	on_math	Calculator.script
+2017-07-28 12:33:33.384 -0600	Log		+ was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:34.552 -0600	click	Operators/Add	at (911, 577)	20	on_math	Calculator.script
+2017-07-28 12:33:34.553 -0600	Log		3 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:35.799 -0600	click	(TEXT:"3")	at (818, 578)	30	on_math	Calculator.script
+2017-07-28 12:33:35.800 -0600	Log		- was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:36.955 -0600	click	Operators/Minus	at (911, 521)	22	on_math	Calculator.script
+2017-07-28 12:33:36.957 -0600	Log		4 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:38.187 -0600	click	(TEXT:"4")	at (629, 521)	30	on_math	Calculator.script
+2017-07-28 12:33:38.189 -0600	Log		* was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:39.355 -0600	click	Operators/Multiple	at (938, 120)	24	on_math	Calculator.script
+2017-07-28 12:33:39.356 -0600	Log		5 was Clicked	18	on_math	Calculator.script
+2017-07-28 12:33:41.739 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	30	on_math	Calculator.script
+2017-07-28 12:33:42.170 -0600	EndTestCase		(Duration:"16.258193", Errors:"1", Exceptions:"1", StartTime:"2017-07-28 12:33:25 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2017-07-28 12:33:42.171 -0600	ABORTED		Execution Time 0:00:16 Index.script
