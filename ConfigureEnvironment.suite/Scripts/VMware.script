@@ -23,6 +23,9 @@ repeat forever
 		Logwarning "No Active VMs, Starting VM"
 		shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion start "&SUTPath&" gui")
 		wait 20
+	else
+		Log "There is a VM Running, will try to stop the VM "
+		shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion stop "&SUTPath&" gui")
 	end if
 	
 	
