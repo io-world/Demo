@@ -1,0 +1,49 @@
+﻿
+
+
+
+put "Windows 10" into SUTSystem
+put "/Users/randyhesse/Documents/Virtual\ Machines.localized/Windows\ 10\ x64.vmwarevm/Windows\ 10\ x64.vmx" into SUTPath
+repeat forever
+	Try
+		log "Trying to Connect"
+		Connect SUTSystem
+		put "On" into connectedstatus
+		Exit repeat
+	Catch exception
+		logwarning "Failed Attempt to connect:" && repeatindex()
+	End try
+	
+	
+	put shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun list") into ReturnString
+	split ReturnString by " "
+	put line 1 of  item 4 of ReturnString into ActiveVMs
+	log ActiveVMs
+	if ActiveVMs = 0 then
+		Logwarning "No Active VMs, Starting VM"
+		shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion start "&SUTPath&" gui")
+		wait 20
+	end if
+	
+	
+	if repeatindex() = 5 then
+		put "Off" into connectedstatus
+		Exit repeat
+	end if
+	wait 10
+end repeat	
+
+
+if connectedstatus = "Off"
+	LogError "Could not start VM or Connect to VM"
+else
+	LogSuccess "We are Connected"	
+end if
+
+
+
+
+
+//------------------------------------------------------------------------------------
+//	shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion start /Users/randyhesse/Documents/Virtual\ Machines.localized/Windows\ 10\ x64.vmwarevm/Windows\ 10\ x64.vmx gui")
+//shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion stop /Users/randyhesse/Documents/Virtual\ Machines.localized/Windows\ 10\ x64.vmwarevm/Windows\ 10\ x64.vmx gui")
