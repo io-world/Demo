@@ -1,0 +1,19 @@
+﻿
+
+
+
+
+
+put "Windows 10" into SUTSystem
+put "/Users/randyhesse/Documents/Virtual\ Machines.localized/Windows\ 10\ x64.vmwarevm/Windows\ 10\ x64.vmx" into SUTPath
+
+
+put shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun list") into ReturnString
+split ReturnString by " "
+put line 1 of  item 4 of ReturnString into ActiveVMs
+log "Active VMs:" &&ActiveVMs
+if ActiveVMs <> 0 then
+	Log "There is a VM Running, will try to stop the VM"
+	shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion stop "&SUTPath&" gui")
+	wait 20
+end if

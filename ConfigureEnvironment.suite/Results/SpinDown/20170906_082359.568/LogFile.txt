@@ -1,0 +1,5 @@
+﻿2017-09-06 08:23:59.569 -0600	START		Running SpinDown.script
+2017-09-06 08:23:59.970 -0600	Log		Active VMs: 1	14	on_spindown	SpinDown.script
+2017-09-06 08:23:59.972 -0600	Log		There is a VM Running, will try to stop the VM	19	on_spindown	SpinDown.script
+2017-09-06 08:24:20.231 -0600	EndTestCase		(Duration:"20.659921", Errors:"0", Exceptions:"0", StartTime:"2017-09-06 08:23:59 -0600", Successes:"1", TestCase:"SpinDown.script", Warnings:"0")
+2017-09-06 08:24:20.239 -0600	SUCCESS		Execution Time 0:00:20 SpinDown.script

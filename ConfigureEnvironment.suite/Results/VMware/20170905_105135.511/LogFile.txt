@@ -1,0 +1,15 @@
+﻿2017-09-05 10:51:35.512 -0600	START		Running VMware.script
+2017-09-05 10:51:35.591 -0600	Log		Trying to Connect	9	on_vmware	VMware.script
+2017-09-05 10:51:45.632 -0600	LogWarning		Failed Attempt to connect: 1	14	on_vmware	VMware.script
+2017-09-05 10:51:45.889 -0600	Log		1	21	on_vmware	VMware.script
+2017-09-05 10:51:45.891 -0600	Log		There is a VM Running, will try to stop the VM 	27	on_vmware	VMware.script
+2017-09-05 10:51:56.092 -0600	Log		Trying to Connect	9	on_vmware	VMware.script
+2017-09-05 10:51:56.097 -0600	LogWarning		Failed Attempt to connect: 2	14	on_vmware	VMware.script
+2017-09-05 10:51:56.339 -0600	Log		1	21	on_vmware	VMware.script
+2017-09-05 10:51:56.340 -0600	Log		There is a VM Running, will try to stop the VM 	27	on_vmware	VMware.script
+2017-09-05 10:52:06.579 -0600	Log		Trying to Connect	9	on_vmware	VMware.script
+2017-09-05 10:52:16.653 -0600	LogWarning		Failed Attempt to connect: 3	14	on_vmware	VMware.script
+2017-09-05 10:52:16.892 -0600	Log		1	21	on_vmware	VMware.script
+2017-09-05 10:52:16.893 -0600	Log		There is a VM Running, will try to stop the VM 	27	on_vmware	VMware.script
+2017-09-05 10:52:26.584 -0600	EndTestCase		(Duration:"51.070127", Errors:"1", Exceptions:"0", StartTime:"2017-09-05 10:51:35 -0600", Successes:"0", TestCase:"VMware.script", Warnings:"3")
+2017-09-05 10:52:26.585 -0600	ABORTED		Execution Time 0:00:51 VMware.script

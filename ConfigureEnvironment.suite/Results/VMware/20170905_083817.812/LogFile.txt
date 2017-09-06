@@ -1,0 +1,13 @@
+﻿2017-09-05 08:38:17.813 -0600	START		Running VMware.script
+2017-09-05 08:38:17.853 -0600	Log		Trying to Connect	13	on_vmware	VMware.script
+2017-09-05 08:38:17.856 -0600	Log		Failed Attempt to connect: 1	18	on_vmware	VMware.script
+2017-09-05 08:38:18.862 -0600	Log		Trying to Connect	13	on_vmware	VMware.script
+2017-09-05 08:38:18.865 -0600	Log		Failed Attempt to connect: 2	18	on_vmware	VMware.script
+2017-09-05 08:38:19.869 -0600	Log		Trying to Connect	13	on_vmware	VMware.script
+2017-09-05 08:38:29.931 -0600	Log		Failed Attempt to connect: 3	18	on_vmware	VMware.script
+2017-09-05 08:38:30.937 -0600	Log		Trying to Connect	13	on_vmware	VMware.script
+2017-09-05 08:38:30.941 -0600	Log		Failed Attempt to connect: 4	18	on_vmware	VMware.script
+2017-09-05 08:38:31.946 -0600	Log		Trying to Connect	13	on_vmware	VMware.script
+2017-09-05 08:38:31.949 -0600	Log		Failed Attempt to connect: 5	18	on_vmware	VMware.script
+2017-09-05 08:38:32.142 -0600	EndTestCase		(Duration:"14.327174", Errors:"0", Exceptions:"0", StartTime:"2017-09-05 08:38:17 -0600", Successes:"1", TestCase:"VMware.script", Warnings:"0")
+2017-09-05 08:38:32.230 -0600	SUCCESS		Execution Time 0:00:14 VMware.script

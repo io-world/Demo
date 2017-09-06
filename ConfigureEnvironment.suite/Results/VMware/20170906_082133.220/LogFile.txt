@@ -1,0 +1,6 @@
+﻿2017-09-06 08:21:33.221 -0600	START		Running VMware.script
+2017-09-06 08:21:33.301 -0600	Log		Trying to Connect	9	on_vmware	VMware.script
+2017-09-06 08:21:33.303 -0600	connect		Windows 10:(null)	10	on_vmware	VMware.script
+2017-09-06 08:21:33.304 -0600	LogSuccess		We are Connected	46	on_vmware	VMware.script
+2017-09-06 08:21:33.543 -0600	EndTestCase		(Duration:"0.320955", Errors:"0", Exceptions:"0", StartTime:"2017-09-06 08:21:33 -0600", Successes:"1", TestCase:"VMware.script", Warnings:"0")
+2017-09-06 08:21:33.580 -0600	SUCCESS		Execution Time 0:00:00 VMware.script

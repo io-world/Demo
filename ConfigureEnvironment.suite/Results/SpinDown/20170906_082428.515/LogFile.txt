@@ -1,0 +1,5 @@
+﻿2017-09-06 08:24:28.515 -0600	START		Running SpinDown.script
+2017-09-06 08:24:28.792 -0600	Log		Active VMs: 0	14	on_spindown	SpinDown.script
+2017-09-06 08:24:28.794 -0600	Log		No Active VMs	16	on_spindown	SpinDown.script
+2017-09-06 08:24:29.045 -0600	EndTestCase		(Duration:"0.528322", Errors:"0", Exceptions:"0", StartTime:"2017-09-06 08:24:28 -0600", Successes:"1", TestCase:"SpinDown.script", Warnings:"0")
+2017-09-06 08:24:29.054 -0600	SUCCESS		Execution Time 0:00:00 SpinDown.script

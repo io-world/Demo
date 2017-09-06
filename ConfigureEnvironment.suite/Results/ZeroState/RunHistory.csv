@@ -1,3 +1,5 @@
 ﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
 2017-07-28 09:06:08.709 -0600,"Success",0:00:54,0,0,0,"20170728_090608.709/LogFile.txt","","",1
 2017-07-28 09:46:25.169 -0600,"Success",0:01:17,0,0,0,"20170728_094625.169/LogFile.txt","","",1
+2017-09-05 08:30:50.511 -0600,"Failure",0:00:00,1,0,0,"20170905_083050.511/LogFile.txt","","Unable To Capture Screen -- No connection available from which to capture.",0
+2017-09-06 08:19:16.331 -0600,"Success",0:01:46,0,2,0,"20170906_081916.331/LogFile.txt","","",1

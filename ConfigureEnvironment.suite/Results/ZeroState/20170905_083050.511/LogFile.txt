@@ -1,0 +1,4 @@
+﻿2017-09-05 08:30:50.512 -0600	START		Running ZeroState.script
+2017-09-05 08:30:50.580 -0600	Log		July 28 2017	1	on_zerostate	ZeroState.script
+2017-09-05 08:30:50.780 -0600	EndTestCase		(Duration:"0.266616", Errors:"1", Exceptions:"0", StartTime:"2017-09-05 08:30:50 -0600", Successes:"0", TestCase:"ZeroState.script", Warnings:"0")
+2017-09-05 08:30:50.809 -0600	FAILURE		Unable To Capture Screen No connection available from which to capture. -- Execution Time 0:00:00 ZeroState.script

@@ -24,4 +24,28 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-09-05 08:30:50.511 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.268118</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170905_083050.511/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Unable To Capture Screen -- No connection available from which to capture.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-06 08:19:16.331 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>106.162684</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170906_081916.331/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

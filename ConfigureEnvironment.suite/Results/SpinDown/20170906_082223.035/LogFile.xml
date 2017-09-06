@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="SpinDown.script" package="ConfigureEnvironment.suite" timestamp="2017-09-06 08:22:23.035 -0600"
+ tests="1" successes="1" errors="0" time="0.602729">
+  <properties>
+   <property name="RunDate" value="2017-09-06 08:22:23.035 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="SpinDown.script" assertions="1" successes="1" errors="0" time="0.601079">
+  </testcase>
+ </testsuite>
+</testsuites>

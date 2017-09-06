@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="VMware.script" package="ConfigureEnvironment.suite" timestamp="2017-09-06 08:21:33.220 -0600"
+ tests="1" successes="1" errors="0" time="0.322568">
+  <properties>
+   <property name="RunDate" value="2017-09-06 08:21:33.220 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="VMware.script" assertions="1" successes="1" errors="0" time="0.320955">
+  </testcase>
+ </testsuite>
+</testsuites>

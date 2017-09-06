@@ -18,7 +18,7 @@ repeat forever
 	put shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun list") into ReturnString
 	split ReturnString by " "
 	put line 1 of  item 4 of ReturnString into ActiveVMs
-	log ActiveVMs
+	log "Active VMs:" &&ActiveVMs
 	if ActiveVMs = 0 then
 		Logwarning "No Active VMs, Starting VM"
 		shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion start "&SUTPath&" gui")
@@ -38,7 +38,10 @@ end repeat
 
 
 if connectedstatus = "Off"
-	LogError "Could not start VM or Connect to VM"
+	LogError "Could not start VM or Connect to VM, last ditch effort: Resetting"
+	shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion reset "&SUTPath&" gui")
+	wait 20
+	Connect SUTSystem
 else
 	LogSuccess "We are Connected"	
 end if

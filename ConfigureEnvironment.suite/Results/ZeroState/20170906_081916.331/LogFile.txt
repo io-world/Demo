@@ -1,0 +1,56 @@
+﻿2017-09-06 08:19:16.332 -0600	START		Running ZeroState.script
+2017-09-06 08:19:16.395 -0600	Log		Sept 3 2017	1	on_zerostate	ZeroState.script
+2017-09-06 08:19:16.423 -0600	Log		Trying to Connect	9	on_vmware	VMware.script
+2017-09-06 08:19:26.471 -0600	LogWarning		Failed Attempt to connect: 1	14	on_vmware	VMware.script
+2017-09-06 08:19:26.833 -0600	Log		Active VMs: 0	21	on_vmware	VMware.script
+2017-09-06 08:19:26.834 -0600	LogWarning		No Active VMs, Starting VM	23	on_vmware	VMware.script
+2017-09-06 08:19:59.780 -0600	Log		Trying to Connect	9	on_vmware	VMware.script
+2017-09-06 08:20:00.289 -0600	connect		Windows 10:(null)	10	on_vmware	VMware.script
+2017-09-06 08:20:00.290 -0600	LogSuccess		We are Connected	46	on_vmware	VMware.script
+2017-09-06 08:20:01.107 -0600	capturescreen	Before Zeroing.png		11	on_zerostate	ZeroState.script
+2017-09-06 08:20:01.113 -0600	Log		Current Resolution (1440,900)	2	on_resolution	Resolution.script
+2017-09-06 08:20:01.811 -0600	imagefound	Resolution/Background	found at (452, 151)	5	on_resolution	Resolution.script
+2017-09-06 08:20:01.922 -0600	rightclick		at (452, 151)	15	on_resolution	Resolution.script
+2017-09-06 08:20:02.831 -0600	click	Resolution/Display Settings	at (517, 320)	18	on_resolution	Resolution.script
+2017-09-06 08:20:08.422 -0600	imagefound	Resolution/Float	Unable to Find Image Resolution/Float within 5.00 seconds	19	on_resolution	Resolution.script
+2017-09-06 08:20:08.638 -0600	click	Resolution/Settings	at (105, 7)	23	on_resolution	Resolution.script
+2017-09-06 08:20:09.462 -0600	imagefound	Resolution/1440x900	found at (399, 521)	38	on_resolution	Resolution.script
+2017-09-06 08:20:09.463 -0600	Log		End Resolution (1440,900)	57	on_resolution	Resolution.script
+2017-09-06 08:20:09.490 -0600	typetext		[windowsAltKey][F4]	62	on_resolution	Resolution.script
+2017-09-06 08:20:09.604 -0600	capturescreen	After Resolution.png		14	on_zerostate	ZeroState.script
+2017-09-06 08:20:09.611 -0600	Log		Chrome	3	on_check	Browsers.script
+2017-09-06 08:20:09.612 -0600	Log		Good to go	8	on_check	Browsers.script
+2017-09-06 08:20:10.204 -0600	moveto		at (400, 400)	10	on_check	Browsers.script
+2017-09-06 08:20:15.735 -0600	imagefound	Chrome/Icon Open	Unable to Find Image Chrome/Icon Open within 5.00 seconds	11	on_check	Browsers.script
+2017-09-06 08:20:15.736 -0600	Log		Found No Open Instance of Chrome	16	on_check	Browsers.script
+2017-09-06 08:20:16.160 -0600	imagefound	Chrome/Icon Normal	found at (663, 884)	18	on_check	Browsers.script
+2017-09-06 08:20:16.162 -0600	Log		 No instance of Chrome Opened	19	on_check	Browsers.script
+2017-09-06 08:20:19.191 -0600	typetext		[windowsKey]r	24	on_check	Browsers.script
+2017-09-06 08:20:20.029 -0600	typetext		Chrome.exe[returnKey]	27	on_check	Browsers.script
+2017-09-06 08:20:24.765 -0600	waitfor	Chrome/Refresh Icon	found at (72, 47)	33	on_check	Browsers.script
+2017-09-06 08:20:30.219 -0600	imagefound	Title Bar Menu/Float	Unable to Find Image Title Bar Menu/Float	34	on_check	Browsers.script
+2017-09-06 08:20:30.222 -0600	Log		Windows is already been Maximized	38	on_check	Browsers.script
+2017-09-06 08:20:33.856 -0600	imagefound	Title Bar Menu/Maximized	found at (1414, 14)	41	on_check	Browsers.script
+2017-09-06 08:20:33.858 -0600	Log		Ready to Run	42	on_check	Browsers.script
+2017-09-06 08:20:33.871 -0600	moveto		at (400, 400)	46	on_check	Browsers.script
+2017-09-06 08:20:35.552 -0600	click	Title Bar Menu/Maximized	at (1414, 14)	48	on_check	Browsers.script
+2017-09-06 08:20:38.008 -0600	capturescreen	Chrome is Finishing Zeroing.png		18	on_zerostate	ZeroState.script
+2017-09-06 08:20:38.014 -0600	Log		Edge	3	on_check	Browsers.script
+2017-09-06 08:20:38.015 -0600	Log		Good to go	8	on_check	Browsers.script
+2017-09-06 08:20:38.028 -0600	moveto		at (400, 400)	10	on_check	Browsers.script
+2017-09-06 08:20:44.100 -0600	imagefound	Edge/Icon Open	Unable to Find Image Edge/Icon Open within 5.00 seconds	11	on_check	Browsers.script
+2017-09-06 08:20:44.103 -0600	Log		Found No Open Instance of Edge	16	on_check	Browsers.script
+2017-09-06 08:20:44.544 -0600	imagefound	Edge/Icon Normal	found at (421, 883)	18	on_check	Browsers.script
+2017-09-06 08:20:44.545 -0600	Log		 No instance of Edge Opened	19	on_check	Browsers.script
+2017-09-06 08:20:47.573 -0600	typetext		[windowsKey]r	24	on_check	Browsers.script
+2017-09-06 08:20:48.480 -0600	typetext		microsoft-edge:[returnKey]	29	on_check	Browsers.script
+2017-09-06 08:20:49.493 -0600	waitfor	Edge/Refresh Icon	found at (109, 54)	33	on_check	Browsers.script
+2017-09-06 08:20:55.157 -0600	imagefound	Title Bar Menu/Float	Unable to Find Image Title Bar Menu/Float	34	on_check	Browsers.script
+2017-09-06 08:20:55.160 -0600	Log		Windows is already been Maximized	38	on_check	Browsers.script
+2017-09-06 08:20:58.589 -0600	imagefound	Title Bar Menu/Maximized	found at (1416, 18)	41	on_check	Browsers.script
+2017-09-06 08:20:58.591 -0600	Log		Ready to Run	42	on_check	Browsers.script
+2017-09-06 08:20:58.603 -0600	moveto		at (400, 400)	46	on_check	Browsers.script
+2017-09-06 08:20:59.869 -0600	click	Title Bar Menu/Maximized	at (1416, 18)	48	on_check	Browsers.script
+2017-09-06 08:21:02.303 -0600	capturescreen	After Zeroing.png		20	on_zerostate	ZeroState.script
+2017-09-06 08:21:02.494 -0600	EndTestCase		(Duration:"106.161287", Errors:"0", Exceptions:"0", StartTime:"2017-09-06 08:19:16 -0600", Successes:"1", TestCase:"ZeroState.script", Warnings:"2")
+2017-09-06 08:21:02.507 -0600	SUCCESS		Execution Time 0:01:46 ZeroState.script

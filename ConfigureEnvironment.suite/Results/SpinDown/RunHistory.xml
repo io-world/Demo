@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="SpinDown">
+ <run>
+  <RunDate>2017-09-06 08:22:23.035 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.602729</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170906_082223.035/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-06 08:23:59.568 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>20.662131</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170906_082359.568/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-06 08:24:28.515 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.529807</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170906_082428.515/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>
