@@ -11,7 +11,11 @@ repeat forever
 		put "On" into connectedstatus
 		Exit repeat
 	Catch exception
-		logwarning "Failed Attempt to connect:" && repeatindex()
+		if repeatindex() < 2 then 
+			log "Failed Attempt to connect:" && repeatindex()
+		else
+			logwarning "Failed Attempt to connect:" && repeatindex()
+		end if
 	End try
 	
 	
@@ -20,7 +24,7 @@ repeat forever
 	put line 1 of  item 4 of ReturnString into ActiveVMs
 	log "Active VMs:" &&ActiveVMs
 	if ActiveVMs = 0 then
-		Logwarning "No Active VMs, Starting VM"
+		Log "No Active VMs, Starting VM"
 		shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion start "&SUTPath&" gui")
 		wait 20
 	else
