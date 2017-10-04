@@ -1,4 +1,5 @@
 ﻿log "Updated: March 8 2017"
+log "Checked: July 21 2017"
 
 
 put ResourcePath("StockList.csv") into CSV
