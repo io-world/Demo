@@ -11,6 +11,8 @@ log RSS
 repeat Max Times
 	
 	put item repeatindex() of browsers into sBrowse
+	
+	log "Now Using:"&& sBrowse
 	doubleclick ("Browsers Icon/" & sBrowse)
 	Click "indicators"
 	wait 3
