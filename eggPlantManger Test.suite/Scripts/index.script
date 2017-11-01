@@ -1,0 +1,11 @@
+﻿wait 4
+TypeText return
+
+CaptureScreen (Name: "Screen 1 ")
+
+wait 10
+
+click (400,400)
+click 
+
+
