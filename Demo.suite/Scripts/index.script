@@ -1,5 +1,5 @@
 ﻿log "updated 11/10/2017"
-
+// are we sure we updated ?????
 Click "Windows Icon"
 Click "Chrome Icon"
 Click (Image:"Refresh Icon")
