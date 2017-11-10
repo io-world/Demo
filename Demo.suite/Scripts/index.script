@@ -1,4 +1,6 @@
-﻿Click "Windows Icon"
+﻿log "updated 11/10/2017"
+
+Click "Windows Icon"
 Click "Chrome Icon"
 Click (Image:"Refresh Icon")
 TypeText "www.sandia.gov", returnkey
