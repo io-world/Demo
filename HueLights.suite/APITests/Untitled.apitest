@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URLparameters</key>
+	<array/>
+	<key>authenticationType</key>
+	<string>None</string>
+	<key>httpVerb</key>
+	<string>PUT</string>
+	<key>oauth1Token</key>
+	<string></string>
+	<key>password</key>
+	<string></string>
+	<key>requestBody</key>
+	<string>
+{ "sat":254, "bri":254,"hue":60000,"on":true}</string>
+	<key>requestBodyFormat</key>
+	<string>JSON (application/json)</string>
+	<key>requestHeaders</key>
+	<string>&lt;![CDATA[]]&gt;</string>
+	<key>requests</key>
+	<string></string>
+	<key>testResults</key>
+	<string></string>
+	<key>testScript</key>
+	<string></string>
+	<key>tests</key>
+	<string></string>
+	<key>url</key>
+	<string>http://192.168.1.14/api/chaosmixed/lights/2/state</string>
+	<key>userName</key>
+	<string></string>
+</dict>
+</plist>

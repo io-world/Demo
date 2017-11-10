@@ -1,0 +1,35 @@
+﻿
+
+
+//http://docs.testplant.com/ePF/SenseTalk/stk-script-calling.htm?Highlight=api
+//https://developers.meethue.com/documentation/getting-started
+
+
+put 254 into saturation
+put 254 into brightness
+put false into on
+put "aQKdtuNVzLYL2hgIe3TSiBmJBsJnGmfx9pXjwgF7" into User
+put "http://10.1.11.223/api/"&User&"/lights/1/state/" into URL
+
+
+
+
+
+put <<{"bri": "254","hue": "hue","on": false,"sat": "254"}>> into json
+
+put the number of lines of json into max
+
+repeat max times
+	
+	put line repeatindex()  of json into thing
+	log 
+end repeat
+
+
+
+put random(0,65535) into hue
+
+PhilipsHue(url:URL,requestbody:Json,httpMethod:"put")
+wait .5
+
+

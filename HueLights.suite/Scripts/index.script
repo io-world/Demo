@@ -1,0 +1,34 @@
+﻿repeat 100 times
+	
+	
+	(*		if repeatindex() is an even number
+		put "0" into hue
+	else
+		put "25500" into hue
+	end if
+	*)
+	put random(0,65280) into hue
+	
+	put random(1,3) into light
+	
+	
+	
+	put 254 into saturation
+	put 254 into brightness
+	put false into power
+	
+	
+	put "aQKdtuNVzLYL2hgIe3TSiBmJBsJnGmfx9pXjwgF7" into User
+	put "http://10.1.11.223/api/"&User&"/lights/"&light&"/state/" into URL
+	
+	
+	
+	put <<{"bri": >>&brightness&<<,"hue": >>&hue&<<,"on": >>&power&<<,"sat":>>&saturation&<<}>> into json
+	log json
+	PhilipsHue(url:URL,requestbody:Json,httpMethod:"put")
+	
+	
+	
+	
+	
+end repeat
