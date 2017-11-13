@@ -1,4 +1,5 @@
-﻿log "today is nov 13"
+﻿log "today is nov 13 2017 "
+
 
 Click (Image:"My Dish", WaitFor:71)
 Click (Image:"Username", WaitFor:11)
