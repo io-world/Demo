@@ -9,8 +9,8 @@ Click "Password"
 TypeText "password1"
 Click "Done"
 Click "SignIn"
-
-
+asdasd
+asdasasdsd
 
 If imagefound("MyDish Warn") then
 	logwarning "User name is incorrect"
