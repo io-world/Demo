@@ -1,4 +1,6 @@
-﻿Click (Image:"My Dish", WaitFor:71)
+﻿log "today is nov 13"
+
+Click (Image:"My Dish", WaitFor:71)
 Click (Image:"Username", WaitFor:11)
 TypeText "Randy"
 
